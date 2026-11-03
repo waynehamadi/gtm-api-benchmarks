@@ -4,7 +4,7 @@ Find the best GTM APIs
 
 We benchmark all the GTM APIs and we put the results on our website.
 
-This dataset holds our benchmark results from [datacircle.dev](https://datacircle.dev). Each row is one provider for one API we rank. A row gives the provider's Overall score, Data score, price per 1,000 results and last test day. Each row links to the provider's plan on datacircle.dev and to the page that ranks that API. Each row shows the same numbers as our ranking pages. We refresh the files every week.
+This dataset holds our benchmark results from [datacircle.dev](https://datacircle.dev). Each row is one provider for one API we rank. A row gives the provider's Overall score, Accuracy score, price per 1,000 results and last test day. Each row links to the provider's plan on datacircle.dev and to the page that ranks that API. Each row shows the same numbers as our ranking pages. We refresh the files every week.
 
 Today the files hold 1,443 rows: 411 providers across 96 APIs, last tested on 2026-11-02.
 
@@ -16,7 +16,7 @@ We are launching Datacircle, so all our benchmarks are public for now. Each prov
 
 A script scores each answer, with no model and no person judging. It runs the same way for every provider of that API.
 
-We score each plan on five parts and scale the total to 100. A plan's price weighs 40, its data 40, its cost to get started 10, its bundled calls 10 and its performance 10.
+We score each plan on five parts and scale the total to 100. A plan's price weighs 40, its accuracy 40, its cost to get started 10, its bundled calls 10 and its performance 10.
 
 ## Columns
 
@@ -27,7 +27,7 @@ We score each plan on five parts and scale the total to 100. A plan's price weig
 | provider | The company that sells the API |
 | plan | The name of the plan we rank, as shown on the ranking page |
 | overall_score | The plan's Overall score, out of 100 |
-| data_score | The plan's Data score, out of 100 |
+| data_score | The plan's Accuracy score, out of 100 |
 | price_per_1000_usd | What 1,000 results cost on the plan, in US dollars. Empty if the page shows no price or the plan has a flat fee. |
 | price_per_1000 | The price for 1,000 results, as shown on the ranking page |
 | date_tested | The last day we tested the provider's API, YYYY-MM-DD |
