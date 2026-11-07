@@ -1,19 +1,25 @@
 # eBay search API: best providers in 2026
 
-EBay search API: the best on our benchmark is PerceptLayer ($399 pack), Overall score 58.5 out of 100, Accuracy 35, $0.80 per 1,000 searches. We rank 8 providers, last tested on 2026-11-03.
+EBay search API: the best on our benchmark is PerceptLayer ($399 pack), Overall score 58 out of 100, Accuracy 34, $0.80 per 1,000 searches. We rank 14 providers, last tested on 2026-11-06.
 
 Every plan below is on our ranking page, [eBay search API: best providers in 2026](https://datacircle.dev/best-ebay-search-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [PerceptLayer](https://datacircle.dev/ebay-search-apis/perceptlayer/399-pack) | $399 pack | 58.5 | 35 | $0.80 per 1,000 searches | 2026-11-03 |
-| 2 | [Scrappa](https://datacircle.dev/ebay-search-apis/scrappa/50-pack) | $50 pack | 53 | 35 | $0.278 per 1,000 searches | 2026-11-03 |
-| 3 | [Spidra](https://datacircle.dev/ebay-search-apis/spidra/249-monthly-pro-post-scrape) | $249 monthly, Pro | 52.9 | 48 | $1.992 per 1,000 searches | 2026-11-03 |
-| 4 | [ScrapeUnblocker](https://datacircle.dev/ebay-search-apis/scrapeunblocker/pay-as-you-go) | pay as you go | 47.1 | 39 | $1.125 per 1,000 searches | 2026-11-03 |
-| 5 | [PrismCrawl](https://datacircle.dev/ebay-search-apis/prismcrawl/10-pack) | $10 pack | 46.1 | 21 | $0.27 per 1,000 searches | 2026-10-31 |
-| 6 | [ScraperAPI](https://datacircle.dev/ebay-search-apis/scraperapi/475-monthly-scaling-get-structured-ebay-search-v2) | $475 monthly, Scaling | 44.4 | 24 | $0.475 per 1,000 searches | 2026-10-31 |
-| 7 | [AnyAPI](https://datacircle.dev/ebay-search-apis/anyapi/top-up-from-10) | top-up from $10 | 43.9 | 19 | $1.20 per 1,000 searches | 2026-11-03 |
-| 8 | [Bright Data](https://datacircle.dev/ebay-search-apis/bright-data/top-up) | top-up | 28.9 | 43 |  | 2026-11-03 |
+| 1 | [PerceptLayer](https://datacircle.dev/ebay-search-apis/perceptlayer/399-pack) | $399 pack | 58 | 34 | $0.80 per 1,000 searches | 2026-11-03 |
+| 1 | [PerceptLayer](https://datacircle.dev/ebay-search-apis/perceptlayer/399-pack) | $399 pack | 58 | 34 | $0.80 per 1,000 searches | 2026-11-03 |
+| 2 | [Scrappa](https://datacircle.dev/ebay-search-apis/scrappa/10-pack) | $10 pack | 50.8 | 34 | $0.303 per 1,000 searches | 2026-11-03 |
+| 2 | [Scrappa](https://datacircle.dev/ebay-search-apis/scrappa/10-pack) | $10 pack | 50.8 | 34 | $0.303 per 1,000 searches | 2026-11-03 |
+| 3 | [Spidra](https://datacircle.dev/ebay-search-apis/spidra/249-monthly-pro-post-scrape) | $249 monthly, Pro | 49.8 | 47 | $1.992 per 1,000 searches | 2026-11-03 |
+| 3 | [Spidra](https://datacircle.dev/ebay-search-apis/spidra/249-monthly-pro-post-scrape) | $249 monthly, Pro | 49.8 | 47 | $1.992 per 1,000 searches | 2026-11-03 |
+| 4 | [SoldComps](https://datacircle.dev/ebay-search-apis/soldcomps/179-monthly-150000-requests-month-get-v1-scrape) | $179 monthly, 150,000 requests / month | 49.2 | 39 | $1.193 per 1,000 searches | 2026-11-06 |
+| 5 | [ScrapeUnblocker](https://datacircle.dev/ebay-search-apis/scrapeunblocker/pay-as-you-go) | pay as you go | 46.5 | 38 | $1.125 per 1,000 searches | 2026-11-03 |
+| 6 | [PrismCrawl](https://datacircle.dev/ebay-search-apis/prismcrawl/10-pack) | $10 pack | 44.7 | 20 | $0.27 per 1,000 searches | 2026-10-31 |
+| 7 | [ScraperAPI](https://datacircle.dev/ebay-search-apis/scraperapi/299-monthly-business-get-structured-ebay-search-v2) | $299 monthly, Business | 42.8 | 23 | $0.498 per 1,000 searches | 2026-10-31 |
+| 8 | [AnyAPI](https://datacircle.dev/ebay-search-apis/anyapi/top-up-from-10) | top-up from $10 | 40.8 | 18 | $1.20 per 1,000 searches | 2026-11-03 |
+| 9 | [SoldFetch](https://datacircle.dev/ebay-search-apis/soldfetch/79-monthly) | $79 monthly | 40.5 | 38 | $1.58 per 1,000 searches | 2026-11-06 |
+| 10 | [Bright Data](https://datacircle.dev/ebay-search-apis/bright-data/top-up) | top-up | 28.7 | 43 |  | 2026-11-03 |
+| 11 | [Datawebot (ecommerce product data API)](https://datacircle.dev/ebay-search-apis/datawebot-ecommerce-product-data-api/25-pack) | $25 pack | 26.4 | 21 | $3.846 per 1,000 searches | 2026-11-06 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
 

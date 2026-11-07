@@ -1,14 +1,17 @@
 # Threads post API: best providers in 2026
 
-Threads post API: the best on our benchmark is lobstr.io ($500 monthly), Overall score 67.1 out of 100, Accuracy 96, $0.50 per 1,000 posts. We rank 5 providers, last tested on 2026-10-30.
+Threads post API: the best on our benchmark is lobstr.io ($500 monthly), Overall score 67.3 out of 100, Accuracy 96, $0.50 per 1,000 posts. We rank 8 providers, last tested on 2026-10-30.
 
 Every plan below is on our ranking page, [Threads post API: best providers in 2026](https://datacircle.dev/best-threads-post-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [lobstr.io](https://datacircle.dev/threads-post-apis/lobstr-io/500-monthly) | $500 monthly | 67.1 | 96 | $0.50 per 1,000 posts | 2026-10-29 |
-| 2 | [EnsembleData](https://datacircle.dev/threads-post-apis/ensembledata/200-monthly) | $200 monthly | 54.2 | 70 | $1.333 per 1,000 posts | 2026-10-30 |
-| 3 | [Captapi](https://datacircle.dev/threads-post-apis/captapi/9-monthly) | $9 monthly | 49.6 | 11 | $0.09 per 1,000 posts | 2026-10-29 |
+| 1 | [lobstr.io](https://datacircle.dev/threads-post-apis/lobstr-io/500-monthly) | $500 monthly | 67.3 | 96 | $0.50 per 1,000 posts | 2026-10-29 |
+| 1 | [lobstr.io](https://datacircle.dev/threads-post-apis/lobstr-io/500-monthly) | $500 monthly | 67.3 | 96 | $0.50 per 1,000 posts | 2026-10-29 |
+| 2 | [EnsembleData](https://datacircle.dev/threads-post-apis/ensembledata/200-monthly) | $200 monthly | 54.5 | 70 | $1.333 per 1,000 posts | 2026-10-30 |
+| 2 | [EnsembleData](https://datacircle.dev/threads-post-apis/ensembledata/200-monthly) | $200 monthly | 54.5 | 70 | $1.333 per 1,000 posts | 2026-10-30 |
+| 3 | [Captapi](https://datacircle.dev/threads-post-apis/captapi/9-monthly) | $9 monthly | 49 | 11 | $0.09 per 1,000 posts | 2026-10-29 |
+| 3 | [Captapi](https://datacircle.dev/threads-post-apis/captapi/9-monthly) | $9 monthly | 49 | 11 | $0.09 per 1,000 posts | 2026-10-29 |
 | 4 | [SociaVault](https://datacircle.dev/threads-post-apis/sociavault/29-pack) | $29 pack | 47.6 | 69 |  | 2026-10-30 |
 | 5 | [ScrapeCreators](https://datacircle.dev/threads-post-apis/scrapecreators/47-pack) | $47 pack | 47.5 | 69 |  | 2026-10-29 |
 

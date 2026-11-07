@@ -1,13 +1,16 @@
 # G2 review API: best providers in 2026
 
-G2 review API: the best on our benchmark is Scrappa ($500 pack), Overall score 84.4 out of 100, Accuracy 66, $0.0095 per 1,000 reviews. We rank 6 providers, last tested on 2026-10-30.
+G2 review API: the best on our benchmark is Scrappa ($500 pack), Overall score 84.4 out of 100, Accuracy 66, $0.0095 per 1,000 reviews. We rank 9 providers, last tested on 2026-10-30.
 
 Every plan below is on our ranking page, [G2 review API: best providers in 2026](https://datacircle.dev/best-g2-review-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Scrappa](https://datacircle.dev/g2-review-apis/scrappa/500-pack) | $500 pack | 84.4 | 66 | $0.0095 per 1,000 reviews | 2026-10-30 |
+| 1 | [Scrappa](https://datacircle.dev/g2-review-apis/scrappa/500-pack) | $500 pack | 84.4 | 66 | $0.0095 per 1,000 reviews | 2026-10-30 |
 | 2 | [AnyAPI](https://datacircle.dev/g2-review-apis/anyapi/top-up-from-10) | top-up from $10 | 60.4 | 64 | $0.05 per 1,000 reviews | 2026-10-30 |
+| 2 | [AnyAPI](https://datacircle.dev/g2-review-apis/anyapi/top-up-from-10) | top-up from $10 | 60.4 | 64 | $0.05 per 1,000 reviews | 2026-10-30 |
+| 3 | [Scavio](https://datacircle.dev/g2-review-apis/scavio/500-monthly) | $500 monthly | 54 | 73 | $1.25 per 1,000 reviews | 2026-10-30 |
 | 3 | [Scavio](https://datacircle.dev/g2-review-apis/scavio/500-monthly) | $500 monthly | 54 | 73 | $1.25 per 1,000 reviews | 2026-10-30 |
 | 4 | [Context.dev](https://datacircle.dev/g2-review-apis/context-dev/90-monthly) | $90 monthly | 46.6 | 42 | $0.036 per 1,000 reviews | 2026-10-30 |
 | 5 | [Zembra](https://datacircle.dev/g2-review-apis/zembra/top-up-from-12) | top-up from $12 | 37.6 | 41 | $1.00 per 1,000 reviews | 2026-10-30 |
