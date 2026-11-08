@@ -1,16 +1,13 @@
 # Bluesky post API: best providers in 2026
 
-Bluesky post API: the best on our benchmark is Bluesky (free), Overall score 76.4 out of 100, Accuracy 66, $0.00 per 1,000 posts. We rank 11 providers, last tested on 2026-11-04.
+Bluesky post API: the best on our benchmark is Bluesky (free), Overall score 76.4 out of 100, Accuracy 66, $0.00 per 1,000 posts. We rank 8 providers, last tested on 2026-11-04.
 
 Every plan below is on our ranking page, [Bluesky post API: best providers in 2026](https://datacircle.dev/best-bluesky-post-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Bluesky](https://datacircle.dev/bluesky-post-apis/bluesky/free) | free | 76.4 | 66 | $0.00 per 1,000 posts | 2026-11-03 |
-| 1 | [Bluesky](https://datacircle.dev/bluesky-post-apis/bluesky/free) | free | 76.4 | 66 | $0.00 per 1,000 posts | 2026-11-03 |
 | 2 | [ScrapeAtlas](https://datacircle.dev/bluesky-post-apis/scrapeatlas/249-pack) | $249 pack | 73.9 | 77 | $0.013 per 1,000 posts | 2026-11-03 |
-| 2 | [ScrapeAtlas](https://datacircle.dev/bluesky-post-apis/scrapeatlas/249-pack) | $249 pack | 73.9 | 77 | $0.013 per 1,000 posts | 2026-11-03 |
-| 3 | [Crawlora](https://datacircle.dev/bluesky-post-apis/crawlora/499-monthly) | $499 monthly | 73.3 | 63 | $0.002 per 1,000 posts | 2026-11-04 |
 | 3 | [Crawlora](https://datacircle.dev/bluesky-post-apis/crawlora/499-monthly) | $499 monthly | 73.3 | 63 | $0.002 per 1,000 posts | 2026-11-04 |
 | 4 | [API Direct](https://datacircle.dev/bluesky-post-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-bluesky-user-posts-bluesky-user-posts) | pay as you go, Pay per request | 60.5 | 73 | $0.06 per 1,000 posts | 2026-10-31 |
 | 5 | [ScrapingIsNotACrime](https://datacircle.dev/bluesky-post-apis/scrapingisnotacrime/199-pack) | $199 pack | 60.2 | 47 | $0.017 per 1,000 posts | 2026-10-31 |
