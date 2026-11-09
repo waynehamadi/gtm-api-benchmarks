@@ -1,6 +1,6 @@
 # LinkedIn job search API: best providers in 2026
 
-LinkedIn job search API: the best on our benchmark is Litescrape (top-up from $10), Overall score 86 out of 100, Accuracy 88, $0.015 per 1,000 jobs. We rank 20 providers, last tested on 2026-10-30.
+LinkedIn job search API: the best on our benchmark is Litescrape (top-up from $10), Overall score 86 out of 100, Accuracy 88, $0.015 per 1,000 jobs. We rank 28 providers, last tested on 2026-11-08.
 
 Every plan below is on our ranking page, [LinkedIn job search API: best providers in 2026](https://datacircle.dev/best-linkedin-job-search-api).
 
@@ -9,23 +9,31 @@ Every plan below is on our ranking page, [LinkedIn job search API: best provider
 | 1 | [Litescrape](https://datacircle.dev/linkedin-job-search-apis/litescrape/top-up-from-10) | top-up from $10 | 86 | 88 | $0.015 per 1,000 jobs | 2026-10-27 |
 | 2 | [ReefAPI](https://datacircle.dev/linkedin-job-search-apis/reefapi/15-monthly) | $15 monthly | 85.6 | 88 | $0.0015 per 1,000 jobs | 2026-10-27 |
 | 3 | [BlitzAPI](https://datacircle.dev/linkedin-job-search-apis/blitzapi/499-monthly) | $499 monthly | 81 | 96 | $0.10 per 1,000 jobs | 2026-10-22 |
-| 4 | [LinkedIn Scraper API](https://datacircle.dev/linkedin-job-search-apis/linkedin-scraper-api/49-monthly) | $49 monthly | 78.3 | 87 | $0.06 per 1,000 jobs | 2026-10-26 |
-| 5 | [DataForB2B](https://datacircle.dev/linkedin-job-search-apis/dataforb2b/499-monthly) | $499 monthly | 77.7 | 89 | $0.025 per 1,000 jobs | 2026-10-27 |
-| 6 | [Omkar Cloud](https://datacircle.dev/linkedin-job-search-apis/omkar-cloud/48-monthly) | $48 monthly | 70.5 | 88 | $0.048 per 1,000 jobs | 2026-10-30 |
-| 7 | [Scrappa](https://datacircle.dev/linkedin-job-search-apis/scrappa/10-pack) | $10 pack | 69.5 | 48 | $0.015 per 1,000 jobs | 2026-10-26 |
-| 8 | [Vayne](https://datacircle.dev/linkedin-job-search-apis/vayne/159-monthly) | $159 monthly | 67.2 | 66 | $0.064 per 1,000 jobs | 2026-10-25 |
-| 9 | [AnyAPI](https://datacircle.dev/linkedin-job-search-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-linkedin-jobs-thin) | top-up from $10, Manual top-up | 66.1 | 87 | $0.026 per 1,000 jobs | 2026-10-25 |
-| 10 | [lobstr.io](https://datacircle.dev/linkedin-job-search-apis/lobstr-io/500-monthly) | $500 monthly, Team | 63.5 | 88 | $0.50 per 1,000 jobs | 2026-10-27 |
-| 11 | [API Direct](https://datacircle.dev/linkedin-job-search-apis/api-direct/pay-as-you-go) | pay as you go, Pay per request | 62.5 | 92 | $0.24 per 1,000 jobs | 2026-10-23 |
-| 12 | [SearchApi](https://datacircle.dev/linkedin-job-search-apis/searchapi/40-monthly) | $40 monthly | 59.8 | 88 | $0.40 per 1,000 jobs | 2026-10-25 |
-| 13 | [Fantastic.jobs](https://datacircle.dev/linkedin-job-search-apis/fantastic-jobs/500-monthly) | $500 monthly | 58.9 | 95 | $2.00 per 1,000 jobs | 2026-10-26 |
-| 14 | [OpenWeb Ninja](https://datacircle.dev/linkedin-job-search-apis/openweb-ninja/150-monthly) | $150 monthly | 58.8 | 86 | $0.075 per 1,000 jobs | 2026-10-23 |
-| 15 | [Bright Data](https://datacircle.dev/linkedin-job-search-apis/bright-data/top-up) | top-up | 53.7 | 88 | $1.50 per 1,000 jobs | 2026-10-27 |
-| 16 | [Fiber AI](https://datacircle.dev/linkedin-job-search-apis/fiber-ai/top-up-from-3) | top-up from $3 | 53.4 | 76 | $30.00 per 1,000 jobs | 2026-10-25 |
-| 17 | [ChocoData](https://datacircle.dev/linkedin-job-search-apis/chocodata/top-up-pay-as-you-go-top-up-get-api-v1-linkedin-jobsearch) | top-up, Pay-as-you-go top-up | 53.2 | 87 |  | 2026-10-26 |
-| 18 | [Up2Data](https://datacircle.dev/linkedin-job-search-apis/up2data/200-pack-100k-post-v1-search-jobs) | $200 pack, 100K | 52.4 | 83 | $2.00 per 1,000 jobs | 2026-10-27 |
-| 19 | [ZenRows](https://datacircle.dev/linkedin-job-search-apis/zenrows/19-monthly-build-b1-post-v1-jobs) | $19 monthly, Build B1 | 49.5 | 88 |  | 2026-10-27 |
-| 20 | [HarvestAPI](https://datacircle.dev/linkedin-job-search-apis/harvestapi/20-pack) | $20 pack | 43.1 | 67 |  | 2026-10-27 |
+| 4 | [LinkedIn Scraper API](https://datacircle.dev/linkedin-job-search-apis/linkedin-scraper-api/49-monthly) | $49 monthly | 78.4 | 87 | $0.06 per 1,000 jobs | 2026-10-26 |
+| 5 | [DataForB2B](https://datacircle.dev/linkedin-job-search-apis/dataforb2b/499-monthly) | $499 monthly | 77.8 | 89 | $0.025 per 1,000 jobs | 2026-10-27 |
+| 6 | [ScrapeField](https://datacircle.dev/linkedin-job-search-apis/scrapefield/149-pack) | $149 pack | 72.8 | 82 | $0.072 per 1,000 jobs | 2026-11-08 |
+| 7 | [Omkar Cloud](https://datacircle.dev/linkedin-job-search-apis/omkar-cloud/48-monthly) | $48 monthly | 70.5 | 88 | $0.048 per 1,000 jobs | 2026-10-30 |
+| 8 | [Scrappa](https://datacircle.dev/linkedin-job-search-apis/scrappa/10-pack) | $10 pack | 69.5 | 48 | $0.015 per 1,000 jobs | 2026-10-26 |
+| 9 | [Vayne](https://datacircle.dev/linkedin-job-search-apis/vayne/159-monthly) | $159 monthly | 67.2 | 66 | $0.064 per 1,000 jobs | 2026-10-25 |
+| 10 | [API.SH](https://datacircle.dev/linkedin-job-search-apis/api-sh/50-monthly) | $50 monthly | 66.7 | 88 | $0.04 per 1,000 jobs | 2026-11-08 |
+| 11 | [AnyAPI](https://datacircle.dev/linkedin-job-search-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-linkedin-jobs-thin) | top-up from $10, Manual top-up | 66.2 | 87 | $0.026 per 1,000 jobs | 2026-10-25 |
+| 12 | [lobstr.io](https://datacircle.dev/linkedin-job-search-apis/lobstr-io/500-monthly) | $500 monthly, Team | 63.6 | 88 | $0.50 per 1,000 jobs | 2026-10-27 |
+| 13 | [CoreClaw](https://datacircle.dev/linkedin-job-search-apis/coreclaw/29-monthly-pro-post-api-v2-workers-coreclaw-linkedin-jobs-scraper-runs) | $29 monthly, Pro | 63.4 | 88 | $0.78 per 1,000 jobs | 2026-11-08 |
+| 14 | [API Direct](https://datacircle.dev/linkedin-job-search-apis/api-direct/pay-as-you-go) | pay as you go, Pay per request | 62.5 | 92 | $0.24 per 1,000 jobs | 2026-10-23 |
+| 15 | [Scrape.ly](https://datacircle.dev/linkedin-job-search-apis/scrape-ly/19-monthly) | $19 monthly | 62.5 | 88 | $0.85 per 1,000 jobs | 2026-11-08 |
+| 16 | [Social Fetch](https://datacircle.dev/linkedin-job-search-apis/social-fetch/29-monthly) | $29 monthly | 62.1 | 92 | $0.193 per 1,000 jobs | 2026-11-08 |
+| 17 | [SearchApi](https://datacircle.dev/linkedin-job-search-apis/searchapi/40-monthly) | $40 monthly | 59.8 | 88 | $0.40 per 1,000 jobs | 2026-10-25 |
+| 18 | [Fantastic.jobs](https://datacircle.dev/linkedin-job-search-apis/fantastic-jobs/500-monthly) | $500 monthly | 58.9 | 95 | $2.00 per 1,000 jobs | 2026-10-26 |
+| 19 | [OpenWeb Ninja](https://datacircle.dev/linkedin-job-search-apis/openweb-ninja/150-monthly) | $150 monthly | 58.8 | 86 | $0.075 per 1,000 jobs | 2026-10-23 |
+| 20 | [Bridgly](https://datacircle.dev/linkedin-job-search-apis/bridgly/300-pack) | $300 pack | 55.5 | 85 | $1.00 per 1,000 jobs | 2026-11-08 |
+| 21 | [Bright Data](https://datacircle.dev/linkedin-job-search-apis/bright-data/top-up) | top-up | 53.7 | 88 | $1.50 per 1,000 jobs | 2026-10-27 |
+| 22 | [Fiber AI](https://datacircle.dev/linkedin-job-search-apis/fiber-ai/top-up-from-3) | top-up from $3 | 53.4 | 76 | $30.00 per 1,000 jobs | 2026-10-25 |
+| 23 | [ChocoData](https://datacircle.dev/linkedin-job-search-apis/chocodata/top-up-pay-as-you-go-top-up-get-api-v1-linkedin-jobsearch) | top-up, Pay-as-you-go top-up | 53.2 | 87 |  | 2026-10-26 |
+| 24 | [Up2Data](https://datacircle.dev/linkedin-job-search-apis/up2data/200-pack-100k-post-v1-search-jobs) | $200 pack, 100K | 52.3 | 83 | $2.00 per 1,000 jobs | 2026-10-27 |
+| 25 | [Superagnt](https://datacircle.dev/linkedin-job-search-apis/superagnt/29-monthly-data-credits-small-get-v1-data-linkedin-search-jobs) | $29 monthly, Data Credits Small | 51.4 | 90 |  | 2026-11-08 |
+| 26 | [ZenRows](https://datacircle.dev/linkedin-job-search-apis/zenrows/19-monthly-build-b1-post-v1-jobs) | $19 monthly, Build B1 | 49.5 | 88 |  | 2026-10-27 |
+| 27 | [HarvestAPI](https://datacircle.dev/linkedin-job-search-apis/harvestapi/20-pack) | $20 pack | 43.1 | 67 |  | 2026-10-27 |
+| 28 | [Thordata](https://datacircle.dev/linkedin-job-search-apis/thordata/500-pack-750000-credits-post-builder-linkedin-scrape-job-listing-information-by-keyword) | $500 pack, 750,000 Credits | 35.3 | 38 | $0.667 per 1,000 jobs | 2026-11-08 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
 

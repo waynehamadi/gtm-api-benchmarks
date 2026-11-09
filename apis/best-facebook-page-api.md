@@ -19,16 +19,16 @@ Every plan below is on our ranking page, [Facebook page API: best providers in 2
 | 11 | [ScrapeCreators](https://datacircle.dev/facebook-page-apis/scrapecreators/497-pack) | $497 pack | 59.6 | 67 | $0.994 per 1,000 pages | 2026-10-29 |
 | 12 | [AnyAPI](https://datacircle.dev/facebook-page-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-facebook-profile) | top-up from $10, Manual top-up | 58.9 | 62 | $1.20 per 1,000 pages | 2026-10-29 |
 | 13 | [Thordata](https://datacircle.dev/facebook-page-apis/thordata/500-pack) | $500 pack | 52.8 | 49 | $1.33 per 1,000 pages | 2026-11-05 |
-| 14 | [SociaVault](https://datacircle.dev/facebook-page-apis/sociavault/399-pack) | $399 pack | 52.2 | 67 | $2.00 per 1,000 pages | 2026-10-30 |
-| 15 | [Bright Data](https://datacircle.dev/facebook-page-apis/bright-data/top-up) | top-up | 50.9 | 71 | $1.50 per 1,000 pages | 2026-10-29 |
-| 16 | [API Direct](https://datacircle.dev/facebook-page-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-facebook-page) | pay as you go, Pay per request | 50.2 | 63 | $8.00 per 1,000 pages | 2026-10-29 |
-| 17 | [Novada](https://datacircle.dev/facebook-page-apis/novada/135-monthly) | $135 monthly | 49.7 | 49 | $1.20 per 1,000 pages | 2026-11-05 |
-| 18 | [Spytrend](https://datacircle.dev/facebook-page-apis/spytrend/50-pack) | $50 pack | 49.2 | 14 | $1.25 per 1,000 pages | 2026-11-05 |
+| 14 | [SociaVault](https://datacircle.dev/facebook-page-apis/sociavault/399-pack) | $399 pack | 52.3 | 67 | $2.00 per 1,000 pages | 2026-10-30 |
+| 15 | [Bright Data](https://datacircle.dev/facebook-page-apis/bright-data/top-up) | top-up | 51 | 71 | $1.50 per 1,000 pages | 2026-10-29 |
+| 16 | [API Direct](https://datacircle.dev/facebook-page-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-facebook-page) | pay as you go, Pay per request | 50.3 | 63 | $8.00 per 1,000 pages | 2026-10-29 |
+| 17 | [Novada](https://datacircle.dev/facebook-page-apis/novada/135-monthly) | $135 monthly | 49.8 | 49 | $1.20 per 1,000 pages | 2026-11-05 |
+| 18 | [Spytrend](https://datacircle.dev/facebook-page-apis/spytrend/50-pack) | $50 pack | 49.3 | 14 | $1.25 per 1,000 pages | 2026-11-05 |
 | 19 | [SocialAPIs](https://datacircle.dev/facebook-page-apis/socialapis/49-monthly-ultra-get-facebook-pages-details-facebook-page-details-full) | $49 monthly, Ultra | 48.5 | 57 | $8.17 per 1,000 pages | 2026-11-05 |
 | 20 | [Desearch](https://datacircle.dev/facebook-page-apis/desearch/top-up) | top-up | 45.3 | 42 |  | 2026-11-05 |
-| 21 | [SocialKit](https://datacircle.dev/facebook-page-apis/socialkit/210-monthly) | $210 monthly | 45.1 | 36 | $2.80 per 1,000 pages | 2026-11-05 |
-| 22 | [Upscrape](https://datacircle.dev/facebook-page-apis/upscrape/499-pack) | $499 pack | 45.1 | 31 | $2.50 per 1,000 pages | 2026-11-06 |
-| 23 | [Captapi](https://datacircle.dev/facebook-page-apis/captapi/9-monthly) | $9 monthly | 43 | 50 | $9.00 per 1,000 pages | 2026-10-29 |
+| 21 | [SocialKit](https://datacircle.dev/facebook-page-apis/socialkit/210-monthly) | $210 monthly | 45.2 | 36 | $2.80 per 1,000 pages | 2026-11-05 |
+| 22 | [Upscrape](https://datacircle.dev/facebook-page-apis/upscrape/499-pack) | $499 pack | 45.2 | 31 | $2.50 per 1,000 pages | 2026-11-06 |
+| 23 | [Captapi](https://datacircle.dev/facebook-page-apis/captapi/9-monthly) | $9 monthly | 43.2 | 50 | $9.00 per 1,000 pages | 2026-10-29 |
 | 24 | [RedFox](https://datacircle.dev/facebook-page-apis/redfox/top-up-from-cny-100) | top-up from CNY 100 (about $15) | 38.8 | 46 | $11.96 per 1,000 pages | 2026-11-05 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.

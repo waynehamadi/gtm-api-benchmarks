@@ -8,7 +8,7 @@ Every plan below is on our ranking page, [Hacker News comment API: best provider
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Algolia](https://datacircle.dev/hacker-news-comment-apis/algolia/free) | free | 90.7 | 100 | $0.00 per 1,000 comments | 2026-11-03 |
 | 2 | [Hacker News](https://datacircle.dev/hacker-news-comment-apis/hacker-news/free) | free | 87.3 | 100 | $0.00 per 1,000 comments | 2026-11-05 |
-| 3 | [ProLevelMax](https://datacircle.dev/hacker-news-comment-apis/prolevelmax/top-up) | top-up | 85.1 | 93 | $0.0006 per 1,000 comments | 2026-11-01 |
+| 3 | [ProLevelMax](https://datacircle.dev/hacker-news-comment-apis/prolevelmax/top-up) | top-up | 85.3 | 93 | $0.0006 per 1,000 comments | 2026-11-01 |
 | 4 | [AnyAPI](https://datacircle.dev/hacker-news-comment-apis/anyapi/top-up-from-10) | top-up from $10 | 59.3 | 100 |  | 2026-11-01 |
 | 5 | [ScrapingIsNotACrime](https://datacircle.dev/hacker-news-comment-apis/scrapingisnotacrime/5-pack) | $5 pack | 56.9 | 100 |  | 2026-11-01 |
 | 6 | [Scrappa](https://datacircle.dev/hacker-news-comment-apis/scrappa/10-pack) | $10 pack | 56.4 | 100 |  | 2026-11-01 |

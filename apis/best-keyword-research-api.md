@@ -1,24 +1,26 @@
 # Keyword research API: best providers in 2026
 
-Keyword research API: the best on our benchmark is DataForSEO (top-up from $50, Pay as you go), Overall score 59.4 out of 100, Accuracy 53, $0.12 per 1,000 keywords. We rank 13 providers, last tested on 2026-11-07.
+Keyword research API: the best on our benchmark is DataForSEO (top-up from $50, Pay as you go), Overall score 59 out of 100, Accuracy 52, $0.12 per 1,000 keywords. We rank 15 providers, last tested on 2026-11-08.
 
 Every plan below is on our ranking page, [Keyword research API: best providers in 2026](https://datacircle.dev/best-keyword-research-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [DataForSEO](https://datacircle.dev/keyword-research-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-dataforseo-labs-google-keyword-overview-live) | top-up from $50, Pay as you go | 59.4 | 53 | $0.12 per 1,000 keywords | 2026-10-30 |
-| 2 | [AppDrift](https://datacircle.dev/keyword-research-apis/appdrift/14-99-monthly) | $14.99 monthly | 56.8 | 11 |  | 2026-11-07 |
+| 1 | [DataForSEO](https://datacircle.dev/keyword-research-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-dataforseo-labs-google-keyword-overview-live) | top-up from $50, Pay as you go | 59 | 52 | $0.12 per 1,000 keywords | 2026-10-30 |
+| 2 | [AppDrift](https://datacircle.dev/keyword-research-apis/appdrift/14-99-monthly) | $14.99 monthly | 56.1 | 10 |  | 2026-11-07 |
 | 3 | [Bing Webmaster Tools](https://datacircle.dev/keyword-research-apis/bing-webmaster-tools/free-get-webmaster-api-svc-json-getkeywordstats) | free | 51.6 | 5 | $0.00 per 1,000 keywords | 2026-10-30 |
-| 4 | [seodata.dev](https://datacircle.dev/keyword-research-apis/seodata-dev/4-99-monthly) | $4.99 monthly | 48.7 | 8 | $0 extra per 1,000. The $4.99 monthly price covers any number of keywords | 2026-11-05 |
-| 5 | [Mangools](https://datacircle.dev/keyword-research-apis/mangools/15-monthly) | $15 monthly | 40.8 | 19 | $0.0001 per 1,000 keywords | 2026-10-30 |
-| 6 | [YepAPI](https://datacircle.dev/keyword-research-apis/yepapi/top-up-pay-as-you-go-post-v1-seo-keywords) | top-up, Pay as you go | 40.7 | 14 | $1.50 per 1,000 keywords | 2026-11-05 |
-| 7 | [SE Ranking](https://datacircle.dev/keyword-research-apis/se-ranking/29-monthly) | $29 monthly | 39.2 | 15 | $0.0039 per 1,000 keywords | 2026-10-30 |
-| 8 | [AnyAPI](https://datacircle.dev/keyword-research-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-semrush-keywords) | top-up from $10, Manual top-up | 38 | 17 | $4.95 per 1,000 keywords | 2026-11-05 |
-| 9 | [Omkar Cloud](https://datacircle.dev/keyword-research-apis/omkar-cloud/48-monthly-grow-plan-get-keywords-overview) | $48 monthly, Grow Plan | 36.8 | 24 | $0.48 per 1,000 keywords | 2026-11-05 |
-| 10 | [Seonio](https://datacircle.dev/keyword-research-apis/seonio/15-monthly-starter-post-api-v1-keywords-global) | $15 monthly, Starter | 32 | 12 | $1.00 per 1,000 keywords | 2026-11-07 |
-| 11 | [TheKeyword](https://datacircle.dev/keyword-research-apis/thekeyword/49-monthly-pro-post-api-v1-keywords-analyze) | $49 monthly, Pro | 23.7 | 16 | $49.00 per 1,000 keywords | 2026-11-07 |
-| 12 | [Zutrix](https://datacircle.dev/keyword-research-apis/zutrix/7-pack) | $7 pack | 23.3 | 16 |  | 2026-11-07 |
-| 13 | [Answer Socrates](https://datacircle.dev/keyword-research-apis/answer-socrates/299-monthly) | $299 monthly | 20.7 | 2 | $11.96 per 1,000 keywords | 2026-11-05 |
+| 4 | [Alura](https://datacircle.dev/keyword-research-apis/alura/69-99-monthly-professional-get-research-keywords) | $69.99 monthly, Professional | 49 | 23 | $0.70 per 1,000 keywords | 2026-11-08 |
+| 5 | [seodata.dev](https://datacircle.dev/keyword-research-apis/seodata-dev/4-99-monthly) | $4.99 monthly | 48.6 | 8 | $0 extra per 1,000. The $4.99 monthly price covers any number of keywords | 2026-11-05 |
+| 6 | [YepAPI](https://datacircle.dev/keyword-research-apis/yepapi/top-up-pay-as-you-go-post-v1-seo-keywords) | top-up, Pay as you go | 40.8 | 13 | $1.50 per 1,000 keywords | 2026-11-05 |
+| 7 | [Mangools](https://datacircle.dev/keyword-research-apis/mangools/5-monthly) | $5 monthly | 40.5 | 18 | $0.0083 per 1,000 keywords | 2026-10-30 |
+| 8 | [SE Ranking](https://datacircle.dev/keyword-research-apis/se-ranking/29-monthly) | $29 monthly | 39 | 14 | $0.0039 per 1,000 keywords | 2026-10-30 |
+| 9 | [AnyAPI](https://datacircle.dev/keyword-research-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-semrush-keywords) | top-up from $10, Manual top-up | 38.7 | 17 | $4.95 per 1,000 keywords | 2026-11-05 |
+| 10 | [Omkar Cloud](https://datacircle.dev/keyword-research-apis/omkar-cloud/48-monthly-grow-plan-get-keywords-overview) | $48 monthly, Grow Plan | 36.7 | 23 | $0.48 per 1,000 keywords | 2026-11-05 |
+| 11 | [BedrockTap](https://datacircle.dev/keyword-research-apis/bedrocktap/29-monthly) | $29 monthly | 34.3 | 10 | $6.00 per 1,000 keywords | 2026-11-08 |
+| 12 | [Seonio](https://datacircle.dev/keyword-research-apis/seonio/15-monthly-starter-post-api-v1-keywords-global) | $15 monthly, Starter | 32.2 | 11 | $1.00 per 1,000 keywords | 2026-11-07 |
+| 13 | [TheKeyword](https://datacircle.dev/keyword-research-apis/thekeyword/49-monthly-pro-post-api-v1-keywords-analyze) | $49 monthly, Pro | 23.4 | 15 | $49.00 per 1,000 keywords | 2026-11-07 |
+| 14 | [Zutrix](https://datacircle.dev/keyword-research-apis/zutrix/7-pack) | $7 pack | 23.1 | 16 |  | 2026-11-07 |
+| 15 | [Answer Socrates](https://datacircle.dev/keyword-research-apis/answer-socrates/299-monthly) | $299 monthly | 20.8 | 2 | $11.96 per 1,000 keywords | 2026-11-05 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
 

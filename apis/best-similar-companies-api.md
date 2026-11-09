@@ -1,25 +1,25 @@
 # Similar companies API: best providers in 2026
 
-Similar companies API: the best on our benchmark is ScrapeAtlas ($19 pack), Overall score 67.7 out of 100, Accuracy 41, $0.019 per 1,000 companies. We rank 22 providers, last tested on 2026-11-07.
+Similar companies API: the best on our benchmark is ScrapeAtlas ($19 pack), Overall score 67.3 out of 100, Accuracy 41, $0.019 per 1,000 companies. We rank 22 providers, last tested on 2026-11-07.
 
 Every plan below is on our ranking page, [Similar companies API: best providers in 2026](https://datacircle.dev/best-similar-companies-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [ScrapeAtlas](https://datacircle.dev/similar-company-apis/scrapeatlas/19-pack) | $19 pack | 67.7 | 41 | $0.019 per 1,000 companies | 2026-11-06 |
-| 2 | [LeadMagic](https://datacircle.dev/similar-company-apis/leadmagic/249-monthly-growth-post-v3-companies-lookalike) | $249 monthly, Growth | 54.5 | 43 | $0.623 per 1,000 companies | 2026-10-20 |
-| 3 | [Tomba](https://datacircle.dev/similar-company-apis/tomba/449-monthly) | $449 monthly | 52.5 | 7 | $0.359 per 1,000 companies | 2026-10-30 |
-| 4 | [Findymail](https://datacircle.dev/similar-company-apis/findymail/249-monthly) | $249 monthly | 46.8 | 36 | $1.66 per 1,000 companies | 2026-11-06 |
-| 5 | [DiscoLike](https://datacircle.dev/similar-company-apis/discolike/99-monthly) | $99 monthly | 36 | 37 | $3.50 per 1,000 companies | 2026-10-27 |
-| 6 | [Omkar Cloud](https://datacircle.dev/similar-company-apis/omkar-cloud/16-monthly) | $16 monthly | 35.8 | 41 |  | 2026-11-06 |
-| 7 | [The Companies API](https://datacircle.dev/similar-company-apis/the-companies-api/295-monthly) | $295 monthly | 34.9 | 2 | $1.18 per 1,000 companies | 2026-10-27 |
-| 8 | [Skrapp](https://datacircle.dev/similar-company-apis/skrapp/349-monthly-enterprise-50k-get-api-v3-companies-enrich) | $349 monthly, Enterprise 50K | 34.8 | 33 |  | 2026-10-25 |
-| 9 | [FetchGoblin](https://datacircle.dev/similar-company-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 34 | 41 |  | 2026-11-06 |
-| 10 | [Superagnt](https://datacircle.dev/similar-company-apis/superagnt/top-up-from-10) | top-up from $10 | 34 | 41 |  | 2026-11-06 |
+| 1 | [ScrapeAtlas](https://datacircle.dev/similar-company-apis/scrapeatlas/19-pack) | $19 pack | 67.3 | 41 | $0.019 per 1,000 companies | 2026-11-06 |
+| 2 | [LeadMagic](https://datacircle.dev/similar-company-apis/leadmagic/499-monthly-professional-post-v3-companies-lookalike) | $499 monthly, Professional | 53.7 | 43 | $0.499 per 1,000 companies | 2026-10-20 |
+| 3 | [Tomba](https://datacircle.dev/similar-company-apis/tomba/449-monthly) | $449 monthly | 51.5 | 7 | $0.359 per 1,000 companies | 2026-10-30 |
+| 4 | [Findymail](https://datacircle.dev/similar-company-apis/findymail/249-monthly) | $249 monthly | 46 | 36 | $1.66 per 1,000 companies | 2026-11-06 |
+| 5 | [Omkar Cloud](https://datacircle.dev/similar-company-apis/omkar-cloud/16-monthly) | $16 monthly | 35.8 | 41 |  | 2026-11-06 |
+| 6 | [DiscoLike](https://datacircle.dev/similar-company-apis/discolike/99-monthly) | $99 monthly | 35.7 | 37 | $3.50 per 1,000 companies | 2026-10-27 |
+| 7 | [Skrapp](https://datacircle.dev/similar-company-apis/skrapp/349-monthly-enterprise-50k-get-api-v3-companies-enrich) | $349 monthly, Enterprise 50K | 34.8 | 33 |  | 2026-10-25 |
+| 8 | [FetchGoblin](https://datacircle.dev/similar-company-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 34 | 41 |  | 2026-11-06 |
+| 9 | [Superagnt](https://datacircle.dev/similar-company-apis/superagnt/top-up-from-10) | top-up from $10 | 34 | 41 |  | 2026-11-06 |
+| 10 | [The Companies API](https://datacircle.dev/similar-company-apis/the-companies-api/295-monthly) | $295 monthly | 34 | 2 | $1.18 per 1,000 companies | 2026-10-27 |
 | 11 | [Social Fetch](https://datacircle.dev/similar-company-apis/social-fetch/14-pack) | $14 pack | 33.4 | 40 |  | 2026-10-28 |
-| 12 | [Extruct](https://datacircle.dev/similar-company-apis/extruct/149-monthly-pro-post-v1-companies-company-identifier-similar) | $149 monthly, Pro | 33 | 13 | $0.298 per 1,000 companies | 2026-10-25 |
-| 13 | [PublicWWW](https://datacircle.dev/similar-company-apis/publicwww/49-pack) | $49 pack | 33 | 2 | $0.0049 per 1,000 companies | 2026-11-04 |
-| 14 | [ScrapeCreators](https://datacircle.dev/similar-company-apis/scrapecreators/47-pack) | $47 pack | 32.8 | 41 |  | 2026-11-06 |
+| 12 | [PublicWWW](https://datacircle.dev/similar-company-apis/publicwww/49-pack) | $49 pack | 32.8 | 2 | $0.0049 per 1,000 companies | 2026-11-04 |
+| 13 | [ScrapeCreators](https://datacircle.dev/similar-company-apis/scrapecreators/47-pack) | $47 pack | 32.8 | 41 |  | 2026-11-06 |
+| 14 | [Extruct](https://datacircle.dev/similar-company-apis/extruct/149-monthly-pro-post-v1-companies-company-identifier-similar) | $149 monthly, Pro | 32.7 | 13 | $0.298 per 1,000 companies | 2026-10-25 |
 | 15 | [Datamagnet](https://datacircle.dev/similar-company-apis/datamagnet/39-monthly) | $39 monthly | 32.4 | 41 |  | 2026-11-06 |
 | 16 | [lobstr.io](https://datacircle.dev/similar-company-apis/lobstr-io/20-monthly) | $20 monthly | 32 | 41 |  | 2026-11-06 |
 | 17 | [ZenRows](https://datacircle.dev/similar-company-apis/zenrows/top-up-from-5) | top-up from $5 | 31.6 | 39 |  | 2026-10-27 |
