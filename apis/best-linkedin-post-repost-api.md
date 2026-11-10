@@ -1,6 +1,8 @@
 # LinkedIn repost API: best providers in 2026
 
-LinkedIn repost API: the best on our benchmark is Anysite ($300 monthly), Overall score 70 out of 100, Accuracy 85, $0.158 per 1,000 reposts. We rank 4 providers, last tested on 2026-10-26.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+
+Anysite scores best overall in our benchmark: 70 out of 100. Anysite scores 85 out of 100 for accuracy. Anysite's plan "$300 monthly" costs $0.158 per 1,000 reposts. We rank 4 providers. We last tested them on 2026-10-26.
 
 Every plan below is on our ranking page, [LinkedIn repost API: best providers in 2026](https://datacircle.dev/best-linkedin-post-repost-api).
 

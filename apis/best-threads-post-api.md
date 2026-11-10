@@ -1,16 +1,29 @@
 # Threads post API: best providers in 2026
 
-Threads post API: the best on our benchmark is lobstr.io ($500 monthly), Overall score 66.5 out of 100, Accuracy 96, $0.50 per 1,000 posts. We rank 5 providers, last tested on 2026-10-30.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+
+CarryFeed scores best overall in our benchmark: 75.2 out of 100. CarryFeed scores 57 out of 100 for accuracy. CarryFeed's plan "free" costs $0.00 per 1,000 posts. We rank 16 providers. We last tested them on 2026-11-09.
 
 Every plan below is on our ranking page, [Threads post API: best providers in 2026](https://datacircle.dev/best-threads-post-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [lobstr.io](https://datacircle.dev/threads-post-apis/lobstr-io/500-monthly) | $500 monthly | 66.5 | 96 | $0.50 per 1,000 posts | 2026-10-29 |
-| 2 | [EnsembleData](https://datacircle.dev/threads-post-apis/ensembledata/200-monthly) | $200 monthly | 54.2 | 70 | $1.33 per 1,000 posts | 2026-10-30 |
-| 3 | [Captapi](https://datacircle.dev/threads-post-apis/captapi/9-monthly) | $9 monthly | 48.9 | 11 | $0.09 per 1,000 posts | 2026-10-29 |
-| 4 | [SociaVault](https://datacircle.dev/threads-post-apis/sociavault/29-pack) | $29 pack | 47.6 | 69 |  | 2026-10-30 |
-| 5 | [ScrapeCreators](https://datacircle.dev/threads-post-apis/scrapecreators/47-pack) | $47 pack | 47.5 | 69 |  | 2026-10-29 |
+| 1 | [CarryFeed](https://datacircle.dev/threads-post-apis/carryfeed/free) | free | 75.2 | 57 | $0.00 per 1,000 posts | 2026-11-09 |
+| 2 | [ReefAPI](https://datacircle.dev/threads-post-apis/reefapi/50-monthly) | $50 monthly | 64.4 | 29 | $0.01 per 1,000 posts | 2026-11-09 |
+| 3 | [lobstr.io](https://datacircle.dev/threads-post-apis/lobstr-io/500-monthly) | $500 monthly | 61.3 | 89 | $0.50 per 1,000 posts | 2026-10-29 |
+| 4 | [Omkar Cloud](https://datacircle.dev/threads-post-apis/omkar-cloud/48-monthly) | $48 monthly | 58.1 | 68 | $0.019 per 1,000 posts | 2026-11-09 |
+| 5 | [API Direct](https://datacircle.dev/threads-post-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-threads-user-posts-threads-user-posts) | pay as you go, Pay per request | 50.9 | 57 | $0.171 per 1,000 posts | 2026-11-09 |
+| 6 | [Captapi](https://datacircle.dev/threads-post-apis/captapi/9-monthly) | $9 monthly | 46.5 | 11 | $0.09 per 1,000 posts | 2026-10-29 |
+| 7 | [EnsembleData](https://datacircle.dev/threads-post-apis/ensembledata/200-monthly) | $200 monthly | 45.5 | 64 | $1.33 per 1,000 posts | 2026-10-30 |
+| 8 | [FetchGoblin](https://datacircle.dev/threads-post-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 42 | 62 |  | 2026-11-09 |
+| 9 | [SociaVault](https://datacircle.dev/threads-post-apis/sociavault/29-pack) | $29 pack | 41.4 | 63 |  | 2026-10-30 |
+| 10 | [Stophy](https://datacircle.dev/threads-post-apis/stophy/top-up-from-10) | top-up from $10 | 41.2 | 52 |  | 2026-11-09 |
+| 11 | [ScrapeCreators](https://datacircle.dev/threads-post-apis/scrapecreators/47-pack) | $47 pack | 41.1 | 63 |  | 2026-10-29 |
+| 12 | [Social Fetch](https://datacircle.dev/threads-post-apis/social-fetch/14-pack) | $14 pack | 36.8 | 48 |  | 2026-11-09 |
+| 13 | [ScrapeAtlas](https://datacircle.dev/threads-post-apis/scrapeatlas/19-pack) | $19 pack | 35.2 | 40 |  | 2026-11-09 |
+| 14 | [TrueScrape](https://datacircle.dev/threads-post-apis/truescrape/25-pack) | $25 pack | 33.7 | 38 |  | 2026-11-09 |
+| 15 | [AnyAPI](https://datacircle.dev/threads-post-apis/anyapi/top-up-from-10) | top-up from $10 | 32.1 | 35 |  | 2026-11-09 |
+| 16 | [ScraperSocial](https://datacircle.dev/threads-post-apis/scrapersocial/top-up-from-4-50) | top-up from $4.50 | 29 | 21 | $9.00 per 1,000 posts | 2026-11-09 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
 

@@ -1,14 +1,16 @@
 # Truth Social profile API: best providers in 2026
 
-Truth Social profile API: the best on our benchmark is Scrappa ($10 pack), Overall score 95.8 out of 100, Accuracy 100, $0.303 per 1,000 profiles. We rank 3 providers, last tested on 2026-11-07.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+
+Scrappa scores best overall in our benchmark: 96 out of 100. Scrappa scores 100 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.303 per 1,000 profiles. We rank 3 providers. We last tested them on 2026-11-07.
 
 Every plan below is on our ranking page, [Truth Social profile API: best providers in 2026](https://datacircle.dev/best-truth-social-profile-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Scrappa](https://datacircle.dev/truth-social-profile-apis/scrappa/10-pack) | $10 pack | 95.8 | 100 | $0.303 per 1,000 profiles | 2026-10-30 |
-| 2 | [ScrapeCreators](https://datacircle.dev/truth-social-profile-apis/scrapecreators/497-pack) | $497 pack | 71.9 | 100 | $0.994 per 1,000 profiles | 2026-10-30 |
-| 3 | [AnyAPI](https://datacircle.dev/truth-social-profile-apis/anyapi/top-up-from-10) | top-up from $10 | 61.3 | 57 | $1.10 per 1,000 profiles | 2026-11-07 |
+| 1 | [Scrappa](https://datacircle.dev/truth-social-profile-apis/scrappa/10-pack) | $10 pack | 96 | 100 | $0.303 per 1,000 profiles | 2026-10-30 |
+| 2 | [ScrapeCreators](https://datacircle.dev/truth-social-profile-apis/scrapecreators/497-pack) | $497 pack | 72.1 | 100 | $0.994 per 1,000 profiles | 2026-10-30 |
+| 3 | [AnyAPI](https://datacircle.dev/truth-social-profile-apis/anyapi/top-up-from-10) | top-up from $10 | 60.8 | 57 | $1.10 per 1,000 profiles | 2026-11-07 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
 

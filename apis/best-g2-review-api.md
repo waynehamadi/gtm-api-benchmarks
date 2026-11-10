@@ -1,6 +1,8 @@
 # G2 review API: best providers in 2026
 
-G2 review API: the best on our benchmark is Scrappa ($500 pack), Overall score 84.4 out of 100, Accuracy 66, $0.0095 per 1,000 reviews. We rank 6 providers, last tested on 2026-10-30.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+
+Scrappa scores best overall in our benchmark: 84.4 out of 100. Scrappa scores 66 out of 100 for accuracy. Scrappa's plan "$500 pack" costs $0.0095 per 1,000 reviews. We rank 6 providers. We last tested them on 2026-10-30.
 
 Every plan below is on our ranking page, [G2 review API: best providers in 2026](https://datacircle.dev/best-g2-review-api).
 

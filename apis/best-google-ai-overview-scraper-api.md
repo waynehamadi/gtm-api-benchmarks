@@ -1,6 +1,8 @@
 # Google AI Overview scraper API: best providers in 2026
 
-Google AI Overview scraper API: the best on our benchmark is Litescrape (top-up from $10, Usage-based), Overall score 91.5 out of 100, Accuracy 78, $0.15 per 1,000 answers. We rank 8 providers, last tested on 2026-11-06.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+
+Litescrape scores best overall in our benchmark: 91.5 out of 100. Litescrape scores 78 out of 100 for accuracy. Litescrape's plan "top-up from $10, Usage-based" costs $0.15 per 1,000 answers. We rank 8 providers. We last tested them on 2026-11-06.
 
 Every plan below is on our ranking page, [Google AI Overview scraper API: best providers in 2026](https://datacircle.dev/best-google-ai-overview-scraper-api).
 
