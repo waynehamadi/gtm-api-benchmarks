@@ -1,6 +1,6 @@
 # LinkedIn company post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 Litescrape scores best overall in our benchmark: 73 out of 100. Litescrape scores 28 out of 100 for accuracy. Litescrape's plan "top-up from $10" costs $0.0075 per 1,000 posts. We rank 27 providers. We last tested them on 2026-11-09.
 
@@ -28,7 +28,7 @@ Every plan below is on our ranking page, [LinkedIn company post API: best provid
 | 18 | [BeReach](https://datacircle.dev/linkedin-company-post-apis/bereach/10-pack) | €10 pack | 37.4 | 53 |  | 2026-11-08 |
 | 19 | [ScraperSocial](https://datacircle.dev/linkedin-company-post-apis/scrapersocial/top-up-from-4-50) | top-up from $4.50 | 30.9 | 24 | $4.50 per 1,000 posts | 2026-11-09 |
 | 20 | [Autobound](https://datacircle.dev/linkedin-company-post-apis/autobound/19-pack) | $19 pack | 29.9 | 13 | $20.00 per 1,000 posts | 2026-10-24 |
-| 21 | [LinkedInDataAPI](https://datacircle.dev/linkedin-company-post-apis/linkedindataapi/25-pack) | $25 pack | 29 | 25 |  | 2026-11-08 |
+| 21 | [LinkedInDataAPI](https://datacircle.dev/linkedin-company-post-apis/linkedindataapi/25-pack) | $25 pack | 29 | 25 |  |  |
 | 22 | [ScrapeAtlas](https://datacircle.dev/linkedin-company-post-apis/scrapeatlas/19-pack) | $19 pack | 28.7 | 20 |  | 2026-10-28 |
 | 23 | [FetchGoblin](https://datacircle.dev/linkedin-company-post-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 28 | 22 |  | 2026-11-08 |
 | 24 | [Vayne](https://datacircle.dev/linkedin-company-post-apis/vayne/49-monthly) | $49 monthly | 27.6 | 31 |  | 2026-10-25 |

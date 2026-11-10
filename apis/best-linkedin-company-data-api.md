@@ -1,6 +1,6 @@
 # LinkedIn company data API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 DataForB2B scores best overall in our benchmark: 84.9 out of 100. DataForB2B scores 74 out of 100 for accuracy. DataForB2B's plan "$499 monthly" costs $0.10 per 1,000 companies. We rank 72 providers. We last tested them on 2026-11-09.
 
@@ -15,7 +15,7 @@ Every plan below is on our ranking page, [LinkedIn company data API: best provid
 | 5 | [Bridgly](https://datacircle.dev/linkedin-company-profile-apis/bridgly/300-pack) | $300 pack | 76.2 | 57 | $1.00 per 1,000 companies | 2026-10-25 |
 | 6 | [Scrappa](https://datacircle.dev/linkedin-company-profile-apis/scrappa/10-pack) | $10 pack | 76.2 | 54 | $0.303 per 1,000 companies | 2026-10-26 |
 | 7 | [Mart.dev](https://datacircle.dev/linkedin-company-profile-apis/mart-dev/299-monthly) | $299 monthly | 75.9 | 58 | $0.598 per 1,000 companies | 2026-10-27 |
-| 8 | [LinkedInDataAPI](https://datacircle.dev/linkedin-company-profile-apis/linkedindataapi/199-monthly) | $199 monthly | 70.8 | 58 | $0.398 per 1,000 companies | 2026-11-07 |
+| 8 | [LinkedInDataAPI](https://datacircle.dev/linkedin-company-profile-apis/linkedindataapi/199-monthly) | $199 monthly | 70.8 | 58 | $0.398 per 1,000 companies |  |
 | 9 | [lobstr.io](https://datacircle.dev/linkedin-company-profile-apis/lobstr-io/500-monthly) | $500 monthly | 69 | 52 | $0.50 per 1,000 companies | 2026-10-24 |
 | 10 | [Upscrape](https://datacircle.dev/linkedin-company-profile-apis/upscrape/149-pack) | $149 pack | 66.1 | 55 | $1.49 per 1,000 companies | 2026-11-03 |
 | 11 | [CoreClaw](https://datacircle.dev/linkedin-company-profile-apis/coreclaw/top-up-from-5) | top-up from $5 | 65 | 40 | $0.90 per 1,000 companies | 2026-11-07 |

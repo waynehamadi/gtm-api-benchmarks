@@ -1,6 +1,6 @@
 # App Store review API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 EveryInfra scores best overall in our benchmark: 83.5 out of 100. EveryInfra scores 66 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.0028 per 1,000 reviews. We rank 13 providers. We last tested them on 2026-11-07.
 

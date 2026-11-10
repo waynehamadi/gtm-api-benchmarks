@@ -1,6 +1,6 @@
 # Xiaohongshu profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 EveryInfra scores best overall in our benchmark: 84 out of 100. EveryInfra scores 78 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $5.56 per 1,000 profiles. We rank 4 providers. We last tested them on 2026-11-06.
 

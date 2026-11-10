@@ -1,6 +1,6 @@
 # TikTok Ad Library API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 AdLibAPI scores best overall in our benchmark: 56 out of 100. AdLibAPI scores 33 out of 100 for accuracy. AdLibAPI's plan "$299 monthly" costs $0.10 per 1,000 ads. We rank 8 providers. We last tested them on 2026-11-09.
 

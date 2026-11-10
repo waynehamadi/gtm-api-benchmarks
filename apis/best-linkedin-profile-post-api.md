@@ -1,6 +1,6 @@
 # LinkedIn profile post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 Fetchin scores best overall in our benchmark: 75.4 out of 100. Fetchin scores 92 out of 100 for accuracy. Fetchin's plan "$50 monthly" costs $0.01 per 1,000 posts. We rank 20 providers. We last tested them on 2026-11-06.
 
@@ -21,7 +21,7 @@ Every plan below is on our ranking page, [LinkedIn profile post API: best provid
 | 11 | [Social Fetch](https://datacircle.dev/linkedin-person-post-apis/social-fetch/14-pack) | $14 pack | 51.4 | 82 |  | 2026-10-28 |
 | 12 | [Datamagnet](https://datacircle.dev/linkedin-person-post-apis/datamagnet/top-up-from-5) | top-up from $5 | 48.8 | 71 |  | 2026-10-26 |
 | 13 | [SocialListeningAPI](https://datacircle.dev/linkedin-person-post-apis/sociallisteningapi/20-pack-starter-get-api-v1-linkedin-profile-posts) | $20 pack, Starter | 45.1 | 66 |  | 2026-10-27 |
-| 14 | [LinkedInDataAPI](https://datacircle.dev/linkedin-person-post-apis/linkedindataapi/25-pack) | $25 pack | 43.8 | 60 |  | 2026-11-06 |
+| 14 | [LinkedInDataAPI](https://datacircle.dev/linkedin-person-post-apis/linkedindataapi/25-pack) | $25 pack | 43.8 | 60 |  |  |
 | 15 | [treg](https://datacircle.dev/linkedin-person-post-apis/treg/top-up-from-10) | top-up from $10 | 42.6 | 3 | $0.024 per 1,000 posts | 2026-10-20 |
 | 16 | [RouterGrowth](https://datacircle.dev/linkedin-person-post-apis/routergrowth/499-monthly) | $499 monthly | 41.6 | 45 | $2.60 per 1,000 posts | 2026-10-25 |
 | 17 | [Bright Data](https://datacircle.dev/linkedin-person-post-apis/bright-data/top-up) | top-up | 31.4 | 34 | $1.50 per 1,000 posts | 2026-10-26 |

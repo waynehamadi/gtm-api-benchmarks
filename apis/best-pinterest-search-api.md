@@ -1,6 +1,6 @@
 # Pinterest search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 FetchGoblin scores best overall in our benchmark: 71.2 out of 100. FetchGoblin scores 100 out of 100 for accuracy. FetchGoblin's plan "top-up from $5" costs $1.49 per 1,000 searches. We rank 6 providers. We last tested them on 2026-11-09.
 

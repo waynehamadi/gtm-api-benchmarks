@@ -1,8 +1,8 @@
 # LinkedIn post details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
-Bridgly scores best overall in our benchmark: 80.9 out of 100. Bridgly scores 74 out of 100 for accuracy. Bridgly's plan "$300 pack" costs $1.00 per 1,000 posts. We rank 29 providers. We last tested them on 2026-11-09.
+Bridgly scores best overall in our benchmark: 80.9 out of 100. Bridgly scores 74 out of 100 for accuracy. Bridgly's plan "$300 pack" costs $1.00 per 1,000 posts. We rank 30 providers. We last tested them on 2026-11-10.
 
 Every plan below is on our ranking page, [LinkedIn post details API: best providers in 2026](https://datacircle.dev/best-linkedin-post-details-api).
 
@@ -31,12 +31,13 @@ Every plan below is on our ranking page, [LinkedIn post details API: best provid
 | 21 | [ZenRows](https://datacircle.dev/linkedin-post-details-apis/zenrows/top-up-from-5) | top-up from $5 | 49.1 | 33 |  | 2026-10-27 |
 | 22 | [Bright Data](https://datacircle.dev/linkedin-post-details-apis/bright-data/top-up) | top-up | 48.9 | 56 | $1.50 per 1,000 posts | 2026-10-26 |
 | 23 | [Datamagnet](https://datacircle.dev/linkedin-post-details-apis/datamagnet/199-monthly) | $199 monthly | 48.4 | 70 | $7.96 per 1,000 posts | 2026-10-26 |
-| 24 | [Scavio](https://datacircle.dev/linkedin-post-details-apis/scavio/250-monthly) | $250 monthly | 45.2 | 52 | $2.94 per 1,000 posts | 2026-10-27 |
-| 25 | [Anakin](https://datacircle.dev/linkedin-post-details-apis/anakin/top-up-from-10-business-top-up) | top-up from $10, Business top-up | 43.4 | 32 | $1.78 per 1,000 posts | 2026-10-28 |
-| 26 | [CreatorCrawl](https://datacircle.dev/linkedin-post-details-apis/creatorcrawl/299-pack) | $299 pack | 42.6 | 36 | $2.99 per 1,000 posts | 2026-10-26 |
-| 27 | [treg](https://datacircle.dev/linkedin-post-details-apis/treg/top-up-from-10) | top-up from $10 | 37.4 | 17 | $1.44 per 1,000 posts | 2026-10-22 |
-| 28 | [Crawlbase](https://datacircle.dev/linkedin-post-details-apis/crawlbase/pay-as-you-go-next-100k-requests-a-month) | pay as you go, next 100K requests a month | 33.2 | 22 | $12.00 per 1,000 posts | 2026-10-23 |
-| 29 | [Vayne](https://datacircle.dev/linkedin-post-details-apis/vayne/49-monthly) | $49 monthly | 33.2 | 43 |  | 2026-10-25 |
+| 24 | [Manifold](https://datacircle.dev/linkedin-post-details-apis/manifold/29-monthly) | $29 monthly | 45.3 | 51 | $19.33 per 1,000 posts | 2026-11-10 |
+| 25 | [Scavio](https://datacircle.dev/linkedin-post-details-apis/scavio/250-monthly) | $250 monthly | 45.2 | 52 | $2.94 per 1,000 posts | 2026-10-27 |
+| 26 | [Anakin](https://datacircle.dev/linkedin-post-details-apis/anakin/top-up-from-10-business-top-up) | top-up from $10, Business top-up | 43.4 | 32 | $1.78 per 1,000 posts | 2026-10-28 |
+| 27 | [CreatorCrawl](https://datacircle.dev/linkedin-post-details-apis/creatorcrawl/299-pack) | $299 pack | 42.6 | 36 | $2.99 per 1,000 posts | 2026-10-26 |
+| 28 | [treg](https://datacircle.dev/linkedin-post-details-apis/treg/top-up-from-10) | top-up from $10 | 37.4 | 17 | $1.44 per 1,000 posts | 2026-10-22 |
+| 29 | [Crawlbase](https://datacircle.dev/linkedin-post-details-apis/crawlbase/pay-as-you-go-next-100k-requests-a-month) | pay as you go, next 100K requests a month | 33.2 | 22 | $12.00 per 1,000 posts | 2026-10-23 |
+| 30 | [Vayne](https://datacircle.dev/linkedin-post-details-apis/vayne/49-monthly) | $49 monthly | 33.2 | 43 |  | 2026-10-25 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
 

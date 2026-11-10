@@ -1,6 +1,6 @@
 # LinkedIn people search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 BlitzAPI scores best overall in our benchmark: 82.2 out of 100. BlitzAPI scores 76 out of 100 for accuracy. BlitzAPI's plan "$499 monthly, Scale" costs $0.10 per 1,000 people. We rank 23 providers. We last tested them on 2026-11-09.
 

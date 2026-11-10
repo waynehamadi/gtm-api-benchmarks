@@ -1,6 +1,6 @@
 # Threads post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 CarryFeed scores best overall in our benchmark: 75.2 out of 100. CarryFeed scores 57 out of 100 for accuracy. CarryFeed's plan "free" costs $0.00 per 1,000 posts. We rank 16 providers. We last tested them on 2026-11-09.
 

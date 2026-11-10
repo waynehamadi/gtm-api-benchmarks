@@ -1,6 +1,6 @@
 # Domain authority API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 BacklinkMCP scores best overall in our benchmark: 55.8 out of 100. BacklinkMCP scores 1 out of 100 for accuracy. BacklinkMCP's plan "$19 monthly" costs $0 extra per 1,000 domains. The $19 monthly price covers any number of domains. We rank 17 providers. We last tested them on 2026-11-07.
 

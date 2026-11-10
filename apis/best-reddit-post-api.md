@@ -1,6 +1,6 @@
 # Reddit post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 Arctic Shift scores best overall in our benchmark: 83.9 out of 100. Arctic Shift scores 85 out of 100 for accuracy. Arctic Shift's plan "free" costs $0.00 per 1,000 posts. We rank 19 providers. We last tested them on 2026-11-09.
 

@@ -1,6 +1,6 @@
 # LinkedIn job details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 Mart.dev scores best overall in our benchmark: 73 out of 100. Mart.dev scores 50 out of 100 for accuracy. Mart.dev's plan "$299 monthly" costs $0.598 per 1,000 jobs. We rank 25 providers. We last tested them on 2026-11-09.
 

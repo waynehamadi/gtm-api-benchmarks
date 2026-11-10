@@ -1,6 +1,6 @@
 # Bluesky post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 Bluesky scores best overall in our benchmark: 76.4 out of 100. Bluesky scores 66 out of 100 for accuracy. Bluesky's plan "free" costs $0.00 per 1,000 posts. We rank 8 providers. We last tested them on 2026-11-04.
 
@@ -9,13 +9,13 @@ Every plan below is on our ranking page, [Bluesky post API: best providers in 20
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Bluesky](https://datacircle.dev/bluesky-post-apis/bluesky/free) | free | 76.4 | 66 | $0.00 per 1,000 posts | 2026-11-03 |
-| 2 | [Crawlora](https://datacircle.dev/bluesky-post-apis/crawlora/499-monthly) | $499 monthly | 73 | 63 | $0.002 per 1,000 posts | 2026-11-04 |
-| 3 | [ScrapeAtlas](https://datacircle.dev/bluesky-post-apis/scrapeatlas/249-pack) | $249 pack | 72.2 | 77 | $0.013 per 1,000 posts | 2026-11-03 |
-| 4 | [API Direct](https://datacircle.dev/bluesky-post-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-bluesky-user-posts-bluesky-user-posts) | pay as you go, Pay per request | 60.1 | 73 | $0.06 per 1,000 posts | 2026-10-31 |
-| 5 | [ScrapingIsNotACrime](https://datacircle.dev/bluesky-post-apis/scrapingisnotacrime/199-pack) | $199 pack | 58.6 | 47 | $0.017 per 1,000 posts | 2026-10-31 |
-| 6 | [Upscrape](https://datacircle.dev/bluesky-post-apis/upscrape/499-pack) | $499 pack | 52.8 | 56 | $0.037 per 1,000 posts | 2026-11-03 |
+| 2 | [Crawlora](https://datacircle.dev/bluesky-post-apis/crawlora/499-monthly) | $499 monthly | 72.5 | 63 | $0.002 per 1,000 posts | 2026-11-04 |
+| 3 | [ScrapeAtlas](https://datacircle.dev/bluesky-post-apis/scrapeatlas/249-pack) | $249 pack | 71.9 | 77 | $0.013 per 1,000 posts | 2026-11-03 |
+| 4 | [API Direct](https://datacircle.dev/bluesky-post-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-bluesky-user-posts-bluesky-user-posts) | pay as you go, Pay per request | 60 | 73 | $0.06 per 1,000 posts | 2026-10-31 |
+| 5 | [ScrapingIsNotACrime](https://datacircle.dev/bluesky-post-apis/scrapingisnotacrime/199-pack) | $199 pack | 58.3 | 47 | $0.017 per 1,000 posts | 2026-10-31 |
+| 6 | [Upscrape](https://datacircle.dev/bluesky-post-apis/upscrape/499-pack) | $499 pack | 52.6 | 56 | $0.037 per 1,000 posts | 2026-11-03 |
 | 7 | [ScrapeCreators](https://datacircle.dev/bluesky-post-apis/scrapecreators/47-pack) | $47 pack | 45.7 | 75 |  | 2026-11-03 |
-| 8 | [Bright Data](https://datacircle.dev/bluesky-post-apis/bright-data/top-up) | top-up | 39.3 | 62 | $1.50 per 1,000 posts | 2026-10-31 |
+| 8 | [Bright Data](https://datacircle.dev/bluesky-post-apis/bright-data/top-up) | top-up | 39.2 | 62 | $1.50 per 1,000 posts | 2026-10-31 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
 

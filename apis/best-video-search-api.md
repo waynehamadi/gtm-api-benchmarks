@@ -1,6 +1,6 @@
 # Video search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 Scrappa scores best overall in our benchmark: 87.5 out of 100. Scrappa scores 94 out of 100 for accuracy. Scrappa's plan "$25 pack" costs $0.291 per 1,000 searches. We rank 45 providers. We last tested them on 2026-11-08.
 

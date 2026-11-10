@@ -1,6 +1,6 @@
 # LinkedIn profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 Bridgly scores best overall in our benchmark: 78.4 out of 100. Bridgly scores 58 out of 100 for accuracy. Bridgly's plan "$300 pack" costs $1.00 per 1,000 profiles. We rank 104 providers. We last tested them on 2026-11-08.
 
@@ -29,7 +29,7 @@ Every plan below is on our ranking page, [LinkedIn profile API: best providers i
 | 19 | [BedrockTap](https://datacircle.dev/linkedin-profile-apis/bedrocktap/29-monthly) | $29 monthly | 60.4 | 34 | $5.00 per 1,000 profiles | 2026-11-08 |
 | 20 | [Datamagnet](https://datacircle.dev/linkedin-profile-apis/datamagnet/199-monthly-scale) | $199 monthly, Scale | 59.5 | 88 | $7.96 per 1,000 profiles | 2026-10-27 |
 | 21 | [The Swarm](https://datacircle.dev/linkedin-profile-apis/the-swarm/500-monthly-premium-1000-post-v3-profiles-fetch) | $500 monthly, Premium 1000 | 59.1 | 49 | $10.00 per 1,000 profiles | 2026-10-21 |
-| 22 | [LinkedInDataAPI](https://datacircle.dev/linkedin-profile-apis/linkedindataapi/19-monthly) | $19 monthly | 58.9 | 25 | $0.76 per 1,000 profiles | 2026-11-06 |
+| 22 | [LinkedInDataAPI](https://datacircle.dev/linkedin-profile-apis/linkedindataapi/19-monthly) | $19 monthly | 58.9 | 25 | $0.76 per 1,000 profiles |  |
 | 23 | [CoreClaw](https://datacircle.dev/linkedin-profile-apis/coreclaw/top-up-from-5) | top-up from $5 | 58.8 | 20 | $0.90 per 1,000 profiles | 2026-11-06 |
 | 24 | [Social Fetch](https://datacircle.dev/linkedin-profile-apis/social-fetch/29-monthly) | $29 monthly, Starter | 58.7 | 73 | $4.83 per 1,000 profiles | 2026-10-27 |
 | 25 | [TrueScrape](https://datacircle.dev/linkedin-profile-apis/truescrape/100-pack) | $100 pack | 58.6 | 16 | $1.00 per 1,000 profiles | 2026-11-06 |

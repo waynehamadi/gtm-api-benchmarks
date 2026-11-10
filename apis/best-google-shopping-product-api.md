@@ -1,6 +1,6 @@
 # Google Shopping product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 Litescrape scores best overall in our benchmark: 78.9 out of 100. Litescrape scores 65 out of 100 for accuracy. Litescrape's plan "top-up from $10" costs $0.15 per 1,000 products. We rank 4 providers. We last tested them on 2026-11-09.
 

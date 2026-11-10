@@ -1,6 +1,6 @@
 # LinkedIn Ad Library API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 TrueScrape scores best overall in our benchmark: 66.3 out of 100. TrueScrape scores 43 out of 100 for accuracy. TrueScrape's plan "$500 pack" costs $0.032 per 1,000 ads. We rank 8 providers. We last tested them on 2026-11-09.
 

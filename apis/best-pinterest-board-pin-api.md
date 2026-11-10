@@ -1,6 +1,6 @@
 # Pinterest board pin API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,068 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
 
 Scrape Everything scores best overall in our benchmark: 59.6 out of 100. Scrape Everything scores 65 out of 100 for accuracy. Scrape Everything's plan "$39 pack" costs $0.125 per 1,000 pins. We rank 4 providers. We last tested them on 2026-11-09.
 
