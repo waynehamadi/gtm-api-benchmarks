@@ -1,6 +1,6 @@
 # LinkedIn profile comment API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,176 providers of 141 kinds of API.
 
 HarvestAPI scores best overall in our benchmark: 74.7 out of 100. HarvestAPI scores 95 out of 100 for accuracy. HarvestAPI's plan "$280 pack" costs $0.023 per 1,000 comments. We rank 5 providers. We last tested them on 2026-10-26.
 

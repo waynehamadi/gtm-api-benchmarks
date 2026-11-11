@@ -1,6 +1,6 @@
 # Company discovery API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,176 providers of 141 kinds of API.
 
 GetProspect scores best overall in our benchmark: 89.4 out of 100. GetProspect scores 91 out of 100 for accuracy. GetProspect's plan "$49 monthly" costs $0 extra per 1,000 companies. The $49 monthly price covers any number of companies. We rank 109 providers. We last tested them on 2026-11-09.
 
@@ -9,73 +9,73 @@ Every plan below is on our ranking page, [Company discovery API: best providers 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [GetProspect](https://datacircle.dev/company-discovery-apis/getprospect/49-monthly) | $49 monthly | 89.4 | 91 | $0 extra per 1,000. The $49 monthly price covers any number of companies | 2026-10-25 |
-| 2 | [Hunter](https://datacircle.dev/company-discovery-apis/hunter/49-monthly-starter-post-discover) | $49 monthly, Starter | 77.5 | 65 | $0.00023 per 1,000 companies | 2026-10-21 |
+| 2 | [Hunter](https://datacircle.dev/company-discovery-apis/hunter/49-monthly-starter-post-discover) | $49 monthly, Starter | 77.7 | 65 | $0.00023 per 1,000 companies | 2026-10-21 |
 | 3 | [PeopleSearch.im](https://datacircle.dev/company-discovery-apis/peoplesearch-im/5-pack) | $5 pack | 77 | 85 | $0 extra per 1,000. The plan's price covers any number of companies | 2026-11-03 |
 | 4 | [AnVendor](https://datacircle.dev/company-discovery-apis/anvendor/99-pack-small-post-v1-leads-search) | $99 pack, Small | 75.8 | 69 | $0 extra per 1,000. The plan's price covers any number of companies | 2026-10-28 |
-| 5 | [QuickEnrich](https://datacircle.dev/company-discovery-apis/quickenrich/399-monthly) | $399 monthly | 75.2 | 45 | $0 extra per 1,000. The $399 monthly price covers any number of companies | 2026-10-22 |
-| 6 | [Skrapp](https://datacircle.dev/company-discovery-apis/skrapp/349-monthly) | $349 monthly | 72.2 | 89 | $0.058 per 1,000 companies | 2026-10-25 |
-| 7 | [Loopster](https://datacircle.dev/company-discovery-apis/loopster/449-monthly) | $449 monthly | 71.9 | 77 | $0.006 per 1,000 companies | 2026-11-07 |
-| 8 | [graph8](https://datacircle.dev/company-discovery-apis/graph8/99-monthly) | $99 monthly | 70.9 | 89 | $0.000023 per 1,000 companies | 2026-10-25 |
-| 9 | [LeadMagic](https://datacircle.dev/company-discovery-apis/leadmagic/499-monthly) | $499 monthly | 70.3 | 89 | $0.05 per 1,000 companies | 2026-10-22 |
-| 10 | [LeadMCP](https://datacircle.dev/company-discovery-apis/leadmcp/49-monthly) | $49 monthly | 68.9 | 82 | $0.049 per 1,000 companies | 2026-11-06 |
-| 11 | [AdLibrarySpy](https://datacircle.dev/company-discovery-apis/adlibraryspy/free) | free | 67.3 | 11 | $0.00 per 1,000 companies | 2026-11-06 |
-| 12 | [Prospeo](https://datacircle.dev/company-discovery-apis/prospeo/49-monthly) | $49 monthly | 64.5 | 81 | $0.98 per 1,000 companies | 2026-10-21 |
-| 13 | [AnyAPI](https://datacircle.dev/company-discovery-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-company-search-crustdata) | top-up from $10, Manual top-up | 63.8 | 88 | $1.44 per 1,000 companies | 2026-10-22 |
-| 14 | [BetterContact](https://datacircle.dev/company-discovery-apis/bettercontact/49-monthly) | $49 monthly | 58.2 | 88 | $4.90 per 1,000 companies | 2026-11-06 |
-| 15 | [SAM.gov](https://datacircle.dev/company-discovery-apis/sam-gov/free-non-federal-user-with-no-role-in-sam-gov) | free, Non-federal user with no Role in SAM.gov | 57 | 7 | $0.00 per 1,000 companies | 2026-11-08 |
-| 16 | [JobsPipe](https://datacircle.dev/company-discovery-apis/jobspipe/9-80-pack-credit-pack-without-an-account-post-v1-jobs-companies) | top-up from $9.80, Credit pack without an account | 56.6 | 73 | $1.96 per 1,000 companies | 2026-10-25 |
-| 17 | [GetLeads](https://datacircle.dev/company-discovery-apis/getleads/497-monthly-unlimited-post-api-v1-companies-search) | $497 monthly, Unlimited | 55.9 | 53 | $0.083 per 1,000 companies | 2026-10-29 |
-| 18 | [Signalbase](https://datacircle.dev/company-discovery-apis/signalbase/99-monthly) | €99 monthly | 55.7 | 88 | $0.557 per 1,000 companies | 2026-10-26 |
-| 19 | [TechnologyChecker](https://datacircle.dev/company-discovery-apis/technologychecker/89-monthly-pro-get-v1-companies) | $89 monthly, Pro | 55.1 | 70 | $0.089 per 1,000 companies | 2026-11-01 |
-| 20 | [Extruct](https://datacircle.dev/company-discovery-apis/extruct/149-monthly-pro-post-v1-companies-search) | $149 monthly, Pro | 52.7 | 78 | $0.298 per 1,000 companies | 2026-10-25 |
-| 21 | [Exa](https://datacircle.dev/company-discovery-apis/exa/top-up-from-5-developer-pay-as-you-go-post-search-search) | top-up from $5, Developer (pay as you go) | 52.5 | 75 | $0.70 per 1,000 companies | 2026-11-01 |
-| 22 | [OneShot](https://datacircle.dev/company-discovery-apis/oneshot/top-up-from-0-01-card-via-stripe-checkout) | top-up from $0.01, Card via Stripe Checkout | 52.2 | 65 | $0.10 per 1,000 companies | 2026-10-29 |
-| 23 | [Village](https://datacircle.dev/company-discovery-apis/village/1-monthly) | $1 monthly | 52 | 71 | $3.00 per 1,000 companies | 2026-10-28 |
-| 24 | [Bright Data](https://datacircle.dev/company-discovery-apis/bright-data/top-up-pay-as-you-go-post-search-company-search-companies-ludicrous) | top-up, Pay as you go | 51.7 | 80 | $0.02 per 1,000 companies | 2026-11-02 |
-| 25 | [Coldlytics](https://datacircle.dev/company-discovery-apis/coldlytics/49-monthly) | $49 monthly | 50.2 | 17 | $0.196 per 1,000 companies | 2026-11-06 |
-| 26 | [The Companies API](https://datacircle.dev/company-discovery-apis/the-companies-api/295-monthly-scaleup-get-v2-companies) | $295 monthly, Scaleup | 49.7 | 39 | $1.18 per 1,000 companies | 2026-10-27 |
-| 27 | [Argorant](https://datacircle.dev/company-discovery-apis/argorant/49-monthly) | $49 monthly | 49.6 | 35 | $0.00038 per 1,000 companies | 2026-10-28 |
-| 28 | [Bloomberry](https://datacircle.dev/company-discovery-apis/bloomberry/299-monthly-pro-get-accounts-tech-json) | $299 monthly, Pro | 49.2 | 87 | $46.00 per 1,000 companies | 2026-10-21 |
-| 29 | [Findymail](https://datacircle.dev/company-discovery-apis/findymail/399-monthly) | $399 monthly, Business Plus | 49.1 | 56 | $1.33 per 1,000 companies | 2026-11-05 |
-| 30 | [TheirStack](https://datacircle.dev/company-discovery-apis/theirstack/400-monthly) | $400 monthly | 49.1 | 77 | $24.00 per 1,000 companies | 2026-11-07 |
-| 31 | [Instantly](https://datacircle.dev/company-discovery-apis/instantly/97-monthly-supersonic-credits-post-api-v2-supersearch-enrichment-company-lists-create-a-company-list-build-theirstack) | $97 monthly, Supersonic credits | 47.2 | 77 | $38.80 per 1,000 companies | 2026-10-24 |
-| 32 | [DiscoLike](https://datacircle.dev/company-discovery-apis/discolike/99-monthly) | $99 monthly | 44.6 | 61 | $3.50 per 1,000 companies | 2026-10-27 |
-| 33 | [The Swarm](https://datacircle.dev/company-discovery-apis/the-swarm/500-monthly-premium-1000-post-v3-companies-fetch) | $500 monthly, Premium 1000 | 43.5 | 32 | $10.00 per 1,000 companies | 2026-10-20 |
-| 34 | [AI Ark](https://datacircle.dev/company-discovery-apis/ai-ark/119-monthly) | $119 monthly | 43.4 | 28 | $0.397 per 1,000 companies | 2026-10-24 |
-| 35 | [Diffbot](https://datacircle.dev/company-discovery-apis/diffbot/299-monthly) | $299 monthly | 43.1 | 57 | $29.90 per 1,000 companies | 2026-10-24 |
-| 36 | [CompanyEnrich](https://datacircle.dev/company-discovery-apis/companyenrich/149-monthly-pro-post-companies-search-search) | $149 monthly, Pro | 42.9 | 54 | $2.98 per 1,000 companies | 2026-10-24 |
-| 37 | [NinjaPear](https://datacircle.dev/company-discovery-apis/ninjapear/49-monthly) | $49 monthly | 42.6 | 22 | $0.392 per 1,000 companies | 2026-10-21 |
-| 38 | [Sumble](https://datacircle.dev/company-discovery-apis/sumble/99-monthly-pro-post-v9-organizations-organizations) | $99 monthly, Pro | 42.5 | 47 | $10.00 per 1,000 companies | 2026-10-26 |
-| 39 | [Coresignal](https://datacircle.dev/company-discovery-apis/coresignal/49-monthly-mini-get-v2-company-multi-source-collect-company-id-collect-company-api) | $49 monthly, Mini | 41.7 | 70 | $196.00 per 1,000 companies | 2026-10-21 |
-| 40 | [Xverum](https://datacircle.dev/company-discovery-apis/xverum/1-monthly) | $1 monthly | 41.3 | 21 | $0.45 per 1,000 companies | 2026-10-28 |
-| 41 | [PublicWWW](https://datacircle.dev/company-discovery-apis/publicwww/79-pack-pro-get-v1-search) | $79 pack, Pro | 40.9 | 10 | $0.0011 per 1,000 companies | 2026-11-06 |
-| 42 | [Lusha](https://datacircle.dev/company-discovery-apis/lusha/49-90-monthly-starter-post-v3-companies-prospecting-prospecting-companies) | $49.90 monthly, Starter | 40.4 | 53 | $4.99 per 1,000 companies | 2026-10-20 |
-| 43 | [Captapi](https://datacircle.dev/company-discovery-apis/captapi/9-monthly) | $9 monthly | 40.3 | 2 | $0.09 per 1,000 companies | 2026-10-28 |
-| 44 | [PredictLeads](https://datacircle.dev/company-discovery-apis/predictleads/pay-as-you-go-10001-100000-api-calls-get-discover-companies) | pay as you go, 10,001-100,000 API Calls | 40.3 | 29 | $10.00 per 1,000 companies | 2026-10-25 |
-| 45 | [SerpKite](https://datacircle.dev/company-discovery-apis/serpkite/10-pack) | $10 pack | 40.1 | 1 | $0.10 per 1,000 companies | 2026-10-28 |
-| 46 | [Tomba](https://datacircle.dev/company-discovery-apis/tomba/199-monthly) | $199 monthly | 38.9 | 9 | $0.199 per 1,000 companies | 2026-10-30 |
-| 47 | [Datahyena](https://datacircle.dev/company-discovery-apis/datahyena/30-pack) | $30 pack | 38.8 | 26 | $60.00 per 1,000 companies | 2026-11-06 |
-| 48 | [Hirebase](https://datacircle.dev/company-discovery-apis/hirebase/249-monthly) | $249 monthly | 37.6 | 30 | $4.98 per 1,000 companies | 2026-10-25 |
-| 49 | [Perigon](https://datacircle.dev/company-discovery-apis/perigon/250-monthly) | $250 monthly | 37.5 | 43 | $0.50 per 1,000 companies | 2026-10-30 |
-| 50 | [Parsers VC](https://datacircle.dev/company-discovery-apis/parsers-vc/19-monthly-starter-get-startups-list-startups) | $19 monthly, Starter | 37.1 | 40 | $9.50 per 1,000 companies | 2026-10-24 |
-| 51 | [People Data Labs](https://datacircle.dev/company-discovery-apis/people-data-labs/100-monthly) | $100 monthly | 36.6 | 46 | $100.00 per 1,000 companies | 2026-10-20 |
-| 52 | [Charity Navigator](https://datacircle.dev/company-discovery-apis/charity-navigator/25-monthly-startups-post-graphql-bulknonprofits) | $25 monthly, Startups | 35.8 | 12 | $0.0005 per 1,000 companies | 2026-11-07 |
-| 53 | [FirmenData](https://datacircle.dev/company-discovery-apis/firmendata/top-up-from-5-account-credits-from-5-500-credits-get-v1-companies-search-advanced-search) | top-up from €5, Account, credits from €5 (500 credits) | 35.5 | 22 | $0.225 per 1,000 companies | 2026-11-09 |
-| 54 | [Jobven](https://datacircle.dev/company-discovery-apis/jobven/199-monthly-growth-get-v1-public-company-profiles) | $199 monthly, Growth | 34.1 | 1 | $3.98 per 1,000 companies | 2026-10-30 |
-| 55 | [Listar](https://datacircle.dev/company-discovery-apis/listar/top-up-from-10) | top-up from €10 | 33 | 27 | $22.51 per 1,000 companies | 2026-11-03 |
-| 56 | [Compabase](https://datacircle.dev/company-discovery-apis/compabase/pln-99-monthly-pro-get-companies-export) | PLN 99 (about $25) monthly, Pro | 32.6 | 6 | $0.01 per 1,000 companies | 2026-11-06 |
-| 57 | [Scoris](https://datacircle.dev/company-discovery-apis/scoris/19-pack) | €19 pack | 31.6 | 6 | $0.0043 per 1,000 companies | 2026-11-03 |
-| 58 | [Dealfront](https://datacircle.dev/company-discovery-apis/dealfront/113-monthly) | €113 monthly | 31.4 | 35 |  | 2026-11-07 |
-| 59 | [Happierleads](https://datacircle.dev/company-discovery-apis/happierleads/99-monthly) | $99 monthly | 31 | 54 |  | 2026-11-06 |
-| 60 | [PrismCrawl](https://datacircle.dev/company-discovery-apis/prismcrawl/10-pack-lite-post-v1-google-maps-search) | $10 pack, Lite | 30.6 | 1 | $0.013 per 1,000 companies | 2026-10-29 |
-| 61 | [ReefAPI](https://datacircle.dev/company-discovery-apis/reefapi/15-monthly-pro-monthly-post-google-maps-v1-place-search) | $15 monthly, Pro monthly | 30.3 | 2 | $0.015 per 1,000 companies | 2026-10-27 |
-| 62 | [Bytemine](https://datacircle.dev/company-discovery-apis/bytemine/top-up-from-0-50) | top-up from $0.50 | 27.9 | 4 | $10.00 per 1,000 companies | 2026-10-29 |
-| 63 | [ListSignal](https://datacircle.dev/company-discovery-apis/listsignal/399-monthly-scale-get-api-v1-search) | $399 monthly, Scale | 27.9 | 13 | $5.32 per 1,000 companies | 2026-11-07 |
-| 64 | [LeadIQ](https://datacircle.dev/company-discovery-apis/leadiq/130-50-monthly) | $130.50 monthly | 27 | 27 | $135.00 per 1,000 companies | 2026-10-20 |
-| 65 | [DataForSEO](https://datacircle.dev/company-discovery-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-domain-analytics-technologies-domains-by-html-terms-live) | top-up from $50, Pay as you go | 24.5 | 2 | $1.20 per 1,000 companies | 2026-10-30 |
+| 5 | [Skrapp](https://datacircle.dev/company-discovery-apis/skrapp/349-monthly) | $349 monthly | 72.5 | 89 | $0.058 per 1,000 companies | 2026-10-25 |
+| 6 | [Loopster](https://datacircle.dev/company-discovery-apis/loopster/449-monthly) | $449 monthly | 72.1 | 77 | $0.006 per 1,000 companies | 2026-11-07 |
+| 7 | [graph8](https://datacircle.dev/company-discovery-apis/graph8/99-monthly) | $99 monthly | 71.1 | 89 | $0.000023 per 1,000 companies | 2026-10-25 |
+| 8 | [LeadMagic](https://datacircle.dev/company-discovery-apis/leadmagic/499-monthly) | $499 monthly | 70.6 | 89 | $0.05 per 1,000 companies | 2026-10-22 |
+| 9 | [LeadMCP](https://datacircle.dev/company-discovery-apis/leadmcp/49-monthly) | $49 monthly | 69.2 | 82 | $0.049 per 1,000 companies | 2026-11-06 |
+| 10 | [Prospeo](https://datacircle.dev/company-discovery-apis/prospeo/49-monthly) | $49 monthly | 65 | 81 | $0.98 per 1,000 companies | 2026-10-21 |
+| 11 | [AnyAPI](https://datacircle.dev/company-discovery-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-company-search-crustdata) | top-up from $10, Manual top-up | 64.3 | 88 | $1.44 per 1,000 companies | 2026-10-22 |
+| 12 | [BetterContact](https://datacircle.dev/company-discovery-apis/bettercontact/49-monthly) | $49 monthly | 58.8 | 88 | $4.90 per 1,000 companies | 2026-11-06 |
+| 13 | [JobsPipe](https://datacircle.dev/company-discovery-apis/jobspipe/9-80-pack-credit-pack-without-an-account-post-v1-jobs-companies) | top-up from $9.80, Credit pack without an account | 57.2 | 73 | $1.96 per 1,000 companies | 2026-10-25 |
+| 14 | [GetLeads](https://datacircle.dev/company-discovery-apis/getleads/497-monthly-unlimited-post-api-v1-companies-search) | $497 monthly, Unlimited | 56.2 | 53 | $0.083 per 1,000 companies | 2026-10-29 |
+| 15 | [Signalbase](https://datacircle.dev/company-discovery-apis/signalbase/99-monthly) | €99 monthly | 56 | 88 | $0.56 per 1,000 companies | 2026-10-26 |
+| 16 | [TechnologyChecker](https://datacircle.dev/company-discovery-apis/technologychecker/89-monthly-pro-get-v1-companies) | $89 monthly, Pro | 55.2 | 70 | $0.089 per 1,000 companies | 2026-11-01 |
+| 17 | [Extruct](https://datacircle.dev/company-discovery-apis/extruct/149-monthly-pro-post-v1-companies-search) | $149 monthly, Pro | 52.9 | 78 | $0.30 per 1,000 companies | 2026-10-25 |
+| 18 | [Exa](https://datacircle.dev/company-discovery-apis/exa/top-up-from-5-developer-pay-as-you-go-post-search-search) | top-up from $5, Developer (pay as you go) | 52.7 | 75 | $0.70 per 1,000 companies | 2026-11-01 |
+| 19 | [OneShot](https://datacircle.dev/company-discovery-apis/oneshot/top-up-from-0-01-card-via-stripe-checkout) | top-up from $0.01, Card via Stripe Checkout | 52.3 | 65 | $0.10 per 1,000 companies | 2026-10-29 |
+| 20 | [Village](https://datacircle.dev/company-discovery-apis/village/1-monthly) | $1 monthly | 52.3 | 71 | $3.00 per 1,000 companies | 2026-10-28 |
+| 21 | [Bright Data](https://datacircle.dev/company-discovery-apis/bright-data/top-up-pay-as-you-go-post-search-company-search-companies-ludicrous) | top-up, Pay as you go | 51.8 | 80 | $0.02 per 1,000 companies | 2026-11-02 |
+| 22 | [Findymail](https://datacircle.dev/company-discovery-apis/findymail/399-monthly) | $399 monthly, Business Plus | 49.6 | 56 | $1.33 per 1,000 companies | 2026-11-05 |
+| 23 | [Bloomberry](https://datacircle.dev/company-discovery-apis/bloomberry/299-monthly-pro-get-accounts-tech-json) | $299 monthly, Pro | 49.4 | 87 | $46.00 per 1,000 companies | 2026-10-21 |
+| 24 | [TheirStack](https://datacircle.dev/company-discovery-apis/theirstack/400-monthly) | $400 monthly | 49.3 | 77 | $24.00 per 1,000 companies | 2026-11-07 |
+| 25 | [Instantly](https://datacircle.dev/company-discovery-apis/instantly/97-monthly-supersonic-credits-post-api-v2-supersearch-enrichment-company-lists-create-a-company-list-build-theirstack) | $97 monthly, Supersonic credits | 47.3 | 77 | $38.80 per 1,000 companies | 2026-10-24 |
+| 26 | [DiscoLike](https://datacircle.dev/company-discovery-apis/discolike/99-monthly) | $99 monthly | 44.8 | 61 | $3.50 per 1,000 companies | 2026-10-27 |
+| 27 | [Diffbot](https://datacircle.dev/company-discovery-apis/diffbot/299-monthly) | $299 monthly | 43.2 | 57 | $29.90 per 1,000 companies | 2026-10-24 |
+| 28 | [CompanyEnrich](https://datacircle.dev/company-discovery-apis/companyenrich/149-monthly-pro-post-companies-search-search) | $149 monthly, Pro | 43.1 | 54 | $2.98 per 1,000 companies | 2026-10-24 |
+| 29 | [Sumble](https://datacircle.dev/company-discovery-apis/sumble/99-monthly-pro-post-v9-organizations-organizations) | $99 monthly, Pro | 42.8 | 47 | $10.00 per 1,000 companies | 2026-10-26 |
+| 30 | [Coresignal](https://datacircle.dev/company-discovery-apis/coresignal/49-monthly-mini-get-v2-company-multi-source-collect-company-id-collect-company-api) | $49 monthly, Mini | 41.8 | 70 | $196.00 per 1,000 companies | 2026-10-21 |
+| 31 | [Lusha](https://datacircle.dev/company-discovery-apis/lusha/49-90-monthly-starter-post-v3-companies-prospecting-prospecting-companies) | $49.90 monthly, Starter | 40.7 | 53 | $4.99 per 1,000 companies | 2026-10-20 |
+| 32 | [People Data Labs](https://datacircle.dev/company-discovery-apis/people-data-labs/100-monthly) | $100 monthly | 36.7 | 46 | $100.00 per 1,000 companies | 2026-10-20 |
+| 33 | [Happierleads](https://datacircle.dev/company-discovery-apis/happierleads/99-monthly) | $99 monthly | 31 | 54 |  | 2026-11-06 |
+| 34 | [QuickEnrich](https://datacircle.dev/company-discovery-apis/quickenrich/399-monthly) | $399 monthly | 75.2 | 45 | $0 extra per 1,000. The $399 monthly price covers any number of companies | 2026-10-22 |
+| 35 | [AdLibrarySpy](https://datacircle.dev/company-discovery-apis/adlibraryspy/free) | free | 67.3 | 11 | $0.00 per 1,000 companies | 2026-11-06 |
+| 36 | [SAM.gov](https://datacircle.dev/company-discovery-apis/sam-gov/free-non-federal-user-with-no-role-in-sam-gov) | free, Non-federal user with no Role in SAM.gov | 57 | 7 | $0.00 per 1,000 companies | 2026-11-08 |
+| 37 | [Coldlytics](https://datacircle.dev/company-discovery-apis/coldlytics/49-monthly) | $49 monthly | 50.6 | 17 | $0.20 per 1,000 companies | 2026-11-06 |
+| 38 | [The Companies API](https://datacircle.dev/company-discovery-apis/the-companies-api/295-monthly-scaleup-get-v2-companies) | $295 monthly, Scaleup | 50.3 | 39 | $1.18 per 1,000 companies | 2026-10-27 |
+| 39 | [Argorant](https://datacircle.dev/company-discovery-apis/argorant/49-monthly) | $49 monthly | 49.8 | 35 | $0.00038 per 1,000 companies | 2026-10-28 |
+| 40 | [AI Ark](https://datacircle.dev/company-discovery-apis/ai-ark/119-monthly) | $119 monthly | 43.8 | 28 | $0.40 per 1,000 companies | 2026-10-24 |
+| 41 | [The Swarm](https://datacircle.dev/company-discovery-apis/the-swarm/500-monthly-premium-1000-post-v3-companies-fetch) | $500 monthly, Premium 1000 | 43.8 | 32 | $10.00 per 1,000 companies | 2026-10-20 |
+| 42 | [NinjaPear](https://datacircle.dev/company-discovery-apis/ninjapear/49-monthly) | $49 monthly | 43.1 | 22 | $0.39 per 1,000 companies | 2026-10-21 |
+| 43 | [Xverum](https://datacircle.dev/company-discovery-apis/xverum/1-monthly) | $1 monthly | 41.8 | 21 | $0.45 per 1,000 companies | 2026-10-28 |
+| 44 | [PublicWWW](https://datacircle.dev/company-discovery-apis/publicwww/79-pack-pro-get-v1-search) | $79 pack, Pro | 41 | 10 | $0.0011 per 1,000 companies | 2026-11-06 |
+| 45 | [Captapi](https://datacircle.dev/company-discovery-apis/captapi/10-pack) | $10 pack | 40.6 | 2 | $0.10 per 1,000 companies | 2026-10-28 |
+| 46 | [PredictLeads](https://datacircle.dev/company-discovery-apis/predictleads/pay-as-you-go-10001-100000-api-calls-get-discover-companies) | pay as you go, 10,001-100,000 API Calls | 40.6 | 29 | $10.00 per 1,000 companies | 2026-10-25 |
+| 47 | [SerpKite](https://datacircle.dev/company-discovery-apis/serpkite/10-pack) | $10 pack | 40.4 | 1 | $0.10 per 1,000 companies | 2026-10-28 |
+| 48 | [Tomba](https://datacircle.dev/company-discovery-apis/tomba/199-monthly) | $199 monthly | 39.3 | 9 | $0.20 per 1,000 companies | 2026-10-30 |
+| 49 | [Datahyena](https://datacircle.dev/company-discovery-apis/datahyena/30-pack) | $30 pack | 39 | 26 | $60.00 per 1,000 companies | 2026-11-06 |
+| 50 | [Hirebase](https://datacircle.dev/company-discovery-apis/hirebase/249-monthly) | $249 monthly | 38.2 | 30 | $4.98 per 1,000 companies | 2026-10-25 |
+| 51 | [Perigon](https://datacircle.dev/company-discovery-apis/perigon/250-monthly) | $250 monthly | 37.8 | 43 | $0.50 per 1,000 companies | 2026-10-30 |
+| 52 | [Parsers VC](https://datacircle.dev/company-discovery-apis/parsers-vc/19-monthly-starter-get-startups-list-startups) | $19 monthly, Starter | 37.2 | 40 | $9.50 per 1,000 companies | 2026-10-24 |
+| 53 | [Charity Navigator](https://datacircle.dev/company-discovery-apis/charity-navigator/25-monthly-startups-post-graphql-bulknonprofits) | $25 monthly, Startups | 35.8 | 12 | $0.0005 per 1,000 companies | 2026-11-07 |
+| 54 | [FirmenData](https://datacircle.dev/company-discovery-apis/firmendata/top-up-from-5-account-credits-from-5-500-credits-get-v1-companies-search-advanced-search) | top-up from €5, Account, credits from €5 (500 credits) | 35.6 | 22 | $0.23 per 1,000 companies | 2026-11-09 |
+| 55 | [Jobven](https://datacircle.dev/company-discovery-apis/jobven/199-monthly-growth-get-v1-public-company-profiles) | $199 monthly, Growth | 34.6 | 1 | $3.98 per 1,000 companies | 2026-10-30 |
+| 56 | [Listar](https://datacircle.dev/company-discovery-apis/listar/top-up-from-10) | top-up from €10 | 33.3 | 27 | $22.51 per 1,000 companies | 2026-11-03 |
+| 57 | [Compabase](https://datacircle.dev/company-discovery-apis/compabase/pln-99-monthly-pro-get-companies-export) | PLN 99 (about $25) monthly, Pro | 32.8 | 6 | $0.01 per 1,000 companies | 2026-11-06 |
+| 58 | [Scoris](https://datacircle.dev/company-discovery-apis/scoris/19-pack) | €19 pack | 31.7 | 6 | $0.0043 per 1,000 companies | 2026-11-03 |
+| 59 | [Dealfront](https://datacircle.dev/company-discovery-apis/dealfront/113-monthly) | €113 monthly | 31.4 | 35 |  | 2026-11-07 |
+| 60 | [PrismCrawl](https://datacircle.dev/company-discovery-apis/prismcrawl/5-pack-micro-post-v1-google-maps-search) | $5 pack, Micro | 30.7 | 1 | $0.015 per 1,000 companies | 2026-10-29 |
+| 61 | [ReefAPI](https://datacircle.dev/company-discovery-apis/reefapi/15-monthly-pro-monthly-post-google-maps-v1-place-search) | $15 monthly, Pro monthly | 30.4 | 2 | $0.015 per 1,000 companies | 2026-10-27 |
+| 62 | [ListSignal](https://datacircle.dev/company-discovery-apis/listsignal/399-monthly-scale-get-api-v1-query) | $399 monthly, Scale | 28.3 | 13 | $5.32 per 1,000 companies | 2026-11-07 |
+| 63 | [Bytemine](https://datacircle.dev/company-discovery-apis/bytemine/top-up-from-0-50) | top-up from $0.50 | 28.2 | 4 | $10.00 per 1,000 companies | 2026-10-29 |
+| 64 | [LeadIQ](https://datacircle.dev/company-discovery-apis/leadiq/130-50-monthly) | $130.50 monthly | 27.2 | 27 | $135.00 per 1,000 companies | 2026-10-20 |
+| 65 | [DataForSEO](https://datacircle.dev/company-discovery-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-domain-analytics-technologies-domains-by-html-terms-live) | top-up from $50, Pay as you go | 24.8 | 2 | $1.20 per 1,000 companies | 2026-10-30 |
 | 66 | [Bigdata.com](https://datacircle.dev/company-discovery-apis/bigdata-com/50-monthly) | $50 monthly | 22.4 | 7 |  | 2026-10-26 |
 | 67 | [Openmart](https://datacircle.dev/company-discovery-apis/openmart/149-monthly-starter-post-api-v2-brands-search) | $149 monthly, Starter | 22.4 | 2 |  | 2026-11-09 |
-| 68 | [Nimble](https://datacircle.dev/company-discovery-apis/nimble/pay-as-you-go-post-v2-serp-batch) | pay as you go | 20.4 | 1 | $0.15 per 1,000 companies | 2026-10-31 |
+| 68 | [Nimble](https://datacircle.dev/company-discovery-apis/nimble/pay-as-you-go-post-v2-serp-batch) | pay as you go | 20.6 | 1 | $0.15 per 1,000 companies | 2026-10-31 |
 | 69 | [Tamozo](https://datacircle.dev/company-discovery-apis/tamozo/top-up-from-10) | top-up from $10 | 20.2 | 17 |  | 2026-11-07 |
 | 70 | [GitDealFlow](https://datacircle.dev/company-discovery-apis/gitdealflow/197-monthly) | €197 monthly | 20 | 1 |  | 2026-11-06 |
 | 71 | [Crawlora](https://datacircle.dev/company-discovery-apis/crawlora/9-monthly) | $9 monthly | 18.1 | 1 |  | 2026-11-07 |
@@ -102,7 +102,7 @@ Every plan below is on our ranking page, [Company discovery API: best providers 
 | 92 | [GLEIF](https://datacircle.dev/company-discovery-apis/gleif/free) | free | 0 | 0 | $0.00 per 1,000 companies | 2026-11-03 |
 | 93 | [GoodLeads.Club](https://datacircle.dev/company-discovery-apis/goodleads-club/free-get-v1-leads) | free | 0 | 0 | $0.00 per 1,000 companies | 2026-11-09 |
 | 94 | [GovConAPI](https://datacircle.dev/company-discovery-apis/govconapi/19-monthly) | $19 monthly | 0 | 0 | $0.000026 per 1,000 companies | 2026-11-08 |
-| 95 | [Indicadores Argentina](https://datacircle.dev/company-discovery-apis/indicadores-argentina/ars-40000-pack) | ARS 40,000 (about $26) pack | 0 | 0 | $0.527 per 1,000 companies | 2026-11-09 |
+| 95 | [Indicadores Argentina](https://datacircle.dev/company-discovery-apis/indicadores-argentina/ars-40000-pack) | ARS 40,000 (about $26) pack | 0 | 0 | $0.53 per 1,000 companies | 2026-11-09 |
 | 96 | [INSEE](https://datacircle.dev/company-discovery-apis/insee/free-acces-public-get-siret) | free, Accès public | 0 | 0 | $0.00 per 1,000 companies | 2026-11-03 |
 | 97 | [Leadstrategist](https://datacircle.dev/company-discovery-apis/leadstrategist/dkk-39-monthly) | DKK 39 (about $6) monthly | 0 | 0 | $0.0012 per 1,000 companies | 2026-11-09 |
 | 98 | [MORVS](https://datacircle.dev/company-discovery-apis/morvs/free-get-api-v1-advisers) | free | 0 | 0 | $0.00 per 1,000 companies | 2026-11-08 |

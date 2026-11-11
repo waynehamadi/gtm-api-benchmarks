@@ -1,6 +1,6 @@
 # Hacker News comment API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,176 providers of 141 kinds of API.
 
 Algolia scores best overall in our benchmark: 90.7 out of 100. Algolia scores 100 out of 100 for accuracy. Algolia's plan "free" costs $0.00 per 1,000 comments. We rank 6 providers. We last tested them on 2026-11-05.
 

@@ -1,16 +1,16 @@
 # Google Ads Transparency API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,176 providers of 141 kinds of API.
 
-Scrappa scores best overall in our benchmark: 88 out of 100. Scrappa scores 99 out of 100 for accuracy. Scrappa's plan "$100 pack" costs $0.0027 per 1,000 ads. We rank 9 providers. We last tested them on 2026-11-09.
+Scrappa scores best overall in our benchmark: 88.4 out of 100. Scrappa scores 99 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.003 per 1,000 ads. We rank 9 providers. We last tested them on 2026-11-09.
 
 Every plan below is on our ranking page, [Google Ads Transparency API: best providers in 2026](https://datacircle.dev/best-google-ads-transparency-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Scrappa](https://datacircle.dev/google-ad-apis/scrappa/100-pack) | $100 pack | 88 | 99 | $0.0027 per 1,000 ads | 2026-11-06 |
+| 1 | [Scrappa](https://datacircle.dev/google-ad-apis/scrappa/10-pack) | $10 pack | 88.4 | 99 | $0.003 per 1,000 ads | 2026-11-06 |
 | 2 | [Stophy](https://datacircle.dev/google-ad-apis/stophy/top-up-from-10) | top-up from $10 | 62.9 | 100 |  | 2026-11-09 |
-| 3 | [Pushbuild](https://datacircle.dev/google-ad-apis/pushbuild/top-up) | top-up | 59.4 | 100 | $1.20 per 1,000 ads | 2026-11-06 |
+| 3 | [Pushbuild](https://datacircle.dev/google-ad-apis/pushbuild/top-up) | top-up | 58.5 | 100 | $1.20 per 1,000 ads | 2026-11-06 |
 | 4 | [Brizzox](https://datacircle.dev/google-ad-apis/brizzox/25-monthly) | $25 monthly | 55.5 | 96 |  | 2026-11-03 |
 | 5 | [FetchGoblin](https://datacircle.dev/google-ad-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 54.4 | 99 |  | 2026-11-06 |
 | 6 | [ScrapeCreators](https://datacircle.dev/google-ad-apis/scrapecreators/47-pack) | $47 pack | 53.6 | 99 |  | 2026-11-06 |

@@ -1,6 +1,6 @@
 # LinkedIn profile reaction API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,114 providers of 127 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,176 providers of 141 kinds of API.
 
 Fetchin scores best overall in our benchmark: 73.8 out of 100. Fetchin scores 98 out of 100 for accuracy. Fetchin's plan "$50 monthly" costs $0.01 per 1,000 reactions. We rank 5 providers. We last tested them on 2026-10-25.
 
