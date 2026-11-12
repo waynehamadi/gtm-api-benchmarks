@@ -1,6 +1,6 @@
 # Phone API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,176 providers of 141 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
 
 MillionPhones scores best overall in our benchmark: 68 out of 100. MillionPhones scores 46 out of 100 for accuracy. MillionPhones's plan "$300 monthly, Pro 40,000 credits/mo" costs $75.00 per 1,000 phones. We rank 10 providers. We last tested them on 2026-11-06.
 
@@ -12,7 +12,7 @@ Every plan below is on our ranking page, [Phone API: best providers in 2026](htt
 | 2 | [Fiber AI](https://datacircle.dev/find-phone-apis/fiber-ai/top-up-from-3-pay-as-you-go-post-v1-contact-details-single) | top-up from $3, Pay-as-you-go | 61.3 | 40 | $90.00 per 1,000 phones | 2026-10-23 |
 | 3 | [treg](https://datacircle.dev/find-phone-apis/treg/top-up-from-10) | top-up from $10 | 55.7 | 32 | $116.61 per 1,000 phones | 2026-10-27 |
 | 4 | [Explee](https://datacircle.dev/find-phone-apis/explee/top-up-credits-pay-as-you-go-post-public-api-v1-enrich-phone-find-phone-by-linkedin-url-basic) | top-up, Credits (pay as you go) | 55 | 33 | $150.00 per 1,000 phones | 2026-11-06 |
-| 5 | [Prospeo](https://datacircle.dev/find-phone-apis/prospeo/249-monthly-pro-post-enrich-person) | $249 monthly, Pro | 53.8 | 33 | $166.00 per 1,000 phones | 2026-10-22 |
+| 5 | [Prospeo](https://datacircle.dev/find-phone-apis/prospeo/249-monthly-pro-post-enrich-person) | $249 monthly, Pro | 54 | 34 | $166.00 per 1,000 phones | 2026-10-22 |
 | 6 | [SyncGTM](https://datacircle.dev/find-phone-apis/syncgtm/249-monthly) | $249 monthly | 52.9 | 42 | $249.00 per 1,000 phones | 2026-11-06 |
 | 7 | [WizLeads](https://datacircle.dev/find-phone-apis/wizleads/449-quarterly) | $449 quarterly | 51 | 33 | $149.67 per 1,000 phones | 2026-10-23 |
 | 8 | [Enrow](https://datacircle.dev/find-phone-apis/enrow/87-monthly) | $87 monthly, Pro | 48.5 | 40 | $348.00 per 1,000 phones | 2026-10-29 |

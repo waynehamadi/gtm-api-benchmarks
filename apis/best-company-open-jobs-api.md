@@ -1,6 +1,6 @@
 # Company job openings API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,176 providers of 141 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
 
 AIDevBoard scores best overall in our benchmark: 76.8 out of 100. AIDevBoard scores 39 out of 100 for accuracy. AIDevBoard's plan "free" costs $0.00 per 1,000 jobs. We rank 36 providers. We last tested them on 2026-11-07.
 
@@ -9,24 +9,24 @@ Every plan below is on our ranking page, [Company job openings API: best provide
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [AIDevBoard](https://datacircle.dev/company-open-job-apis/aidevboard/free) | free | 76.8 | 39 | $0.00 per 1,000 jobs | 2026-11-07 |
-| 2 | [freehire](https://datacircle.dev/company-open-job-apis/freehire/29-monthly) | $29 monthly | 72.5 | 60 | $0.0000056 per 1,000 jobs | 2026-10-28 |
+| 2 | [freehire](https://datacircle.dev/company-open-job-apis/freehire/29-monthly) | $29 monthly | 72.1 | 60 | $0.0000056 per 1,000 jobs | 2026-10-28 |
 | 3 | [Ashby](https://datacircle.dev/company-open-job-apis/ashby/free) | free | 69 | 40 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 4 | [Greenhouse](https://datacircle.dev/company-open-job-apis/greenhouse/free) | free | 68.9 | 38 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 5 | [YubHub](https://datacircle.dev/company-open-job-apis/yubhub/free) | free | 65.1 | 46 | $0.00 per 1,000 jobs | 2026-11-07 |
-| 6 | [ReefAPI](https://datacircle.dev/company-open-job-apis/reefapi/15-monthly-pro-monthly-post-linkedin-jobs-v1-jobs-by-company) | $15 monthly, Pro monthly | 64.3 | 55 | $0.0015 per 1,000 jobs | 2026-10-27 |
+| 6 | [ReefAPI](https://datacircle.dev/company-open-job-apis/reefapi/15-monthly-pro-monthly-post-linkedin-jobs-v1-jobs-by-company) | $15 monthly, Pro monthly | 64.2 | 55 | $0.0015 per 1,000 jobs | 2026-10-27 |
 | 7 | [JobDataAPI](https://datacircle.dev/company-open-job-apis/jobdataapi/free) | free | 63.2 | 44 | $0.00 per 1,000 jobs | 2026-11-07 |
-| 8 | [Pushbuild](https://datacircle.dev/company-open-job-apis/pushbuild/top-up) | top-up | 52.7 | 56 | $0.40 per 1,000 jobs | 2026-11-07 |
-| 9 | [BlitzAPI](https://datacircle.dev/company-open-job-apis/blitzapi/499-monthly) | $499 monthly | 52.5 | 47 | $0.10 per 1,000 jobs | 2026-10-28 |
-| 10 | [Social Fetch](https://datacircle.dev/company-open-job-apis/social-fetch/29-monthly) | $29 monthly | 50.4 | 68 | $0.097 per 1,000 jobs | 2026-10-28 |
-| 11 | [Fantastic.jobs](https://datacircle.dev/company-open-job-apis/fantastic-jobs/500-monthly-pro-250k-get-v1-active-ats) | $500 monthly, Pro-250k | 49.7 | 71 | $2.00 per 1,000 jobs | 2026-10-27 |
-| 12 | [ScrapeUnblocker](https://datacircle.dev/company-open-job-apis/scrapeunblocker/pay-as-you-go-pay-as-you-go-post-jobs-career-site-scrape-company-career-sites-greenhouse-lever-ashby-workday-and-more-ashby) | pay as you go | 47.5 | 40 | $0.00056 per 1,000 jobs | 2026-10-28 |
-| 13 | [Hirebase](https://datacircle.dev/company-open-job-apis/hirebase/249-monthly) | $249 monthly | 45.2 | 59 | $1.00 per 1,000 jobs | 2026-11-07 |
-| 14 | [RouterGrowth](https://datacircle.dev/company-open-job-apis/routergrowth/499-monthly) | $499 monthly | 45 | 65 | $1.30 per 1,000 jobs | 2026-10-25 |
-| 15 | [JobPostingsAPI](https://datacircle.dev/company-open-job-apis/jobpostingsapi/199-monthly) | $199 monthly | 44.3 | 41 | $0.20 per 1,000 jobs | 2026-11-07 |
-| 16 | [PredictLeads](https://datacircle.dev/company-open-job-apis/predictleads/pay-as-you-go-10001-100000-api-calls) | pay as you go, 10,001-100,000 API Calls | 44.3 | 43 | $0.01 per 1,000 jobs | 2026-10-25 |
+| 8 | [BlitzAPI](https://datacircle.dev/company-open-job-apis/blitzapi/499-monthly) | $499 monthly | 52.5 | 47 | $0.10 per 1,000 jobs | 2026-10-28 |
+| 9 | [Pushbuild](https://datacircle.dev/company-open-job-apis/pushbuild/top-up) | top-up | 52.1 | 56 | $0.40 per 1,000 jobs | 2026-11-07 |
+| 10 | [Social Fetch](https://datacircle.dev/company-open-job-apis/social-fetch/29-monthly) | $29 monthly | 50.5 | 68 | $0.097 per 1,000 jobs | 2026-10-28 |
+| 11 | [Fantastic.jobs](https://datacircle.dev/company-open-job-apis/fantastic-jobs/500-monthly-pro-250k-get-v1-active-ats) | $500 monthly, Pro-250k | 49.4 | 71 | $2.00 per 1,000 jobs | 2026-10-27 |
+| 12 | [ScrapeUnblocker](https://datacircle.dev/company-open-job-apis/scrapeunblocker/pay-as-you-go-pay-as-you-go-post-jobs-career-site-scrape-company-career-sites-greenhouse-lever-ashby-workday-and-more-ashby) | pay as you go | 47.4 | 40 | $0.00056 per 1,000 jobs | 2026-10-28 |
+| 13 | [Hirebase](https://datacircle.dev/company-open-job-apis/hirebase/249-monthly) | $249 monthly | 44.8 | 59 | $1.00 per 1,000 jobs | 2026-11-07 |
+| 14 | [RouterGrowth](https://datacircle.dev/company-open-job-apis/routergrowth/499-monthly) | $499 monthly | 44.7 | 65 | $1.30 per 1,000 jobs | 2026-10-25 |
+| 15 | [PredictLeads](https://datacircle.dev/company-open-job-apis/predictleads/pay-as-you-go-10001-100000-api-calls) | pay as you go, 10,001-100,000 API Calls | 44.4 | 43 | $0.01 per 1,000 jobs | 2026-10-25 |
+| 16 | [JobPostingsAPI](https://datacircle.dev/company-open-job-apis/jobpostingsapi/199-monthly) | $199 monthly | 43.7 | 41 | $0.20 per 1,000 jobs | 2026-11-07 |
 | 17 | [Superagnt](https://datacircle.dev/company-open-job-apis/superagnt/top-up-from-10) | top-up from $10 | 42.9 | 68 |  | 2026-11-07 |
-| 18 | [OpenWeb Ninja](https://datacircle.dev/company-open-job-apis/openweb-ninja/150-monthly) | $150 monthly | 41.1 | 53 | $0.075 per 1,000 jobs | 2026-10-21 |
-| 19 | [Omkar Cloud](https://datacircle.dev/company-open-job-apis/omkar-cloud/48-monthly) | $48 monthly | 39.7 | 40 | $0.048 per 1,000 jobs | 2026-11-07 |
+| 18 | [OpenWeb Ninja](https://datacircle.dev/company-open-job-apis/openweb-ninja/150-monthly) | $150 monthly | 41.2 | 53 | $0.075 per 1,000 jobs | 2026-10-21 |
+| 19 | [Omkar Cloud](https://datacircle.dev/company-open-job-apis/omkar-cloud/48-monthly) | $48 monthly | 39.8 | 40 | $0.048 per 1,000 jobs | 2026-11-07 |
 | 20 | [Workable](https://datacircle.dev/company-open-job-apis/workable/free) | free | 62.9 | 29 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 21 | [Litescrape](https://datacircle.dev/company-open-job-apis/litescrape/top-up-from-10-usage-based-get-api-ashby-search) | top-up from $10, Usage-based | 57.7 | 35 | $0.0015 per 1,000 jobs | 2026-10-27 |
 | 22 | [Personio](https://datacircle.dev/company-open-job-apis/personio/free) | free | 57.3 | 8 | $0.00 per 1,000 jobs | 2026-10-28 |
@@ -40,10 +40,10 @@ Every plan below is on our ranking page, [Company job openings API: best provide
 | 30 | [Trakstar Hire](https://datacircle.dev/company-open-job-apis/trakstar-hire/free) | free | 51.4 | 15 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 31 | [JobScore](https://datacircle.dev/company-open-job-apis/jobscore/free) | free | 45.9 | 1 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 32 | [Reqbeat](https://datacircle.dev/company-open-job-apis/reqbeat/79-monthly) | €79 monthly | 33.8 | 28 |  | 2026-11-07 |
-| 33 | [VeritaHire](https://datacircle.dev/company-open-job-apis/veritahire/19-75-pack) | $19.75 pack | 33.4 | 13 | $3.95 per 1,000 jobs | 2026-11-07 |
+| 33 | [VeritaHire](https://datacircle.dev/company-open-job-apis/veritahire/19-75-pack) | $19.75 pack | 33.2 | 13 | $3.95 per 1,000 jobs | 2026-11-07 |
 | 34 | [Mantiks](https://datacircle.dev/company-open-job-apis/mantiks/190-monthly-growth-get-company-jobs) | €190 monthly, Growth | 24.9 | 29 |  | 2026-10-29 |
-| 35 | [Pipecorn](https://datacircle.dev/company-open-job-apis/pipecorn/189-monthly) | $189 monthly | 24.8 | 20 | $15.75 per 1,000 jobs | 2026-10-27 |
-| 36 | [Thordata](https://datacircle.dev/company-open-job-apis/thordata/500-pack) | $500 pack | 22.6 | 15 | $0.67 per 1,000 jobs | 2026-11-07 |
+| 35 | [Pipecorn](https://datacircle.dev/company-open-job-apis/pipecorn/189-monthly) | $189 monthly | 24.7 | 20 | $15.75 per 1,000 jobs | 2026-10-27 |
+| 36 | [Thordata](https://datacircle.dev/company-open-job-apis/thordata/125-pack) | $125 pack | 22 | 15 | $0.83 per 1,000 jobs | 2026-11-07 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
 

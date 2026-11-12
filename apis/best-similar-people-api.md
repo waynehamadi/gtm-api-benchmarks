@@ -1,6 +1,6 @@
 # Similar people API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,176 providers of 141 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
 
 Reverse Contact scores best overall in our benchmark: 48 out of 100. Reverse Contact scores 14 out of 100 for accuracy. Reverse Contact's plan "$449 monthly" costs $0.15 per 1,000 people. We rank 3 providers. We last tested them on 2026-10-27.
 
