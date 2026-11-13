@@ -1,8 +1,8 @@
 # Company job openings API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-AIDevBoard scores best overall in our benchmark: 76.8 out of 100. AIDevBoard scores 39 out of 100 for accuracy. AIDevBoard's plan "free" costs $0.00 per 1,000 jobs. We rank 36 providers. We last tested them on 2026-11-07.
+AIDevBoard ranks first in our benchmark, with an Overall score of 76.8 out of 100. AIDevBoard scores 39 out of 100 for accuracy. AIDevBoard's plan "free" costs $0.00 per 1,000 jobs. We rank 36 providers. We last tested them on 2026-11-07.
 
 Every plan below is on our ranking page, [Company job openings API: best providers in 2026](https://datacircle.dev/best-company-open-jobs-api).
 
@@ -45,6 +45,6 @@ Every plan below is on our ranking page, [Company job openings API: best provide
 | 35 | [Pipecorn](https://datacircle.dev/company-open-job-apis/pipecorn/189-monthly) | $189 monthly | 24.7 | 20 | $15.75 per 1,000 jobs | 2026-10-27 |
 | 36 | [Thordata](https://datacircle.dev/company-open-job-apis/thordata/125-pack) | $125 pack | 22 | 15 | $0.83 per 1,000 jobs | 2026-11-07 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

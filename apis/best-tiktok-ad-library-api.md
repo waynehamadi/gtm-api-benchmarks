@@ -1,8 +1,8 @@
 # TikTok Ad Library API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-Stophy scores best overall in our benchmark: 70 out of 100. Stophy scores 56 out of 100 for accuracy. Stophy's plan "top-up from $500" costs $0.10 per 1,000 ads. We rank 8 providers. We last tested them on 2026-11-09.
+Stophy ranks first in our benchmark, with an Overall score of 70 out of 100. Stophy scores 56 out of 100 for accuracy. Stophy's plan "top-up from $500" costs $0.10 per 1,000 ads. We rank 8 providers. We last tested them on 2026-11-09.
 
 Every plan below is on our ranking page, [TikTok Ad Library API: best providers in 2026](https://datacircle.dev/best-tiktok-ad-library-api).
 
@@ -17,6 +17,6 @@ Every plan below is on our ranking page, [TikTok Ad Library API: best providers 
 | 7 | [ScrapeField](https://datacircle.dev/tiktok-ad-apis/scrapefield/149-pack) | $149 pack | 45.9 | 27 | $0.15 per 1,000 ads | 2026-11-09 |
 | 8 | [AdLibAPI](https://datacircle.dev/tiktok-ad-apis/adlibapi/299-monthly) | $299 monthly | 45.8 | 33 | $0.25 per 1,000 ads | 2026-11-09 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

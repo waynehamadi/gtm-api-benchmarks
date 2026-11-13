@@ -1,8 +1,8 @@
 # Walmart search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-Crawlora scores best overall in our benchmark: 72.2 out of 100. Crawlora scores 53 out of 100 for accuracy. Crawlora's plan "$499 monthly" costs $0.30 per 1,000 searches. We rank 16 providers. We last tested them on 2026-11-08.
+Crawlora ranks first in our benchmark, with an Overall score of 72.2 out of 100. Crawlora scores 53 out of 100 for accuracy. Crawlora's plan "$499 monthly" costs $0.30 per 1,000 searches. We rank 16 providers. We last tested them on 2026-11-08.
 
 Every plan below is on our ranking page, [Walmart search API: best providers in 2026](https://datacircle.dev/best-walmart-search-api).
 
@@ -25,6 +25,6 @@ Every plan below is on our ranking page, [Walmart search API: best providers in 
 | 15 | [Kompy](https://datacircle.dev/walmart-search-apis/kompy/25-99-monthly) | $25.99 monthly | 33 | 35 |  | 2026-11-08 |
 | 16 | [Datawebot (ecommerce product data API)](https://datacircle.dev/walmart-search-apis/datawebot-ecommerce-product-data-api/10-pack) | $10 pack | 27.2 | 23 | $5.00 per 1,000 searches | 2026-11-08 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

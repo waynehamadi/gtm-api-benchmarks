@@ -1,8 +1,8 @@
 # Company headcount API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-Scrappa scores best overall in our benchmark: 86.9 out of 100. Scrappa scores 95 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 companies. We rank 17 providers. We last tested them on 2026-11-05.
+Scrappa ranks first in our benchmark, with an Overall score of 86.9 out of 100. Scrappa scores 95 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 companies. We rank 17 providers. We last tested them on 2026-11-05.
 
 Every plan below is on our ranking page, [Company headcount API: best providers in 2026](https://datacircle.dev/best-company-headcount-api).
 
@@ -26,6 +26,6 @@ Every plan below is on our ranking page, [Company headcount API: best providers 
 | 16 | [ZenRows](https://datacircle.dev/company-headcount-apis/zenrows/top-up-from-5) | top-up from $5 | 48.3 | 40 |  | 2026-10-27 |
 | 17 | [Anysite](https://datacircle.dev/company-headcount-apis/anysite/49-monthly) | $49 monthly | 0 | 0 | $3.27 per 1,000 companies | 2026-10-25 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

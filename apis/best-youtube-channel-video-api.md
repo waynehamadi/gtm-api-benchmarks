@@ -1,8 +1,8 @@
 # YouTube channel video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-ScrapeUnblocker scores best overall in our benchmark: 85.5 out of 100. ScrapeUnblocker scores 94 out of 100 for accuracy. ScrapeUnblocker's plan "pay as you go" costs $0.0056 per 1,000 videos. We rank 48 providers. We last tested them on 2026-11-11.
+ScrapeUnblocker ranks first in our benchmark, with an Overall score of 85.5 out of 100. ScrapeUnblocker scores 94 out of 100 for accuracy. ScrapeUnblocker's plan "pay as you go" costs $0.0056 per 1,000 videos. We rank 48 providers. We last tested them on 2026-11-11.
 
 Every plan below is on our ranking page, [YouTube channel video API: best providers in 2026](https://datacircle.dev/best-youtube-channel-video-api).
 
@@ -57,6 +57,6 @@ Every plan below is on our ranking page, [YouTube channel video API: best provid
 | 47 | [viral.app](https://datacircle.dev/youtube-channel-video-apis/viral-app/299-monthly) | $299 monthly | 23.2 | 22 |  | 2026-11-07 |
 | 48 | [BulkTranscripts](https://datacircle.dev/youtube-channel-video-apis/bulktranscripts/4-99-pack-starter-get-api-v1-channel-latest) | $4.99 pack, Starter | 21.4 | 35 |  | 2026-11-08 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

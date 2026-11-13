@@ -1,8 +1,8 @@
 # Perplexity scraper API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-BedrockTap scores best overall in our benchmark: 73.3 out of 100. BedrockTap scores 100 out of 100 for accuracy. BedrockTap's plan "$29 monthly" costs $15.15 per 1,000 answers. We rank 6 providers. We last tested them on 2026-11-10.
+BedrockTap ranks first in our benchmark, with an Overall score of 73.3 out of 100. BedrockTap scores 100 out of 100 for accuracy. BedrockTap's plan "$29 monthly" costs $15.15 per 1,000 answers. We rank 6 providers. We last tested them on 2026-11-10.
 
 Every plan below is on our ranking page, [Perplexity scraper API: best providers in 2026](https://datacircle.dev/best-perplexity-scraper-api).
 
@@ -15,6 +15,6 @@ Every plan below is on our ranking page, [Perplexity scraper API: best providers
 | 5 | [rocketblue](https://datacircle.dev/perplexity-scraper-apis/rocketblue/499-monthly-pro-get-v1-runs-runid) | $499 monthly, Pro | 36.5 | 50 |  | 2026-11-08 |
 | 6 | [AuditAE](https://datacircle.dev/perplexity-scraper-apis/auditae/top-up-from-5-top-up-post-api-v1-check) | top-up from $5, Top-up | 48.9 | 37 | $50.00 per 1,000 answers | 2026-11-10 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

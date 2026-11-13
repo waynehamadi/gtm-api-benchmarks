@@ -1,8 +1,8 @@
 # Video search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-Scrappa scores best overall in our benchmark: 87.4 out of 100. Scrappa scores 94 out of 100 for accuracy. Scrappa's plan "$25 pack" costs $0.29 per 1,000 searches. We rank 45 providers. We last tested them on 2026-11-10.
+Scrappa ranks first in our benchmark, with an Overall score of 87.4 out of 100. Scrappa scores 94 out of 100 for accuracy. Scrappa's plan "$25 pack" costs $0.29 per 1,000 searches. We rank 45 providers. We last tested them on 2026-11-10.
 
 Every plan below is on our ranking page, [Video search API: best providers in 2026](https://datacircle.dev/best-video-search-api).
 
@@ -54,6 +54,6 @@ Every plan below is on our ranking page, [Video search API: best providers in 20
 | 44 | [Marketplace for AI Agents](https://datacircle.dev/video-search-apis/marketplace-for-ai-agents/10-pack-10-credit-pack-get-api-public-v1-google-videos) | $10 pack, $10 credit pack | 35.1 | 33 | $5.00 per 1,000 searches | 2026-11-07 |
 | 45 | [JustSerpAPI](https://datacircle.dev/video-search-apis/justserpapi/5-monthly-launch-get-api-v1-google-shorts-search) | $5 monthly, Launch | 34.5 | 48 |  | 2026-11-06 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

@@ -1,8 +1,8 @@
 # Walmart product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-ScrapeUnblocker scores best overall in our benchmark: 73.5 out of 100. ScrapeUnblocker scores 70 out of 100 for accuracy. ScrapeUnblocker's plan "€299 monthly" costs $0.76 per 1,000 products. We rank 17 providers. We last tested them on 2026-11-08.
+ScrapeUnblocker ranks first in our benchmark, with an Overall score of 73.5 out of 100. ScrapeUnblocker scores 70 out of 100 for accuracy. ScrapeUnblocker's plan "€299 monthly" costs $0.76 per 1,000 products. We rank 17 providers. We last tested them on 2026-11-08.
 
 Every plan below is on our ranking page, [Walmart product API: best providers in 2026](https://datacircle.dev/best-walmart-product-api).
 
@@ -26,6 +26,6 @@ Every plan below is on our ranking page, [Walmart product API: best providers in
 | 16 | [Crawlbyte](https://datacircle.dev/walmart-product-apis/crawlbyte/top-up) | top-up | 39.3 | 26 | $10.00 per 1,000 products | 2026-11-08 |
 | 17 | [Datawebot (ecommerce product data API)](https://datacircle.dev/walmart-product-apis/datawebot-ecommerce-product-data-api/100-pack) | $100 pack | 31 | 12 | $0.63 per 1,000 products | 2026-11-08 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

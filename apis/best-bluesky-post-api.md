@@ -1,8 +1,8 @@
 # Bluesky post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-Bluesky scores best overall in our benchmark: 76.1 out of 100. Bluesky scores 65 out of 100 for accuracy. Bluesky's plan "free" costs $0.00 per 1,000 posts. We rank 13 providers. We last tested them on 2026-11-10.
+Bluesky ranks first in our benchmark, with an Overall score of 76.1 out of 100. Bluesky scores 65 out of 100 for accuracy. Bluesky's plan "free" costs $0.00 per 1,000 posts. We rank 13 providers. We last tested them on 2026-11-10.
 
 Every plan below is on our ranking page, [Bluesky post API: best providers in 2026](https://datacircle.dev/best-bluesky-post-api).
 
@@ -22,6 +22,6 @@ Every plan below is on our ranking page, [Bluesky post API: best providers in 20
 | 12 | [Bright Data](https://datacircle.dev/bluesky-post-apis/bright-data/top-up) | top-up | 38.2 | 62 | $1.50 per 1,000 posts | 2026-10-31 |
 | 13 | [Atproto MCP](https://datacircle.dev/bluesky-post-apis/atproto-mcp/free) | free | 63.7 | 37 | $0.00 per 1,000 posts | 2026-11-10 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

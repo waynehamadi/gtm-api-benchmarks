@@ -1,8 +1,8 @@
 # LinkedIn profile reaction API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-Fetchin scores best overall in our benchmark: 73.8 out of 100. Fetchin scores 98 out of 100 for accuracy. Fetchin's plan "$50 monthly" costs $0.01 per 1,000 reactions. We rank 5 providers. We last tested them on 2026-10-25.
+Fetchin ranks first in our benchmark, with an Overall score of 73.8 out of 100. Fetchin scores 98 out of 100 for accuracy. Fetchin's plan "$50 monthly" costs $0.01 per 1,000 reactions. We rank 5 providers. We last tested them on 2026-10-25.
 
 Every plan below is on our ranking page, [LinkedIn profile reaction API: best providers in 2026](https://datacircle.dev/best-linkedin-profile-reaction-api).
 
@@ -14,6 +14,6 @@ Every plan below is on our ranking page, [LinkedIn profile reaction API: best pr
 | 4 | [Anysite](https://datacircle.dev/linkedin-person-reaction-apis/anysite/300-monthly) | $300 monthly | 64.9 | 75 | $0.079 per 1,000 reactions | 2026-10-25 |
 | 5 | [Up2Data](https://datacircle.dev/linkedin-person-reaction-apis/up2data/200-pack-100k-post-v1-profiles-activity) | $200 pack, 100K | 48.4 | 45 | $0.16 per 1,000 reactions | 2026-10-25 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

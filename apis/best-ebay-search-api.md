@@ -1,8 +1,8 @@
 # eBay search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-ReefAPI scores best overall in our benchmark: 59.1 out of 100. ReefAPI scores 35 out of 100 for accuracy. ReefAPI's plan "$450 quarterly" costs $0.50 per 1,000 searches. We rank 17 providers. We last tested them on 2026-11-11.
+ReefAPI ranks first in our benchmark, with an Overall score of 59.1 out of 100. ReefAPI scores 35 out of 100 for accuracy. ReefAPI's plan "$450 quarterly" costs $0.50 per 1,000 searches. We rank 17 providers. We last tested them on 2026-11-11.
 
 Every plan below is on our ranking page, [eBay search API: best providers in 2026](https://datacircle.dev/best-ebay-search-api).
 
@@ -26,6 +26,6 @@ Every plan below is on our ranking page, [eBay search API: best providers in 202
 | 16 | [kwery](https://datacircle.dev/ebay-search-apis/kwery/399-monthly) | €399 monthly | 28.6 | 19 | $2.25 per 1,000 searches | 2026-11-11 |
 | 17 | [Datawebot (ecommerce product data API)](https://datacircle.dev/ebay-search-apis/datawebot-ecommerce-product-data-api/100-pack) | $100 pack | 24.9 | 19 | $3.13 per 1,000 searches | 2026-11-06 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

@@ -1,8 +1,8 @@
 # Image search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-SerpScraper.dev scores best overall in our benchmark: 94.8 out of 100. SerpScraper.dev scores 94 out of 100 for accuracy. SerpScraper.dev's plan "$39 monthly" costs $0.13 per 1,000 searches. We rank 29 providers. We last tested them on 2026-11-08.
+SerpScraper.dev ranks first in our benchmark, with an Overall score of 94.8 out of 100. SerpScraper.dev scores 94 out of 100 for accuracy. SerpScraper.dev's plan "$39 monthly" costs $0.13 per 1,000 searches. We rank 29 providers. We last tested them on 2026-11-08.
 
 Every plan below is on our ranking page, [Image search API: best providers in 2026](https://datacircle.dev/best-image-search-api).
 
@@ -38,6 +38,6 @@ Every plan below is on our ranking page, [Image search API: best providers in 20
 | 28 | [API League](https://datacircle.dev/image-search-apis/api-league/7-monthly) | $7 monthly | 0 | 0 | $0.93 per 1,000 searches | 2026-11-08 |
 | 29 | [OpenSERP](https://datacircle.dev/image-search-apis/openserp/top-up-credits-get-v1-mega-image-any-and-fast-image-search) | top-up, Credits | 0 | 0 | $7.83 per 1,000 searches | 2026-11-08 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

@@ -1,8 +1,8 @@
 # Google Shopping search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-SerpKite scores best overall in our benchmark: 75 out of 100. SerpKite scores 72 out of 100 for accuracy. SerpKite's plan "$300 pack" costs $0.60 per 1,000 searches. We rank 18 providers. We last tested them on 2026-11-10.
+SerpKite ranks first in our benchmark, with an Overall score of 75 out of 100. SerpKite scores 72 out of 100 for accuracy. SerpKite's plan "$300 pack" costs $0.60 per 1,000 searches. We rank 18 providers. We last tested them on 2026-11-10.
 
 Every plan below is on our ranking page, [Google Shopping search API: best providers in 2026](https://datacircle.dev/best-google-shopping-search-api).
 
@@ -27,6 +27,6 @@ Every plan below is on our ranking page, [Google Shopping search API: best provi
 | 17 | [BRONTIR](https://datacircle.dev/google-shopping-search-apis/brontir/125-monthly) | €125 monthly | 45.3 | 69 | $3.93 per 1,000 searches | 2026-11-09 |
 | 18 | [Novada](https://datacircle.dev/google-shopping-search-apis/novada/20-monthly) | $20 monthly | 39.3 | 62 |  | 2026-11-09 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

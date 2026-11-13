@@ -1,8 +1,8 @@
 # Google Play search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-Scrappa scores best overall in our benchmark: 69.4 out of 100. Scrappa scores 43 out of 100 for accuracy. Scrappa's plan "$50 pack" costs $0.28 per 1,000 searches. We rank 10 providers. We last tested them on 2026-11-11.
+Scrappa ranks first in our benchmark, with an Overall score of 69.4 out of 100. Scrappa scores 43 out of 100 for accuracy. Scrappa's plan "$50 pack" costs $0.28 per 1,000 searches. We rank 10 providers. We last tested them on 2026-11-11.
 
 Every plan below is on our ranking page, [Google Play search API: best providers in 2026](https://datacircle.dev/best-google-play-search-api).
 
@@ -19,6 +19,6 @@ Every plan below is on our ranking page, [Google Play search API: best providers
 | 9 | [AppGoat](https://datacircle.dev/google-play-search-apis/appgoat/147-monthly-studio-get-v1-keywords) | $147 monthly, Studio | 35.2 | 18 | $1.96 per 1,000 searches | 2026-11-11 |
 | 10 | [BRONTIR](https://datacircle.dev/google-play-search-apis/brontir/350-monthly) | €350 monthly | 29.3 | 16 | $1.91 per 1,000 searches | 2026-11-08 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

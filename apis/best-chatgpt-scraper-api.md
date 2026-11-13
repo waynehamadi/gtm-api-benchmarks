@@ -1,8 +1,8 @@
 # ChatGPT scraper API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-Scrappa scores best overall in our benchmark: 75 out of 100. Scrappa scores 51 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 answers. We rank 15 providers. We last tested them on 2026-11-08.
+Scrappa ranks first in our benchmark, with an Overall score of 75 out of 100. Scrappa scores 51 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 answers. We rank 15 providers. We last tested them on 2026-11-08.
 
 Every plan below is on our ranking page, [ChatGPT scraper API: best providers in 2026](https://datacircle.dev/best-chatgpt-scraper-api).
 
@@ -24,6 +24,6 @@ Every plan below is on our ranking page, [ChatGPT scraper API: best providers in
 | 14 | [rocketblue](https://datacircle.dev/chatgpt-scraper-apis/rocketblue/499-monthly-pro-get-v1-brands-brandid-last-results) | $499 monthly, Pro | 23.7 | 12 |  | 2026-11-08 |
 | 15 | [Sellm](https://datacircle.dev/chatgpt-scraper-apis/sellm/89-monthly-essential-post-async-analysis) | $89 monthly, Essential | 18.1 | 17 |  | 2026-11-08 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.

@@ -1,8 +1,8 @@
 # Web search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,287 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
 
-ScrapeNest scores best overall in our benchmark: 77.7 out of 100. ScrapeNest scores 77 out of 100 for accuracy. ScrapeNest's plan "$99 monthly, Growth" costs $0.33 per 1,000 searches. We rank 83 providers. We last tested them on 2026-11-11.
+ScrapeNest ranks first in our benchmark, with an Overall score of 77.7 out of 100. ScrapeNest scores 77 out of 100 for accuracy. ScrapeNest's plan "$99 monthly, Growth" costs $0.33 per 1,000 searches. We rank 83 providers. We last tested them on 2026-11-12.
 
 Every plan below is on our ranking page, [Web search API: best providers in 2026](https://datacircle.dev/best-web-search-api).
 
@@ -17,7 +17,7 @@ Every plan below is on our ranking page, [Web search API: best providers in 2026
 | 7 | [Expand](https://datacircle.dev/web-search-apis/expand/top-up-from-1) | top-up from $1 | 63.7 | 53 | $1.50 per 1,000 searches | 2026-11-07 |
 | 8 | [browserfoundry by keirolabs](https://datacircle.dev/web-search-apis/browserfoundry-by-keirolabs/99-99-monthly-startup-post-api-v2-search-fast) | $99.99 monthly, Startup | 62.9 | 85 | $0.44 per 1,000 searches | 2026-10-30 |
 | 9 | [Metasearch](https://datacircle.dev/web-search-apis/metasearch/top-up-from-5-prepaid-balance-post-api-v1-search-search-general-mode) | top-up from $5, Prepaid balance | 62.4 | 49 | $1.50 per 1,000 searches | 2026-11-11 |
-| 10 | [Search1API](https://datacircle.dev/web-search-apis/search1api/499-monthly-enterprise-post-search-search-full) | $499 monthly, Enterprise | 58.8 | 67 | $2.99 per 1,000 searches | 2026-10-29 |
+| 10 | [Search1API](https://datacircle.dev/web-search-apis/search1api/499-monthly-enterprise-post-search-search-full) | $499 monthly, Enterprise | 58.8 | 67 | $2.99 per 1,000 searches | 2026-11-12 |
 | 11 | [Parallel](https://datacircle.dev/web-search-apis/parallel/top-up-pay-as-you-go-post-v1-search-search-advanced) | top-up, Pay as you go | 58.4 | 84 | $5.00 per 1,000 searches | 2026-10-27 |
 | 12 | [SearchPipe](https://datacircle.dev/web-search-apis/searchpipe/10-monthly-starter-post-v1-search-search-api-fast) | $10 monthly, Starter | 57.6 | 72 | $2.00 per 1,000 searches | 2026-11-11 |
 | 13 | [Exa](https://datacircle.dev/web-search-apis/exa/top-up-from-5-developer-pay-as-you-go-post-search-search) | top-up from $5, Developer (pay as you go) | 57.2 | 92 | $7.00 per 1,000 searches | 2026-10-27 |
@@ -27,7 +27,7 @@ Every plan below is on our ranking page, [Web search API: best providers in 2026
 | 17 | [Scrapa](https://datacircle.dev/web-search-apis/scrapa/99-monthly) | $99 monthly | 55.6 | 72 | $0.99 per 1,000 searches | 2026-11-07 |
 | 18 | [Webcrawl](https://datacircle.dev/web-search-apis/webcrawl/20-monthly) | $20 monthly | 55.6 | 72 | $2.00 per 1,000 searches | 2026-11-08 |
 | 19 | [Serpex](https://datacircle.dev/web-search-apis/serpex/top-up-from-5) | top-up from $5 | 55.4 | 72 | $0.80 per 1,000 searches | 2026-10-27 |
-| 20 | [Hydrafetch](https://datacircle.dev/web-search-apis/hydrafetch/99-monthly) | $99 monthly | 55 | 62 | $0.50 per 1,000 searches | 2026-11-10 |
+| 20 | [Hydrafetch](https://datacircle.dev/web-search-apis/hydrafetch/99-monthly) | $99 monthly | 55.1 | 62 | $0.50 per 1,000 searches | 2026-11-12 |
 | 21 | [treg](https://datacircle.dev/web-search-apis/treg/top-up-from-10-top-up-of-10-to-49-post-call-treg-web-search) | top-up from $10, Top-up of $10 to $49 | 55 | 53 | $0.04 per 1,000 searches | 2026-10-27 |
 | 22 | [SocialCrawl](https://datacircle.dev/web-search-apis/socialcrawl/49-pack-growth-get-v1-web-search-search-the-web) | £49 (about $65) pack, Growth | 53.6 | 62 | $6.53 per 1,000 searches | 2026-11-10 |
 | 23 | [Peep](https://datacircle.dev/web-search-apis/peep/99-monthly) | $99 monthly | 53.4 | 67 | $1.98 per 1,000 searches | 2026-11-11 |
@@ -92,6 +92,6 @@ Every plan below is on our ranking page, [Web search API: best providers in 2026
 | 82 | [ssearch](https://datacircle.dev/web-search-apis/ssearch/free) | free | 0 | 0 | $0.00 per 1,000 searches | 2026-11-06 |
 | 83 | [WebSearchAPI.ai](https://datacircle.dev/web-search-apis/websearchapi-ai/189-monthly-pro-post-ai-search-search-api) | $189 monthly, Pro | 0 | 0 |  | 2026-10-28 |
 
-A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10.
+A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
 These rows are in [benchmark_results.csv](../benchmark_results.csv) with every other API's. Free to use under CC BY 4.0: please link to [datacircle.dev](https://datacircle.dev) when you quote them.
