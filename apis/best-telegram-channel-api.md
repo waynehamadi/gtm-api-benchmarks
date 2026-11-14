@@ -1,20 +1,20 @@
 # Telegram channel API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
 
-TrueScrape ranks first in our benchmark, with an Overall score of 80.4 out of 100. TrueScrape scores 100 out of 100 for accuracy. TrueScrape's plan "$500 pack" costs $0.80 per 1,000 channels. We rank 7 providers. We last tested them on 2026-11-09.
+TrueScrape ranks first in our benchmark, with an Overall score of 80.2 out of 100. TrueScrape scores 100 out of 100 for accuracy. TrueScrape's plan "$500 pack" costs $0.80 per 1,000 channels. We rank 7 providers. We last tested them on 2026-11-09.
 
 Every plan below is on our ranking page, [Telegram channel API: best providers in 2026](https://datacircle.dev/best-telegram-channel-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [TrueScrape](https://datacircle.dev/telegram-channel-apis/truescrape/500-pack) | $500 pack | 80.4 | 100 | $0.80 per 1,000 channels | 2026-11-09 |
-| 2 | [ScrapeAtlas](https://datacircle.dev/telegram-channel-apis/scrapeatlas/249-pack) | $249 pack | 78.1 | 96 | $1.25 per 1,000 channels | 2026-11-03 |
-| 3 | [FetchGoblin](https://datacircle.dev/telegram-channel-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 64.6 | 100 | $1.49 per 1,000 channels | 2026-11-09 |
+| 1 | [TrueScrape](https://datacircle.dev/telegram-channel-apis/truescrape/500-pack) | $500 pack | 80.2 | 100 | $0.80 per 1,000 channels | 2026-11-09 |
+| 2 | [ScrapeAtlas](https://datacircle.dev/telegram-channel-apis/scrapeatlas/249-pack) | $249 pack | 77.8 | 96 | $1.25 per 1,000 channels | 2026-11-03 |
+| 3 | [FetchGoblin](https://datacircle.dev/telegram-channel-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 64.4 | 100 | $1.49 per 1,000 channels | 2026-11-09 |
 | 4 | [Scrappa](https://datacircle.dev/telegram-channel-apis/scrappa/10-pack) | $10 pack | 62.2 | 61 | $0.30 per 1,000 channels | 2026-11-07 |
 | 5 | [Scrape Everything](https://datacircle.dev/telegram-channel-apis/scrape-everything/449-pack) | $449 pack | 60.6 | 66 | $0.90 per 1,000 channels | 2026-11-09 |
-| 6 | [glim.sh](https://datacircle.dev/telegram-channel-apis/glim-sh/top-up) | top-up | 56.6 | 93 | $5.00 per 1,000 channels | 2026-11-07 |
-| 7 | [InsightSocial](https://datacircle.dev/telegram-channel-apis/insightsocial/9-99-monthly) | $9.99 monthly | 49 | 66 | $9.99 per 1,000 channels | 2026-11-01 |
+| 6 | [glim.sh](https://datacircle.dev/telegram-channel-apis/glim-sh/top-up) | top-up | 56.5 | 93 | $5.00 per 1,000 channels | 2026-11-07 |
+| 7 | [InsightSocial](https://datacircle.dev/telegram-channel-apis/insightsocial/9-99-monthly) | $9.99 monthly | 48.8 | 66 | $9.99 per 1,000 channels | 2026-11-01 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

@@ -1,16 +1,16 @@
 # Realtor.com API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
 
-RealtyAPI ranks first in our benchmark, with an Overall score of 62.1 out of 100. RealtyAPI scores 63 out of 100 for accuracy. RealtyAPI's plan "$399 monthly, MEGA" costs $0.80 per 1,000 searches. We rank 3 providers. We last tested them on 2026-10-31.
+Scrappa ranks first in our benchmark, with an Overall score of 92.3 out of 100. Scrappa scores 98 out of 100 for accuracy. Scrappa's plan "$500 pack" costs $0.24 per 1,000 properties. We rank 3 providers. We last tested them on 2026-10-31.
 
 Every plan below is on our ranking page, [Realtor.com API: best providers in 2026](https://datacircle.dev/best-realtor-com-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [RealtyAPI](https://datacircle.dev/realtor-com-search-apis/realtyapi/399-monthly-mega-get-search-bylocation) | $399 monthly, MEGA | 62.1 | 63 | $0.80 per 1,000 searches | 2026-10-31 |
-| 2 | [Scavio](https://datacircle.dev/realtor-com-search-apis/scavio/500-monthly) | $500 monthly | 58.9 | 71 | $1.00 per 1,000 searches | 2026-10-31 |
-| 3 | [AnyAPI](https://datacircle.dev/realtor-com-search-apis/anyapi/top-up-from-10) | top-up from $10 | 40 | 59 | $46.80 per 1,000 searches | 2026-10-31 |
+| 1 | [Scrappa](https://datacircle.dev/realtor-com-property-apis/scrappa/500-pack) | $500 pack | 92.3 | 98 | $0.24 per 1,000 properties | 2026-10-31 |
+| 2 | [Litescrape](https://datacircle.dev/realtor-com-property-apis/litescrape/top-up-from-10-usage-based-get-api-realtor-property) | top-up from $10, Usage-based | 76.4 | 41 | $0.15 per 1,000 properties | 2026-10-31 |
+| 3 | [Bright Data](https://datacircle.dev/realtor-com-property-apis/bright-data/top-up) | top-up | 36.8 | 43 | $1.50 per 1,000 properties | 2026-10-31 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

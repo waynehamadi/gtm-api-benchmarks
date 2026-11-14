@@ -1,6 +1,6 @@
 # G2 review API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 84.4 out of 100. Scrappa scores 66 out of 100 for accuracy. Scrappa's plan "$500 pack" costs $0.0095 per 1,000 reviews. We rank 6 providers. We last tested them on 2026-10-30.
 

@@ -1,6 +1,6 @@
 # Google AI Overview scraper API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
 
 Litescrape ranks first in our benchmark, with an Overall score of 91.5 out of 100. Litescrape scores 78 out of 100 for accuracy. Litescrape's plan "top-up from $10, Usage-based" costs $0.15 per 1,000 answers. We rank 8 providers. We last tested them on 2026-11-06.
 

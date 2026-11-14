@@ -1,6 +1,6 @@
 # Pinterest board pin API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
 
 FetchGoblin ranks first in our benchmark, with an Overall score of 62 out of 100. FetchGoblin scores 89 out of 100 for accuracy. FetchGoblin's plan "top-up from $5" costs $0.093 per 1,000 pins. We rank 4 providers. We last tested them on 2026-11-09.
 

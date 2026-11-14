@@ -1,21 +1,21 @@
 # Real estate API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
 
-PerceptLayer ranks first in our benchmark, with an Overall score of 74.8 out of 100. PerceptLayer scores 83 out of 100 for accuracy. PerceptLayer's plan "$399 pack" costs $0.80 per 1,000 searches. We rank 10 providers. We last tested them on 2026-11-08.
+PerceptLayer ranks first in our benchmark, with an Overall score of 74.9 out of 100. PerceptLayer scores 83 out of 100 for accuracy. PerceptLayer's plan "$399 pack" costs $0.80 per 1,000 searches. We rank 10 providers. We last tested them on 2026-11-08.
 
 Every plan below is on our ranking page, [Real estate API: best providers in 2026](https://datacircle.dev/best-real-estate-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [PerceptLayer](https://datacircle.dev/zillow-search-apis/perceptlayer/399-pack) | $399 pack | 74.8 | 83 | $0.80 per 1,000 searches | 2026-11-08 |
+| 1 | [PerceptLayer](https://datacircle.dev/zillow-search-apis/perceptlayer/399-pack) | $399 pack | 74.9 | 83 | $0.80 per 1,000 searches | 2026-11-08 |
 | 2 | [Litescrape](https://datacircle.dev/zillow-search-apis/litescrape/top-up-from-10-usage-based-get-api-zillow-search) | top-up from $10, Usage-based | 72.9 | 91 | $0.15 per 1,000 searches | 2026-10-30 |
-| 3 | [ReefAPI](https://datacircle.dev/zillow-search-apis/reefapi/450-quarterly) | $450 quarterly | 70.9 | 87 | $1.00 per 1,000 searches | 2026-11-08 |
-| 4 | [Omkar Cloud](https://datacircle.dev/zillow-search-apis/omkar-cloud/48-monthly) | $48 monthly | 67.8 | 95 | $0.48 per 1,000 searches | 2026-11-08 |
-| 5 | [Stophy](https://datacircle.dev/zillow-search-apis/stophy/top-up-from-500) | top-up from $500 | 67.4 | 87 | $2.40 per 1,000 searches | 2026-11-08 |
-| 6 | [PrismCrawl](https://datacircle.dev/zillow-search-apis/prismcrawl/10-pack) | $10 pack | 64.1 | 81 | $0.27 per 1,000 searches | 2026-10-30 |
-| 7 | [AnyAPI](https://datacircle.dev/zillow-search-apis/anyapi/top-up-from-10) | top-up from $10 | 61.7 | 73 | $0.80 per 1,000 searches | 2026-10-30 |
-| 8 | [zillowscraperapi](https://datacircle.dev/zillow-search-apis/zillowscraperapi/19-monthly) | $19 monthly | 58.1 | 76 | $0.70 per 1,000 searches | 2026-11-03 |
+| 3 | [ReefAPI](https://datacircle.dev/zillow-search-apis/reefapi/450-quarterly) | $450 quarterly | 71.1 | 87 | $1.00 per 1,000 searches | 2026-11-08 |
+| 4 | [Omkar Cloud](https://datacircle.dev/zillow-search-apis/omkar-cloud/48-monthly) | $48 monthly | 67.9 | 95 | $0.48 per 1,000 searches | 2026-11-08 |
+| 5 | [Stophy](https://datacircle.dev/zillow-search-apis/stophy/top-up-from-500) | top-up from $500 | 67.2 | 87 | $2.40 per 1,000 searches | 2026-11-08 |
+| 6 | [PrismCrawl](https://datacircle.dev/zillow-search-apis/prismcrawl/10-pack) | $10 pack | 64.2 | 81 | $0.27 per 1,000 searches | 2026-10-30 |
+| 7 | [AnyAPI](https://datacircle.dev/zillow-search-apis/anyapi/top-up-from-10) | top-up from $10 | 61.8 | 73 | $0.80 per 1,000 searches | 2026-10-30 |
+| 8 | [zillowscraperapi](https://datacircle.dev/zillow-search-apis/zillowscraperapi/19-monthly) | $19 monthly | 58.2 | 76 | $0.70 per 1,000 searches | 2026-11-03 |
 | 9 | [lobstr.io](https://datacircle.dev/zillow-search-apis/lobstr-io/20-monthly) | $20 monthly | 45.5 | 78 |  | 2026-11-08 |
 | 10 | [APIllow](https://datacircle.dev/zillow-search-apis/apillow/9-99-monthly) | $9.99 monthly | 42.1 | 65 | $29.97 per 1,000 searches | 2026-11-08 |
 

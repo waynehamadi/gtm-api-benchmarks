@@ -1,26 +1,26 @@
 # LinkedIn company search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
 
-Up2Data ranks first in our benchmark, with an Overall score of 90.4 out of 100. Up2Data scores 100 out of 100 for accuracy. Up2Data's plan "$200 pack, 100K" costs $0.08 per 1,000 companies. We rank 13 providers. We last tested them on 2026-11-09.
+Up2Data ranks first in our benchmark, with an Overall score of 90.3 out of 100. Up2Data scores 100 out of 100 for accuracy. Up2Data's plan "$200 pack, 100K" costs $0.08 per 1,000 companies. We rank 13 providers. We last tested them on 2026-11-09.
 
 Every plan below is on our ranking page, [LinkedIn company search API: best providers in 2026](https://datacircle.dev/best-linkedin-company-search-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Up2Data](https://datacircle.dev/linkedin-company-search-apis/up2data/200-pack-100k-post-v1-search-companies) | $200 pack, 100K | 90.4 | 100 | $0.08 per 1,000 companies | 2026-10-25 |
+| 1 | [Up2Data](https://datacircle.dev/linkedin-company-search-apis/up2data/200-pack-100k-post-v1-search-companies) | $200 pack, 100K | 90.3 | 100 | $0.08 per 1,000 companies | 2026-10-25 |
 | 2 | [Reverse Contact](https://datacircle.dev/linkedin-company-search-apis/reverse-contact/449-monthly-plus-post-v2-search-organizations) | $449 monthly, Plus | 88.4 | 99 | $0 extra per 1,000. The $449 monthly price covers any number of companies | 2026-10-26 |
-| 3 | [BlitzAPI](https://datacircle.dev/linkedin-company-search-apis/blitzapi/499-monthly-scale-post-v2-search-companies) | $499 monthly, Scale | 87.9 | 97 | $0.10 per 1,000 companies | 2026-10-22 |
-| 4 | [Icypeas](https://datacircle.dev/linkedin-company-search-apis/icypeas/499-monthly) | $499 monthly | 83.1 | 92 | $0.10 per 1,000 companies | 2026-10-25 |
-| 5 | [DataForB2B](https://datacircle.dev/linkedin-company-search-apis/dataforb2b/499-monthly-growth-post-search-companies) | $499 monthly, Growth | 82 | 97 | $0.10 per 1,000 companies | 2026-10-27 |
+| 3 | [BlitzAPI](https://datacircle.dev/linkedin-company-search-apis/blitzapi/499-monthly-scale-post-v2-search-companies) | $499 monthly, Scale | 87.8 | 97 | $0.10 per 1,000 companies | 2026-10-22 |
+| 4 | [Icypeas](https://datacircle.dev/linkedin-company-search-apis/icypeas/499-monthly) | $499 monthly | 82.9 | 92 | $0.10 per 1,000 companies | 2026-10-25 |
+| 5 | [DataForB2B](https://datacircle.dev/linkedin-company-search-apis/dataforb2b/499-monthly-growth-post-search-companies) | $499 monthly, Growth | 81.9 | 97 | $0.10 per 1,000 companies | 2026-10-27 |
 | 6 | [HarvestAPI](https://datacircle.dev/linkedin-company-search-apis/harvestapi/20-pack) | $20 pack, Starter | 73.5 | 100 | $0.08 per 1,000 companies | 2026-10-25 |
-| 7 | [Anysite](https://datacircle.dev/linkedin-company-search-apis/anysite/300-monthly-scale-post-api-linkedin-search-companies) | $300 monthly, Scale | 68.4 | 100 | $0.16 per 1,000 companies | 2026-10-25 |
-| 8 | [Fiber AI](https://datacircle.dev/linkedin-company-search-apis/fiber-ai/top-up-from-3) | top-up from $3 | 61.1 | 96 | $30.00 per 1,000 companies | 2026-10-25 |
-| 9 | [Pipecorn](https://datacircle.dev/linkedin-company-search-apis/pipecorn/149-monthly-grow-9000-credits-a-month-post-accounts-search-search-accounts-by-filters-from-the-pipecorn-companies-database) | $149 monthly, Grow, 9,000 credits a month | 60.4 | 98 | $14.90 per 1,000 companies | 2026-10-26 |
+| 7 | [Anysite](https://datacircle.dev/linkedin-company-search-apis/anysite/300-monthly-scale-post-api-linkedin-search-companies) | $300 monthly, Scale | 68.3 | 100 | $0.16 per 1,000 companies | 2026-10-25 |
+| 8 | [Fiber AI](https://datacircle.dev/linkedin-company-search-apis/fiber-ai/top-up-from-3) | top-up from $3 | 61.2 | 96 | $30.00 per 1,000 companies | 2026-10-25 |
+| 9 | [Pipecorn](https://datacircle.dev/linkedin-company-search-apis/pipecorn/149-monthly-grow-9000-credits-a-month-post-accounts-search-search-accounts-by-filters-from-the-pipecorn-companies-database) | $149 monthly, Grow, 9,000 credits a month | 60.6 | 98 | $14.90 per 1,000 companies | 2026-10-26 |
 | 10 | [Datamagnet](https://datacircle.dev/linkedin-company-search-apis/datamagnet/top-up-from-5-credit-calculator-post-people-search-search-company) | top-up from $5, Credit calculator | 54.5 | 92 |  | 2026-10-26 |
 | 11 | [API Direct](https://datacircle.dev/linkedin-company-search-apis/api-direct/pay-as-you-go) | pay as you go, Pay per request | 37.2 | 1 | $0.60 per 1,000 companies | 2026-10-25 |
-| 12 | [AnyAPI](https://datacircle.dev/linkedin-company-search-apis/anyapi/top-up-from-10) | top-up from $10 | 35.3 | 3 | $0.25 per 1,000 companies | 2026-10-25 |
-| 13 | [Bridgly](https://datacircle.dev/linkedin-company-search-apis/bridgly/top-up-from-5) | top-up from $5 | 34.9 | 1 | $2.00 per 1,000 companies | 2026-11-09 |
+| 12 | [AnyAPI](https://datacircle.dev/linkedin-company-search-apis/anyapi/top-up-from-10) | top-up from $10 | 35.2 | 3 | $0.25 per 1,000 companies | 2026-10-25 |
+| 13 | [Bridgly](https://datacircle.dev/linkedin-company-search-apis/bridgly/top-up-from-5) | top-up from $5 | 35.1 | 1 | $2.00 per 1,000 companies | 2026-11-09 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

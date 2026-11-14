@@ -1,27 +1,27 @@
 # GitHub repository API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
 
-Scrappa ranks first in our benchmark, with an Overall score of 75.8 out of 100. Scrappa scores 68 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 repositories. We rank 16 providers. We last tested them on 2026-11-10.
+Scrappa ranks first in our benchmark, with an Overall score of 75.4 out of 100. Scrappa scores 68 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 repositories. We rank 16 providers. We last tested them on 2026-11-10.
 
 Every plan below is on our ranking page, [GitHub repository API: best providers in 2026](https://datacircle.dev/best-github-repository-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Scrappa](https://datacircle.dev/github-repository-apis/scrappa/10-pack) | $10 pack | 75.8 | 68 | $0.30 per 1,000 repositories | 2026-10-31 |
-| 2 | [ReefAPI](https://datacircle.dev/github-repository-apis/reefapi/450-quarterly) | $450 quarterly | 69.6 | 68 | $0.50 per 1,000 repositories | 2026-11-10 |
-| 3 | [Pushbuild](https://datacircle.dev/github-repository-apis/pushbuild/top-up) | top-up | 60.2 | 41 | $0.80 per 1,000 repositories | 2026-11-06 |
-| 4 | [ScrapeAtlas](https://datacircle.dev/github-repository-apis/scrapeatlas/249-pack) | $249 pack | 58.3 | 62 | $1.25 per 1,000 repositories | 2026-11-06 |
-| 5 | [BRONTIR](https://datacircle.dev/github-repository-apis/brontir/350-monthly) | €350 monthly | 56.3 | 50 | $0.88 per 1,000 repositories | 2026-11-10 |
-| 6 | [Zapi](https://datacircle.dev/github-repository-apis/zapi/rp129000-monthly) | Rp129,000 (about $7) monthly | 51.4 | 34 | $0.036 per 1,000 repositories | 2026-11-10 |
+| 1 | [Scrappa](https://datacircle.dev/github-repository-apis/scrappa/10-pack) | $10 pack | 75.4 | 68 | $0.30 per 1,000 repositories | 2026-10-31 |
+| 2 | [ReefAPI](https://datacircle.dev/github-repository-apis/reefapi/450-quarterly) | $450 quarterly | 69.1 | 68 | $0.50 per 1,000 repositories | 2026-11-10 |
+| 3 | [Pushbuild](https://datacircle.dev/github-repository-apis/pushbuild/top-up) | top-up | 59.6 | 41 | $0.80 per 1,000 repositories | 2026-11-06 |
+| 4 | [ScrapeAtlas](https://datacircle.dev/github-repository-apis/scrapeatlas/249-pack) | $249 pack | 57.4 | 62 | $1.25 per 1,000 repositories | 2026-11-06 |
+| 5 | [BRONTIR](https://datacircle.dev/github-repository-apis/brontir/350-monthly) | €350 monthly | 55.6 | 50 | $0.88 per 1,000 repositories | 2026-11-10 |
+| 6 | [Zapi](https://datacircle.dev/github-repository-apis/zapi/rp129000-monthly) | Rp129,000 (about $7) monthly | 51.3 | 34 | $0.036 per 1,000 repositories | 2026-11-10 |
 | 7 | [GitHub](https://datacircle.dev/github-repository-apis/github/21-monthly) | $21 monthly | 48.4 | 68 |  | 2026-11-03 |
-| 8 | [ScrapeCreators](https://datacircle.dev/github-repository-apis/scrapecreators/497-pack) | $497 pack | 45.3 | 46 | $0.99 per 1,000 repositories | 2026-10-31 |
-| 9 | [FetchGoblin](https://datacircle.dev/github-repository-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 44.4 | 46 | $1.49 per 1,000 repositories | 2026-11-06 |
-| 10 | [AnyAPI](https://datacircle.dev/github-repository-apis/anyapi/top-up-from-10) | top-up from $10 | 42.2 | 36 | $1.20 per 1,000 repositories | 2026-10-31 |
-| 11 | [glim.sh](https://datacircle.dev/github-repository-apis/glim-sh/top-up) | top-up | 41 | 46 | $2.00 per 1,000 repositories | 2026-11-06 |
+| 8 | [ScrapeCreators](https://datacircle.dev/github-repository-apis/scrapecreators/497-pack) | $497 pack | 44.9 | 46 | $0.99 per 1,000 repositories | 2026-10-31 |
+| 9 | [FetchGoblin](https://datacircle.dev/github-repository-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 43.9 | 46 | $1.49 per 1,000 repositories | 2026-11-06 |
+| 10 | [AnyAPI](https://datacircle.dev/github-repository-apis/anyapi/top-up-from-10) | top-up from $10 | 41.8 | 36 | $1.20 per 1,000 repositories | 2026-10-31 |
+| 11 | [glim.sh](https://datacircle.dev/github-repository-apis/glim-sh/top-up) | top-up | 40.4 | 46 | $2.00 per 1,000 repositories | 2026-11-06 |
 | 12 | [Parse](https://datacircle.dev/github-repository-apis/parse/30-monthly) | $30 monthly | 33.1 | 44 | $90.00 per 1,000 repositories | 2026-10-31 |
-| 13 | [Litescrape](https://datacircle.dev/github-repository-apis/litescrape/top-up-from-10-usage-based-get-api-github-repository) | top-up from $10, Usage-based | 64.9 | 26 | $0.15 per 1,000 repositories | 2026-10-31 |
-| 14 | [Crawlora](https://datacircle.dev/github-repository-apis/crawlora/499-monthly) | $499 monthly | 58.3 | 27 | $0.20 per 1,000 repositories | 2026-11-06 |
+| 13 | [Litescrape](https://datacircle.dev/github-repository-apis/litescrape/top-up-from-10-usage-based-get-api-github-repository) | top-up from $10, Usage-based | 64.8 | 26 | $0.15 per 1,000 repositories | 2026-10-31 |
+| 14 | [Crawlora](https://datacircle.dev/github-repository-apis/crawlora/499-monthly) | $499 monthly | 58 | 27 | $0.20 per 1,000 repositories | 2026-11-06 |
 | 15 | [GithubTrends](https://datacircle.dev/github-repository-apis/githubtrends/free) | free | 52 | 2 | $0.00 per 1,000 repositories | 2026-11-10 |
 | 16 | [Peekalink](https://datacircle.dev/github-repository-apis/peekalink/49-monthly) | $49 monthly | 28.3 | 11 | $0.14 per 1,000 repositories | 2026-11-10 |
 

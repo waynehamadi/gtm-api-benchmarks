@@ -1,6 +1,6 @@
 # Gemini scraper API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 84.8 out of 100. Scrappa scores 70 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 answers. We rank 9 providers. We last tested them on 2026-11-08.
 

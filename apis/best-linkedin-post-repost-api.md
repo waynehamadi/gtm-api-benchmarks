@@ -1,6 +1,6 @@
 # LinkedIn repost API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
 
 Anysite ranks first in our benchmark, with an Overall score of 70.6 out of 100. Anysite scores 85 out of 100 for accuracy. Anysite's plan "$300 monthly" costs $0.16 per 1,000 reposts. We rank 4 providers. We last tested them on 2026-10-26.
 

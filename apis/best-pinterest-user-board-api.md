@@ -1,6 +1,6 @@
 # Pinterest user board API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
 
 ScrapeCreators ranks first in our benchmark, with an Overall score of 67.1 out of 100. ScrapeCreators scores 97 out of 100 for accuracy. ScrapeCreators's plan "$497 pack" costs $0.099 per 1,000 boards. We rank 4 providers. We last tested them on 2026-11-09.
 

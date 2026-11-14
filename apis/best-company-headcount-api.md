@@ -1,6 +1,6 @@
 # Company headcount API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,294 providers of 128 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 86.9 out of 100. Scrappa scores 95 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 companies. We rank 17 providers. We last tested them on 2026-11-05.
 
@@ -11,12 +11,12 @@ Every plan below is on our ranking page, [Company headcount API: best providers 
 | 1 | [Scrappa](https://datacircle.dev/company-headcount-apis/scrappa/10-pack) | $10 pack | 86.9 | 95 | $0.30 per 1,000 companies | 2026-11-05 |
 | 2 | [Bridgly](https://datacircle.dev/company-headcount-apis/bridgly/300-pack) | $300 pack | 86.8 | 100 | $1.00 per 1,000 companies | 2026-11-05 |
 | 3 | [DataForB2B](https://datacircle.dev/company-headcount-apis/dataforb2b/499-monthly) | $499 monthly | 82.2 | 70 | $0.10 per 1,000 companies | 2026-11-05 |
-| 4 | [ScrapeAtlas](https://datacircle.dev/company-headcount-apis/scrapeatlas/249-pack) | $249 pack | 78.4 | 95 | $1.25 per 1,000 companies | 2026-11-05 |
+| 4 | [ScrapeAtlas](https://datacircle.dev/company-headcount-apis/scrapeatlas/249-pack) | $249 pack | 78.3 | 95 | $1.25 per 1,000 companies | 2026-11-05 |
 | 5 | [BlitzAPI](https://datacircle.dev/company-headcount-apis/blitzapi/499-monthly-scale-post-v2-enrichment-company-distribution-by-country) | $499 monthly, Scale | 75 | 50 | $0.10 per 1,000 companies | 2026-10-28 |
 | 6 | [SociaVault](https://datacircle.dev/company-headcount-apis/sociavault/399-pack) | $399 pack | 74.9 | 95 | $2.00 per 1,000 companies | 2026-11-05 |
-| 7 | [Superagnt](https://datacircle.dev/company-headcount-apis/superagnt/top-up-from-10) | top-up from $10 | 67.1 | 85 | $9.00 per 1,000 companies | 2026-11-05 |
-| 8 | [ScrapeCreators](https://datacircle.dev/company-headcount-apis/scrapecreators/47-pack) | $47 pack | 65.5 | 95 | $1.88 per 1,000 companies | 2026-11-05 |
-| 9 | [Skrapp](https://datacircle.dev/company-headcount-apis/skrapp/349-monthly-enterprise-50k-get-api-v3-companies-enrich) | $349 monthly, Enterprise 50K | 64.2 | 85 | $20.94 per 1,000 companies | 2026-10-25 |
+| 7 | [Superagnt](https://datacircle.dev/company-headcount-apis/superagnt/top-up-from-10) | top-up from $10 | 67 | 85 | $9.00 per 1,000 companies | 2026-11-05 |
+| 8 | [ScrapeCreators](https://datacircle.dev/company-headcount-apis/scrapecreators/497-pack) | $497 pack | 65.5 | 95 | $0.99 per 1,000 companies | 2026-11-05 |
+| 9 | [Skrapp](https://datacircle.dev/company-headcount-apis/skrapp/349-monthly-enterprise-50k-get-api-v3-companies-enrich) | $349 monthly, Enterprise 50K | 64.1 | 85 | $20.94 per 1,000 companies | 2026-10-25 |
 | 10 | [Up2Data](https://datacircle.dev/company-headcount-apis/up2data/25-pack-10k-post-v1-companies-headcount) | $25 pack, 10K | 63.7 | 93 | $2.50 per 1,000 companies | 2026-10-27 |
 | 11 | [Bright Data](https://datacircle.dev/company-headcount-apis/bright-data/top-up) | top-up | 62.5 | 100 | $1.50 per 1,000 companies | 2026-11-05 |
 | 12 | [Pipecorn](https://datacircle.dev/company-headcount-apis/pipecorn/49-monthly-build-3000-credits-a-month-post-accounts-headcount-department-headcount) | $49 monthly, Build, 3,000 credits a month | 58.5 | 80 | $16.33 per 1,000 companies | 2026-10-27 |
