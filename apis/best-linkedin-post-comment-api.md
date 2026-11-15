@@ -1,6 +1,6 @@
 # LinkedIn post comment API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 Fetchin ranks first in our benchmark, with an Overall score of 74.1 out of 100. Fetchin scores 88 out of 100 for accuracy. Fetchin's plan "$50 monthly, Subscription 50K" costs $0.01 per 1,000 comments. We rank 17 providers. We last tested them on 2026-11-08.
 
@@ -19,7 +19,7 @@ Every plan below is on our ranking page, [LinkedIn post comment API: best provid
 | 9 | [DataForB2B](https://datacircle.dev/linkedin-post-comment-apis/dataforb2b/499-monthly) | $499 monthly | 54.1 | 42 | $0.20 per 1,000 comments | 2026-10-27 |
 | 10 | [BeReach](https://datacircle.dev/linkedin-post-comment-apis/bereach/10-pack) | €10 pack | 48.1 | 37 | $0.73 per 1,000 comments | 2026-11-08 |
 | 11 | [Up2Data](https://datacircle.dev/linkedin-post-comment-apis/up2data/25-pack-10k-post-v1-posts-engagement-comments) | $25 pack, 10K | 44.2 | 24 | $0.025 per 1,000 comments | 2026-10-27 |
-| 12 | [Bridgly](https://datacircle.dev/linkedin-post-comment-apis/bridgly/300-pack) | $300 pack | 42.5 | 41 | $1.00 per 1,000 comments | 2026-11-08 |
+| 12 | [Bridgly](https://datacircle.dev/linkedin-post-comment-apis/bridgly/top-up-from-5) | top-up from $5 | 42.1 | 41 | $2.00 per 1,000 comments | 2026-11-08 |
 | 13 | [Scrappa](https://datacircle.dev/linkedin-post-comment-apis/scrappa/10-pack) | $10 pack | 37.8 | 39 |  | 2026-10-27 |
 | 14 | [RouterGrowth](https://datacircle.dev/linkedin-post-comment-apis/routergrowth/499-monthly) | $499 monthly | 37.7 | 37 | $2.60 per 1,000 comments | 2026-10-26 |
 | 15 | [ZenRows](https://datacircle.dev/linkedin-post-comment-apis/zenrows/top-up-from-5) | top-up from $5 | 24.6 | 18 |  | 2026-10-27 |

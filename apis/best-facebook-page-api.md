@@ -1,6 +1,6 @@
 # Facebook page API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 Stophy ranks first in our benchmark, with an Overall score of 71 out of 100. Stophy scores 53 out of 100 for accuracy. Stophy's plan "top-up from $500" costs $1.20 per 1,000 pages. We rank 28 providers. We last tested them on 2026-11-09.
 

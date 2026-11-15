@@ -1,6 +1,6 @@
 # LinkedIn job search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 Litescrape ranks first in our benchmark, with an Overall score of 86.1 out of 100. Litescrape scores 88 out of 100 for accuracy. Litescrape's plan "top-up from $10" costs $0.015 per 1,000 jobs. We rank 30 providers. We last tested them on 2026-11-13.
 
@@ -28,11 +28,11 @@ Every plan below is on our ranking page, [LinkedIn job search API: best provider
 | 18 | [SearchApi](https://datacircle.dev/linkedin-job-search-apis/searchapi/40-monthly) | $40 monthly | 59.3 | 88 | $0.40 per 1,000 jobs | 2026-10-25 |
 | 19 | [Fantastic.jobs](https://datacircle.dev/linkedin-job-search-apis/fantastic-jobs/500-monthly) | $500 monthly | 58.6 | 95 | $2.00 per 1,000 jobs | 2026-10-26 |
 | 20 | [OpenWeb Ninja](https://datacircle.dev/linkedin-job-search-apis/openweb-ninja/150-monthly) | $150 monthly | 58.4 | 86 | $0.075 per 1,000 jobs | 2026-10-23 |
-| 21 | [Bridgly](https://datacircle.dev/linkedin-job-search-apis/bridgly/top-up-from-5) | top-up from $5 | 55 | 85 | $2.00 per 1,000 jobs | 2026-11-08 |
+| 21 | [Bridgly](https://datacircle.dev/linkedin-job-search-apis/bridgly/top-up-from-5) | top-up from $5 | 55.1 | 85 | $2.00 per 1,000 jobs | 2026-11-08 |
 | 22 | [FastAF](https://datacircle.dev/linkedin-job-search-apis/fastaf/10-pack) | $10 pack | 53.8 | 90 |  | 2026-11-10 |
 | 23 | [Fiber AI](https://datacircle.dev/linkedin-job-search-apis/fiber-ai/top-up-from-3) | top-up from $3 | 53.3 | 76 | $30.00 per 1,000 jobs | 2026-10-25 |
-| 24 | [ChocoData](https://datacircle.dev/linkedin-job-search-apis/chocodata/top-up-pay-as-you-go-top-up-get-api-v1-linkedin-jobsearch) | top-up, Pay-as-you-go top-up | 53.2 | 87 |  | 2026-10-26 |
-| 25 | [Bright Data](https://datacircle.dev/linkedin-job-search-apis/bright-data/top-up) | top-up | 53.1 | 88 | $1.50 per 1,000 jobs | 2026-10-27 |
+| 24 | [Bright Data](https://datacircle.dev/linkedin-job-search-apis/bright-data/top-up) | top-up | 53.2 | 88 | $1.50 per 1,000 jobs | 2026-10-27 |
+| 25 | [ChocoData](https://datacircle.dev/linkedin-job-search-apis/chocodata/top-up-pay-as-you-go-top-up-get-api-v1-linkedin-jobsearch) | top-up, Pay-as-you-go top-up | 53.2 | 87 |  | 2026-10-26 |
 | 26 | [Up2Data](https://datacircle.dev/linkedin-job-search-apis/up2data/200-pack-100k-post-v1-search-jobs) | $200 pack, 100K | 52 | 83 | $2.00 per 1,000 jobs | 2026-10-27 |
 | 27 | [Superagnt](https://datacircle.dev/linkedin-job-search-apis/superagnt/29-monthly-data-credits-small-get-v1-data-linkedin-search-jobs) | $29 monthly, Data Credits Small | 51.4 | 90 |  | 2026-11-08 |
 | 28 | [ZenRows](https://datacircle.dev/linkedin-job-search-apis/zenrows/19-monthly-build-b1-post-v1-jobs) | $19 monthly, Build B1 | 49.5 | 88 |  | 2026-10-27 |

@@ -1,6 +1,6 @@
 # LinkedIn company data API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 DataForB2B ranks first in our benchmark, with an Overall score of 84.9 out of 100. DataForB2B scores 74 out of 100 for accuracy. DataForB2B's plan "$499 monthly" costs $0.10 per 1,000 companies. We rank 75 providers. We last tested them on 2026-11-14.
 
@@ -12,8 +12,8 @@ Every plan below is on our ranking page, [LinkedIn company data API: best provid
 | 2 | [Reverse Contact](https://datacircle.dev/linkedin-company-profile-apis/reverse-contact/449-monthly) | $449 monthly | 84.9 | 73 |  | 2026-10-26 |
 | 3 | [EveryInfra](https://datacircle.dev/linkedin-company-profile-apis/everyinfra/10-pack) | $10 pack | 79.2 | 74 | $0.56 per 1,000 companies | 2026-11-07 |
 | 4 | [BlitzAPI](https://datacircle.dev/linkedin-company-profile-apis/blitzapi/99-monthly) | $99 monthly | 78.5 | 57 | $0.50 per 1,000 companies | 2026-10-23 |
-| 5 | [Bridgly](https://datacircle.dev/linkedin-company-profile-apis/bridgly/300-pack) | $300 pack | 76.3 | 57 | $1.00 per 1,000 companies | 2026-10-25 |
-| 6 | [Scrappa](https://datacircle.dev/linkedin-company-profile-apis/scrappa/10-pack) | $10 pack | 76.2 | 54 | $0.30 per 1,000 companies | 2026-10-26 |
+| 5 | [Scrappa](https://datacircle.dev/linkedin-company-profile-apis/scrappa/10-pack) | $10 pack | 76.2 | 54 | $0.30 per 1,000 companies | 2026-10-26 |
+| 6 | [Bridgly](https://datacircle.dev/linkedin-company-profile-apis/bridgly/50-pack) | $50 pack | 72.8 | 57 | $1.82 per 1,000 companies | 2026-10-25 |
 | 7 | [lobstr.io](https://datacircle.dev/linkedin-company-profile-apis/lobstr-io/500-monthly) | $500 monthly | 68.9 | 52 | $0.50 per 1,000 companies | 2026-10-24 |
 | 8 | [Upscrape](https://datacircle.dev/linkedin-company-profile-apis/upscrape/499-pack) | $499 pack | 66.1 | 55 | $1.25 per 1,000 companies | 2026-11-03 |
 | 9 | [Mindcase](https://datacircle.dev/linkedin-company-profile-apis/mindcase/19-99-pack) | $19.99 pack | 62.5 | 64 | $4.00 per 1,000 companies | 2026-11-09 |
@@ -56,7 +56,7 @@ Every plan below is on our ranking page, [LinkedIn company data API: best provid
 | 46 | [Parseium](https://datacircle.dev/linkedin-company-profile-apis/parseium/49-monthly) | $49 monthly | 51.7 | 40 | $0.33 per 1,000 companies | 2026-11-12 |
 | 47 | [Autobound](https://datacircle.dev/linkedin-company-profile-apis/autobound/499-pack) | $499 pack | 49.9 | 26 | $6.00 per 1,000 companies | 2026-11-07 |
 | 48 | [LurkAPI](https://datacircle.dev/linkedin-company-profile-apis/lurkapi/9-pack) | $9 pack | 49.7 | 42 | $0.90 per 1,000 companies | 2026-11-09 |
-| 49 | [AnyAPI](https://datacircle.dev/linkedin-company-profile-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-linkedin-company) | top-up from $10, Manual top-up | 49 | 38 | $1.10 per 1,000 companies | 2026-10-23 |
+| 49 | [AnyAPI](https://datacircle.dev/linkedin-company-profile-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-linkedin-company) | top-up from $10, Manual top-up | 49.1 | 38 | $1.10 per 1,000 companies | 2026-10-23 |
 | 50 | [Captapi](https://datacircle.dev/linkedin-company-profile-apis/captapi/9-monthly) | $9 monthly | 49 | 37 | $9.00 per 1,000 companies | 2026-10-28 |
 | 51 | [BeReach](https://datacircle.dev/linkedin-company-profile-apis/bereach/10-pack) | €10 pack | 48.6 | 36 | $7.31 per 1,000 companies | 2026-11-07 |
 | 52 | [The Swarm](https://datacircle.dev/linkedin-company-profile-apis/the-swarm/500-monthly) | $500 monthly | 48.6 | 30 | $10.00 per 1,000 companies | 2026-10-21 |
@@ -67,18 +67,18 @@ Every plan below is on our ranking page, [LinkedIn company data API: best provid
 | 57 | [CreatorCrawl](https://datacircle.dev/linkedin-company-profile-apis/creatorcrawl/299-pack) | $299 pack | 43.4 | 40 | $2.99 per 1,000 companies | 2026-10-26 |
 | 58 | [SignalQub](https://datacircle.dev/linkedin-company-profile-apis/signalqub/43-pack) | $43 pack | 42.6 | 38 | $4.30 per 1,000 companies | 2026-10-28 |
 | 59 | [Anakin](https://datacircle.dev/linkedin-company-profile-apis/anakin/top-up-from-10-business-top-up) | top-up from $10, Business top-up | 40.3 | 34 |  | 2026-10-28 |
-| 60 | [Crawlbase](https://datacircle.dev/linkedin-company-profile-apis/crawlbase/pay-as-you-go-next-100k-requests-a-month) | pay as you go, next 100K requests a month | 37.3 | 34 | $12.00 per 1,000 companies | 2026-11-14 |
-| 61 | [Fiber AI](https://datacircle.dev/linkedin-company-profile-apis/fiber-ai/top-up-from-3-pay-as-you-go-post-v1-kitchen-sink-company) | top-up from $3, Pay-as-you-go | 36.5 | 42 | $60.00 per 1,000 companies | 2026-10-25 |
-| 62 | [Pipecorn](https://datacircle.dev/linkedin-company-profile-apis/pipecorn/49-monthly-build-3000-credits-a-month-post-accounts-single-enrich-enrich-account) | $49 monthly, Build, 3,000 credits a month | 36.2 | 22 | $16.33 per 1,000 companies | 2026-10-26 |
-| 63 | [InsightSocial](https://datacircle.dev/linkedin-company-profile-apis/insightsocial/9-99-monthly-pro-get-v1-linkedin-company) | $9.99 monthly, Pro | 36 | 28 | $49.95 per 1,000 companies | 2026-10-22 |
+| 60 | [Fiber AI](https://datacircle.dev/linkedin-company-profile-apis/fiber-ai/top-up-from-3-pay-as-you-go-post-v1-kitchen-sink-company) | top-up from $3, Pay-as-you-go | 36.5 | 42 | $60.00 per 1,000 companies | 2026-10-25 |
+| 61 | [Pipecorn](https://datacircle.dev/linkedin-company-profile-apis/pipecorn/49-monthly-build-3000-credits-a-month-post-accounts-single-enrich-enrich-account) | $49 monthly, Build, 3,000 credits a month | 36.2 | 22 | $16.33 per 1,000 companies | 2026-10-26 |
+| 62 | [InsightSocial](https://datacircle.dev/linkedin-company-profile-apis/insightsocial/9-99-monthly-pro-get-v1-linkedin-company) | $9.99 monthly, Pro | 36 | 28 | $49.95 per 1,000 companies | 2026-10-22 |
+| 63 | [Crawlbase](https://datacircle.dev/linkedin-company-profile-apis/crawlbase/pay-as-you-go-next-100k-requests-a-month) | pay as you go, next 100K requests a month | 35 | 34 | $12.00 per 1,000 companies | 2026-11-14 |
 | 64 | [Edges](https://datacircle.dev/linkedin-company-profile-apis/edges/440-monthly-silver-20000-credits-month-post-actions-salesnavigator-extract-company-run-live) | $440 monthly, SILVER, 20,000 credits / month | 34.6 | 33 | $32.99 per 1,000 companies | 2026-10-21 |
 | 65 | [GetSales](https://datacircle.dev/linkedin-company-profile-apis/getsales/345-monthly) | $345 monthly | 32.3 | 41 | $69.00 per 1,000 companies | 2026-10-26 |
 | 66 | [Litescrape](https://datacircle.dev/linkedin-company-profile-apis/litescrape/top-up-from-10) | top-up from $10 | 64.6 | 18 | $0.15 per 1,000 companies | 2026-10-27 |
 | 67 | [WebAutomation](https://datacircle.dev/linkedin-company-profile-apis/webautomation/99-monthly) | $99 monthly | 58.1 | 18 | $0.25 per 1,000 companies | 2026-10-30 |
 | 68 | [SocialKit](https://datacircle.dev/linkedin-company-profile-apis/socialkit/210-monthly) | $210 monthly | 52.3 | 9 | $1.40 per 1,000 companies | 2026-10-30 |
 | 69 | [LinkFetch](https://datacircle.dev/linkedin-company-profile-apis/linkfetch/189-pack) | $189 pack | 47.1 | 20 | $9.45 per 1,000 companies | 2026-11-12 |
-| 70 | [FetchGoblin](https://datacircle.dev/linkedin-company-profile-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 41.3 | 21 | $1.49 per 1,000 companies | 2026-10-25 |
-| 71 | [treg](https://datacircle.dev/linkedin-company-profile-apis/treg/top-up-from-10) | top-up from $10 | 41.3 | 14 | $1.11 per 1,000 companies | 2026-10-23 |
+| 70 | [treg](https://datacircle.dev/linkedin-company-profile-apis/treg/top-up-from-10) | top-up from $10 | 41.4 | 14 | $1.11 per 1,000 companies | 2026-10-23 |
+| 71 | [FetchGoblin](https://datacircle.dev/linkedin-company-profile-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 41.3 | 21 | $1.49 per 1,000 companies | 2026-10-25 |
 | 72 | [ScraperSocial](https://datacircle.dev/linkedin-company-profile-apis/scrapersocial/top-up-from-4-50) | top-up from $4.50 | 40.3 | 19 | $9.00 per 1,000 companies | 2026-11-09 |
 | 73 | [ByCrawl](https://datacircle.dev/linkedin-company-profile-apis/bycrawl/29-monthly) | $29 monthly | 34.8 | 14 | $23.20 per 1,000 companies | 2026-11-07 |
 | 74 | [PeopleSearch.im](https://datacircle.dev/linkedin-company-profile-apis/peoplesearch-im/50-pack) | $50 pack | 30 | 14 | $27.78 per 1,000 companies | 2026-10-27 |

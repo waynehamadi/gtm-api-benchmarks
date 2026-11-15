@@ -1,6 +1,6 @@
 # Keyword research API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 DataForSEO ranks first in our benchmark, with an Overall score of 56.8 out of 100. DataForSEO scores 44 out of 100 for accuracy. DataForSEO's plan "top-up from $50, Pay as you go" costs $0.12 per 1,000 keywords. We rank 19 providers. We last tested them on 2026-11-11.
 

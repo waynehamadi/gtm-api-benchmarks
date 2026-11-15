@@ -1,6 +1,6 @@
 # LinkedIn post search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 83.8 out of 100. Scrappa scores 91 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.015 per 1,000 posts. We rank 28 providers. We last tested them on 2026-11-11.
 
@@ -20,10 +20,10 @@ Every plan below is on our ranking page, [LinkedIn post search API: best provide
 | 10 | [AnyAPI](https://datacircle.dev/linkedin-post-search-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-linkedin-search-posts-full) | top-up from $10, Manual top-up | 61.8 | 79 | $0.04 per 1,000 posts | 2026-10-25 |
 | 11 | [Anysite](https://datacircle.dev/linkedin-post-search-apis/anysite/300-monthly) | $300 monthly | 60.7 | 86 | $0.079 per 1,000 posts | 2026-10-25 |
 | 12 | [ScrapeAtlas](https://datacircle.dev/linkedin-post-search-apis/scrapeatlas/19-pack) | $19 pack | 59.8 | 91 | $0.38 per 1,000 posts | 2026-10-28 |
-| 13 | [RichAPI](https://datacircle.dev/linkedin-post-search-apis/richapi/100-pack) | $100 pack | 58.4 | 76 | $2.00 per 1,000 posts | 2026-10-25 |
+| 13 | [RichAPI](https://datacircle.dev/linkedin-post-search-apis/richapi/450-pack) | $450 pack | 58.5 | 76 | $1.80 per 1,000 posts | 2026-10-25 |
 | 14 | [API Direct](https://datacircle.dev/linkedin-post-search-apis/api-direct/pay-as-you-go) | pay as you go, Pay per request | 56.2 | 73 | $0.30 per 1,000 posts | 2026-10-25 |
 | 15 | [Captapi](https://datacircle.dev/linkedin-post-search-apis/captapi/9-monthly) | $9 monthly | 55 | 83 | $3.60 per 1,000 posts | 2026-10-28 |
-| 16 | [Bridgly](https://datacircle.dev/linkedin-post-search-apis/bridgly/top-up-from-5) | top-up from $5 | 52.2 | 74 | $2.00 per 1,000 posts | 2026-11-08 |
+| 16 | [Bridgly](https://datacircle.dev/linkedin-post-search-apis/bridgly/top-up-from-5) | top-up from $5 | 52.3 | 74 | $2.00 per 1,000 posts | 2026-11-08 |
 | 17 | [Datamagnet](https://datacircle.dev/linkedin-post-search-apis/datamagnet/top-up-from-5) | top-up from $5 | 52.2 | 91 |  | 2026-10-26 |
 | 18 | [FetchGoblin](https://datacircle.dev/linkedin-post-search-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 52.2 | 92 |  | 2026-11-08 |
 | 19 | [RouterGrowth](https://datacircle.dev/linkedin-post-search-apis/routergrowth/499-monthly) | $499 monthly | 51.9 | 77 | $2.60 per 1,000 posts | 2026-10-25 |

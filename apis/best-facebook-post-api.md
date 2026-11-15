@@ -1,6 +1,6 @@
 # Facebook post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 Zembra ranks first in our benchmark, with an Overall score of 43.6 out of 100. Zembra scores 64 out of 100 for accuracy. Zembra's plan "top-up from $52" costs $2.40 per 1,000 posts. We rank 18 providers. We last tested them on 2026-11-08.
 

@@ -1,6 +1,6 @@
 # Truth Social post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 ScrapeCreators ranks first in our benchmark, with an Overall score of 68.2 out of 100. ScrapeCreators scores 100 out of 100 for accuracy. ScrapeCreators's plan "$497 pack" costs $0.05 per 1,000 posts. We rank 3 providers. We last tested them on 2026-10-30.
 

@@ -1,15 +1,15 @@
 # eBay API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
-Litescrape ranks first in our benchmark, with an Overall score of 78.7 out of 100. Litescrape scores 68 out of 100 for accuracy. Litescrape's plan "top-up from $10, Usage-based" costs $0.15 per 1,000 products. We rank 10 providers. We last tested them on 2026-11-12.
+Litescrape ranks first in our benchmark, with an Overall score of 78.6 out of 100. Litescrape scores 68 out of 100 for accuracy. Litescrape's plan "top-up from $10, Usage-based" costs $0.15 per 1,000 products. We rank 10 providers. We last tested them on 2026-11-12.
 
 Every plan below is on our ranking page, [eBay API: best providers in 2026](https://datacircle.dev/best-ebay-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Litescrape](https://datacircle.dev/ebay-product-apis/litescrape/top-up-from-10-usage-based-post-api-ebay-product-async) | top-up from $10, Usage-based | 78.7 | 68 | $0.15 per 1,000 products | 2026-10-31 |
-| 2 | [Stophy](https://datacircle.dev/ebay-product-apis/stophy/top-up-from-500) | top-up from $500 | 56.7 | 36 | $1.20 per 1,000 products | 2026-11-08 |
+| 1 | [Litescrape](https://datacircle.dev/ebay-product-apis/litescrape/top-up-from-10-usage-based-post-api-ebay-product-async) | top-up from $10, Usage-based | 78.6 | 68 | $0.15 per 1,000 products | 2026-10-31 |
+| 2 | [Stophy](https://datacircle.dev/ebay-product-apis/stophy/top-up-from-500) | top-up from $500 | 56.6 | 36 | $1.20 per 1,000 products | 2026-11-08 |
 | 3 | [SoldComps](https://datacircle.dev/ebay-product-apis/soldcomps/179-monthly) | $179 monthly | 55.9 | 34 | $1.19 per 1,000 products | 2026-11-06 |
 | 4 | [ReefAPI](https://datacircle.dev/ebay-product-apis/reefapi/450-quarterly) | $450 quarterly | 55.5 | 36 | $1.00 per 1,000 products | 2026-11-08 |
 | 5 | [Spidra](https://datacircle.dev/ebay-product-apis/spidra/249-monthly-pro-post-scrape) | $249 monthly, Pro | 53.1 | 59 | $1.99 per 1,000 products | 2026-11-06 |

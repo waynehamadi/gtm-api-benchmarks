@@ -1,6 +1,6 @@
 # Bluesky post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 Bluesky ranks first in our benchmark, with an Overall score of 76.1 out of 100. Bluesky scores 65 out of 100 for accuracy. Bluesky's plan "free" costs $0.00 per 1,000 posts. We rank 13 providers. We last tested them on 2026-11-10.
 

@@ -1,6 +1,6 @@
 # LinkedIn people search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 BlitzAPI ranks first in our benchmark, with an Overall score of 82.4 out of 100. BlitzAPI scores 76 out of 100 for accuracy. BlitzAPI's plan "$499 monthly, Scale" costs $0.10 per 1,000 people. We rank 24 providers. We last tested them on 2026-11-13.
 
@@ -16,7 +16,7 @@ Every plan below is on our ranking page, [LinkedIn people search API: best provi
 | 6 | [Social Fetch](https://datacircle.dev/linkedin-people-search-apis/social-fetch/29-monthly) | $29 monthly | 67.9 | 89 | $0.097 per 1,000 people | 2026-10-28 |
 | 7 | [Anysite](https://datacircle.dev/linkedin-people-search-apis/anysite/300-monthly-scale-post-api-linkedin-search-users) | $300 monthly, Scale | 67.6 | 90 | $0.16 per 1,000 people | 2026-10-25 |
 | 8 | [WizLeads](https://datacircle.dev/linkedin-people-search-apis/wizleads/449-quarterly-cartel-post-tasks-add-create-task-account-less-mode) | $449 quarterly, Cartel | 67.3 | 94 | $2.99 per 1,000 people | 2026-10-27 |
-| 9 | [Vayne](https://datacircle.dev/linkedin-people-search-apis/vayne/49-monthly-starter-post-api-find-people) | $49 monthly, Starter | 65.4 | 92 | $1.47 per 1,000 people | 2026-10-25 |
+| 9 | [Vayne](https://datacircle.dev/linkedin-people-search-apis/vayne/49-monthly-starter-post-api-find-people) | $49 monthly, Starter | 65.5 | 92 | $1.47 per 1,000 people | 2026-10-25 |
 | 10 | [HarvestAPI](https://datacircle.dev/linkedin-people-search-apis/harvestapi/80-pack) | $80 pack, Basic | 63.9 | 92 | $3.20 per 1,000 people | 2026-10-27 |
 | 11 | [Goma](https://datacircle.dev/linkedin-people-search-apis/goma/99-pack-99-credit-pack-get-api-v1-person-search) | $99 pack, $99 credit pack | 61.2 | 97 | $9.90 per 1,000 people | 2026-11-13 |
 | 12 | [Fiber AI](https://datacircle.dev/linkedin-people-search-apis/fiber-ai/top-up-from-3) | top-up from $3 | 56.3 | 81 | $30.00 per 1,000 people | 2026-10-25 |
@@ -29,7 +29,7 @@ Every plan below is on our ranking page, [LinkedIn people search API: best provi
 | 19 | [WebAutomation](https://datacircle.dev/linkedin-people-search-apis/webautomation/449-monthly-business-post-v1-person-search) | $449 monthly, Business | 59.2 | 38 | $0.15 per 1,000 people | 2026-10-30 |
 | 20 | [Desearch](https://datacircle.dev/linkedin-people-search-apis/desearch/top-up) | top-up | 35.5 | 43 | $50.00 per 1,000 people | 2026-10-29 |
 | 21 | [Scrappa](https://datacircle.dev/linkedin-people-search-apis/scrappa/10-pack) | $10 pack | 58.4 | 14 | $0.015 per 1,000 people | 2026-10-26 |
-| 22 | [Bridgly](https://datacircle.dev/linkedin-people-search-apis/bridgly/top-up-from-5) | top-up from $5 | 38.4 | 3 | $2.00 per 1,000 people | 2026-10-26 |
+| 22 | [Bridgly](https://datacircle.dev/linkedin-people-search-apis/bridgly/top-up-from-5) | top-up from $5 | 38.5 | 3 | $2.00 per 1,000 people | 2026-10-26 |
 | 23 | [BedrockTap](https://datacircle.dev/linkedin-people-search-apis/bedrocktap/29-monthly) | $29 monthly | 27.7 | 11 |  | 2026-11-09 |
 | 24 | [B2BProfile API](https://datacircle.dev/linkedin-people-search-apis/b2bprofile-api/19-monthly-starter-get-v1-people-search-search-company-employees-decision-makers-api-for-linkedin) | $19 monthly, Starter | 0 | 0 | $0.15 per 1,000 people | 2026-11-12 |
 

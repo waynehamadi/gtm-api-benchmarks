@@ -1,6 +1,6 @@
 # LinkedIn profile post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 Fetchin ranks first in our benchmark, with an Overall score of 75.4 out of 100. Fetchin scores 92 out of 100 for accuracy. Fetchin's plan "$50 monthly" costs $0.01 per 1,000 posts. We rank 19 providers. We last tested them on 2026-11-06.
 
@@ -14,7 +14,7 @@ Every plan below is on our ranking page, [LinkedIn profile post API: best provid
 | 4 | [AnyAPI](https://datacircle.dev/linkedin-person-post-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-linkedin-profile-posts-full) | top-up from $10, Manual top-up | 65.7 | 79 | $0.05 per 1,000 posts | 2026-10-25 |
 | 5 | [API Direct](https://datacircle.dev/linkedin-person-post-apis/api-direct/pay-as-you-go) | pay as you go, Pay per request | 60.4 | 66 | $0.30 per 1,000 posts | 2026-10-23 |
 | 6 | [The Swarm](https://datacircle.dev/linkedin-person-post-apis/the-swarm/500-monthly) | $500 monthly | 59.9 | 67 | $1.00 per 1,000 posts | 2026-10-26 |
-| 7 | [Bridgly](https://datacircle.dev/linkedin-person-post-apis/bridgly/300-pack) | $300 pack | 59.7 | 78 | $1.00 per 1,000 posts | 2026-10-26 |
+| 7 | [Bridgly](https://datacircle.dev/linkedin-person-post-apis/bridgly/top-up-from-5) | top-up from $5 | 59.1 | 78 | $2.00 per 1,000 posts | 2026-10-26 |
 | 8 | [Anysite](https://datacircle.dev/linkedin-person-post-apis/anysite/300-monthly) | $300 monthly | 57.7 | 79 | $0.53 per 1,000 posts | 2026-10-25 |
 | 9 | [Superagnt](https://datacircle.dev/linkedin-person-post-apis/superagnt/top-up-from-10) | top-up from $10 | 52.9 | 83 |  | 2026-11-06 |
 | 10 | [Up2Data](https://datacircle.dev/linkedin-person-post-apis/up2data/25-pack-10k-post-v1-profiles-activity) | $25 pack, 10K | 51.9 | 50 | $0.20 per 1,000 posts | 2026-10-25 |
@@ -22,7 +22,7 @@ Every plan below is on our ranking page, [LinkedIn profile post API: best provid
 | 12 | [Datamagnet](https://datacircle.dev/linkedin-person-post-apis/datamagnet/top-up-from-5) | top-up from $5 | 48.8 | 71 |  | 2026-10-26 |
 | 13 | [SocialListeningAPI](https://datacircle.dev/linkedin-person-post-apis/sociallisteningapi/20-pack-starter-get-api-v1-linkedin-profile-posts) | $20 pack, Starter | 45.1 | 66 |  | 2026-10-27 |
 | 14 | [RouterGrowth](https://datacircle.dev/linkedin-person-post-apis/routergrowth/499-monthly) | $499 monthly | 40.5 | 45 | $2.60 per 1,000 posts | 2026-10-25 |
-| 15 | [Bright Data](https://datacircle.dev/linkedin-person-post-apis/bright-data/top-up) | top-up | 30.6 | 34 | $1.50 per 1,000 posts | 2026-10-26 |
+| 15 | [Bright Data](https://datacircle.dev/linkedin-person-post-apis/bright-data/top-up) | top-up | 30.7 | 34 | $1.50 per 1,000 posts | 2026-10-26 |
 | 16 | [Vayne](https://datacircle.dev/linkedin-person-post-apis/vayne/49-monthly) | $49 monthly | 30.3 | 37 |  | 2026-10-25 |
 | 17 | [treg](https://datacircle.dev/linkedin-person-post-apis/treg/top-up-from-10) | top-up from $10 | 42.9 | 3 | $0.024 per 1,000 posts | 2026-10-20 |
 | 18 | [Autobound](https://datacircle.dev/linkedin-person-post-apis/autobound/19-pack) | $19 pack | 21.1 | 4 | $20.00 per 1,000 posts | 2026-10-24 |

@@ -1,6 +1,6 @@
 # Facebook Marketplace listing API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 SocialAPIs ranks first in our benchmark, with an Overall score of 67.7 out of 100. SocialAPIs scores 93 out of 100 for accuracy. SocialAPIs's plan "$179 monthly" costs $1.49 per 1,000 listings. We rank 6 providers. We last tested them on 2026-11-03.
 

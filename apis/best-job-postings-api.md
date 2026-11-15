@@ -1,8 +1,8 @@
 # Job postings API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
-JobsByLevel ranks first in our benchmark, with an Overall score of 90.7 out of 100. JobsByLevel scores 77 out of 100 for accuracy. JobsByLevel's plan "free" costs $0.00 per 1,000 jobs. We rank 71 providers. We last tested them on 2026-11-13.
+JobsByLevel ranks first in our benchmark, with an Overall score of 90.7 out of 100. JobsByLevel scores 77 out of 100 for accuracy. JobsByLevel's plan "free" costs $0.00 per 1,000 jobs. We rank 71 providers. We last tested them on 2026-11-14.
 
 Every plan below is on our ranking page, [Job postings API: best providers in 2026](https://datacircle.dev/best-job-postings-api).
 
@@ -14,23 +14,23 @@ Every plan below is on our ranking page, [Job postings API: best providers in 20
 | 4 | [Vibeworker](https://datacircle.dev/job-posting-apis/vibeworker/19-monthly) | $19 monthly | 85.4 | 88 | $0 extra per 1,000. The $19 monthly price covers any number of jobs | 2026-11-11 |
 | 5 | [Resume Booster](https://datacircle.dev/job-posting-apis/resume-booster/free-key-post-agent-mcp) | free key | 85 | 84 | $0.00 per 1,000 jobs | 2026-11-11 |
 | 6 | [Headcount Labs](https://datacircle.dev/job-posting-apis/headcount-labs/pay-as-you-go-first-100000-every-month-post-v1-jobs-search) | pay as you go, First 100,000 every month | 83.6 | 81 | $0.00 per 1,000 jobs | 2026-11-10 |
-| 7 | [AnywhereRoles](https://datacircle.dev/job-posting-apis/anywhereroles/free) | free | 82.5 | 77 | $0.00 per 1,000 jobs | 2026-11-10 |
-| 8 | [Himalayas](https://datacircle.dev/job-posting-apis/himalayas/free-api-key-get-jobs-api-search) | free API key | 82.2 | 88 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 9 | [Dev Global Jobs](https://datacircle.dev/job-posting-apis/dev-global-jobs/free) | free | 82 | 76 | $0.00 per 1,000 jobs | 2026-11-11 |
-| 10 | [Rezifi](https://datacircle.dev/job-posting-apis/rezifi/free) | free | 81 | 86 | $0.00 per 1,000 jobs | 2026-11-10 |
+| 7 | [Himalayas](https://datacircle.dev/job-posting-apis/himalayas/free-api-key-get-jobs-api-search) | free API key | 82.2 | 88 | $0.00 per 1,000 jobs | 2026-10-28 |
+| 8 | [Dev Global Jobs](https://datacircle.dev/job-posting-apis/dev-global-jobs/free) | free | 82 | 76 | $0.00 per 1,000 jobs | 2026-11-11 |
+| 9 | [AnywhereRoles](https://datacircle.dev/job-posting-apis/anywhereroles/free) | free | 81.6 | 74 | $0.00 per 1,000 jobs | 2026-11-10 |
+| 10 | [Rezifi](https://datacircle.dev/job-posting-apis/rezifi/free) | free | 81.2 | 87 | $0.00 per 1,000 jobs | 2026-11-10 |
 | 11 | [JobDataAPI](https://datacircle.dev/job-posting-apis/jobdataapi/free) | free | 80.3 | 94 | $0.00 per 1,000 jobs | 2026-11-04 |
 | 12 | [Hydrafetch](https://datacircle.dev/job-posting-apis/hydrafetch/99-monthly) | $99 monthly | 73.9 | 90 | $0.05 per 1,000 jobs | 2026-11-13 |
 | 13 | [SalesJobs.Now](https://datacircle.dev/job-posting-apis/salesjobs-now/free-get-api-v1-jobs) | free | 72.8 | 50 | $0.00 per 1,000 jobs | 2026-11-08 |
 | 14 | [Jobo](https://datacircle.dev/job-posting-apis/jobo/299-monthly-scale-get-api-jobs) | $299 monthly, Scale | 71 | 98 | $0.30 per 1,000 jobs | 2026-11-10 |
 | 15 | [JobPostingsAPI](https://datacircle.dev/job-posting-apis/jobpostingsapi/199-monthly-scale-get-v1-jobs-search) | $199 monthly, Scale | 69.8 | 74 | $0.20 per 1,000 jobs | 2026-11-07 |
-| 16 | [YubHub](https://datacircle.dev/job-posting-apis/yubhub/free) | free | 68.2 | 60 | $0.00 per 1,000 jobs | 2026-11-07 |
+| 16 | [YubHub](https://datacircle.dev/job-posting-apis/yubhub/free) | free | 69.1 | 62 | $0.00 per 1,000 jobs | 2026-11-07 |
 | 17 | [Job Opportunities API](https://datacircle.dev/job-posting-apis/job-opportunities-api/299-monthly-signal-get-v1-jobs) | €299 monthly, Signal | 65.4 | 93 | $0.84 per 1,000 jobs | 2026-11-10 |
-| 18 | [Fantastic.jobs](https://datacircle.dev/job-posting-apis/fantastic-jobs/250-monthly-pro-100k-get-v1-active-ats) | $250 monthly, Pro-100k | 59.6 | 95 | $2.50 per 1,000 jobs | 2026-10-25 |
+| 18 | [Fantastic.jobs](https://datacircle.dev/job-posting-apis/fantastic-jobs/250-monthly-pro-100k-get-v1-active-ats) | $250 monthly, Pro-100k | 59.8 | 96 | $2.50 per 1,000 jobs | 2026-10-25 |
 | 19 | [Litescrape](https://datacircle.dev/job-posting-apis/litescrape/top-up-from-10-usage-based-get-api-indeed-search) | top-up from $10, Usage-based | 59 | 70 | $0.0015 per 1,000 jobs | 2026-10-27 |
 | 20 | [Hirebase](https://datacircle.dev/job-posting-apis/hirebase/249-monthly-growth-post-v2-jobs-search) | $249 monthly, Growth | 58.8 | 82 | $1.00 per 1,000 jobs | 2026-11-03 |
 | 21 | [JobsPipe](https://datacircle.dev/job-posting-apis/jobspipe/9-80-pack-credit-pack-without-an-account-post-v1-jobs-agentic-search) | top-up from $9.80, Credit pack without an account | 58.5 | 88 | $1.96 per 1,000 jobs | 2026-10-25 |
 | 22 | [LeadMagic](https://datacircle.dev/job-posting-apis/leadmagic/499-monthly-professional-post-v3-jobs-search) | $499 monthly, Professional | 56.7 | 50 | $0.05 per 1,000 jobs | 2026-10-20 |
-| 23 | [JobDataLake](https://datacircle.dev/job-posting-apis/jobdatalake/50-pack) | $50 pack | 56 | 54 | $0.005 per 1,000 jobs | 2026-10-27 |
+| 23 | [JobDataLake](https://datacircle.dev/job-posting-apis/jobdatalake/50-pack) | $50 pack | 56.2 | 54 | $0.005 per 1,000 jobs | 2026-10-27 |
 | 24 | [Exende](https://datacircle.dev/job-posting-apis/exende/149-monthly-scale-get-v1-jobs-search) | €149 monthly, Scale | 55.6 | 72 | $0.56 per 1,000 jobs | 2026-11-07 |
 | 25 | [RankFabrik](https://datacircle.dev/job-posting-apis/rankfabrik/62-50-monthly-artisan-get-offres) | €62.50 monthly, Artisan | 55.1 | 85 | $2.81 per 1,000 jobs | 2026-10-27 |
 | 26 | [Jobven](https://datacircle.dev/job-posting-apis/jobven/499-monthly) | $499 monthly | 54 | 93 | $3.33 per 1,000 jobs | 2026-11-13 |
@@ -42,9 +42,9 @@ Every plan below is on our ranking page, [Job postings API: best providers in 20
 | 32 | [AnyAPI](https://datacircle.dev/job-posting-apis/anyapi/top-up-from-10) | top-up from $10 | 42.3 | 65 | $67.20 per 1,000 jobs | 2026-10-25 |
 | 33 | [Bytemine](https://datacircle.dev/job-posting-apis/bytemine/top-up-from-0-50) | top-up from $0.50 | 41.6 | 52 | $10.00 per 1,000 jobs | 2026-11-04 |
 | 34 | [PerceptLayer](https://datacircle.dev/job-posting-apis/perceptlayer/15-pack-starter-get-v1-indeed-jobs) | $15 pack, Starter | 36.7 | 52 |  | 2026-11-03 |
-| 35 | [Mantiks](https://datacircle.dev/job-posting-apis/mantiks/190-monthly) | €190 monthly | 32.6 | 49 | $213.81 per 1,000 jobs | 2026-10-29 |
+| 35 | [Mantiks](https://datacircle.dev/job-posting-apis/mantiks/190-monthly) | €190 monthly | 32.5 | 49 | $213.81 per 1,000 jobs | 2026-10-29 |
 | 36 | [The Jobs API](https://datacircle.dev/job-posting-apis/the-jobs-api/200-monthly-canada-get-v1-jobs) | $200 monthly, Canada | 76.2 | 45 | $0 extra per 1,000. The $200 monthly price covers any number of jobs | 2026-11-07 |
-| 37 | [jobContext](https://datacircle.dev/job-posting-apis/jobcontext/free) | free | 70.5 | 36 | $0.00 per 1,000 jobs | 2026-11-08 |
+| 37 | [jobContext](https://datacircle.dev/job-posting-apis/jobcontext/free) | free | 70.4 | 36 | $0.00 per 1,000 jobs | 2026-11-08 |
 | 38 | [Arbetsförmedlingen](https://datacircle.dev/job-posting-apis/arbetsformedlingen/free-open-data-get-search-jobsearch-search-using-parameters-and-or-freetext) | free, Open data | 68.7 | 36 | $0.00 per 1,000 jobs | 2026-11-04 |
 | 39 | [Jobvetta](https://datacircle.dev/job-posting-apis/jobvetta/free) | free | 65.8 | 33 | $0.00 per 1,000 jobs | 2026-11-07 |
 | 40 | [USAJOBS](https://datacircle.dev/job-posting-apis/usajobs/free-api-key) | free, API Key | 65.3 | 30 | $0.00 per 1,000 jobs | 2026-11-04 |
@@ -58,7 +58,7 @@ Every plan below is on our ranking page, [Job postings API: best providers in 20
 | 48 | [DataForSEO](https://datacircle.dev/job-posting-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-serp-google-jobs-task-post-setting-google-jobs-tasks-standard-queue) | top-up from $50, Pay as you go | 41.2 | 37 | $0.06 per 1,000 jobs | 2026-11-04 |
 | 49 | [Ujeebu](https://datacircle.dev/job-posting-apis/ujeebu/12-pack) | $12 pack | 39.2 | 33 | $0.12 per 1,000 jobs | 2026-10-28 |
 | 50 | [2s.io](https://datacircle.dev/job-posting-apis/2s-io/pay-as-you-go-x402-pay-per-call-get-api-gov-usajobs) | pay as you go, x402 pay per call | 37.6 | 25 | $0.05 per 1,000 jobs | 2026-11-10 |
-| 51 | [Remote Jobs API](https://datacircle.dev/job-posting-apis/remote-jobs-api/19-monthly-pro-get-v1-jobs) | $19 monthly, Pro | 37.3 | 40 | $0.0038 per 1,000 jobs | 2026-11-13 |
+| 51 | [Remote Jobs API](https://datacircle.dev/job-posting-apis/remote-jobs-api/19-monthly-pro-get-v1-jobs) | $19 monthly, Pro | 37.3 | 40 | $0.0038 per 1,000 jobs | 2026-11-14 |
 | 52 | [upAPI](https://datacircle.dev/job-posting-apis/upapi/29-monthly-starter-post-wellfound-browse-jobs-post) | $29 monthly, Starter | 34.2 | 44 |  | 2026-11-07 |
 | 53 | [PredictLeads](https://datacircle.dev/job-posting-apis/predictleads/pay-as-you-go-10001-100000-api-calls) | pay as you go, 10,001-100,000 API Calls | 32.4 | 27 | $10.00 per 1,000 jobs | 2026-11-04 |
 | 54 | [AIDevBoard](https://datacircle.dev/job-posting-apis/aidevboard/free) | free | 66.8 | 11 | $0.00 per 1,000 jobs | 2026-11-07 |
@@ -71,7 +71,7 @@ Every plan below is on our ranking page, [Job postings API: best providers in 20
 | 61 | [SerpBase](https://datacircle.dev/job-posting-apis/serpbase/10-pack) | $10 pack | 26 | 23 |  | 2026-10-28 |
 | 62 | [Serply](https://datacircle.dev/job-posting-apis/serply/5-pack) | $5 pack | 25.4 | 22 |  | 2026-10-27 |
 | 63 | [PrismCrawl](https://datacircle.dev/job-posting-apis/prismcrawl/5-pack) | $5 pack | 24.8 | 20 |  | 2026-10-28 |
-| 64 | [Reqbeat](https://datacircle.dev/job-posting-apis/reqbeat/199-monthly-growth-post-v1-reqs-qualified) | €199 monthly, Growth | 23.5 | 19 | $44.79 per 1,000 jobs | 2026-11-07 |
+| 64 | [Reqbeat](https://datacircle.dev/job-posting-apis/reqbeat/199-monthly-growth-post-v1-reqs-qualified) | €199 monthly, Growth | 23.7 | 20 | $44.79 per 1,000 jobs | 2026-11-07 |
 | 65 | [Forager](https://datacircle.dev/job-posting-apis/forager/50-monthly) | $50 monthly | 18.9 | 5 |  | 2026-10-28 |
 | 66 | [Clair](https://datacircle.dev/job-posting-apis/clair/30-monthly-starter-get-v1-glassdoor-jobs) | $30 monthly, Starter | 18 | 4 |  | 2026-10-27 |
 | 67 | [Crawlora](https://datacircle.dev/job-posting-apis/crawlora/9-monthly-starter-get-upwork-search) | $9 monthly, Starter | 17.5 | 1 |  | 2026-11-04 |

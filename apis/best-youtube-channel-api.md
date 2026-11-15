@@ -1,6 +1,6 @@
 # YouTube channel API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 YouTube Data API (Google) ranks first in our benchmark, with an Overall score of 90.9 out of 100. YouTube Data API (Google) scores 75 out of 100 for accuracy. YouTube Data API (Google)'s plan "free" costs $0.00 per 1,000 channels. We rank 45 providers. We last tested them on 2026-11-11.
 

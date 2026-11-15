@@ -1,6 +1,6 @@
 # Similar companies API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,316 providers of 129 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
 
 ScrapeAtlas ranks first in our benchmark, with an Overall score of 66.8 out of 100. ScrapeAtlas scores 41 out of 100 for accuracy. ScrapeAtlas's plan "$19 pack" costs $0.019 per 1,000 companies. We rank 22 providers. We last tested them on 2026-11-07.
 
@@ -28,7 +28,7 @@ Every plan below is on our ranking page, [Similar companies API: best providers 
 | 18 | [The Companies API](https://datacircle.dev/similar-company-apis/the-companies-api/295-monthly) | $295 monthly | 32.9 | 2 | $1.18 per 1,000 companies | 2026-10-27 |
 | 19 | [PublicWWW](https://datacircle.dev/similar-company-apis/publicwww/49-pack) | $49 pack | 32.5 | 2 | $0.0049 per 1,000 companies | 2026-11-04 |
 | 20 | [Scrappa](https://datacircle.dev/similar-company-apis/scrappa/10-pack) | $10 pack | 27.1 | 1 |  | 2026-11-06 |
-| 21 | [Bridgly](https://datacircle.dev/similar-company-apis/bridgly/top-up-from-5) | top-up from $5 | 25 | 5 |  | 2026-11-06 |
+| 21 | [Bridgly](https://datacircle.dev/similar-company-apis/bridgly/top-up-from-5) | top-up from $5 | 25.1 | 5 |  | 2026-11-06 |
 | 22 | [LinkCensus](https://datacircle.dev/similar-company-apis/linkcensus/79-pack) | $79 pack | 0 | 0 | $0.033 per 1,000 companies | 2026-11-07 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
