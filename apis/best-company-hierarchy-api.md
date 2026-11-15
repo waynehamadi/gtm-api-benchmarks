@@ -1,6 +1,6 @@
 # Company hierarchy API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 DiscoLike ranks first in our benchmark, with an Overall score of 64.2 out of 100. DiscoLike scores 100 out of 100 for accuracy. DiscoLike's plan "$99 monthly" costs $3.50 per 1,000 companies. We rank 10 providers. We last tested them on 2026-11-12.
 

@@ -1,6 +1,6 @@
 # Realtor.com search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 RealtyAPI ranks first in our benchmark, with an Overall score of 62.1 out of 100. RealtyAPI scores 63 out of 100 for accuracy. RealtyAPI's plan "$399 monthly, MEGA" costs $0.80 per 1,000 searches. We rank 3 providers. We last tested them on 2026-10-31.
 

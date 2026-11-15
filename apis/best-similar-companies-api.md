@@ -1,6 +1,6 @@
 # Similar companies API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 ScrapeAtlas ranks first in our benchmark, with an Overall score of 66.8 out of 100. ScrapeAtlas scores 41 out of 100 for accuracy. ScrapeAtlas's plan "$19 pack" costs $0.019 per 1,000 companies. We rank 22 providers. We last tested them on 2026-11-07.
 

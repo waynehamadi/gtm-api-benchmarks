@@ -1,6 +1,6 @@
 # LinkedIn company post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 Fetchin ranks first in our benchmark, with an Overall score of 67.6 out of 100. Fetchin scores 87 out of 100 for accuracy. Fetchin's plan "$50 monthly" costs $0.01 per 1,000 posts. We rank 26 providers. We last tested them on 2026-11-09.
 

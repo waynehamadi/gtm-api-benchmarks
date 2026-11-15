@@ -1,6 +1,6 @@
 # YouTube channel video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 ScrapeUnblocker ranks first in our benchmark, with an Overall score of 85.5 out of 100. ScrapeUnblocker scores 94 out of 100 for accuracy. ScrapeUnblocker's plan "pay as you go" costs $0.0056 per 1,000 videos. We rank 48 providers. We last tested them on 2026-11-11.
 

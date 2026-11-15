@@ -1,6 +1,6 @@
 # Reverse email lookup API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 GetProspect ranks first in our benchmark, with an Overall score of 83.5 out of 100. GetProspect scores 89 out of 100 for accuracy. GetProspect's plan "$399 monthly, Growth 50k" costs $7.98 per 1,000 people. We rank 39 providers. We last tested them on 2026-11-14.
 
@@ -8,7 +8,7 @@ Every plan below is on our ranking page, [Reverse email lookup API: best provide
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [GetProspect](https://datacircle.dev/reverse-email-lookup-apis/getprospect/399-monthly-growth-50k-post-v2-people-enrich) | $399 monthly, Growth 50k | 83.5 | 89 | $7.98 per 1,000 people | 2026-10-31 |
+| 1 | [GetProspect](https://datacircle.dev/reverse-email-lookup-apis/getprospect/399-monthly-growth-50k-post-v2-people-enrich) | $399 monthly, Growth 50k | 83.5 | 89 | $7.98 per 1,000 people | 2026-11-14 |
 | 2 | [Village](https://datacircle.dev/reverse-email-lookup-apis/village/1-monthly) | $1 monthly, Core | 75.8 | 100 | $20.00 per 1,000 people | 2026-10-28 |
 | 3 | [Findymail](https://datacircle.dev/reverse-email-lookup-apis/findymail/399-monthly-business-plus-post-api-search-reverse-email-reverse-email-lookup-full) | $399 monthly, Business Plus | 68.6 | 71 | $26.60 per 1,000 people | 2026-11-08 |
 | 4 | [Vayne](https://datacircle.dev/reverse-email-lookup-apis/vayne/159-monthly) | $159 monthly | 66.2 | 89 | $31.80 per 1,000 people | 2026-10-25 |

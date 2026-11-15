@@ -1,6 +1,6 @@
 # Zillow property details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 ScrapeUnblocker ranks first in our benchmark, with an Overall score of 76 out of 100. ScrapeUnblocker scores 70 out of 100 for accuracy. ScrapeUnblocker's plan "€299 monthly" costs $0.76 per 1,000 properties. We rank 9 providers. We last tested them on 2026-11-06.
 

@@ -1,8 +1,8 @@
 # App Store search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
-Apple ranks first in our benchmark, with an Overall score of 79 out of 100. Apple scores 77 out of 100 for accuracy. Apple's plan "free" costs $0.00 per 1,000 searches. We rank 18 providers. We last tested them on 2026-11-14.
+Apple ranks first in our benchmark, with an Overall score of 79 out of 100. Apple scores 77 out of 100 for accuracy. Apple's plan "free" costs $0.00 per 1,000 searches. We rank 19 providers. We last tested them on 2026-11-14.
 
 Every plan below is on our ranking page, [App Store search API: best providers in 2026](https://datacircle.dev/best-app-store-search-api).
 
@@ -17,15 +17,16 @@ Every plan below is on our ranking page, [App Store search API: best providers i
 | 7 | [Sonar](https://datacircle.dev/app-store-search-apis/sonar/29-monthly) | $29 monthly | 52.1 | 59 | $0.97 per 1,000 searches | 2026-10-30 |
 | 8 | [AppSigma](https://datacircle.dev/app-store-search-apis/appsigma/49-99-monthly) | $49.99 monthly | 51.9 | 42 | $1.00 per 1,000 searches | 2026-10-30 |
 | 9 | [Pullbay](https://datacircle.dev/app-store-search-apis/pullbay/9-monthly) | $9 monthly | 51.5 | 68 | $2.00 per 1,000 searches | 2026-11-05 |
-| 10 | [ScrapeUnblocker](https://datacircle.dev/app-store-search-apis/scrapeunblocker/pay-as-you-go) | pay as you go | 48.7 | 52 | $1.13 per 1,000 searches | 2026-11-05 |
-| 11 | [AppGoat](https://datacircle.dev/app-store-search-apis/appgoat/147-monthly-studio-get-v1-keywords) | $147 monthly, Studio | 41.2 | 21 | $1.96 per 1,000 searches | 2026-11-11 |
+| 10 | [AppstoreSpy](https://datacircle.dev/app-store-search-apis/appstorespy/199-monthly-business-get-ios-apps) | $199 monthly, Business | 49.4 | 44 | $1.99 per 1,000 searches | 2026-11-14 |
+| 11 | [ScrapeUnblocker](https://datacircle.dev/app-store-search-apis/scrapeunblocker/pay-as-you-go) | pay as you go | 48.7 | 52 | $1.13 per 1,000 searches | 2026-11-05 |
 | 12 | [DataForSEO](https://datacircle.dev/app-store-search-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-app-data-apple-app-searches-task-post-setting-apple-app-searches-tasks-standard-queue) | top-up from $50, Pay as you go | 36 | 23 | $1.20 per 1,000 searches | 2026-10-30 |
-| 13 | [SupaMarketers](https://datacircle.dev/app-store-search-apis/supamarketers/49-monthly) | $49 monthly | 26.7 | 23 | $16.33 per 1,000 searches | 2026-11-11 |
-| 14 | [Dekadans](https://datacircle.dev/app-store-search-apis/dekadans/6-99-monthly) | $6.99 monthly | 62.3 | 15 | $0 extra per 1,000. The $6.99 monthly price covers any number of searches | 2026-11-11 |
-| 15 | [AsoBeast](https://datacircle.dev/app-store-search-apis/asobeast/10-monthly) | $10 monthly | 58.7 | 17 | $0.23 per 1,000 searches | 2026-11-08 |
-| 16 | [AppGoblin](https://datacircle.dev/app-store-search-apis/appgoblin/399-monthly) | $399 monthly | 38.2 | 4 | $0.13 per 1,000 searches | 2026-11-11 |
-| 17 | [BRONTIR](https://datacircle.dev/app-store-search-apis/brontir/350-monthly) | €350 monthly | 29 | 18 | $1.91 per 1,000 searches | 2026-11-08 |
-| 18 | [GeckoAPI](https://datacircle.dev/app-store-search-apis/geckoapi/r-126-90-monthly) | R$126.90 (about $25) monthly | 26.7 | 18 | $12.48 per 1,000 searches | 2026-11-08 |
+| 13 | [AppGoat](https://datacircle.dev/app-store-search-apis/appgoat/147-monthly-studio-get-v1-keywords) | $147 monthly, Studio | 33.2 | 21 | $1.96 per 1,000 searches | 2026-11-11 |
+| 14 | [SupaMarketers](https://datacircle.dev/app-store-search-apis/supamarketers/49-monthly) | $49 monthly | 26.7 | 23 | $16.33 per 1,000 searches | 2026-11-11 |
+| 15 | [Dekadans](https://datacircle.dev/app-store-search-apis/dekadans/6-99-monthly) | $6.99 monthly | 62.3 | 15 | $0 extra per 1,000. The $6.99 monthly price covers any number of searches | 2026-11-11 |
+| 16 | [AsoBeast](https://datacircle.dev/app-store-search-apis/asobeast/10-monthly) | $10 monthly | 58.7 | 17 | $0.23 per 1,000 searches | 2026-11-08 |
+| 17 | [AppGoblin](https://datacircle.dev/app-store-search-apis/appgoblin/399-monthly) | $399 monthly | 33.7 | 4 | $0.13 per 1,000 searches | 2026-11-11 |
+| 18 | [BRONTIR](https://datacircle.dev/app-store-search-apis/brontir/350-monthly) | €350 monthly | 29 | 18 | $1.91 per 1,000 searches | 2026-11-08 |
+| 19 | [GeckoAPI](https://datacircle.dev/app-store-search-apis/geckoapi/r-126-90-monthly) | R$126.90 (about $25) monthly | 26.7 | 18 | $12.48 per 1,000 searches | 2026-11-08 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

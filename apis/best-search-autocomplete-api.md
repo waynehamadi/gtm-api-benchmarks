@@ -1,6 +1,6 @@
 # Search autocomplete API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 SERPHouse ranks first in our benchmark, with an Overall score of 70.9 out of 100. SERPHouse scores 94 out of 100 for accuracy. SERPHouse's plan "$49.99 monthly" costs $0.31 per 1,000 queries. We rank 11 providers. We last tested them on 2026-11-08.
 

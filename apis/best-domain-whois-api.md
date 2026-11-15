@@ -1,6 +1,6 @@
 # Domain WHOIS API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 WhoisRequest ranks first in our benchmark, with an Overall score of 96.9 out of 100. WhoisRequest scores 93 out of 100 for accuracy. WhoisRequest's plan "free" costs $0.00 per 1,000 domains. We rank 53 providers. We last tested them on 2026-11-14.
 
@@ -17,15 +17,15 @@ Every plan below is on our ranking page, [Domain WHOIS API: best providers in 20
 | 7 | [DomainDrift](https://datacircle.dev/domain-whois-apis/domaindrift/5-monthly-domaindrift-whois-get-v1-whois-domain) | $5 monthly, DomainDrift WHOIS | 87.9 | 98 | $0.0033 per 1,000 domains | 2026-11-12 |
 | 8 | [WhoisJSON](https://datacircle.dev/domain-whois-apis/whoisjson/120-monthly) | $120 monthly | 87.3 | 99 |  | 2026-11-09 |
 | 9 | [IPAddress.to](https://datacircle.dev/domain-whois-apis/ipaddress-to/free) | free | 83.8 | 97 | $0.00 per 1,000 domains | 2026-11-08 |
-| 10 | [Robtex](https://datacircle.dev/domain-whois-apis/robtex/free) | free | 83.3 | 71 | $0.00 per 1,000 domains | 2026-11-07 |
+| 10 | [Robtex](https://datacircle.dev/domain-whois-apis/robtex/free) | free | 83.4 | 71 | $0.00 per 1,000 domains | 2026-11-07 |
 | 11 | [StableDomains](https://datacircle.dev/domain-whois-apis/stabledomains/free) | free | 83.3 | 87 | $0.00 per 1,000 domains | 2026-11-10 |
 | 12 | [FernTool](https://datacircle.dev/domain-whois-apis/ferntool/free) | free | 83.1 | 87 | $0.00 per 1,000 domains | 2026-11-10 |
 | 13 | [Agent Toolbox](https://datacircle.dev/domain-whois-apis/agent-toolbox/free) | free | 81.2 | 81 | $0.00 per 1,000 domains | 2026-11-09 |
-| 14 | [Apixies](https://datacircle.dev/domain-whois-apis/apixies/free-sandbox-no-account) | free, Sandbox (no account) | 77 | 56 | $0.00 per 1,000 domains | 2026-11-11 |
-| 15 | [Pyxmark](https://datacircle.dev/domain-whois-apis/pyxmark/free) | free | 75.1 | 58 | $0.00 per 1,000 domains | 2026-11-10 |
-| 16 | [heade.rs](https://datacircle.dev/domain-whois-apis/heade-rs/free) | free | 74.4 | 79 | $0.00 per 1,000 domains | 2026-11-10 |
-| 17 | [who.is](https://datacircle.dev/domain-whois-apis/who-is/199-monthly-scale-api-access-get-v1-rdap-domain-normalized-rdap-record) | $199 monthly, Scale API Access | 74 | 88 | $1.33 per 1,000 domains | 2026-11-13 |
-| 18 | [WhoisFreaks](https://datacircle.dev/domain-whois-apis/whoisfreaks/200-monthly-monthly-subscription-150000-api-credits-post-v2-0-bulkwhois-live) | $200 monthly, Monthly Subscription, 150,000 API Credits | 73.2 | 85 | $1.33 per 1,000 domains | 2026-11-14 |
+| 14 | [Apixies](https://datacircle.dev/domain-whois-apis/apixies/free-sandbox-no-account) | free, Sandbox (no account) | 80.3 | 65 | $0.00 per 1,000 domains | 2026-11-11 |
+| 15 | [WhoisFreaks](https://datacircle.dev/domain-whois-apis/whoisfreaks/200-monthly-monthly-subscription-150000-api-credits-post-v2-0-bulkwhois-live) | $200 monthly, Monthly Subscription, 150,000 API Credits | 75.8 | 92 | $1.33 per 1,000 domains | 2026-11-14 |
+| 16 | [Pyxmark](https://datacircle.dev/domain-whois-apis/pyxmark/free) | free | 75.1 | 58 | $0.00 per 1,000 domains | 2026-11-10 |
+| 17 | [heade.rs](https://datacircle.dev/domain-whois-apis/heade-rs/free) | free | 74.4 | 79 | $0.00 per 1,000 domains | 2026-11-10 |
+| 18 | [who.is](https://datacircle.dev/domain-whois-apis/who-is/199-monthly-scale-api-access-get-v1-rdap-domain-normalized-rdap-record) | $199 monthly, Scale API Access | 74 | 88 | $1.33 per 1,000 domains | 2026-11-13 |
 | 19 | [DomScan](https://datacircle.dev/domain-whois-apis/domscan/6-monthly-starter-post-v1-whois-bulk) | $6 monthly, Starter | 72.5 | 87 | $0.72 per 1,000 domains | 2026-11-06 |
 | 20 | [DomChecker](https://datacircle.dev/domain-whois-apis/domchecker/free) | free | 71.9 | 69 | $0.00 per 1,000 domains | 2026-11-10 |
 | 21 | [Sugra API](https://datacircle.dev/domain-whois-apis/sugra-api/25-monthly-dev-get-api-v1-network-domain-host-rdap) | $25 monthly, Dev | 71.3 | 100 | $0.17 per 1,000 domains | 2026-11-13 |
@@ -58,7 +58,7 @@ Every plan below is on our ranking page, [Domain WHOIS API: best providers in 20
 | 48 | [Leadgen Romania](https://datacircle.dev/domain-whois-apis/leadgen-romania/29-monthly) | €29 monthly | 49.7 | 48 | $0.22 per 1,000 domains | 2026-11-06 |
 | 49 | [Ambolt](https://datacircle.dev/domain-whois-apis/ambolt/pay-as-you-go) | pay as you go | 39.4 | 43 | $3.00 per 1,000 domains | 2026-11-11 |
 | 50 | [2s.io](https://datacircle.dev/domain-whois-apis/2s-io/pay-as-you-go) | pay as you go | 36.1 | 37 | $2.50 per 1,000 domains | 2026-11-09 |
-| 51 | [GetWhoisData](https://datacircle.dev/domain-whois-apis/getwhoisdata/top-up) | top-up | 28.9 | 35 | $2.00 per 1,000 domains | 2026-11-07 |
+| 51 | [GetWhoisData](https://datacircle.dev/domain-whois-apis/getwhoisdata/top-up) | top-up | 31.2 | 41 | $2.00 per 1,000 domains | 2026-11-07 |
 | 52 | [whs.is](https://datacircle.dev/domain-whois-apis/whs-is/30-pack) | $30 pack | 20.1 | 17 | $10.00 per 1,000 domains | 2026-11-13 |
 | 53 | [ParseAPI](https://datacircle.dev/domain-whois-apis/parseapi/20-monthly) | $20 monthly | 0 | 0 | $0.02 per 1,000 domains | 2026-11-10 |
 

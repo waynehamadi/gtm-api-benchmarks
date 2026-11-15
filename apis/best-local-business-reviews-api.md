@@ -1,6 +1,6 @@
 # Local business reviews API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 CrustAPI ranks first in our benchmark, with an Overall score of 87 out of 100. CrustAPI scores 81 out of 100 for accuracy. CrustAPI's plan "top-up from $149" costs $0.015 per 1,000 reviews. We rank 4 providers. We last tested them on 2026-11-08.
 

@@ -1,6 +1,6 @@
 # LinkedIn company search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 Up2Data ranks first in our benchmark, with an Overall score of 90.3 out of 100. Up2Data scores 100 out of 100 for accuracy. Up2Data's plan "$200 pack, 100K" costs $0.08 per 1,000 companies. We rank 13 providers. We last tested them on 2026-11-09.
 

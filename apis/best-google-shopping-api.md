@@ -1,6 +1,6 @@
 # Google Shopping API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 SerpKite ranks first in our benchmark, with an Overall score of 74.9 out of 100. SerpKite scores 72 out of 100 for accuracy. SerpKite's plan "$300 pack" costs $0.60 per 1,000 searches. We rank 10 providers. We last tested them on 2026-11-09.
 

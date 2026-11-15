@@ -1,6 +1,6 @@
 # Phone finder API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 MillionPhones ranks first in our benchmark, with an Overall score of 68.1 out of 100. MillionPhones scores 46 out of 100 for accuracy. MillionPhones's plan "$300 monthly, Pro 40,000 credits/mo" costs $75.00 per 1,000 phones. We rank 45 providers. We last tested them on 2026-11-14.
 

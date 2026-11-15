@@ -1,6 +1,6 @@
 # People enrichment API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 LeadOcean ranks first in our benchmark, with an Overall score of 81.4 out of 100. LeadOcean scores 62 out of 100 for accuracy. LeadOcean's plan "$497 monthly" costs $0.017 per 1,000 people. We rank 23 providers. We last tested them on 2026-11-14.
 
@@ -11,7 +11,7 @@ Every plan below is on our ranking page, [People enrichment API: best providers 
 | 1 | [LeadOcean](https://datacircle.dev/person-enrichment-apis/leadocean/497-monthly) | $497 monthly | 81.4 | 62 | $0.017 per 1,000 people | 2026-11-14 |
 | 2 | [LeadMCP](https://datacircle.dev/person-enrichment-apis/leadmcp/49-monthly) | $49 monthly | 71.5 | 57 | $0.049 per 1,000 people | 2026-11-07 |
 | 3 | [Loopster](https://datacircle.dev/person-enrichment-apis/loopster/179-monthly) | $179 monthly | 64.2 | 43 | $0.60 per 1,000 people | 2026-11-10 |
-| 4 | [GetProspect](https://datacircle.dev/person-enrichment-apis/getprospect/399-monthly-growth-50k-post-v2-people-enrich) | $399 monthly, Growth 50k | 63.6 | 47 | $7.98 per 1,000 people | 2026-11-05 |
+| 4 | [GetProspect](https://datacircle.dev/person-enrichment-apis/getprospect/399-monthly-growth-50k-post-v2-people-enrich) | $399 monthly, Growth 50k | 63.6 | 47 | $7.98 per 1,000 people | 2026-11-14 |
 | 5 | [Bytemine](https://datacircle.dev/person-enrichment-apis/bytemine/top-up-from-0-50) | top-up from $0.50, Credits | 61.6 | 59 | $10.00 per 1,000 people | 2026-11-05 |
 | 6 | [Tamozo](https://datacircle.dev/person-enrichment-apis/tamozo/top-up-from-10) | top-up from $10, Credits | 61.3 | 71 | $10.00 per 1,000 people | 2026-11-10 |
 | 7 | [Reverse Contact](https://datacircle.dev/person-enrichment-apis/reverse-contact/500-pack) | $500 pack | 60.4 | 79 | $25.00 per 1,000 people | 2026-10-26 |

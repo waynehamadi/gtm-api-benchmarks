@@ -1,6 +1,6 @@
 # X (Twitter) profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 lobstr.io ranks first in our benchmark, with an Overall score of 65.7 out of 100. lobstr.io scores 77 out of 100 for accuracy. lobstr.io's plan "$500 monthly" costs $0.50 per 1,000 profiles. We rank 60 providers. We last tested them on 2026-11-14.
 
@@ -14,10 +14,10 @@ Every plan below is on our ranking page, [X (Twitter) profile API: best provider
 | 4 | [TwexAPI](https://datacircle.dev/x-profile-apis/twexapi/20-pack-mini-post-twitter-users) | $20 pack, Mini | 60 | 56 | $0.05 per 1,000 profiles | 2026-10-29 |
 | 5 | [Social Fetch](https://datacircle.dev/x-profile-apis/social-fetch/29-monthly-starter-get-v1-twitter-profiles) | $29 monthly, Starter | 57.7 | 61 | $0.032 per 1,000 profiles | 2026-11-08 |
 | 6 | [TweetAPI](https://datacircle.dev/x-profile-apis/tweetapi/57-monthly-ultra-get-tw-v2-user-by-username) | $57 monthly, Ultra | 56.1 | 63 | $0.11 per 1,000 profiles | 2026-10-29 |
-| 7 | [FetchGoblin](https://datacircle.dev/x-profile-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 54.1 | 79 | $1.49 per 1,000 profiles | 2026-11-08 |
-| 8 | [ScrapeCreators](https://datacircle.dev/x-profile-apis/scrapecreators/497-pack) | $497 pack | 53.6 | 79 | $0.99 per 1,000 profiles | 2026-10-29 |
-| 9 | [TwtAPI](https://datacircle.dev/x-profile-apis/twtapi/12-monthly-basic-get-api-v1-twitter-userresultbyscreenname) | $12 monthly, Basic | 53.3 | 60 | $0.24 per 1,000 profiles | 2026-11-10 |
-| 10 | [ScrapingDaddy](https://datacircle.dev/x-profile-apis/scrapingdaddy/49-monthly-pro-get-v1-x-profile) | $49 monthly, Pro | 50.3 | 68 | $0.98 per 1,000 profiles | 2026-11-14 |
+| 7 | [ScrapingDaddy](https://datacircle.dev/x-profile-apis/scrapingdaddy/49-monthly-pro-get-v1-x-profile) | $49 monthly, Pro | 54.3 | 79 | $0.98 per 1,000 profiles | 2026-11-14 |
+| 8 | [FetchGoblin](https://datacircle.dev/x-profile-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 54.1 | 79 | $1.49 per 1,000 profiles | 2026-11-08 |
+| 9 | [ScrapeCreators](https://datacircle.dev/x-profile-apis/scrapecreators/497-pack) | $497 pack | 53.6 | 79 | $0.99 per 1,000 profiles | 2026-10-29 |
+| 10 | [TwtAPI](https://datacircle.dev/x-profile-apis/twtapi/12-monthly-basic-get-api-v1-twitter-userresultbyscreenname) | $12 monthly, Basic | 53.3 | 60 | $0.24 per 1,000 profiles | 2026-11-10 |
 | 11 | [SociaVault](https://datacircle.dev/x-profile-apis/sociavault/399-pack) | $399 pack | 50.3 | 79 | $2.00 per 1,000 profiles | 2026-10-29 |
 | 12 | [API.SH](https://datacircle.dev/x-profile-apis/api-sh/50-monthly) | $50 monthly | 49.4 | 63 | $1.00 per 1,000 profiles | 2026-11-06 |
 | 13 | [Tapline](https://datacircle.dev/x-profile-apis/tapline/499-monthly) | $499 monthly | 49.3 | 52 | $0.12 per 1,000 profiles | 2026-11-13 |

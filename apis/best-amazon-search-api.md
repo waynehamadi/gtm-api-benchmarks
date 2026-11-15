@@ -1,6 +1,6 @@
 # Amazon search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,336 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
 
 Easyparser ranks first in our benchmark, with an Overall score of 70.7 out of 100. Easyparser scores 51 out of 100 for accuracy. Easyparser's plan "$150 monthly" costs $0.43 per 1,000 searches. We rank 27 providers. We last tested them on 2026-11-14.
 
