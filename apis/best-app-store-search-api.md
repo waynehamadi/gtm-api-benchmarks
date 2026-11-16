@@ -1,8 +1,8 @@
 # App Store search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
-Apple ranks first in our benchmark, with an Overall score of 79 out of 100. Apple scores 77 out of 100 for accuracy. Apple's plan "free" costs $0.00 per 1,000 searches. We rank 19 providers. We last tested them on 2026-11-14.
+Apple ranks first in our benchmark, with an Overall score of 79 out of 100. Apple scores 77 out of 100 for accuracy. Apple's plan "free" costs $0.00 per 1,000 searches. We rank 20 providers. We last tested them on 2026-11-15.
 
 Every plan below is on our ranking page, [App Store search API: best providers in 2026](https://datacircle.dev/best-app-store-search-api).
 
@@ -27,6 +27,7 @@ Every plan below is on our ranking page, [App Store search API: best providers i
 | 17 | [AppGoblin](https://datacircle.dev/app-store-search-apis/appgoblin/399-monthly) | $399 monthly | 33.7 | 4 | $0.13 per 1,000 searches | 2026-11-11 |
 | 18 | [BRONTIR](https://datacircle.dev/app-store-search-apis/brontir/350-monthly) | €350 monthly | 29 | 18 | $1.91 per 1,000 searches | 2026-11-08 |
 | 19 | [GeckoAPI](https://datacircle.dev/app-store-search-apis/geckoapi/r-126-90-monthly) | R$126.90 (about $25) monthly | 26.7 | 18 | $12.48 per 1,000 searches | 2026-11-08 |
+| 20 | [ASOMobile](https://datacircle.dev/app-store-search-apis/asomobile/59-monthly) | $59 monthly | 11.7 | 4 |  | 2026-11-15 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

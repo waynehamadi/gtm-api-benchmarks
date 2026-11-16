@@ -1,8 +1,8 @@
 # X (Twitter) post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
-EveryInfra ranks first in our benchmark, with an Overall score of 67.2 out of 100. EveryInfra scores 36 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.0028 per 1,000 posts. We rank 48 providers. We last tested them on 2026-11-11.
+EveryInfra ranks first in our benchmark, with an Overall score of 67.2 out of 100. EveryInfra scores 36 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.0028 per 1,000 posts. We rank 49 providers. We last tested them on 2026-11-15.
 
 Every plan below is on our ranking page, [X (Twitter) post API: best providers in 2026](https://datacircle.dev/best-x-twitter-post-api).
 
@@ -56,6 +56,7 @@ Every plan below is on our ranking page, [X (Twitter) post API: best providers i
 | 46 | [XFluxAPI](https://datacircle.dev/x-post-apis/xfluxapi/19-monthly) | $19 monthly | 20.3 | 7 |  | 2026-10-29 |
 | 47 | [Xcatcher](https://datacircle.dev/x-post-apis/xcatcher/top-up-account-points-post-api-v1-tasks-create-crawl-task) | top-up, Account points | 10.2 | 3 | $10.00 per 1,000 posts | 2026-11-07 |
 | 48 | [Moni](https://datacircle.dev/x-post-apis/moni/120-monthly) | $120 monthly | 0 | 0 |  | 2026-11-08 |
+| 49 | [ViralHunt](https://datacircle.dev/x-post-apis/viralhunt/29-monthly) | $29 monthly | 0 | 0 |  | 2026-11-15 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

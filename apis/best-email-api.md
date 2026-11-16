@@ -1,20 +1,20 @@
 # Email API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
-GetProspect ranks first in our benchmark, with an Overall score of 83.5 out of 100. GetProspect scores 89 out of 100 for accuracy. GetProspect's plan "$399 monthly, Growth 50k" costs $7.98 per 1,000 people. We rank 10 providers. We last tested them on 2026-11-14.
+GetProspect ranks first in our benchmark, with an Overall score of 85.5 out of 100. GetProspect scores 94 out of 100 for accuracy. GetProspect's plan "$399 monthly, Growth 50k" costs $7.98 per 1,000 people. We rank 10 providers. We last tested them on 2026-11-14.
 
 Every plan below is on our ranking page, [Email API: best providers in 2026](https://datacircle.dev/best-email-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [GetProspect](https://datacircle.dev/reverse-email-lookup-apis/getprospect/399-monthly-growth-50k-post-v2-people-enrich) | $399 monthly, Growth 50k | 83.5 | 89 | $7.98 per 1,000 people | 2026-11-14 |
+| 1 | [GetProspect](https://datacircle.dev/reverse-email-lookup-apis/getprospect/399-monthly-growth-50k-post-v2-people-enrich) | $399 monthly, Growth 50k | 85.5 | 94 | $7.98 per 1,000 people | 2026-11-14 |
 | 2 | [Village](https://datacircle.dev/reverse-email-lookup-apis/village/1-monthly) | $1 monthly, Core | 75.8 | 100 | $20.00 per 1,000 people | 2026-10-28 |
-| 3 | [Findymail](https://datacircle.dev/reverse-email-lookup-apis/findymail/399-monthly-business-plus-post-api-search-reverse-email-reverse-email-lookup-full) | $399 monthly, Business Plus | 68.6 | 71 | $26.60 per 1,000 people | 2026-11-08 |
-| 4 | [Vayne](https://datacircle.dev/reverse-email-lookup-apis/vayne/159-monthly) | $159 monthly | 66.2 | 89 | $31.80 per 1,000 people | 2026-10-25 |
-| 5 | [DeBounce](https://datacircle.dev/reverse-email-lookup-apis/debounce/414-monthly) | $414 monthly | 65.6 | 76 | $17.39 per 1,000 people | 2026-10-26 |
-| 6 | [treg](https://datacircle.dev/reverse-email-lookup-apis/treg/top-up-from-200) | top-up from $200 | 65.2 | 56 | $17.36 per 1,000 people | 2026-10-26 |
-| 7 | [Fiber AI](https://datacircle.dev/reverse-email-lookup-apis/fiber-ai/300-monthly-prospector-post-v1-email-to-person-single-lite) | $300 monthly, Prospector | 63.9 | 73 | $20.00 per 1,000 people | 2026-10-25 |
+| 3 | [Findymail](https://datacircle.dev/reverse-email-lookup-apis/findymail/399-monthly-business-plus-post-api-search-reverse-email-reverse-email-lookup-full) | $399 monthly, Business Plus | 68.5 | 71 | $26.60 per 1,000 people | 2026-11-08 |
+| 4 | [Vayne](https://datacircle.dev/reverse-email-lookup-apis/vayne/159-monthly) | $159 monthly | 66.1 | 89 | $31.80 per 1,000 people | 2026-10-25 |
+| 5 | [DeBounce](https://datacircle.dev/reverse-email-lookup-apis/debounce/414-monthly) | $414 monthly | 65.5 | 76 | $17.39 per 1,000 people | 2026-10-26 |
+| 6 | [treg](https://datacircle.dev/reverse-email-lookup-apis/treg/top-up-from-200) | top-up from $200 | 65.1 | 56 | $17.36 per 1,000 people | 2026-10-26 |
+| 7 | [Fiber AI](https://datacircle.dev/reverse-email-lookup-apis/fiber-ai/300-monthly-prospector-post-v1-email-to-person-single-lite) | $300 monthly, Prospector | 63.8 | 73 | $20.00 per 1,000 people | 2026-10-25 |
 | 8 | [Pipecorn](https://datacircle.dev/reverse-email-lookup-apis/pipecorn/49-monthly) | $49 monthly | 63.5 | 56 | $16.33 per 1,000 people | 2026-10-26 |
 | 9 | [BetterEnrich](https://datacircle.dev/reverse-email-lookup-apis/betterenrich/99-monthly) | $99 monthly | 55.8 | 78 |  | 2026-10-22 |
 | 10 | [EnrichmentAPI](https://datacircle.dev/reverse-email-lookup-apis/enrichmentapi/99-monthly) | $99 monthly | 55.3 | 68 | $4.95 per 1,000 people | 2026-11-09 |

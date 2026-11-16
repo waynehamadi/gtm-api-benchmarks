@@ -1,8 +1,8 @@
 # LinkedIn post search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
-Scrappa ranks first in our benchmark, with an Overall score of 83.8 out of 100. Scrappa scores 91 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.015 per 1,000 posts. We rank 28 providers. We last tested them on 2026-11-11.
+Scrappa ranks first in our benchmark, with an Overall score of 83.8 out of 100. Scrappa scores 91 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.015 per 1,000 posts. We rank 29 providers. We last tested them on 2026-11-15.
 
 Every plan below is on our ranking page, [LinkedIn post search API: best providers in 2026](https://datacircle.dev/best-linkedin-post-search-api).
 
@@ -32,10 +32,11 @@ Every plan below is on our ranking page, [LinkedIn post search API: best provide
 | 22 | [Octolens](https://datacircle.dev/linkedin-post-search-apis/octolens/199-monthly) | $199 monthly | 50.9 | 87 | $13.27 per 1,000 posts | 2026-11-04 |
 | 23 | [Social Fetch](https://datacircle.dev/linkedin-post-search-apis/social-fetch/14-pack) | $14 pack | 50.9 | 91 |  | 2026-10-28 |
 | 24 | [ScrapeIO](https://datacircle.dev/linkedin-post-search-apis/scrapeio/47-pack) | $47 pack | 50.8 | 92 |  | 2026-11-11 |
-| 25 | [Layrcake](https://datacircle.dev/linkedin-post-search-apis/layrcake/top-up-from-20) | top-up from $20 | 46.2 | 66 | $5.00 per 1,000 posts | 2026-11-11 |
-| 26 | [SocialListeningAPI](https://datacircle.dev/linkedin-post-search-apis/sociallisteningapi/20-pack) | $20 pack | 45.9 | 73 |  | 2026-10-27 |
-| 27 | [B2BProfile API](https://datacircle.dev/linkedin-post-search-apis/b2bprofile-api/199-monthly-business-scale-get-v1-posts-search-search-public-b2b-posts-discussions-api-for-linkedin) | $199 monthly, Business / Scale | 58.8 | 29 | $0.08 per 1,000 posts | 2026-11-11 |
-| 28 | [Superagnt](https://datacircle.dev/linkedin-post-search-apis/superagnt/29-monthly-data-credits-small-post-v1-data-linkedin-search-posts) | $29 monthly, Data Credits Small | 0 | 0 |  | 2026-11-08 |
+| 25 | [PreceptAI](https://datacircle.dev/linkedin-post-search-apis/preceptai/59-monthly-starter-post-v1-leads-post-search-discover-people-from-linkedin-posts) | £59 (about $79) monthly, Starter | 47.9 | 91 | $62.94 per 1,000 posts | 2026-11-15 |
+| 26 | [Layrcake](https://datacircle.dev/linkedin-post-search-apis/layrcake/top-up-from-20) | top-up from $20 | 46.2 | 66 | $5.00 per 1,000 posts | 2026-11-11 |
+| 27 | [SocialListeningAPI](https://datacircle.dev/linkedin-post-search-apis/sociallisteningapi/20-pack) | $20 pack | 45.9 | 73 |  | 2026-10-27 |
+| 28 | [B2BProfile API](https://datacircle.dev/linkedin-post-search-apis/b2bprofile-api/199-monthly-business-scale-get-v1-posts-search-search-public-b2b-posts-discussions-api-for-linkedin) | $199 monthly, Business / Scale | 58.8 | 29 | $0.08 per 1,000 posts | 2026-11-11 |
+| 29 | [Superagnt](https://datacircle.dev/linkedin-post-search-apis/superagnt/29-monthly-data-credits-small-post-v1-data-linkedin-search-posts) | $29 monthly, Data Credits Small | 0 | 0 |  | 2026-11-08 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

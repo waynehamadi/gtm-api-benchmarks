@@ -1,8 +1,8 @@
 # LinkedIn job details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
-Scrappa ranks first in our benchmark, with an Overall score of 68.7 out of 100. Scrappa scores 42 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 jobs. We rank 25 providers. We last tested them on 2026-11-13.
+Scrappa ranks first in our benchmark, with an Overall score of 68.7 out of 100. Scrappa scores 42 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 jobs. We rank 26 providers. We last tested them on 2026-11-15.
 
 Every plan below is on our ranking page, [LinkedIn job details API: best providers in 2026](https://datacircle.dev/best-linkedin-job-details-api).
 
@@ -32,7 +32,8 @@ Every plan below is on our ranking page, [LinkedIn job details API: best provide
 | 22 | [Litescrape](https://datacircle.dev/linkedin-job-details-apis/litescrape/top-up-from-10) | top-up from $10 | 67.5 | 29 | $0.15 per 1,000 jobs | 2026-10-27 |
 | 23 | [Fantastic.jobs](https://datacircle.dev/linkedin-job-details-apis/fantastic-jobs/500-monthly) | $500 monthly | 55.5 | 31 | $2.00 per 1,000 jobs | 2026-10-26 |
 | 24 | [ScrapeField](https://datacircle.dev/linkedin-job-details-apis/scrapefield/149-pack) | $149 pack | 52.5 | 36 | $1.80 per 1,000 jobs | 2026-11-09 |
-| 25 | [RankFabrik](https://datacircle.dev/linkedin-job-details-apis/rankfabrik/62-50-monthly-artisan-get-fiches) | €62.50 monthly, Artisan | 45.9 | 23 | $2.81 per 1,000 jobs | 2026-10-27 |
+| 25 | [Spidra](https://datacircle.dev/linkedin-job-details-apis/spidra/249-monthly-pro-post-scrape) | $249 monthly, Pro | 52.2 | 40 | $1.99 per 1,000 jobs | 2026-11-15 |
+| 26 | [RankFabrik](https://datacircle.dev/linkedin-job-details-apis/rankfabrik/62-50-monthly-artisan-get-fiches) | €62.50 monthly, Artisan | 45.9 | 23 | $2.81 per 1,000 jobs | 2026-10-27 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

@@ -1,6 +1,6 @@
 # Google Play search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 69.4 out of 100. Scrappa scores 43 out of 100 for accuracy. Scrappa's plan "$50 pack" costs $0.28 per 1,000 searches. We rank 11 providers. We last tested them on 2026-11-14.
 

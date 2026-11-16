@@ -1,36 +1,37 @@
 # People enrichment API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
-LeadOcean ranks first in our benchmark, with an Overall score of 81.4 out of 100. LeadOcean scores 62 out of 100 for accuracy. LeadOcean's plan "$497 monthly" costs $0.017 per 1,000 people. We rank 23 providers. We last tested them on 2026-11-14.
+LeadOcean ranks first in our benchmark, with an Overall score of 81.2 out of 100. LeadOcean scores 62 out of 100 for accuracy. LeadOcean's plan "$497 monthly" costs $0.017 per 1,000 people. We rank 24 providers. We last tested them on 2026-11-15.
 
 Every plan below is on our ranking page, [People enrichment API: best providers in 2026](https://datacircle.dev/best-people-enrichment-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [LeadOcean](https://datacircle.dev/person-enrichment-apis/leadocean/497-monthly) | $497 monthly | 81.4 | 62 | $0.017 per 1,000 people | 2026-11-14 |
-| 2 | [LeadMCP](https://datacircle.dev/person-enrichment-apis/leadmcp/49-monthly) | $49 monthly | 71.5 | 57 | $0.049 per 1,000 people | 2026-11-07 |
-| 3 | [Loopster](https://datacircle.dev/person-enrichment-apis/loopster/179-monthly) | $179 monthly | 64.2 | 43 | $0.60 per 1,000 people | 2026-11-10 |
-| 4 | [GetProspect](https://datacircle.dev/person-enrichment-apis/getprospect/399-monthly-growth-50k-post-v2-people-enrich) | $399 monthly, Growth 50k | 63.6 | 47 | $7.98 per 1,000 people | 2026-11-14 |
-| 5 | [Bytemine](https://datacircle.dev/person-enrichment-apis/bytemine/top-up-from-0-50) | top-up from $0.50, Credits | 61.6 | 59 | $10.00 per 1,000 people | 2026-11-05 |
-| 6 | [Tamozo](https://datacircle.dev/person-enrichment-apis/tamozo/top-up-from-10) | top-up from $10, Credits | 61.3 | 71 | $10.00 per 1,000 people | 2026-11-10 |
-| 7 | [Reverse Contact](https://datacircle.dev/person-enrichment-apis/reverse-contact/500-pack) | $500 pack | 60.4 | 79 | $25.00 per 1,000 people | 2026-10-26 |
-| 8 | [Context.dev](https://datacircle.dev/person-enrichment-apis/context-dev/500-monthly) | $500 monthly | 59.2 | 61 | $10.00 per 1,000 people | 2026-10-26 |
-| 9 | [Happenstance](https://datacircle.dev/person-enrichment-apis/happenstance/top-up) | top-up | 38.7 | 59 |  | 2026-11-07 |
-| 10 | [Autobound](https://datacircle.dev/person-enrichment-apis/autobound/49-pack) | $49 pack | 54.3 | 37 | $9.00 per 1,000 people | 2026-10-26 |
-| 11 | [Prospeo](https://datacircle.dev/person-enrichment-apis/prospeo/249-monthly-pro-post-enrich-person-enrich-person) | $249 monthly, Pro | 51.5 | 35 | $16.60 per 1,000 people | 2026-10-25 |
-| 12 | [RunDossier](https://datacircle.dev/person-enrichment-apis/rundossier/9-pack) | $9 pack | 20.3 | 27 | $900.00 per 1,000 people | 2026-11-07 |
-| 13 | [LeadFuze](https://datacircle.dev/person-enrichment-apis/leadfuze/500-monthly) | $500 monthly | 54.3 | 3 | $0.05 per 1,000 people | 2026-11-05 |
-| 14 | [NeuralVerge](https://datacircle.dev/person-enrichment-apis/neuralverge/50-monthly) | $50 monthly, Base | 53.3 | 16 | $10.00 per 1,000 people | 2026-10-26 |
-| 15 | [Coldlytics](https://datacircle.dev/person-enrichment-apis/coldlytics/49-monthly) | $49 monthly | 52.3 | 1 |  | 2026-11-05 |
-| 16 | [Enrich.chat](https://datacircle.dev/person-enrichment-apis/enrich-chat/299-monthly-pro-get-person) | $299 monthly, Pro | 52 | 13 | $0.60 per 1,000 people | 2026-11-05 |
-| 17 | [Origami Entreprises](https://datacircle.dev/person-enrichment-apis/origami-entreprises/49-monthly) | €49 monthly | 32 | 3 | $2.76 per 1,000 people | 2026-11-14 |
-| 18 | [Minerva](https://datacircle.dev/person-enrichment-apis/minerva/400-monthly) | $400 monthly | 27 | 16 | $480.19 per 1,000 people | 2026-11-05 |
-| 19 | [Factori](https://datacircle.dev/person-enrichment-apis/factori/300-monthly) | $300 monthly | 13.1 | 9 | $300.00 per 1,000 people | 2026-11-05 |
-| 20 | [AgentData](https://datacircle.dev/person-enrichment-apis/agentdata/99-monthly) | $99 monthly | 0 | 0 | $0.33 per 1,000 people | 2026-11-05 |
-| 21 | [Parlel](https://datacircle.dev/person-enrichment-apis/parlel/19-monthly) | $19 monthly | 0 | 0 | $0 extra per 1,000. The $19 monthly price covers any number of people | 2026-11-10 |
-| 22 | [Parsers VC](https://datacircle.dev/person-enrichment-apis/parsers-vc/19-monthly-starter-get-persons-list-people) | $19 monthly, Starter | 0 | 0 | $9.50 per 1,000 people | 2026-10-26 |
-| 23 | [Tamz](https://datacircle.dev/person-enrichment-apis/tamz/r-100-pack) | R$100 (about $20) pack | 0 | 0 |  | 2026-11-07 |
+| 1 | [LeadOcean](https://datacircle.dev/person-enrichment-apis/leadocean/497-monthly) | $497 monthly | 81.2 | 62 | $0.017 per 1,000 people | 2026-11-14 |
+| 2 | [LeadMCP](https://datacircle.dev/person-enrichment-apis/leadmcp/49-monthly) | $49 monthly | 71.3 | 57 | $0.049 per 1,000 people | 2026-11-07 |
+| 3 | [GetProspect](https://datacircle.dev/person-enrichment-apis/getprospect/399-monthly-growth-50k-post-v2-people-enrich) | $399 monthly, Growth 50k | 65.2 | 51 | $7.98 per 1,000 people | 2026-11-14 |
+| 4 | [Loopster](https://datacircle.dev/person-enrichment-apis/loopster/179-monthly) | $179 monthly | 64.1 | 43 | $0.60 per 1,000 people | 2026-11-10 |
+| 5 | [Bytemine](https://datacircle.dev/person-enrichment-apis/bytemine/top-up-from-0-50) | top-up from $0.50, Credits | 61.5 | 59 | $10.00 per 1,000 people | 2026-11-05 |
+| 6 | [Tamozo](https://datacircle.dev/person-enrichment-apis/tamozo/top-up-from-10) | top-up from $10, Credits | 61.1 | 71 | $10.00 per 1,000 people | 2026-11-10 |
+| 7 | [Reverse Contact](https://datacircle.dev/person-enrichment-apis/reverse-contact/500-pack) | $500 pack | 60.6 | 79 | $25.00 per 1,000 people | 2026-10-26 |
+| 8 | [Context.dev](https://datacircle.dev/person-enrichment-apis/context-dev/500-monthly) | $500 monthly | 59.1 | 61 | $10.00 per 1,000 people | 2026-10-26 |
+| 9 | [Aidenix](https://datacircle.dev/person-enrichment-apis/aidenix/249-monthly) | $249 monthly | 49.6 | 58 | $41.50 per 1,000 people | 2026-11-15 |
+| 10 | [Happenstance](https://datacircle.dev/person-enrichment-apis/happenstance/top-up) | top-up | 38.7 | 59 |  | 2026-11-07 |
+| 11 | [Autobound](https://datacircle.dev/person-enrichment-apis/autobound/49-pack) | $49 pack | 54.2 | 37 | $9.00 per 1,000 people | 2026-10-26 |
+| 12 | [Prospeo](https://datacircle.dev/person-enrichment-apis/prospeo/249-monthly-pro-post-enrich-person-enrich-person) | $249 monthly, Pro | 51.7 | 35 | $16.60 per 1,000 people | 2026-10-25 |
+| 13 | [RunDossier](https://datacircle.dev/person-enrichment-apis/rundossier/9-pack) | $9 pack | 20.3 | 27 | $900.00 per 1,000 people | 2026-11-07 |
+| 14 | [LeadFuze](https://datacircle.dev/person-enrichment-apis/leadfuze/500-monthly) | $500 monthly | 54.2 | 3 | $0.05 per 1,000 people | 2026-11-05 |
+| 15 | [NeuralVerge](https://datacircle.dev/person-enrichment-apis/neuralverge/50-monthly) | $50 monthly, Base | 53.3 | 16 | $10.00 per 1,000 people | 2026-10-26 |
+| 16 | [Coldlytics](https://datacircle.dev/person-enrichment-apis/coldlytics/49-monthly) | $49 monthly | 52.3 | 1 |  | 2026-11-05 |
+| 17 | [Enrich.chat](https://datacircle.dev/person-enrichment-apis/enrich-chat/299-monthly-pro-get-person) | $299 monthly, Pro | 51.8 | 13 | $0.60 per 1,000 people | 2026-11-05 |
+| 18 | [Origami Entreprises](https://datacircle.dev/person-enrichment-apis/origami-entreprises/49-monthly) | €49 monthly | 32 | 3 | $2.76 per 1,000 people | 2026-11-14 |
+| 19 | [Minerva](https://datacircle.dev/person-enrichment-apis/minerva/400-monthly) | $400 monthly | 27.1 | 16 | $480.19 per 1,000 people | 2026-11-05 |
+| 20 | [Factori](https://datacircle.dev/person-enrichment-apis/factori/300-monthly) | $300 monthly | 13.1 | 9 | $300.00 per 1,000 people | 2026-11-05 |
+| 21 | [AgentData](https://datacircle.dev/person-enrichment-apis/agentdata/99-monthly) | $99 monthly | 0 | 0 | $0.33 per 1,000 people | 2026-11-05 |
+| 22 | [Parlel](https://datacircle.dev/person-enrichment-apis/parlel/19-monthly) | $19 monthly | 0 | 0 | $0 extra per 1,000. The $19 monthly price covers any number of people | 2026-11-10 |
+| 23 | [Parsers VC](https://datacircle.dev/person-enrichment-apis/parsers-vc/19-monthly-starter-get-persons-list-people) | $19 monthly, Starter | 0 | 0 | $9.50 per 1,000 people | 2026-10-26 |
+| 24 | [Tamz](https://datacircle.dev/person-enrichment-apis/tamz/r-100-pack) | R$100 (about $20) pack | 0 | 0 |  | 2026-11-07 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

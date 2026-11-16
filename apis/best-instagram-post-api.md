@@ -1,6 +1,6 @@
 # Instagram post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
 FetchLayer ranks first in our benchmark, with an Overall score of 78.2 out of 100. FetchLayer scores 84 out of 100 for accuracy. FetchLayer's plan "$500 monthly" costs $0.042 per 1,000 posts. We rank 37 providers. We last tested them on 2026-11-14.
 

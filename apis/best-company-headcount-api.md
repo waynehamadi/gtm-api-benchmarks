@@ -1,8 +1,8 @@
 # Company headcount API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
-Scrappa ranks first in our benchmark, with an Overall score of 86.8 out of 100. Scrappa scores 95 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 companies. We rank 17 providers. We last tested them on 2026-11-05.
+Scrappa ranks first in our benchmark, with an Overall score of 86.8 out of 100. Scrappa scores 95 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 companies. We rank 18 providers. We last tested them on 2026-11-15.
 
 Every plan below is on our ranking page, [Company headcount API: best providers in 2026](https://datacircle.dev/best-company-headcount-api).
 
@@ -25,6 +25,7 @@ Every plan below is on our ranking page, [Company headcount API: best providers 
 | 15 | [The Swarm](https://datacircle.dev/company-headcount-apis/the-swarm/500-monthly) | $500 monthly | 53.7 | 45 | $10.00 per 1,000 companies | 2026-10-20 |
 | 16 | [ZenRows](https://datacircle.dev/company-headcount-apis/zenrows/top-up-from-5) | top-up from $5 | 48.2 | 40 |  | 2026-10-27 |
 | 17 | [Anysite](https://datacircle.dev/company-headcount-apis/anysite/49-monthly) | $49 monthly | 0 | 0 | $3.27 per 1,000 companies | 2026-10-25 |
+| 18 | [Fokals](https://datacircle.dev/company-headcount-apis/fokals/pay-as-you-go-past-10000-companies-a-month) | pay as you go, Past 10,000 companies a month | 0 | 0 | $20.00 per 1,000 companies | 2026-11-15 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

@@ -1,17 +1,17 @@
 # TikTok Shop product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
-ZooData ranks first in our benchmark, with an Overall score of 69 out of 100. ZooData scores 85 out of 100 for accuracy. ZooData's plan "$299 pack" costs $1.00 per 1,000 products. We rank 6 providers. We last tested them on 2026-11-12.
+ZooData ranks first in our benchmark, with an Overall score of 68.5 out of 100. ZooData scores 85 out of 100 for accuracy. ZooData's plan "$299 pack" costs $1.00 per 1,000 products. We rank 6 providers. We last tested them on 2026-11-12.
 
 Every plan below is on our ranking page, [TikTok Shop product API: best providers in 2026](https://datacircle.dev/best-tiktok-shop-product-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [ZooData](https://datacircle.dev/tiktok-shop-product-apis/zoodata/299-pack) | $299 pack | 69 | 85 | $1.00 per 1,000 products | 2026-11-12 |
-| 2 | [FetchGoblin](https://datacircle.dev/tiktok-shop-product-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 65.7 | 89 | $1.49 per 1,000 products | 2026-11-09 |
-| 3 | [ScrapeCreators](https://datacircle.dev/tiktok-shop-product-apis/scrapecreators/497-pack) | $497 pack | 64.9 | 86 | $0.99 per 1,000 products | 2026-10-30 |
-| 4 | [SociaVault](https://datacircle.dev/tiktok-shop-product-apis/sociavault/399-pack) | $399 pack | 59 | 86 | $2.00 per 1,000 products | 2026-10-30 |
+| 1 | [ZooData](https://datacircle.dev/tiktok-shop-product-apis/zoodata/299-pack) | $299 pack | 68.5 | 85 | $1.00 per 1,000 products | 2026-11-12 |
+| 2 | [FetchGoblin](https://datacircle.dev/tiktok-shop-product-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 65.4 | 89 | $1.49 per 1,000 products | 2026-11-09 |
+| 3 | [ScrapeCreators](https://datacircle.dev/tiktok-shop-product-apis/scrapecreators/497-pack) | $497 pack | 64.4 | 86 | $0.99 per 1,000 products | 2026-10-30 |
+| 4 | [SociaVault](https://datacircle.dev/tiktok-shop-product-apis/sociavault/399-pack) | $399 pack | 58.6 | 86 | $2.00 per 1,000 products | 2026-10-30 |
 | 5 | [JustOneAPI](https://datacircle.dev/tiktok-shop-product-apis/justoneapi/top-up) | top-up | 41.4 | 59 |  | 2026-10-30 |
 | 6 | [SoldCount](https://datacircle.dev/tiktok-shop-product-apis/soldcount/39-monthly) | $39 monthly | 63.1 | 30 |  | 2026-11-12 |
 

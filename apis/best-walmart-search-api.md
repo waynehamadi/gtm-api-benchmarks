@@ -1,29 +1,30 @@
 # Walmart search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
-Crawlora ranks first in our benchmark, with an Overall score of 72.3 out of 100. Crawlora scores 53 out of 100 for accuracy. Crawlora's plan "$499 monthly" costs $0.30 per 1,000 searches. We rank 16 providers. We last tested them on 2026-11-08.
+Logimu ranks first in our benchmark, with an Overall score of 77.5 out of 100. Logimu scores 74 out of 100 for accuracy. Logimu's plan "$250 monthly, Standard" costs $0.50 per 1,000 searches. We rank 17 providers. We last tested them on 2026-11-15.
 
 Every plan below is on our ranking page, [Walmart search API: best providers in 2026](https://datacircle.dev/best-walmart-search-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Crawlora](https://datacircle.dev/walmart-search-apis/crawlora/499-monthly) | $499 monthly | 72.3 | 53 | $0.30 per 1,000 searches | 2026-11-05 |
-| 2 | [ReefAPI](https://datacircle.dev/walmart-search-apis/reefapi/450-quarterly) | $450 quarterly | 70.7 | 76 | $1.00 per 1,000 searches | 2026-11-08 |
-| 3 | [ScrapeUnblocker](https://datacircle.dev/walmart-search-apis/scrapeunblocker/299-monthly) | €299 monthly | 68.8 | 58 | $0.76 per 1,000 searches | 2026-11-03 |
-| 4 | [Scrappa](https://datacircle.dev/walmart-search-apis/scrappa/10-pack) | $10 pack | 66 | 63 | $0.30 per 1,000 searches | 2026-11-05 |
-| 5 | [Litescrape](https://datacircle.dev/walmart-search-apis/litescrape/top-up-from-10-usage-based-get-api-walmart-search) | top-up from $10, Usage-based | 65.9 | 61 | $0.15 per 1,000 searches | 2026-11-05 |
-| 6 | [PrismCrawl](https://datacircle.dev/walmart-search-apis/prismcrawl/10-pack) | $10 pack | 61 | 66 | $0.27 per 1,000 searches | 2026-11-03 |
-| 7 | [Decodo](https://datacircle.dev/walmart-search-apis/decodo/49-monthly) | $49 monthly | 60.5 | 71 | $0.75 per 1,000 searches | 2026-11-03 |
-| 8 | [AnyAPI](https://datacircle.dev/walmart-search-apis/anyapi/top-up-from-10) | top-up from $10 | 59.1 | 63 | $0.90 per 1,000 searches | 2026-11-03 |
-| 9 | [Syphoon](https://datacircle.dev/walmart-search-apis/syphoon/83-monthly) | $83 monthly | 58.4 | 77 | $0.33 per 1,000 searches | 2026-11-08 |
-| 10 | [BlueCart API](https://datacircle.dev/walmart-search-apis/bluecart-api/83-monthly) | $83 monthly | 48.9 | 70 | $8.30 per 1,000 searches | 2026-11-05 |
-| 11 | [QuanticData](https://datacircle.dev/walmart-search-apis/quanticdata/top-up-from-5) | top-up from $5 | 47 | 70 | $200.00 per 1,000 searches | 2026-11-03 |
-| 12 | [Unwrangle](https://datacircle.dev/walmart-search-apis/unwrangle/499-monthly) | $499 monthly | 44.6 | 55 | $1.66 per 1,000 searches | 2026-10-30 |
-| 13 | [BRONTIR](https://datacircle.dev/walmart-search-apis/brontir/125-monthly) | €125 monthly | 41.4 | 44 | $1.96 per 1,000 searches | 2026-11-08 |
-| 14 | [Bright Data](https://datacircle.dev/walmart-search-apis/bright-data/top-up) | top-up | 33.6 | 57 |  | 2026-11-04 |
-| 15 | [Kompy](https://datacircle.dev/walmart-search-apis/kompy/25-99-monthly) | $25.99 monthly | 33 | 35 |  | 2026-11-08 |
-| 16 | [Datawebot (ecommerce product data API)](https://datacircle.dev/walmart-search-apis/datawebot-ecommerce-product-data-api/25-pack) | $25 pack | 27.2 | 23 | $3.85 per 1,000 searches | 2026-11-08 |
+| 1 | [Logimu](https://datacircle.dev/walmart-search-apis/logimu/250-monthly-standard-get-v1-serp) | $250 monthly, Standard | 77.5 | 74 | $0.50 per 1,000 searches | 2026-11-15 |
+| 2 | [Crawlora](https://datacircle.dev/walmart-search-apis/crawlora/499-monthly) | $499 monthly | 72.3 | 53 | $0.30 per 1,000 searches | 2026-11-05 |
+| 3 | [ReefAPI](https://datacircle.dev/walmart-search-apis/reefapi/450-quarterly) | $450 quarterly | 70.9 | 76 | $1.00 per 1,000 searches | 2026-11-08 |
+| 4 | [ScrapeUnblocker](https://datacircle.dev/walmart-search-apis/scrapeunblocker/299-monthly) | €299 monthly | 68.9 | 57 | $0.76 per 1,000 searches | 2026-11-03 |
+| 5 | [Scrappa](https://datacircle.dev/walmart-search-apis/scrappa/10-pack) | $10 pack | 66 | 62 | $0.30 per 1,000 searches | 2026-11-05 |
+| 6 | [Litescrape](https://datacircle.dev/walmart-search-apis/litescrape/top-up-from-10-usage-based-get-api-walmart-search) | top-up from $10, Usage-based | 65.7 | 61 | $0.15 per 1,000 searches | 2026-11-05 |
+| 7 | [PrismCrawl](https://datacircle.dev/walmart-search-apis/prismcrawl/10-pack) | $10 pack | 60.9 | 65 | $0.27 per 1,000 searches | 2026-11-03 |
+| 8 | [Decodo](https://datacircle.dev/walmart-search-apis/decodo/49-monthly) | $49 monthly | 60.5 | 71 | $0.75 per 1,000 searches | 2026-11-03 |
+| 9 | [AnyAPI](https://datacircle.dev/walmart-search-apis/anyapi/top-up-from-10) | top-up from $10 | 59.1 | 63 | $0.90 per 1,000 searches | 2026-11-03 |
+| 10 | [Syphoon](https://datacircle.dev/walmart-search-apis/syphoon/83-monthly) | $83 monthly | 58.3 | 76 | $0.33 per 1,000 searches | 2026-11-08 |
+| 11 | [BlueCart API](https://datacircle.dev/walmart-search-apis/bluecart-api/83-monthly) | $83 monthly | 49 | 70 | $8.30 per 1,000 searches | 2026-11-05 |
+| 12 | [QuanticData](https://datacircle.dev/walmart-search-apis/quanticdata/top-up-from-5) | top-up from $5 | 46.8 | 70 | $200.00 per 1,000 searches | 2026-11-03 |
+| 13 | [Unwrangle](https://datacircle.dev/walmart-search-apis/unwrangle/499-monthly) | $499 monthly | 44.8 | 54 | $1.66 per 1,000 searches | 2026-10-30 |
+| 14 | [BRONTIR](https://datacircle.dev/walmart-search-apis/brontir/350-monthly) | €350 monthly | 41.7 | 44 | $1.76 per 1,000 searches | 2026-11-08 |
+| 15 | [Bright Data](https://datacircle.dev/walmart-search-apis/bright-data/top-up) | top-up | 33.5 | 56 |  | 2026-11-04 |
+| 16 | [Kompy](https://datacircle.dev/walmart-search-apis/kompy/25-99-monthly) | $25.99 monthly | 33 | 35 |  | 2026-11-08 |
+| 17 | [Datawebot (ecommerce product data API)](https://datacircle.dev/walmart-search-apis/datawebot-ecommerce-product-data-api/10-pack) | $10 pack | 27.4 | 23 | $5.00 per 1,000 searches | 2026-11-08 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

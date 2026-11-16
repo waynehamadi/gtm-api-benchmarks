@@ -1,6 +1,6 @@
 # TikTok video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
 Litescrape ranks first in our benchmark, with an Overall score of 80.8 out of 100. Litescrape scores 71 out of 100 for accuracy. Litescrape's plan "top-up from $10" costs $0.0043 per 1,000 videos. We rank 44 providers. We last tested them on 2026-11-12.
 
@@ -10,7 +10,7 @@ Every plan below is on our ranking page, [TikTok video API: best providers in 20
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Litescrape](https://datacircle.dev/tiktok-video-apis/litescrape/top-up-from-10) | top-up from $10 | 80.8 | 71 | $0.0043 per 1,000 videos | 2026-10-29 |
 | 2 | [Scrappa](https://datacircle.dev/tiktok-video-apis/scrappa/10-pack) | $10 pack | 73.3 | 53 | $0.0087 per 1,000 videos | 2026-10-29 |
-| 3 | [TikTokAPI.io](https://datacircle.dev/tiktok-video-apis/tiktokapi-io/199-monthly) | $199 monthly | 70.2 | 72 | $0.08 per 1,000 videos | 2026-11-05 |
+| 3 | [ShortVidAPI](https://datacircle.dev/tiktok-video-apis/shortvidapi/199-monthly) | $199 monthly | 70.2 | 72 | $0.08 per 1,000 videos | 2026-11-05 |
 | 4 | [KonbiniAPI](https://datacircle.dev/tiktok-video-apis/konbiniapi/199-monthly) | $199 monthly | 70 | 62 | $0.035 per 1,000 videos | 2026-11-06 |
 | 5 | [EveryInfra](https://datacircle.dev/tiktok-video-apis/everyinfra/10-pack) | $10 pack | 68.7 | 47 | $0.011 per 1,000 videos | 2026-11-07 |
 | 6 | [FetchLayer](https://datacircle.dev/tiktok-video-apis/fetchlayer/500-monthly) | $500 monthly | 64 | 44 | $0.014 per 1,000 videos | 2026-10-29 |

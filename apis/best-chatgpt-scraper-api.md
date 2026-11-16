@@ -1,8 +1,8 @@
 # ChatGPT scraper API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
-Scrappa ranks first in our benchmark, with an Overall score of 75 out of 100. Scrappa scores 51 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 answers. We rank 15 providers. We last tested them on 2026-11-08.
+Scrappa ranks first in our benchmark, with an Overall score of 75 out of 100. Scrappa scores 51 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 answers. We rank 16 providers. We last tested them on 2026-11-08.
 
 Every plan below is on our ranking page, [ChatGPT scraper API: best providers in 2026](https://datacircle.dev/best-chatgpt-scraper-api).
 
@@ -16,13 +16,14 @@ Every plan below is on our ranking page, [ChatGPT scraper API: best providers in
 | 6 | [cloro](https://datacircle.dev/chatgpt-scraper-apis/cloro/100-monthly-hobby-post-v1-async-task-create-async-task-chatgpt) | $100 monthly, Hobby | 45.7 | 48 | $2.00 per 1,000 answers | 2026-11-08 |
 | 7 | [ScrapeLLM](https://datacircle.dev/chatgpt-scraper-apis/scrapellm/499-monthly) | $499 monthly | 40.3 | 29 | $1.50 per 1,000 answers | 2026-11-08 |
 | 8 | [Novada](https://datacircle.dev/chatgpt-scraper-apis/novada/20-monthly) | $20 monthly | 39 | 23 |  | 2026-11-08 |
-| 9 | [AIclicks](https://datacircle.dev/chatgpt-scraper-apis/aiclicks/189-monthly-pro-get-api-v1-answers) | $189 monthly, Pro | 32.9 | 22 |  | 2026-11-08 |
+| 9 | [Otterly.ai](https://datacircle.dev/chatgpt-scraper-apis/otterly-ai/189-monthly) | $189 monthly | 33.8 | 20 | $94.50 per 1,000 answers | 2026-10-30 |
 | 10 | [Nimble](https://datacircle.dev/chatgpt-scraper-apis/nimble/pay-as-you-go-post-v2-extract-templates-run) | pay as you go | 30.8 | 28 | $3.00 per 1,000 answers | 2026-11-08 |
 | 11 | [MentionsAPI](https://datacircle.dev/chatgpt-scraper-apis/mentionsapi/3-pack) | $3 pack | 30.6 | 21 | $105.00 per 1,000 answers | 2026-11-08 |
-| 12 | [Omnia](https://datacircle.dev/chatgpt-scraper-apis/omnia/79-monthly-growth-25-prompts-get-api-v1-ai-answers-ai-answer) | €79 monthly, Growth (25 prompts) | 28.3 | 19 |  | 2026-10-30 |
-| 13 | [Sellm](https://datacircle.dev/chatgpt-scraper-apis/sellm/89-monthly-essential-post-async-analysis) | $89 monthly, Essential | 18.2 | 17 |  | 2026-11-08 |
-| 14 | [ScrapeUnblocker](https://datacircle.dev/chatgpt-scraper-apis/scrapeunblocker/29-monthly) | €29 monthly | 54.8 | 13 | $0.96 per 1,000 answers | 2026-11-08 |
-| 15 | [SEMPITE](https://datacircle.dev/chatgpt-scraper-apis/sempite/29-monthly) | $29 monthly | 29.1 | 10 | $116.00 per 1,000 answers | 2026-11-08 |
+| 12 | [AIclicks](https://datacircle.dev/chatgpt-scraper-apis/aiclicks/189-monthly-pro-get-api-v1-answers) | $189 monthly, Pro | 27.8 | 22 |  | 2026-11-08 |
+| 13 | [Omnia](https://datacircle.dev/chatgpt-scraper-apis/omnia/79-monthly-growth-25-prompts-get-api-v1-ai-answers-ai-answer) | €79 monthly, Growth (25 prompts) | 25.2 | 19 |  | 2026-10-30 |
+| 14 | [Sellm](https://datacircle.dev/chatgpt-scraper-apis/sellm/89-monthly-essential-post-async-analysis) | $89 monthly, Essential | 18.2 | 17 |  | 2026-11-08 |
+| 15 | [ScrapeUnblocker](https://datacircle.dev/chatgpt-scraper-apis/scrapeunblocker/29-monthly) | €29 monthly | 54.8 | 13 | $0.96 per 1,000 answers | 2026-11-08 |
+| 16 | [SEMPITE](https://datacircle.dev/chatgpt-scraper-apis/sempite/29-monthly) | $29 monthly | 29.1 | 10 | $116.00 per 1,000 answers | 2026-11-08 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

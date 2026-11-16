@@ -1,8 +1,8 @@
 # Web search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
-ScrapeNest ranks first in our benchmark, with an Overall score of 77.6 out of 100. ScrapeNest scores 77 out of 100 for accuracy. ScrapeNest's plan "$99 monthly, Growth" costs $0.33 per 1,000 searches. We rank 91 providers. We last tested them on 2026-11-14.
+ScrapeNest ranks first in our benchmark, with an Overall score of 77.6 out of 100. ScrapeNest scores 77 out of 100 for accuracy. ScrapeNest's plan "$99 monthly, Growth" costs $0.33 per 1,000 searches. We rank 92 providers. We last tested them on 2026-11-15.
 
 Every plan below is on our ranking page, [Web search API: best providers in 2026](https://datacircle.dev/best-web-search-api).
 
@@ -65,40 +65,41 @@ Every plan below is on our ranking page, [Web search API: best providers in 2026
 | 55 | [AndiAI](https://datacircle.dev/web-search-apis/andiai/49-monthly) | $49 monthly | 42.5 | 77 |  | 2026-11-07 |
 | 56 | [Grounder](https://datacircle.dev/web-search-apis/grounder/top-up-from-5-credit-post-v1-search) | top-up from $5, Credit | 42.1 | 62 | $19.00 per 1,000 searches | 2026-11-11 |
 | 57 | [AnySearch](https://datacircle.dev/web-search-apis/anysearch/3-pack) | $3 pack | 41.9 | 47 | $3.00 per 1,000 searches | 2026-10-27 |
-| 58 | [Critique Labs](https://datacircle.dev/web-search-apis/critique-labs/top-up-pro-post-v1-search) | top-up, Pro | 40 | 62 |  | 2026-11-13 |
-| 59 | [SupaMarketers](https://datacircle.dev/web-search-apis/supamarketers/19-monthly) | $19 monthly | 39.6 | 58 | $47.50 per 1,000 searches | 2026-11-10 |
-| 60 | [AgentSearch](https://datacircle.dev/web-search-apis/agentsearch/pay-as-you-go-pocket-network) | pay as you go, Pocket Network | 39.5 | 58 | $5.00 per 1,000 searches | 2026-11-10 |
-| 61 | [Suprsonic](https://datacircle.dev/web-search-apis/suprsonic/29-monthly-pro-post-v1-search-web-search-ai) | $29 monthly, Pro | 37.4 | 51 | $29.00 per 1,000 searches | 2026-11-07 |
-| 62 | [Surf](https://datacircle.dev/web-search-apis/surf/top-up-from-20) | top-up from $20 | 37.1 | 53 |  | 2026-10-28 |
-| 63 | [JigsawStack](https://datacircle.dev/web-search-apis/jigsawstack/27-monthly) | $27 monthly | 35.5 | 53 |  | 2026-10-28 |
-| 64 | [Bigdata.com](https://datacircle.dev/web-search-apis/bigdata-com/50-monthly) | $50 monthly | 33.8 | 49 |  | 2026-10-28 |
-| 65 | [2s.io](https://datacircle.dev/web-search-apis/2s-io/pay-as-you-go-x402-pay-per-call-get-api-search-web) | pay as you go, x402 pay per call | 28.9 | 52 | $22.50 per 1,000 searches | 2026-11-11 |
-| 66 | [WaterCrawl](https://datacircle.dev/web-search-apis/watercrawl/9-monthly) | €9 monthly | 27.6 | 53 |  | 2026-11-10 |
-| 67 | [SerpScraper.dev](https://datacircle.dev/web-search-apis/serpscraper-dev/19-monthly) | $19 monthly, Medium | 64.6 | 35 | $0.19 per 1,000 searches | 2026-11-07 |
-| 68 | [DataGait](https://datacircle.dev/web-search-apis/datagait/5-monthly-subscription-post-search-search-fast) | $5 monthly, Subscription | 63 | 44 | $1.00 per 1,000 searches | 2026-11-07 |
-| 69 | [Dipper](https://datacircle.dev/web-search-apis/dipper/top-up-from-10) | top-up from $10 | 59.4 | 31 | $0.80 per 1,000 searches | 2026-11-10 |
-| 70 | [Octen](https://datacircle.dev/web-search-apis/octen/top-up-from-5-base-post-search) | top-up from $5, Base | 53.8 | 35 | $1.00 per 1,000 searches | 2026-10-27 |
-| 71 | [ScrapeGraphAI](https://datacircle.dev/web-search-apis/scrapegraphai/500-monthly) | $500 monthly, Pro Plan | 49.7 | 44 | $4.00 per 1,000 searches | 2026-10-28 |
-| 72 | [Linkup](https://datacircle.dev/web-search-apis/linkup/top-up-pay-as-you-go-post-v1-search-search-standard) | top-up, Pay as you go | 48.6 | 40 | $5.00 per 1,000 searches | 2026-10-27 |
-| 73 | [Crawl4AI Cloud](https://datacircle.dev/web-search-apis/crawl4ai-cloud/10-monthly) | $10 monthly | 46 | 40 | $1.00 per 1,000 searches | 2026-11-07 |
-| 74 | [CrawlerData](https://datacircle.dev/web-search-apis/crawlerdata/50-pack-starter-post-v1-openwebui-search) | $50 pack, Starter | 45.6 | 40 | $1.00 per 1,000 searches | 2026-10-28 |
-| 75 | [API League](https://datacircle.dev/web-search-apis/api-league/199-monthly) | $199 monthly | 45.5 | 39 | $1.33 per 1,000 searches | 2026-11-07 |
-| 76 | [Fastcrawl](https://datacircle.dev/web-search-apis/fastcrawl/5-monthly) | $5 monthly, Go | 42.3 | 27 | $1.00 per 1,000 searches | 2026-11-13 |
-| 77 | [Ragfeed](https://datacircle.dev/web-search-apis/ragfeed/199-monthly) | €199 monthly | 40.5 | 27 | $0.90 per 1,000 searches | 2026-11-08 |
-| 78 | [Sofya](https://datacircle.dev/web-search-apis/sofya/top-up-from-10-pay-as-you-go-post-v1-search-search-snippets) | top-up from $10, Pay as you go | 40.3 | 31 | $2.50 per 1,000 searches | 2026-11-07 |
-| 79 | [DataFluxor](https://datacircle.dev/web-search-apis/datafluxor/59-monthly-pro-post-api-v1-scrape-search-web-search) | $59 monthly, Pro | 36.2 | 25 | $2.95 per 1,000 searches | 2026-11-11 |
-| 80 | [Geonode](https://datacircle.dev/web-search-apis/geonode/3-90-monthly) | $3.90 monthly | 25 | 27 |  | 2026-11-03 |
-| 81 | [Notte](https://datacircle.dev/web-search-apis/notte/20-monthly) | $20 monthly | 16.5 | 23 |  | 2026-11-03 |
-| 82 | [Mwmbl](https://datacircle.dev/web-search-apis/mwmbl/pay-as-you-go-get-api-v2-search) | pay as you go | 32 | 7 | $5.00 per 1,000 searches | 2026-11-07 |
-| 83 | [Querit](https://datacircle.dev/web-search-apis/querit/top-up) | top-up | 28 | 11 | $4.00 per 1,000 searches | 2026-11-07 |
-| 84 | [API.SH](https://datacircle.dev/web-search-apis/api-sh/50-monthly) | $50 monthly | 27.5 | 15 | $8.00 per 1,000 searches | 2026-11-07 |
-| 85 | [ReplyNodes](https://datacircle.dev/web-search-apis/replynodes/19-monthly) | $19 monthly | 25.1 | 19 |  | 2026-11-10 |
-| 86 | [MeshArc](https://datacircle.dev/web-search-apis/mesharc/29-monthly) | $29 monthly | 19.7 | 15 |  | 2026-11-08 |
-| 87 | [Iskalo](https://datacircle.dev/web-search-apis/iskalo/top-up) | top-up, Paid | 0 | 0 | $3.58 per 1,000 searches | 2026-11-11 |
-| 88 | [LangSearch](https://datacircle.dev/web-search-apis/langsearch/free) | free | 0 | 0 | $0.00 per 1,000 searches | 2026-10-28 |
-| 89 | [Sitedex](https://datacircle.dev/web-search-apis/sitedex/5-pack) | $5 pack | 0 | 0 | $5.00 per 1,000 searches | 2026-11-10 |
-| 90 | [ssearch](https://datacircle.dev/web-search-apis/ssearch/free) | free | 0 | 0 | $0.00 per 1,000 searches | 2026-11-06 |
-| 91 | [WebSearchAPI.ai](https://datacircle.dev/web-search-apis/websearchapi-ai/189-monthly-pro-post-ai-search-search-api) | $189 monthly, Pro | 0 | 0 |  | 2026-10-28 |
+| 58 | [FlyCrawl](https://datacircle.dev/web-search-apis/flycrawl/5-pack) | $5 pack | 41 | 67 |  | 2026-11-15 |
+| 59 | [Critique Labs](https://datacircle.dev/web-search-apis/critique-labs/top-up-pro-post-v1-search) | top-up, Pro | 40 | 62 |  | 2026-11-13 |
+| 60 | [SupaMarketers](https://datacircle.dev/web-search-apis/supamarketers/19-monthly) | $19 monthly | 39.6 | 58 | $47.50 per 1,000 searches | 2026-11-10 |
+| 61 | [AgentSearch](https://datacircle.dev/web-search-apis/agentsearch/pay-as-you-go-pocket-network) | pay as you go, Pocket Network | 39.5 | 58 | $5.00 per 1,000 searches | 2026-11-10 |
+| 62 | [Suprsonic](https://datacircle.dev/web-search-apis/suprsonic/29-monthly-pro-post-v1-search-web-search-ai) | $29 monthly, Pro | 37.4 | 51 | $29.00 per 1,000 searches | 2026-11-07 |
+| 63 | [Surf](https://datacircle.dev/web-search-apis/surf/top-up-from-20) | top-up from $20 | 37.1 | 53 |  | 2026-10-28 |
+| 64 | [JigsawStack](https://datacircle.dev/web-search-apis/jigsawstack/27-monthly) | $27 monthly | 35.5 | 53 |  | 2026-10-28 |
+| 65 | [Bigdata.com](https://datacircle.dev/web-search-apis/bigdata-com/50-monthly) | $50 monthly | 33.8 | 49 |  | 2026-10-28 |
+| 66 | [2s.io](https://datacircle.dev/web-search-apis/2s-io/pay-as-you-go-x402-pay-per-call-get-api-search-web) | pay as you go, x402 pay per call | 30 | 55 | $22.50 per 1,000 searches | 2026-11-15 |
+| 67 | [WaterCrawl](https://datacircle.dev/web-search-apis/watercrawl/9-monthly) | €9 monthly | 27.6 | 53 |  | 2026-11-10 |
+| 68 | [SerpScraper.dev](https://datacircle.dev/web-search-apis/serpscraper-dev/19-monthly) | $19 monthly, Medium | 64.6 | 35 | $0.19 per 1,000 searches | 2026-11-07 |
+| 69 | [DataGait](https://datacircle.dev/web-search-apis/datagait/5-monthly-subscription-post-search-search-fast) | $5 monthly, Subscription | 63 | 44 | $1.00 per 1,000 searches | 2026-11-07 |
+| 70 | [Dipper](https://datacircle.dev/web-search-apis/dipper/top-up-from-10) | top-up from $10 | 59.4 | 31 | $0.80 per 1,000 searches | 2026-11-10 |
+| 71 | [Octen](https://datacircle.dev/web-search-apis/octen/top-up-from-5-base-post-search) | top-up from $5, Base | 53.8 | 35 | $1.00 per 1,000 searches | 2026-10-27 |
+| 72 | [ScrapeGraphAI](https://datacircle.dev/web-search-apis/scrapegraphai/500-monthly) | $500 monthly, Pro Plan | 49.7 | 44 | $4.00 per 1,000 searches | 2026-10-28 |
+| 73 | [Linkup](https://datacircle.dev/web-search-apis/linkup/top-up-pay-as-you-go-post-v1-search-search-standard) | top-up, Pay as you go | 48.6 | 40 | $5.00 per 1,000 searches | 2026-10-27 |
+| 74 | [Crawl4AI Cloud](https://datacircle.dev/web-search-apis/crawl4ai-cloud/10-monthly) | $10 monthly | 46 | 40 | $1.00 per 1,000 searches | 2026-11-07 |
+| 75 | [CrawlerData](https://datacircle.dev/web-search-apis/crawlerdata/50-pack-starter-post-v1-openwebui-search) | $50 pack, Starter | 45.6 | 40 | $1.00 per 1,000 searches | 2026-10-28 |
+| 76 | [API League](https://datacircle.dev/web-search-apis/api-league/199-monthly) | $199 monthly | 45.5 | 39 | $1.33 per 1,000 searches | 2026-11-07 |
+| 77 | [Fastcrawl](https://datacircle.dev/web-search-apis/fastcrawl/5-monthly) | $5 monthly, Go | 42.3 | 27 | $1.00 per 1,000 searches | 2026-11-13 |
+| 78 | [Ragfeed](https://datacircle.dev/web-search-apis/ragfeed/199-monthly) | €199 monthly | 40.5 | 27 | $0.90 per 1,000 searches | 2026-11-08 |
+| 79 | [Sofya](https://datacircle.dev/web-search-apis/sofya/top-up-from-10-pay-as-you-go-post-v1-search-search-snippets) | top-up from $10, Pay as you go | 40.3 | 31 | $2.50 per 1,000 searches | 2026-11-07 |
+| 80 | [DataFluxor](https://datacircle.dev/web-search-apis/datafluxor/59-monthly-pro-post-api-v1-scrape-search-web-search) | $59 monthly, Pro | 36.2 | 25 | $2.95 per 1,000 searches | 2026-11-11 |
+| 81 | [Geonode](https://datacircle.dev/web-search-apis/geonode/3-90-monthly) | $3.90 monthly | 25 | 27 |  | 2026-11-03 |
+| 82 | [Notte](https://datacircle.dev/web-search-apis/notte/20-monthly) | $20 monthly | 16.5 | 23 |  | 2026-11-03 |
+| 83 | [Mwmbl](https://datacircle.dev/web-search-apis/mwmbl/pay-as-you-go-get-api-v2-search) | pay as you go | 32 | 7 | $5.00 per 1,000 searches | 2026-11-07 |
+| 84 | [Querit](https://datacircle.dev/web-search-apis/querit/top-up) | top-up | 28 | 11 | $4.00 per 1,000 searches | 2026-11-07 |
+| 85 | [API.SH](https://datacircle.dev/web-search-apis/api-sh/50-monthly) | $50 monthly | 27.5 | 15 | $8.00 per 1,000 searches | 2026-11-07 |
+| 86 | [ReplyNodes](https://datacircle.dev/web-search-apis/replynodes/19-monthly) | $19 monthly | 25.1 | 19 |  | 2026-11-10 |
+| 87 | [MeshArc](https://datacircle.dev/web-search-apis/mesharc/29-monthly) | $29 monthly | 19.7 | 15 |  | 2026-11-08 |
+| 88 | [Iskalo](https://datacircle.dev/web-search-apis/iskalo/top-up) | top-up, Paid | 0 | 0 | $3.58 per 1,000 searches | 2026-11-11 |
+| 89 | [LangSearch](https://datacircle.dev/web-search-apis/langsearch/free) | free | 0 | 0 | $0.00 per 1,000 searches | 2026-10-28 |
+| 90 | [Sitedex](https://datacircle.dev/web-search-apis/sitedex/5-pack) | $5 pack | 0 | 0 | $5.00 per 1,000 searches | 2026-11-10 |
+| 91 | [ssearch](https://datacircle.dev/web-search-apis/ssearch/free) | free | 0 | 0 | $0.00 per 1,000 searches | 2026-11-06 |
+| 92 | [WebSearchAPI.ai](https://datacircle.dev/web-search-apis/websearchapi-ai/189-monthly-pro-post-ai-search-search-api) | $189 monthly, Pro | 0 | 0 |  | 2026-10-28 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

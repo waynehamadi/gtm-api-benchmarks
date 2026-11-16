@@ -1,6 +1,6 @@
 # Image search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,348 providers of 130 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
 
 SerpScraper.dev ranks first in our benchmark, with an Overall score of 94.7 out of 100. SerpScraper.dev scores 94 out of 100 for accuracy. SerpScraper.dev's plan "$39 monthly" costs $0.13 per 1,000 searches. We rank 29 providers. We last tested them on 2026-11-08.
 
