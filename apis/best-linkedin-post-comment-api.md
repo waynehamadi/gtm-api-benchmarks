@@ -1,8 +1,8 @@
 # LinkedIn post comment API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
 
-Fetchin ranks first in our benchmark, with an Overall score of 74.1 out of 100. Fetchin scores 88 out of 100 for accuracy. Fetchin's plan "$50 monthly, Subscription 50K" costs $0.01 per 1,000 comments. We rank 17 providers. We last tested them on 2026-11-08.
+Fetchin ranks first in our benchmark, with an Overall score of 74.1 out of 100. Fetchin scores 88 out of 100 for accuracy. Fetchin's plan "$50 monthly, Subscription 50K" costs $0.01 per 1,000 comments. We rank 18 providers. We last tested them on 2026-11-16.
 
 Every plan below is on our ranking page, [LinkedIn post comment API: best providers in 2026](https://datacircle.dev/best-linkedin-post-comment-api).
 
@@ -22,9 +22,10 @@ Every plan below is on our ranking page, [LinkedIn post comment API: best provid
 | 12 | [Bridgly](https://datacircle.dev/linkedin-post-comment-apis/bridgly/top-up-from-5) | top-up from $5 | 42.3 | 41 | $2.00 per 1,000 comments | 2026-11-08 |
 | 13 | [RouterGrowth](https://datacircle.dev/linkedin-post-comment-apis/routergrowth/499-monthly) | $499 monthly | 38 | 37 | $2.60 per 1,000 comments | 2026-10-26 |
 | 14 | [Scrappa](https://datacircle.dev/linkedin-post-comment-apis/scrappa/10-pack) | $10 pack | 37.8 | 39 |  | 2026-10-27 |
-| 15 | [ZenRows](https://datacircle.dev/linkedin-post-comment-apis/zenrows/top-up-from-5) | top-up from $5 | 24.6 | 18 |  | 2026-10-27 |
-| 16 | [Vayne](https://datacircle.dev/linkedin-post-comment-apis/vayne/49-monthly) | $49 monthly | 24.4 | 22 |  | 2026-10-25 |
-| 17 | [treg](https://datacircle.dev/linkedin-post-comment-apis/treg/top-up-from-10) | top-up from $10 | 24 | 5 |  | 2026-10-27 |
+| 15 | [SocQ](https://datacircle.dev/linkedin-post-comment-apis/socq/top-up-from-5) | top-up from $5 | 36 | 26 | $2.50 per 1,000 comments | 2026-11-16 |
+| 16 | [ZenRows](https://datacircle.dev/linkedin-post-comment-apis/zenrows/top-up-from-5) | top-up from $5 | 24.6 | 18 |  | 2026-10-27 |
+| 17 | [Vayne](https://datacircle.dev/linkedin-post-comment-apis/vayne/49-monthly) | $49 monthly | 24.4 | 22 |  | 2026-10-25 |
+| 18 | [treg](https://datacircle.dev/linkedin-post-comment-apis/treg/top-up-from-10) | top-up from $10 | 24 | 5 |  | 2026-10-27 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

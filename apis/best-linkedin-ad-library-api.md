@@ -1,8 +1,8 @@
 # LinkedIn Ad Library API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
 
-Stophy ranks first in our benchmark, with an Overall score of 70.8 out of 100. Stophy scores 47 out of 100 for accuracy. Stophy's plan "top-up from $500" costs $0.05 per 1,000 ads. We rank 8 providers. We last tested them on 2026-11-09.
+Stophy ranks first in our benchmark, with an Overall score of 70.8 out of 100. Stophy scores 47 out of 100 for accuracy. Stophy's plan "top-up from $500" costs $0.05 per 1,000 ads. We rank 9 providers. We last tested them on 2026-11-16.
 
 Every plan below is on our ranking page, [LinkedIn Ad Library API: best providers in 2026](https://datacircle.dev/best-linkedin-ad-library-api).
 
@@ -10,12 +10,13 @@ Every plan below is on our ranking page, [LinkedIn Ad Library API: best provider
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Stophy](https://datacircle.dev/linkedin-ad-apis/stophy/top-up-from-500) | top-up from $500 | 70.8 | 47 | $0.05 per 1,000 ads | 2026-11-09 |
 | 2 | [ScrapeCreators](https://datacircle.dev/linkedin-ad-apis/scrapecreators/497-pack) | $497 pack | 66.5 | 92 | $0.041 per 1,000 ads | 2026-10-31 |
-| 3 | [ScrapeField](https://datacircle.dev/linkedin-ad-apis/scrapefield/149-pack) | $149 pack | 65.7 | 55 | $0.072 per 1,000 ads | 2026-11-09 |
-| 4 | [FetchGoblin](https://datacircle.dev/linkedin-ad-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 64.6 | 92 | $0.062 per 1,000 ads | 2026-11-09 |
+| 3 | [FetchGoblin](https://datacircle.dev/linkedin-ad-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 64.6 | 92 | $0.062 per 1,000 ads | 2026-11-09 |
+| 4 | [ScrapeField](https://datacircle.dev/linkedin-ad-apis/scrapefield/149-pack) | $149 pack | 60.1 | 55 | $0.072 per 1,000 ads | 2026-11-09 |
 | 5 | [AdLibAPI](https://datacircle.dev/linkedin-ad-apis/adlibapi/299-monthly) | $299 monthly | 53.2 | 55 | $0.37 per 1,000 ads | 2026-11-09 |
-| 6 | [TrueScrape](https://datacircle.dev/linkedin-ad-apis/truescrape/100-pack) | $100 pack | 66.9 | 43 | $0.04 per 1,000 ads | 2026-11-09 |
-| 7 | [Adyntel](https://datacircle.dev/linkedin-ad-apis/adyntel/179-monthly) | $179 monthly | 39.7 | 38 | $0.30 per 1,000 ads | 2026-10-31 |
-| 8 | [Brizzox](https://datacircle.dev/linkedin-ad-apis/brizzox/25-monthly) | $25 monthly | 30.7 | 28 |  | 2026-11-03 |
+| 6 | [adsrunning](https://datacircle.dev/linkedin-ad-apis/adsrunning/49-monthly-starter-get-v1-linkedin-ads) | $49 monthly, Starter | 43.6 | 53 |  | 2026-11-16 |
+| 7 | [TrueScrape](https://datacircle.dev/linkedin-ad-apis/truescrape/100-pack) | $100 pack | 66.9 | 43 | $0.04 per 1,000 ads | 2026-11-09 |
+| 8 | [Adyntel](https://datacircle.dev/linkedin-ad-apis/adyntel/179-monthly) | $179 monthly | 39.7 | 38 | $0.30 per 1,000 ads | 2026-10-31 |
+| 9 | [Brizzox](https://datacircle.dev/linkedin-ad-apis/brizzox/25-monthly) | $25 monthly | 30.7 | 28 |  | 2026-11-03 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

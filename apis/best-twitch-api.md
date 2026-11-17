@@ -1,23 +1,23 @@
 # Twitch API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
 
-Scrappa ranks first in our benchmark, with an Overall score of 79.3 out of 100. Scrappa scores 75 out of 100 for accuracy. Scrappa's plan "$500 pack" costs $0.0048 per 1,000 videos. We rank 10 providers. We last tested them on 2026-11-09.
+TrueScrape ranks first in our benchmark, with an Overall score of 77.5 out of 100. TrueScrape scores 83 out of 100 for accuracy. TrueScrape's plan "$500 pack" costs $0.80 per 1,000 profiles. We rank 10 providers. We last tested them on 2026-11-16.
 
 Every plan below is on our ranking page, [Twitch API: best providers in 2026](https://datacircle.dev/best-twitch-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Scrappa](https://datacircle.dev/twitch-video-apis/scrappa/500-pack) | $500 pack | 79.3 | 75 | $0.0048 per 1,000 videos | 2026-11-04 |
-| 2 | [Omkar Cloud](https://datacircle.dev/twitch-video-apis/omkar-cloud/48-monthly) | $48 monthly | 73.2 | 85 | $0.0048 per 1,000 videos | 2026-11-09 |
-| 3 | [ReefAPI](https://datacircle.dev/twitch-video-apis/reefapi/450-quarterly) | $450 quarterly | 69.8 | 55 | $0.005 per 1,000 videos | 2026-10-30 |
-| 4 | [ScrapeAtlas](https://datacircle.dev/twitch-video-apis/scrapeatlas/249-pack) | $249 pack | 69.2 | 76 | $0.013 per 1,000 videos | 2026-11-09 |
-| 5 | [FetchGoblin](https://datacircle.dev/twitch-video-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 51.9 | 90 |  | 2026-11-09 |
-| 6 | [ScrapeCreators](https://datacircle.dev/twitch-video-apis/scrapecreators/47-pack) | $47 pack | 51.3 | 90 |  | 2026-10-30 |
-| 7 | [SociaVault](https://datacircle.dev/twitch-video-apis/sociavault/29-pack) | $29 pack | 50.7 | 90 |  | 2026-10-30 |
-| 8 | [Scrape Everything](https://datacircle.dev/twitch-video-apis/scrape-everything/449-pack) | $449 pack | 49.2 | 60 | $0.018 per 1,000 videos | 2026-11-09 |
-| 9 | [TrueScrape](https://datacircle.dev/twitch-video-apis/truescrape/500-pack) | $500 pack | 62.6 | 40 | $0.008 per 1,000 videos | 2026-11-09 |
-| 10 | [Scavio](https://datacircle.dev/twitch-video-apis/scavio/500-monthly) | $500 monthly | 43.2 | 28 | $0.01 per 1,000 videos | 2026-10-30 |
+| 1 | [TrueScrape](https://datacircle.dev/twitch-profile-apis/truescrape/500-pack) | $500 pack | 77.5 | 83 | $0.80 per 1,000 profiles | 2026-11-06 |
+| 2 | [ReefAPI](https://datacircle.dev/twitch-profile-apis/reefapi/200-monthly) | $200 monthly | 74.7 | 72 | $0.67 per 1,000 profiles | 2026-10-30 |
+| 3 | [Scrappa](https://datacircle.dev/twitch-profile-apis/scrappa/10-pack) | $10 pack | 73 | 56 | $0.30 per 1,000 profiles | 2026-11-06 |
+| 4 | [Twitch](https://datacircle.dev/twitch-profile-apis/twitch/free) | free | 72.8 | 50 | $0.00 per 1,000 profiles | 2026-11-06 |
+| 5 | [EveryInfra](https://datacircle.dev/twitch-profile-apis/everyinfra/10-pack) | $10 pack | 69.5 | 75 | $1.39 per 1,000 profiles | 2026-11-16 |
+| 6 | [ScrapeAtlas](https://datacircle.dev/twitch-profile-apis/scrapeatlas/249-pack-scale-get-v1-twitch-profile) | $249 pack, Scale | 68.5 | 72 | $1.25 per 1,000 profiles | 2026-11-06 |
+| 7 | [Omkar Cloud](https://datacircle.dev/twitch-profile-apis/omkar-cloud/16-monthly) | $16 monthly | 67.8 | 83 | $0.80 per 1,000 profiles | 2026-11-06 |
+| 8 | [ScrapeCreators](https://datacircle.dev/twitch-profile-apis/scrapecreators/497-pack) | $497 pack | 61.8 | 86 | $0.99 per 1,000 profiles | 2026-10-30 |
+| 9 | [SocQ](https://datacircle.dev/twitch-profile-apis/socq/top-up-from-5) | top-up from $5 | 61.2 | 78 | $0.95 per 1,000 profiles | 2026-11-16 |
+| 10 | [FetchGoblin](https://datacircle.dev/twitch-profile-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 57.8 | 79 | $1.49 per 1,000 profiles | 2026-11-16 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

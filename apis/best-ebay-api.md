@@ -1,6 +1,6 @@
 # eBay API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
 
 Litescrape ranks first in our benchmark, with an Overall score of 78.6 out of 100. Litescrape scores 68 out of 100 for accuracy. Litescrape's plan "top-up from $10, Usage-based" costs $0.15 per 1,000 products. We rank 10 providers. We last tested them on 2026-11-15.
 

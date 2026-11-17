@@ -1,17 +1,17 @@
 # Business verification API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
 
-GovFiles ranks first in our benchmark, with an Overall score of 78.1 out of 100. GovFiles scores 93 out of 100 for accuracy. GovFiles's plan "top-up" costs $10.00 per 1,000 companies. We rank 17 providers. We last tested them on 2026-11-15.
+GovFiles ranks first in our benchmark, with an Overall score of 78.2 out of 100. GovFiles scores 93 out of 100 for accuracy. GovFiles's plan "top-up" costs $10.00 per 1,000 companies. We rank 17 providers. We last tested them on 2026-11-15.
 
 Every plan below is on our ranking page, [Business verification API: best providers in 2026](https://datacircle.dev/best-business-verification-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [GovFiles](https://datacircle.dev/business-verification-apis/govfiles/top-up) | top-up | 78.1 | 93 | $10.00 per 1,000 companies | 2026-11-02 |
+| 1 | [GovFiles](https://datacircle.dev/business-verification-apis/govfiles/top-up) | top-up | 78.2 | 93 | $10.00 per 1,000 companies | 2026-11-02 |
 | 2 | [Didit](https://datacircle.dev/business-verification-apis/didit/top-up-from-50) | top-up from $50 | 62.2 | 96 | $500.00 per 1,000 companies | 2026-10-30 |
 | 3 | [CompanyData.com](https://datacircle.dev/business-verification-apis/companydata-com/249-monthly) | $249 monthly | 61.2 | 93 | $39.84 per 1,000 companies | 2026-11-01 |
-| 4 | [Voygr PlaceCall](https://datacircle.dev/business-verification-apis/voygr-placecall/100-pack-post-v1-validate) | $100 pack | 58 | 89 | $10.00 per 1,000 companies | 2026-11-15 |
+| 4 | [Voygr PlaceCall](https://datacircle.dev/business-verification-apis/voygr-placecall/100-pack-post-v1-validate) | $100 pack | 58.1 | 89 | $10.00 per 1,000 companies | 2026-11-15 |
 | 5 | [SavvyIQ](https://datacircle.dev/business-verification-apis/savvyiq/top-up-from-5-pay-as-you-go-post-v3-entity-resolution-async) | top-up from $5, Pay as you go | 55.3 | 100 | $100.00 per 1,000 companies | 2026-11-03 |
 | 6 | [GlobalEntity API](https://datacircle.dev/business-verification-apis/globalentity-api/59-monthly) | €59 monthly | 65 | 79 | $2.66 per 1,000 companies | 2026-11-12 |
 | 7 | [SOSfinder](https://datacircle.dev/business-verification-apis/sosfinder/99-monthly) | $99 monthly | 56.6 | 100 | $39.60 per 1,000 companies | 2026-11-15 |

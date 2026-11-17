@@ -1,6 +1,6 @@
 # LinkedIn people search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
 
 DataForB2B ranks first in our benchmark, with an Overall score of 81.2 out of 100. DataForB2B scores 95 out of 100 for accuracy. DataForB2B's plan "$499 monthly, Growth" costs $0.075 per 1,000 people. We rank 23 providers. We last tested them on 2026-11-15.
 
@@ -27,7 +27,7 @@ Every plan below is on our ranking page, [LinkedIn people search API: best provi
 | 17 | [NeuralVerge](https://datacircle.dev/linkedin-people-search-apis/neuralverge/50-monthly-base-post-functions-v1-run-linkedin-company-employee) | $50 monthly, Base | 50.9 | 92 |  | 2026-10-21 |
 | 18 | [Bytemine](https://datacircle.dev/linkedin-people-search-apis/bytemine/top-up-from-0-50) | top-up from $0.50 | 50.2 | 62 | $10.00 per 1,000 people | 2026-10-28 |
 | 19 | [Forager](https://datacircle.dev/linkedin-people-search-apis/forager/50-monthly) | $50 monthly | 37.5 | 59 |  | 2026-10-28 |
-| 20 | [WebAutomation](https://datacircle.dev/linkedin-people-search-apis/webautomation/449-monthly-business-post-v1-person-search) | $449 monthly, Business | 57.3 | 38 | $0.15 per 1,000 people | 2026-10-30 |
+| 20 | [WebAutomation](https://datacircle.dev/linkedin-people-search-apis/webautomation/449-monthly-business-post-v1-person-search) | $449 monthly, Business | 58.1 | 38 | $0.15 per 1,000 people | 2026-10-30 |
 | 21 | [Desearch](https://datacircle.dev/linkedin-people-search-apis/desearch/top-up) | top-up | 35.5 | 43 | $50.00 per 1,000 people | 2026-10-29 |
 | 22 | [Scrappa](https://datacircle.dev/linkedin-people-search-apis/scrappa/10-pack) | $10 pack | 57.6 | 14 | $0.015 per 1,000 people | 2026-10-26 |
 | 23 | [BedrockTap](https://datacircle.dev/linkedin-people-search-apis/bedrocktap/29-monthly) | $29 monthly | 29.6 | 11 |  | 2026-11-09 |

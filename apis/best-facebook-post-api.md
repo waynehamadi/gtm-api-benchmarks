@@ -1,29 +1,29 @@
 # Facebook post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
 
-EveryInfra ranks first in our benchmark, with an Overall score of 74 out of 100. EveryInfra scores 75 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.056 per 1,000 posts. We rank 19 providers. We last tested them on 2026-11-14.
+EveryInfra ranks first in our benchmark, with an Overall score of 72.8 out of 100. EveryInfra scores 75 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.056 per 1,000 posts. We rank 19 providers. We last tested them on 2026-11-14.
 
 Every plan below is on our ranking page, [Facebook post API: best providers in 2026](https://datacircle.dev/best-facebook-post-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [EveryInfra](https://datacircle.dev/facebook-post-apis/everyinfra/10-pack) | $10 pack | 74 | 75 | $0.056 per 1,000 posts | 2026-11-14 |
-| 2 | [Zembra](https://datacircle.dev/facebook-post-apis/zembra/top-up-from-52) | top-up from $52 | 42.6 | 62 | $2.40 per 1,000 posts | 2026-10-30 |
+| 1 | [EveryInfra](https://datacircle.dev/facebook-post-apis/everyinfra/10-pack) | $10 pack | 72.8 | 75 | $0.056 per 1,000 posts | 2026-11-14 |
+| 2 | [Zembra](https://datacircle.dev/facebook-post-apis/zembra/top-up-from-52) | top-up from $52 | 42.4 | 62 | $2.40 per 1,000 posts | 2026-10-30 |
 | 3 | [viral.app](https://datacircle.dev/facebook-post-apis/viral-app/299-monthly) | $299 monthly | 35.6 | 49 |  | 2026-11-08 |
-| 4 | [ScrapeAtlas](https://datacircle.dev/facebook-post-apis/scrapeatlas/19-pack) | $19 pack | 60.7 | 25 | $0.019 per 1,000 posts | 2026-11-08 |
-| 5 | [TrueScrape](https://datacircle.dev/facebook-post-apis/truescrape/500-pack) | $500 pack | 48.4 | 19 | $0.27 per 1,000 posts | 2026-11-08 |
-| 6 | [SocialAPIs](https://datacircle.dev/facebook-post-apis/socialapis/49-monthly) | $49 monthly | 38.5 | 25 | $0.54 per 1,000 posts | 2026-10-30 |
-| 7 | [ScrapeCreators](https://datacircle.dev/facebook-post-apis/scrapecreators/497-pack) | $497 pack | 38.3 | 21 | $0.33 per 1,000 posts | 2026-10-29 |
-| 8 | [SociaVault](https://datacircle.dev/facebook-post-apis/sociavault/399-pack) | $399 pack | 35.2 | 21 | $0.67 per 1,000 posts | 2026-10-30 |
+| 4 | [ScrapeAtlas](https://datacircle.dev/facebook-post-apis/scrapeatlas/249-pack) | $249 pack | 60 | 25 | $0.013 per 1,000 posts | 2026-11-08 |
+| 5 | [TrueScrape](https://datacircle.dev/facebook-post-apis/truescrape/500-pack) | $500 pack | 47.3 | 19 | $0.27 per 1,000 posts | 2026-11-08 |
+| 6 | [SocialAPIs](https://datacircle.dev/facebook-post-apis/socialapis/49-monthly) | $49 monthly | 38.1 | 25 | $0.54 per 1,000 posts | 2026-10-30 |
+| 7 | [ScrapeCreators](https://datacircle.dev/facebook-post-apis/scrapecreators/497-pack) | $497 pack | 37.8 | 21 | $0.33 per 1,000 posts | 2026-10-29 |
+| 8 | [SociaVault](https://datacircle.dev/facebook-post-apis/sociavault/399-pack) | $399 pack | 34.8 | 21 | $0.67 per 1,000 posts | 2026-10-30 |
 | 9 | [API Direct](https://datacircle.dev/facebook-post-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-facebook-page-posts-facebook-page-posts) | pay as you go, Pay per request | 30.4 | 19 |  | 2026-10-29 |
 | 10 | [Stophy](https://datacircle.dev/facebook-post-apis/stophy/top-up-from-10) | top-up from $10 | 30.1 | 22 |  | 2026-11-08 |
 | 11 | [FetchGoblin](https://datacircle.dev/facebook-post-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 29.2 | 21 |  | 2026-11-08 |
-| 12 | [Refetcher](https://datacircle.dev/facebook-post-apis/refetcher/top-up) | top-up | 46.7 | 13 | $0.30 per 1,000 posts | 2026-11-08 |
-| 13 | [Litescrape](https://datacircle.dev/facebook-post-apis/litescrape/top-up-from-10) | top-up from $10 | 28.9 | 6 |  | 2026-10-29 |
-| 14 | [Omkar Cloud](https://datacircle.dev/facebook-post-apis/omkar-cloud/16-monthly) | $16 monthly | 27.3 | 7 |  | 2026-11-08 |
-| 15 | [AnyAPI](https://datacircle.dev/facebook-post-apis/anyapi/top-up-from-10) | top-up from $10 | 27 | 17 |  | 2026-10-30 |
-| 16 | [Scrappa](https://datacircle.dev/facebook-post-apis/scrappa/10-pack) | $10 pack | 26.1 | 2 |  | 2026-11-08 |
+| 12 | [Scrappa](https://datacircle.dev/facebook-post-apis/scrappa/10-pack) | $10 pack | 59.5 | 2 | $0.015 per 1,000 posts | 2026-11-08 |
+| 13 | [Refetcher](https://datacircle.dev/facebook-post-apis/refetcher/top-up) | top-up | 45.7 | 13 | $0.30 per 1,000 posts | 2026-11-08 |
+| 14 | [Litescrape](https://datacircle.dev/facebook-post-apis/litescrape/top-up-from-10) | top-up from $10 | 28.9 | 6 |  | 2026-10-29 |
+| 15 | [Omkar Cloud](https://datacircle.dev/facebook-post-apis/omkar-cloud/16-monthly) | $16 monthly | 27.3 | 7 |  | 2026-11-08 |
+| 16 | [AnyAPI](https://datacircle.dev/facebook-post-apis/anyapi/top-up-from-10) | top-up from $10 | 27 | 17 |  | 2026-10-30 |
 | 17 | [Social Fetch](https://datacircle.dev/facebook-post-apis/social-fetch/14-pack) | $14 pack | 26 | 16 |  | 2026-11-08 |
 | 18 | [Desearch](https://datacircle.dev/facebook-post-apis/desearch/top-up) | top-up | 25.8 | 16 |  | 2026-11-08 |
 | 19 | [RedFox](https://datacircle.dev/facebook-post-apis/redfox/top-up-from-cny-100) | top-up from CNY 100 (about $15) | 25.1 | 13 |  | 2026-11-08 |

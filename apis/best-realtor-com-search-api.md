@@ -1,6 +1,6 @@
 # Realtor.com search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
 
 ReefAPI ranks first in our benchmark, with an Overall score of 72 out of 100. ReefAPI scores 54 out of 100 for accuracy. ReefAPI's plan "$450 quarterly" costs $1.00 per 1,000 searches. We rank 5 providers. We last tested them on 2026-11-15.
 

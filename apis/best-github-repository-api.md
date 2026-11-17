@@ -1,8 +1,8 @@
 # GitHub repository API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
 
-Scrappa ranks first in our benchmark, with an Overall score of 75.7 out of 100. Scrappa scores 68 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 repositories. We rank 17 providers. We last tested them on 2026-11-14.
+Scrappa ranks first in our benchmark, with an Overall score of 75.7 out of 100. Scrappa scores 68 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 repositories. We rank 19 providers. We last tested them on 2026-11-16.
 
 Every plan below is on our ranking page, [GitHub repository API: best providers in 2026](https://datacircle.dev/best-github-repository-api).
 
@@ -19,12 +19,14 @@ Every plan below is on our ranking page, [GitHub repository API: best providers 
 | 9 | [FetchGoblin](https://datacircle.dev/github-repository-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 44.1 | 46 | $1.49 per 1,000 repositories | 2026-11-06 |
 | 10 | [AnyAPI](https://datacircle.dev/github-repository-apis/anyapi/top-up-from-10) | top-up from $10 | 42 | 36 | $1.20 per 1,000 repositories | 2026-10-31 |
 | 11 | [glim.sh](https://datacircle.dev/github-repository-apis/glim-sh/top-up) | top-up | 40.7 | 46 | $2.00 per 1,000 repositories | 2026-11-06 |
-| 12 | [Parse](https://datacircle.dev/github-repository-apis/parse/30-monthly) | $30 monthly | 33.1 | 44 | $90.00 per 1,000 repositories | 2026-10-31 |
-| 13 | [Litescrape](https://datacircle.dev/github-repository-apis/litescrape/top-up-from-10-usage-based-get-api-github-repository) | top-up from $10, Usage-based | 64.8 | 26 | $0.15 per 1,000 repositories | 2026-10-31 |
-| 14 | [Crawlora](https://datacircle.dev/github-repository-apis/crawlora/499-monthly) | $499 monthly | 58.3 | 27 | $0.20 per 1,000 repositories | 2026-11-06 |
-| 15 | [deps.dev](https://datacircle.dev/github-repository-apis/deps-dev/free) | free | 58.3 | 10 | $0.00 per 1,000 repositories | 2026-11-14 |
-| 16 | [GithubTrends](https://datacircle.dev/github-repository-apis/githubtrends/free) | free | 52 | 2 | $0.00 per 1,000 repositories | 2026-11-10 |
-| 17 | [Peekalink](https://datacircle.dev/github-repository-apis/peekalink/49-monthly) | $49 monthly | 28.3 | 11 | $0.14 per 1,000 repositories | 2026-11-10 |
+| 12 | [2s.io](https://datacircle.dev/github-repository-apis/2s-io/pay-as-you-go) | pay as you go | 33.1 | 42 | $2.50 per 1,000 repositories | 2026-11-16 |
+| 13 | [Parse](https://datacircle.dev/github-repository-apis/parse/30-monthly) | $30 monthly | 33.1 | 44 | $90.00 per 1,000 repositories | 2026-10-31 |
+| 14 | [Litescrape](https://datacircle.dev/github-repository-apis/litescrape/top-up-from-10-usage-based-get-api-github-repository) | top-up from $10, Usage-based | 64.8 | 26 | $0.15 per 1,000 repositories | 2026-10-31 |
+| 15 | [Crawlora](https://datacircle.dev/github-repository-apis/crawlora/499-monthly) | $499 monthly | 58.3 | 27 | $0.20 per 1,000 repositories | 2026-11-06 |
+| 16 | [AgentDiet](https://datacircle.dev/github-repository-apis/agentdiet/29-monthly) | $29 monthly | 39.2 | 27 | $1.45 per 1,000 repositories | 2026-11-16 |
+| 17 | [deps.dev](https://datacircle.dev/github-repository-apis/deps-dev/free) | free | 58.3 | 10 | $0.00 per 1,000 repositories | 2026-11-14 |
+| 18 | [GithubTrends](https://datacircle.dev/github-repository-apis/githubtrends/free) | free | 52 | 2 | $0.00 per 1,000 repositories | 2026-11-10 |
+| 19 | [Peekalink](https://datacircle.dev/github-repository-apis/peekalink/49-monthly) | $49 monthly | 28.3 | 11 | $0.14 per 1,000 repositories | 2026-11-10 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

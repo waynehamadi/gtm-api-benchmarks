@@ -1,23 +1,23 @@
 # YouTube API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,392 providers of 142 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
 
-ScrapeUnblocker ranks first in our benchmark, with an Overall score of 85.7 out of 100. ScrapeUnblocker scores 94 out of 100 for accuracy. ScrapeUnblocker's plan "pay as you go" costs $0.0056 per 1,000 videos. We rank 10 providers. We last tested them on 2026-11-11.
+YouTube Data API (Google) ranks first in our benchmark, with an Overall score of 90.9 out of 100. YouTube Data API (Google) scores 75 out of 100 for accuracy. YouTube Data API (Google)'s plan "free" costs $0.00 per 1,000 channels. We rank 10 providers. We last tested them on 2026-11-11.
 
 Every plan below is on our ranking page, [YouTube API: best providers in 2026](https://datacircle.dev/best-youtube-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [ScrapeUnblocker](https://datacircle.dev/youtube-channel-video-apis/scrapeunblocker/pay-as-you-go) | pay as you go | 85.7 | 94 | $0.0056 per 1,000 videos | 2026-11-07 |
-| 2 | [YouTube Data API (Google)](https://datacircle.dev/youtube-channel-video-apis/youtube-data-api-google/free-default-quota-get-youtube-v3-search) | free, Default quota | 83.9 | 56 | $0.00 per 1,000 videos | 2026-10-29 |
-| 3 | [EveryInfra](https://datacircle.dev/youtube-channel-video-apis/everyinfra/10-pack) | $10 pack | 70.2 | 62 | $0.011 per 1,000 videos | 2026-11-07 |
-| 4 | [ReefAPI](https://datacircle.dev/youtube-channel-video-apis/reefapi/200-monthly-enterprise-monthly-post-youtube-v1-channel-videos) | $200 monthly, Enterprise monthly | 69.8 | 62 | $0.0067 per 1,000 videos | 2026-11-08 |
-| 5 | [Influship](https://datacircle.dev/youtube-channel-video-apis/influship/pay-as-you-go-usage-based-credits) | pay as you go, Usage-based credits | 66.2 | 67 | $0.036 per 1,000 videos | 2026-11-10 |
-| 6 | [Spidra](https://datacircle.dev/youtube-channel-video-apis/spidra/249-monthly-pro-post-scrape) | $249 monthly, Pro | 65.2 | 73 | $0.033 per 1,000 videos | 2026-11-07 |
-| 7 | [lobstr.io](https://datacircle.dev/youtube-channel-video-apis/lobstr-io/500-monthly) | $500 monthly, Team | 65 | 73 | $0.033 per 1,000 videos | 2026-10-29 |
-| 8 | [YTAPI](https://datacircle.dev/youtube-channel-video-apis/ytapi/79-pack-value-get-v1-channels-id-videos) | $79 pack, Value | 63.1 | 50 | $0.053 per 1,000 videos | 2026-11-08 |
-| 9 | [Omkar Cloud](https://datacircle.dev/youtube-channel-video-apis/omkar-cloud/48-monthly) | $48 monthly | 61.9 | 67 | $0.016 per 1,000 videos | 2026-11-07 |
-| 10 | [TranscriptAPI](https://datacircle.dev/youtube-channel-video-apis/transcriptapi/5-monthly-monthly-get-youtube-channel-latest) | $5 monthly | 61.8 | 47 |  | 2026-11-11 |
+| 1 | [YouTube Data API (Google)](https://datacircle.dev/youtube-channel-apis/youtube-data-api-google/free) | free | 90.9 | 75 | $0.00 per 1,000 channels | 2026-10-29 |
+| 2 | [Litescrape](https://datacircle.dev/youtube-channel-apis/litescrape/top-up-from-10) | top-up from $10 | 85.3 | 87 | $0.15 per 1,000 channels | 2026-10-29 |
+| 3 | [TrueScrape](https://datacircle.dev/youtube-channel-apis/truescrape/500-pack) | $500 pack | 81.1 | 96 | $0.80 per 1,000 channels | 2026-11-08 |
+| 4 | [lobstr.io](https://datacircle.dev/youtube-channel-apis/lobstr-io/500-monthly-team-post-v1-runs-youtube-channel-scraper) | $500 monthly, Team | 80.1 | 92 | $0.50 per 1,000 channels | 2026-10-29 |
+| 5 | [EveryInfra](https://datacircle.dev/youtube-channel-apis/everyinfra/10-pack) | $10 pack | 77.6 | 79 | $0.56 per 1,000 channels | 2026-11-11 |
+| 6 | [Crawlora](https://datacircle.dev/youtube-channel-apis/crawlora/499-monthly) | $499 monthly | 75.3 | 72 | $0.30 per 1,000 channels | 2026-11-08 |
+| 7 | [Stophy](https://datacircle.dev/youtube-channel-apis/stophy/top-up-from-500) | top-up from $500 | 74 | 84 | $1.20 per 1,000 channels | 2026-11-08 |
+| 8 | [Scrappa](https://datacircle.dev/youtube-channel-apis/scrappa/10-pack) | $10 pack | 72.8 | 56 | $0.30 per 1,000 channels | 2026-10-29 |
+| 9 | [Refetcher](https://datacircle.dev/youtube-channel-apis/refetcher/top-up) | top-up | 72.1 | 74 | $0.90 per 1,000 channels | 2026-11-03 |
+| 10 | [Omkar Cloud](https://datacircle.dev/youtube-channel-apis/omkar-cloud/48-monthly) | $48 monthly | 71 | 95 | $0.48 per 1,000 channels | 2026-11-08 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 
