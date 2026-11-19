@@ -1,6 +1,6 @@
 # LinkedIn people search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
 
 DataForB2B ranks first in our benchmark, with an Overall score of 81.2 out of 100. DataForB2B scores 95 out of 100 for accuracy. DataForB2B's plan "$499 monthly, Growth" costs $0.075 per 1,000 people. We rank 23 providers. We last tested them on 2026-11-15.
 

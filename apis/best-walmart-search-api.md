@@ -1,8 +1,8 @@
 # Walmart search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
 
-ScrapeUnblocker ranks first in our benchmark, with an Overall score of 77 out of 100. ScrapeUnblocker scores 80 out of 100 for accuracy. ScrapeUnblocker's plan "€299 monthly" costs $0.76 per 1,000 searches. We rank 21 providers. We last tested them on 2026-11-16.
+ScrapeUnblocker ranks first in our benchmark, with an Overall score of 77 out of 100. ScrapeUnblocker scores 80 out of 100 for accuracy. ScrapeUnblocker's plan "€299 monthly" costs $0.76 per 1,000 searches. We rank 21 providers. We last tested them on 2026-11-18.
 
 Every plan below is on our ranking page, [Walmart search API: best providers in 2026](https://datacircle.dev/best-walmart-search-api).
 
@@ -26,7 +26,7 @@ Every plan below is on our ranking page, [Walmart search API: best providers in 
 | 16 | [BRONTIR](https://datacircle.dev/walmart-search-apis/brontir/125-monthly) | €125 monthly | 41.2 | 43 | $1.96 per 1,000 searches | 2026-11-08 |
 | 17 | [Bright Data](https://datacircle.dev/walmart-search-apis/bright-data/top-up) | top-up | 33.1 | 55 |  | 2026-11-04 |
 | 18 | [Kompy](https://datacircle.dev/walmart-search-apis/kompy/25-99-monthly) | $25.99 monthly | 32.7 | 35 |  | 2026-11-08 |
-| 19 | [kwery](https://datacircle.dev/walmart-search-apis/kwery/399-monthly) | €399 monthly | 32.7 | 24 | $2.25 per 1,000 searches | 2026-11-16 |
+| 19 | [kwery](https://datacircle.dev/walmart-search-apis/kwery/399-monthly) | €399 monthly | 32.7 | 24 | $2.25 per 1,000 searches | 2026-11-18 |
 | 20 | [Zyte](https://datacircle.dev/walmart-search-apis/zyte/pay-as-you-go) | pay as you go | 30.6 | 38 |  | 2026-11-16 |
 | 21 | [Datawebot (ecommerce product data API)](https://datacircle.dev/walmart-search-apis/datawebot-ecommerce-product-data-api/25-pack) | $25 pack | 27.1 | 23 | $3.85 per 1,000 searches | 2026-11-08 |
 

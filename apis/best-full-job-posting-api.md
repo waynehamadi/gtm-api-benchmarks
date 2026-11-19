@@ -1,6 +1,6 @@
 # Full job posting API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
 
 freehire ranks first in our benchmark, with an Overall score of 87.2 out of 100. freehire scores 90 out of 100 for accuracy. We rank 51 providers. We last tested them on 2026-11-16.
 

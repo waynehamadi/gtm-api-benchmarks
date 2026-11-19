@@ -1,6 +1,6 @@
 # Reddit API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
 
 ReefAPI ranks first in our benchmark, with an Overall score of 72.3 out of 100. ReefAPI scores 63 out of 100 for accuracy. ReefAPI's plan "$450 quarterly" costs $0.50 per 1,000 profiles. We rank 10 providers. We last tested them on 2026-11-17.
 

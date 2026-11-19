@@ -1,6 +1,6 @@
 # Reddit profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
 
 ReefAPI ranks first in our benchmark, with an Overall score of 72.3 out of 100. ReefAPI scores 63 out of 100 for accuracy. ReefAPI's plan "$450 quarterly" costs $0.50 per 1,000 profiles. We rank 19 providers. We last tested them on 2026-11-17.
 
@@ -23,7 +23,7 @@ Every plan below is on our ranking page, [Reddit profile API: best providers in 
 | 13 | [Arctic Shift](https://datacircle.dev/reddit-profile-apis/arctic-shift/free) | free | 59.2 | 23 | $0.00 per 1,000 profiles | 2026-11-06 |
 | 14 | [Apixstar](https://datacircle.dev/reddit-profile-apis/apixstar/9-pack) | $9 pack | 52.2 | 21 | $0.70 per 1,000 profiles | 2026-11-10 |
 | 15 | [TrueScrape](https://datacircle.dev/reddit-profile-apis/truescrape/500-pack) | $500 pack | 51.8 | 26 | $0.80 per 1,000 profiles | 2026-11-06 |
-| 16 | [Xpoz](https://datacircle.dev/reddit-profile-apis/xpoz/20-monthly) | $20 monthly | 35.2 | 31 | $5.33 per 1,000 profiles | 2026-11-06 |
+| 16 | [Xpoz](https://datacircle.dev/reddit-profile-apis/xpoz/20-monthly) | $20 monthly | 35.2 | 31 | $5.33 per 1,000 profiles | 2026-11-17 |
 | 17 | [RedditScraperAPI](https://datacircle.dev/reddit-profile-apis/redditscraperapi/49-monthly) | $49 monthly | 48.8 | 6 | $0.60 per 1,000 profiles | 2026-11-06 |
 | 18 | [Parseium](https://datacircle.dev/reddit-profile-apis/parseium/99-monthly) | $99 monthly | 41.8 | 19 | $0.14 per 1,000 profiles | 2026-11-10 |
 | 19 | [LunarCrush](https://datacircle.dev/reddit-profile-apis/lunarcrush/45-pack) | $45 pack | 37.2 | 2 | $0.45 per 1,000 profiles | 2026-11-15 |

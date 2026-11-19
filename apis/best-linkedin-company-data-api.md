@@ -1,6 +1,6 @@
 # LinkedIn company data API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
 
 DataForB2B ranks first in our benchmark, with an Overall score of 85 out of 100. DataForB2B scores 74 out of 100 for accuracy. DataForB2B's plan "$499 monthly" costs $0.10 per 1,000 companies. We rank 85 providers. We last tested them on 2026-11-17.
 
@@ -86,7 +86,7 @@ Every plan below is on our ranking page, [LinkedIn company data API: best provid
 | 76 | [WebAutomation](https://datacircle.dev/linkedin-company-profile-apis/webautomation/99-monthly) | $99 monthly | 58.9 | 18 | $0.25 per 1,000 companies | 2026-10-30 |
 | 77 | [SocialKit](https://datacircle.dev/linkedin-company-profile-apis/socialkit/210-monthly) | $210 monthly | 52.4 | 9 | $1.40 per 1,000 companies | 2026-10-30 |
 | 78 | [LinkFetch](https://datacircle.dev/linkedin-company-profile-apis/linkfetch/189-pack) | $189 pack | 47.8 | 20 | $9.45 per 1,000 companies | 2026-11-12 |
-| 79 | [AxioAPI](https://datacircle.dev/linkedin-company-profile-apis/axioapi/5-monthly) | $5 monthly | 42.4 | 15 | $1.43 per 1,000 companies | 2026-11-16 |
+| 79 | [AxioAPI](https://datacircle.dev/linkedin-company-profile-apis/axioapi/5-monthly) | $5 monthly | 42.4 | 15 | $1.43 per 1,000 companies | 2026-11-17 |
 | 80 | [treg](https://datacircle.dev/linkedin-company-profile-apis/treg/top-up-from-10) | top-up from $10 | 41.4 | 14 | $1.11 per 1,000 companies | 2026-10-23 |
 | 81 | [ScraperSocial](https://datacircle.dev/linkedin-company-profile-apis/scrapersocial/top-up-from-4-50) | top-up from $4.50 | 41 | 19 | $9.00 per 1,000 companies | 2026-11-09 |
 | 82 | [ScraperCompany](https://datacircle.dev/linkedin-company-profile-apis/scrapercompany/399-monthly) | $399 monthly | 35.7 | 11 | $7.98 per 1,000 companies | 2026-11-16 |

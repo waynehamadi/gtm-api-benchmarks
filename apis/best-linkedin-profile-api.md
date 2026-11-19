@@ -1,6 +1,6 @@
 # LinkedIn profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
 
 EveryInfra ranks first in our benchmark, with an Overall score of 77.6 out of 100. EveryInfra scores 67 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.56 per 1,000 profiles. We rank 106 providers. We last tested them on 2026-11-15.
 

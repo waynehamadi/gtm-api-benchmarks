@@ -1,8 +1,8 @@
 # Reverse email lookup API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
 
-GetProspect ranks first in our benchmark, with an Overall score of 85.5 out of 100. GetProspect scores 94 out of 100 for accuracy. GetProspect's plan "$399 monthly, Growth 50k" costs $7.98 per 1,000 people. We rank 41 providers. We last tested them on 2026-11-16.
+GetProspect ranks first in our benchmark, with an Overall score of 85.5 out of 100. GetProspect scores 94 out of 100 for accuracy. GetProspect's plan "$399 monthly, Growth 50k" costs $7.98 per 1,000 people. We rank 41 providers. We last tested them on 2026-11-18.
 
 Every plan below is on our ranking page, [Reverse email lookup API: best providers in 2026](https://datacircle.dev/best-reverse-email-lookup-api).
 
@@ -18,7 +18,7 @@ Every plan below is on our ranking page, [Reverse email lookup API: best provide
 | 8 | [Fiber AI](https://datacircle.dev/reverse-email-lookup-apis/fiber-ai/300-monthly-prospector-post-v1-email-to-person-single-lite) | $300 monthly, Prospector | 63.7 | 73 | $20.00 per 1,000 people | 2026-10-25 |
 | 9 | [Pipecorn](https://datacircle.dev/reverse-email-lookup-apis/pipecorn/49-monthly) | $49 monthly | 63.4 | 56 | $16.33 per 1,000 people | 2026-10-26 |
 | 10 | [BetterEnrich](https://datacircle.dev/reverse-email-lookup-apis/betterenrich/99-monthly) | $99 monthly | 55.8 | 78 |  | 2026-10-22 |
-| 11 | [EnrichmentAPI](https://datacircle.dev/reverse-email-lookup-apis/enrichmentapi/99-monthly) | $99 monthly | 55 | 67 | $4.95 per 1,000 people | 2026-11-09 |
+| 11 | [EnrichmentAPI](https://datacircle.dev/reverse-email-lookup-apis/enrichmentapi/99-monthly) | $99 monthly | 55 | 67 | $4.95 per 1,000 people | 2026-11-18 |
 | 12 | [LeadBoxer](https://datacircle.dev/reverse-email-lookup-apis/leadboxer/249-monthly-growth-billed-monthly-get-v1-email-lookup) | €249 monthly, Growth, billed monthly | 50.7 | 56 | $56.04 per 1,000 people | 2026-10-28 |
 | 13 | [Databar](https://datacircle.dev/reverse-email-lookup-apis/databar/495-monthly) | $495 monthly | 46.3 | 78 |  | 2026-11-08 |
 | 14 | [Anysite](https://datacircle.dev/reverse-email-lookup-apis/anysite/200-monthly-growth-post-api-people-by-email) | $200 monthly, Growth | 42.4 | 63 | $160.00 per 1,000 people | 2026-10-25 |

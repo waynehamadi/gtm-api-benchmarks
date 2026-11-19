@@ -1,6 +1,6 @@
 # Pinterest pin API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 73.3 out of 100. Scrappa scores 48 out of 100 for accuracy. Scrappa's plan "$50 pack" costs $0.28 per 1,000 pins. We rank 13 providers. We last tested them on 2026-11-15.
 

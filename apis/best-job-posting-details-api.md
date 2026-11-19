@@ -1,6 +1,6 @@
 # Job posting details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
 
 Arbetsförmedlingen ranks first in our benchmark, with an Overall score of 92 out of 100. Arbetsförmedlingen scores 84 out of 100 for accuracy. Arbetsförmedlingen's plan "free, Open data" costs $0.00 per 1,000 jobs. We rank 39 providers. We last tested them on 2026-11-17.
 

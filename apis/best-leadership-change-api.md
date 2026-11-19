@@ -1,6 +1,6 @@
 # Leadership change API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,487 providers of 149 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
 
 The Swarm ranks first in our benchmark, with an Overall score of 35.5 out of 100. The Swarm scores 19 out of 100 for accuracy. The Swarm's plan "$500 monthly, Premium 1000" costs $10.00 per 1,000 changes. We rank 8 providers. We last tested them on 2026-11-09.
 
