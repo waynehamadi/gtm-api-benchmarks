@@ -1,26 +1,27 @@
 # App Store review API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
 
-EveryInfra ranks first in our benchmark, with an Overall score of 83.1 out of 100. EveryInfra scores 66 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.0028 per 1,000 reviews. We rank 13 providers. We last tested them on 2026-11-07.
+EveryInfra ranks first in our benchmark, with an Overall score of 80.9 out of 100. EveryInfra scores 70 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.0028 per 1,000 reviews. We rank 14 providers. We last tested them on 2026-11-16.
 
 Every plan below is on our ranking page, [App Store review API: best providers in 2026](https://datacircle.dev/best-app-store-review-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [EveryInfra](https://datacircle.dev/app-store-review-apis/everyinfra/10-pack) | $10 pack | 83.1 | 66 | $0.0028 per 1,000 reviews | 2026-11-07 |
-| 2 | [Scrappa](https://datacircle.dev/app-store-review-apis/scrappa/10-pack) | $10 pack | 69 | 51 | $0.0061 per 1,000 reviews | 2026-11-07 |
-| 3 | [Zapi](https://datacircle.dev/app-store-review-apis/zapi/rp129000-monthly) | Rp129,000 (about $7) monthly | 68.7 | 80 | $0.00072 per 1,000 reviews | 2026-11-07 |
-| 4 | [AppSigma](https://datacircle.dev/app-store-review-apis/appsigma/49-99-monthly) | $49.99 monthly | 57.1 | 72 | $0.20 per 1,000 reviews | 2026-10-30 |
-| 5 | [Sonar](https://datacircle.dev/app-store-review-apis/sonar/29-monthly) | $29 monthly | 50.1 | 51 |  | 2026-10-30 |
-| 6 | [DataForSEO](https://datacircle.dev/app-store-review-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-app-data-apple-app-reviews-task-post-setting-apple-app-reviews-tasks-standard-queue) | top-up from $50, Pay as you go | 49.4 | 58 | $0.03 per 1,000 reviews | 2026-11-07 |
-| 7 | [Stophy](https://datacircle.dev/app-store-review-apis/stophy/top-up-from-10) | top-up from $10 | 47.8 | 58 |  | 2026-11-07 |
-| 8 | [ReplyNodes](https://datacircle.dev/app-store-review-apis/replynodes/19-monthly) | $19 monthly | 46.2 | 66 |  | 2026-11-07 |
-| 9 | [Pushbuild](https://datacircle.dev/app-store-review-apis/pushbuild/top-up) | top-up | 45 | 48 | $0.40 per 1,000 reviews | 2026-11-07 |
-| 10 | [Zembra](https://datacircle.dev/app-store-review-apis/zembra/top-up-from-12) | top-up from $12 | 38.1 | 53 | $1.00 per 1,000 reviews | 2026-10-30 |
-| 11 | [PerceptLayer](https://datacircle.dev/app-store-review-apis/perceptlayer/15-pack) | $15 pack | 36.6 | 51 |  | 2026-11-07 |
-| 12 | [ASOdesk](https://datacircle.dev/app-store-review-apis/asodesk/99-monthly) | $99 monthly | 35.9 | 45 | $0.50 per 1,000 reviews | 2026-10-30 |
-| 13 | [Appeeky](https://datacircle.dev/app-store-review-apis/appeeky/149-monthly) | $149 monthly | 41.8 | 23 | $0.006 per 1,000 reviews | 2026-10-30 |
+| 1 | [EveryInfra](https://datacircle.dev/app-store-review-apis/everyinfra/10-pack) | $10 pack | 80.9 | 70 | $0.0028 per 1,000 reviews | 2026-11-07 |
+| 2 | [Zapi](https://datacircle.dev/app-store-review-apis/zapi/rp129000-monthly) | Rp129,000 (about $7) monthly | 72.2 | 77 | $0.00072 per 1,000 reviews | 2026-11-07 |
+| 3 | [Scrappa](https://datacircle.dev/app-store-review-apis/scrappa/10-pack) | $10 pack | 69.7 | 54 | $0.0061 per 1,000 reviews | 2026-11-07 |
+| 4 | [ScraperCompany](https://datacircle.dev/app-store-review-apis/scrapercompany/399-monthly) | $399 monthly | 64.9 | 68 | $0.08 per 1,000 reviews | 2026-11-16 |
+| 5 | [AppSigma](https://datacircle.dev/app-store-review-apis/appsigma/49-99-monthly) | $49.99 monthly | 50.9 | 69 | $0.20 per 1,000 reviews | 2026-10-30 |
+| 6 | [DataForSEO](https://datacircle.dev/app-store-review-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-app-data-apple-app-reviews-task-post-setting-apple-app-reviews-tasks-standard-queue) | top-up from $50, Pay as you go | 50.5 | 62 | $0.03 per 1,000 reviews | 2026-11-07 |
+| 7 | [Sonar](https://datacircle.dev/app-store-review-apis/sonar/29-monthly) | $29 monthly | 50.4 | 54 |  | 2026-10-30 |
+| 8 | [Pushbuild](https://datacircle.dev/app-store-review-apis/pushbuild/top-up) | top-up | 45.4 | 51 | $0.40 per 1,000 reviews | 2026-11-07 |
+| 9 | [ReplyNodes](https://datacircle.dev/app-store-review-apis/replynodes/19-monthly) | $19 monthly | 44.9 | 70 |  | 2026-11-07 |
+| 10 | [Stophy](https://datacircle.dev/app-store-review-apis/stophy/top-up-from-10) | top-up from $10 | 44.7 | 62 |  | 2026-11-07 |
+| 11 | [Zembra](https://datacircle.dev/app-store-review-apis/zembra/top-up-from-12) | top-up from $12 | 39.1 | 56 | $1.00 per 1,000 reviews | 2026-10-30 |
+| 12 | [PerceptLayer](https://datacircle.dev/app-store-review-apis/perceptlayer/15-pack) | $15 pack | 37.4 | 54 |  | 2026-11-07 |
+| 13 | [ASOdesk](https://datacircle.dev/app-store-review-apis/asodesk/99-monthly) | $99 monthly | 36.6 | 48 | $0.50 per 1,000 reviews | 2026-10-30 |
+| 14 | [Appeeky](https://datacircle.dev/app-store-review-apis/appeeky/149-monthly) | $149 monthly | 41.4 | 24 | $0.006 per 1,000 reviews | 2026-10-30 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

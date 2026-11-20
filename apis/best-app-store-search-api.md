@@ -1,6 +1,6 @@
 # App Store search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
 
 Apple ranks first in our benchmark, with an Overall score of 79 out of 100. Apple scores 77 out of 100 for accuracy. Apple's plan "free" costs $0.00 per 1,000 searches. We rank 21 providers. We last tested them on 2026-11-17.
 
@@ -12,7 +12,7 @@ Every plan below is on our ranking page, [App Store search API: best providers i
 | 2 | [Scrappa](https://datacircle.dev/app-store-search-apis/scrappa/10-pack) | $10 pack | 78.4 | 77 | $0.30 per 1,000 searches | 2026-11-17 |
 | 3 | [AppSkyline](https://datacircle.dev/app-store-search-apis/appskyline/free) | free | 68.5 | 61 | $0.00 per 1,000 searches | 2026-11-14 |
 | 4 | [Stophy](https://datacircle.dev/app-store-search-apis/stophy/top-up-from-500) | top-up from $500 | 65.4 | 70 | $1.20 per 1,000 searches | 2026-11-08 |
-| 5 | [Zapi](https://datacircle.dev/app-store-search-apis/zapi/rp129000-monthly) | Rp129,000 (about $7) monthly | 62.5 | 75 | $0.036 per 1,000 searches | 2026-11-05 |
+| 5 | [Zapi](https://datacircle.dev/app-store-search-apis/zapi/rp129000-monthly) | Rp129,000 (about $7) monthly | 62.1 | 75 | $0.036 per 1,000 searches | 2026-11-05 |
 | 6 | [Crawlora](https://datacircle.dev/app-store-search-apis/crawlora/9-monthly) | $9 monthly | 60.3 | 74 | $0.45 per 1,000 searches | 2026-11-05 |
 | 7 | [Sonar](https://datacircle.dev/app-store-search-apis/sonar/29-monthly) | $29 monthly | 52.3 | 59 | $0.97 per 1,000 searches | 2026-10-30 |
 | 8 | [AppSigma](https://datacircle.dev/app-store-search-apis/appsigma/49-99-monthly) | $49.99 monthly | 52.1 | 42 | $1.00 per 1,000 searches | 2026-10-30 |

@@ -1,6 +1,6 @@
 # Walmart product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,505 providers of 152 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
 
 ScrapeUnblocker ranks first in our benchmark, with an Overall score of 73.2 out of 100. ScrapeUnblocker scores 71 out of 100 for accuracy. ScrapeUnblocker's plan "€299 monthly" costs $0.76 per 1,000 products. We rank 18 providers. We last tested them on 2026-11-15.
 
