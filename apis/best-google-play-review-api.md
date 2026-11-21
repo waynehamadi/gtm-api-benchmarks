@@ -1,8 +1,8 @@
 # Google Play review API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
-SignalShelf ranks first in our benchmark, with an Overall score of 84.9 out of 100. SignalShelf scores 84 out of 100 for accuracy. SignalShelf's plan "$499 pack" costs $0.005 per 1,000 reviews. We rank 13 providers. We last tested them on 2026-11-16.
+SignalShelf ranks first in our benchmark, with an Overall score of 84.9 out of 100. SignalShelf scores 84 out of 100 for accuracy. SignalShelf's plan "$499 pack" costs $0.005 per 1,000 reviews. We rank 13 providers. We last tested them on 2026-11-18.
 
 Every plan below is on our ranking page, [Google Play review API: best providers in 2026](https://datacircle.dev/best-google-play-review-api).
 
@@ -15,10 +15,10 @@ Every plan below is on our ranking page, [Google Play review API: best providers
 | 5 | [AppGoat](https://datacircle.dev/google-play-review-apis/appgoat/147-monthly) | $147 monthly | 67.4 | 76 | $0.02 per 1,000 reviews | 2026-11-10 |
 | 6 | [Stophy](https://datacircle.dev/google-play-review-apis/stophy/top-up-from-10) | top-up from $10 | 60.2 | 92 |  | 2026-11-09 |
 | 7 | [DataForSEO](https://datacircle.dev/google-play-review-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-app-data-google-app-reviews-task-post-setting-google-app-reviews-tasks-standard-queue) | top-up from $50, Pay as you go | 60.1 | 79 | $0.005 per 1,000 reviews | 2026-10-30 |
-| 8 | [Trends MCP](https://datacircle.dev/google-play-review-apis/trends-mcp/49-monthly) | $49 monthly | 52.2 | 79 | $0.49 per 1,000 reviews | 2026-11-11 |
-| 9 | [Crawlora](https://datacircle.dev/google-play-review-apis/crawlora/9-monthly) | $9 monthly | 50.6 | 91 |  | 2026-11-05 |
-| 10 | [PerceptLayer](https://datacircle.dev/google-play-review-apis/perceptlayer/15-pack) | $15 pack | 43.8 | 70 |  | 2026-11-09 |
-| 11 | [OpenKrill](https://datacircle.dev/google-play-review-apis/openkrill/5-pack) | $5 pack | 42.9 | 67 |  | 2026-11-11 |
+| 8 | [OpenKrill](https://datacircle.dev/google-play-review-apis/openkrill/5-pack) | $5 pack | 52.5 | 93 |  | 2026-11-18 |
+| 9 | [Trends MCP](https://datacircle.dev/google-play-review-apis/trends-mcp/49-monthly) | $49 monthly | 52.2 | 79 | $0.49 per 1,000 reviews | 2026-11-11 |
+| 10 | [Crawlora](https://datacircle.dev/google-play-review-apis/crawlora/9-monthly) | $9 monthly | 50.6 | 91 |  | 2026-11-05 |
+| 11 | [PerceptLayer](https://datacircle.dev/google-play-review-apis/perceptlayer/15-pack) | $15 pack | 43.8 | 70 |  | 2026-11-09 |
 | 12 | [Zembra](https://datacircle.dev/google-play-review-apis/zembra/top-up-from-1) | top-up from $1 | 41 | 63 | $1.20 per 1,000 reviews | 2026-10-30 |
 | 13 | [Manifold](https://datacircle.dev/google-play-review-apis/manifold/79-monthly) | $79 monthly | 40.8 | 54 | $0.16 per 1,000 reviews | 2026-11-10 |
 

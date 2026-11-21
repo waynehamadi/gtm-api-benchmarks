@@ -1,6 +1,6 @@
 # LinkedIn company post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
 Tapline ranks first in our benchmark, with an Overall score of 83.7 out of 100. Tapline scores 80 out of 100 for accuracy. Tapline's plan "$499 monthly" costs $0.013 per 1,000 posts. We rank 31 providers. We last tested them on 2026-11-18.
 

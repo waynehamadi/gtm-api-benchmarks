@@ -1,6 +1,6 @@
 # Twitch profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
 TrueScrape ranks first in our benchmark, with an Overall score of 77.7 out of 100. TrueScrape scores 83 out of 100 for accuracy. TrueScrape's plan "$500 pack" costs $0.80 per 1,000 profiles. We rank 13 providers. We last tested them on 2026-11-16.
 

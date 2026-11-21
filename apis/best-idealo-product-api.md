@@ -1,6 +1,6 @@
 # Idealo product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
 PricePirate ranks first in our benchmark, with an Overall score of 58.1 out of 100. PricePirate scores 69 out of 100 for accuracy. PricePirate's plan "$220 monthly, 50K" costs $4.40 per 1,000 products. We rank 3 providers. We last tested them on 2026-11-19.
 

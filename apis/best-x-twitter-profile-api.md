@@ -1,6 +1,6 @@
 # X (Twitter) profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
 lobstr.io ranks first in our benchmark, with an Overall score of 65.9 out of 100. lobstr.io scores 77 out of 100 for accuracy. lobstr.io's plan "$500 monthly" costs $0.50 per 1,000 profiles. We rank 60 providers. We last tested them on 2026-11-15.
 

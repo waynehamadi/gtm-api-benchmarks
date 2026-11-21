@@ -1,6 +1,6 @@
 # Company funding API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
 gBizINFO ranks first in our benchmark, with an Overall score of 78.7 out of 100. gBizINFO scores 72 out of 100 for accuracy. gBizINFO's plan "free" costs $0.00 per 1,000 companies. We rank 29 providers. We last tested them on 2026-11-16.
 
@@ -25,10 +25,10 @@ Every plan below is on our ranking page, [Company funding API: best providers in
 | 15 | [Raised500](https://datacircle.dev/company-funding-apis/raised500/49-monthly-pro-post-api-mcp) | $49 monthly, Pro | 19.1 | 27 |  | 2026-11-11 |
 | 16 | [DataForB2B](https://datacircle.dev/company-funding-apis/dataforb2b/499-monthly) | $499 monthly | 63.1 | 15 | $0.10 per 1,000 companies | 2026-11-15 |
 | 17 | [WorldSignals](https://datacircle.dev/company-funding-apis/worldsignals/29-monthly) | €29 monthly | 49 | 2 | $0.65 per 1,000 companies | 2026-11-16 |
-| 18 | [Parsers VC](https://datacircle.dev/company-funding-apis/parsers-vc/249-monthly-scale-get-startups-id-fundingrounds) | $249 monthly, Scale | 38.1 | 12 | $3.32 per 1,000 companies | 2026-11-16 |
+| 18 | [Parsers VC](https://datacircle.dev/company-funding-apis/parsers-vc/249-monthly-scale-get-startups-id-fundingrounds) | $249 monthly, Scale | 38 | 12 | $3.32 per 1,000 companies | 2026-11-16 |
 | 19 | [Autobound](https://datacircle.dev/company-funding-apis/autobound/19-pack) | $19 pack | 34 | 2 | $20.00 per 1,000 companies | 2026-11-15 |
-| 20 | [Sumble](https://datacircle.dev/company-funding-apis/sumble/99-monthly) | $99 monthly | 31.8 | 9 | $60.00 per 1,000 companies | 2026-10-26 |
-| 21 | [Xcout](https://datacircle.dev/company-funding-apis/xcout/99-monthly-starter) | $99 monthly, Starter | 30.5 | 5 | $9.90 per 1,000 companies | 2026-11-16 |
+| 20 | [Xcout](https://datacircle.dev/company-funding-apis/xcout/99-monthly-starter) | $99 monthly, Starter | 32.9 | 12 | $9.90 per 1,000 companies | 2026-11-16 |
+| 21 | [Sumble](https://datacircle.dev/company-funding-apis/sumble/99-monthly) | $99 monthly | 31.8 | 9 | $60.00 per 1,000 companies | 2026-10-26 |
 | 22 | [RouterGrowth](https://datacircle.dev/company-funding-apis/routergrowth/499-monthly) | $499 monthly | 27.1 | 2 | $31.20 per 1,000 companies | 2026-10-25 |
 | 23 | [Olostep](https://datacircle.dev/company-funding-apis/olostep/99-monthly) | $99 monthly | 25.2 | 1 | $9.90 per 1,000 companies | 2026-10-27 |
 | 24 | [SEC API](https://datacircle.dev/company-funding-apis/sec-api/55-monthly) | $55 monthly | 24.3 | 2 |  | 2026-10-28 |

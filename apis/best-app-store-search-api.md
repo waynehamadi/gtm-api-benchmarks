@@ -1,6 +1,6 @@
 # App Store search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
 Apple ranks first in our benchmark, with an Overall score of 79 out of 100. Apple scores 77 out of 100 for accuracy. Apple's plan "free" costs $0.00 per 1,000 searches. We rank 21 providers. We last tested them on 2026-11-17.
 

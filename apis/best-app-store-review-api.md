@@ -1,8 +1,8 @@
 # App Store review API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
-EveryInfra ranks first in our benchmark, with an Overall score of 80.9 out of 100. EveryInfra scores 70 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.0028 per 1,000 reviews. We rank 14 providers. We last tested them on 2026-11-16.
+EveryInfra ranks first in our benchmark, with an Overall score of 80.9 out of 100. EveryInfra scores 70 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.0028 per 1,000 reviews. We rank 15 providers. We last tested them on 2026-11-16.
 
 Every plan below is on our ranking page, [App Store review API: best providers in 2026](https://datacircle.dev/best-app-store-review-api).
 
@@ -18,10 +18,11 @@ Every plan below is on our ranking page, [App Store review API: best providers i
 | 8 | [Pushbuild](https://datacircle.dev/app-store-review-apis/pushbuild/top-up) | top-up | 45.4 | 51 | $0.40 per 1,000 reviews | 2026-11-07 |
 | 9 | [ReplyNodes](https://datacircle.dev/app-store-review-apis/replynodes/19-monthly) | $19 monthly | 44.9 | 70 |  | 2026-11-07 |
 | 10 | [Stophy](https://datacircle.dev/app-store-review-apis/stophy/top-up-from-10) | top-up from $10 | 44.7 | 62 |  | 2026-11-07 |
-| 11 | [Zembra](https://datacircle.dev/app-store-review-apis/zembra/top-up-from-12) | top-up from $12 | 39.1 | 56 | $1.00 per 1,000 reviews | 2026-10-30 |
-| 12 | [PerceptLayer](https://datacircle.dev/app-store-review-apis/perceptlayer/15-pack) | $15 pack | 37.4 | 54 |  | 2026-11-07 |
-| 13 | [ASOdesk](https://datacircle.dev/app-store-review-apis/asodesk/99-monthly) | $99 monthly | 36.6 | 48 | $0.50 per 1,000 reviews | 2026-10-30 |
-| 14 | [Appeeky](https://datacircle.dev/app-store-review-apis/appeeky/149-monthly) | $149 monthly | 41.4 | 24 | $0.006 per 1,000 reviews | 2026-10-30 |
+| 11 | [OpenKrill](https://datacircle.dev/app-store-review-apis/openkrill/5-pack) | $5 pack | 42.4 | 54 |  | 2026-11-16 |
+| 12 | [Zembra](https://datacircle.dev/app-store-review-apis/zembra/top-up-from-12) | top-up from $12 | 39.1 | 56 | $1.00 per 1,000 reviews | 2026-10-30 |
+| 13 | [PerceptLayer](https://datacircle.dev/app-store-review-apis/perceptlayer/15-pack) | $15 pack | 37.4 | 54 |  | 2026-11-07 |
+| 14 | [ASOdesk](https://datacircle.dev/app-store-review-apis/asodesk/99-monthly) | $99 monthly | 36.6 | 48 | $0.50 per 1,000 reviews | 2026-10-30 |
+| 15 | [Appeeky](https://datacircle.dev/app-store-review-apis/appeeky/149-monthly) | $149 monthly | 41.4 | 24 | $0.006 per 1,000 reviews | 2026-10-30 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

@@ -1,6 +1,6 @@
 # Bing Copilot scraper API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
 OpenWeb Ninja ranks first in our benchmark, with an Overall score of 52.7 out of 100. OpenWeb Ninja scores 60 out of 100 for accuracy. OpenWeb Ninja's plan "$150 monthly, Mega" costs $2.00 per 1,000 answers. We rank 6 providers. We last tested them on 2026-11-18.
 

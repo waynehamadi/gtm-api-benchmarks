@@ -1,6 +1,6 @@
 # WhatsApp number check API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
 NumRadar ranks first in our benchmark, with an Overall score of 74.1 out of 100. NumRadar scores 100 out of 100 for accuracy. NumRadar's plan "€249 monthly, Enterprise" costs $0.93 per 1,000 phones. We rank 5 providers. We last tested them on 2026-11-16.
 

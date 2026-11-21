@@ -1,6 +1,6 @@
 # Amazon product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
 Logimu ranks first in our benchmark, with an Overall score of 71.3 out of 100. Logimu scores 51 out of 100 for accuracy. Logimu's plan "$125 monthly, Growth" costs $0.16 per 1,000 products. We rank 48 providers. We last tested them on 2026-11-19.
 

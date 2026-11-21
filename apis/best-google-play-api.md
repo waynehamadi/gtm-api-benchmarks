@@ -1,6 +1,6 @@
 # Google Play API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
 AppSkyline ranks first in our benchmark, with an Overall score of 78.5 out of 100. AppSkyline scores 83 out of 100 for accuracy. AppSkyline's plan "free" costs $0.00 per 1,000 apps. We rank 13 providers. We last tested them on 2026-11-17.
 

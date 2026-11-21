@@ -1,6 +1,6 @@
 # Tech stack API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,397 providers of 155 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
 
 JobsPipe ranks first in our benchmark, with an Overall score of 70.3 out of 100. JobsPipe scores 74 out of 100 for accuracy. JobsPipe's plan "$149 monthly, Growth" costs $1.49 per 1,000 companies. We rank 56 providers. We last tested them on 2026-11-19.
 
