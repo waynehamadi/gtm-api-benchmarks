@@ -1,6 +1,6 @@
 # Rent estimate API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
 Zillapi ranks first in our benchmark, with an Overall score of 86.5 out of 100. Zillapi scores 70 out of 100 for accuracy. Zillapi's plan "$5 monthly" costs $5.00 per 1,000 addresses. We rank 3 providers. We last tested them on 2026-11-19.
 

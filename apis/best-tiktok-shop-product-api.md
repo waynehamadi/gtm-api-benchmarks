@@ -1,6 +1,6 @@
 # TikTok Shop product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
 ScraperCompany ranks first in our benchmark, with an Overall score of 68.2 out of 100. ScraperCompany scores 73 out of 100 for accuracy. ScraperCompany's plan "$399 monthly" costs $1.60 per 1,000 products. We rank 8 providers. We last tested them on 2026-11-18.
 

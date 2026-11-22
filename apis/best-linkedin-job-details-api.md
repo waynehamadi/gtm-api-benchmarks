@@ -1,6 +1,6 @@
 # LinkedIn job details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 68.8 out of 100. Scrappa scores 42 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 jobs. We rank 26 providers. We last tested them on 2026-11-15.
 

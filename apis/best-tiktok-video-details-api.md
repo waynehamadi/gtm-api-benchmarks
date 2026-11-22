@@ -1,6 +1,6 @@
 # TikTok video details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
 ShortVidAPI ranks first in our benchmark, with an Overall score of 77.7 out of 100. ShortVidAPI scores 70 out of 100 for accuracy. ShortVidAPI's plan "$199 monthly" costs $0.40 per 1,000 videos. We rank 15 providers. We last tested them on 2026-11-16.
 

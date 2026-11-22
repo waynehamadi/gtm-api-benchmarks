@@ -1,19 +1,19 @@
 # Instagram post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
-herascrape ranks first in our benchmark, with an Overall score of 81.1 out of 100. herascrape scores 82 out of 100 for accuracy. herascrape's plan "top-up from $5, Prepaid balance" costs $0.044 per 1,000 posts. We rank 40 providers. We last tested them on 2026-11-19.
+herascrape ranks first in our benchmark, with an Overall score of 82 out of 100. herascrape scores 82 out of 100 for accuracy. herascrape's plan "top-up from $5, Prepaid balance" costs $0.033 per 1,000 posts. We rank 40 providers. We last tested them on 2026-11-19.
 
 Every plan below is on our ranking page, [Instagram post API: best providers in 2026](https://datacircle.dev/best-instagram-post-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [herascrape](https://datacircle.dev/instagram-post-apis/herascrape/top-up-from-5-prepaid-balance-from-5-get-users-user-id-posts) | top-up from $5, Prepaid balance | 81.1 | 82 | $0.044 per 1,000 posts | 2026-11-18 |
-| 2 | [FetchLayer](https://datacircle.dev/instagram-post-apis/fetchlayer/500-monthly) | $500 monthly | 78.1 | 83 | $0.042 per 1,000 posts | 2026-10-29 |
-| 3 | [Influship](https://datacircle.dev/instagram-post-apis/influship/pay-as-you-go-usage-based-credits-get-v1-raw-instagram-profile-username) | pay as you go, Usage-based credits | 73.3 | 61 | $0.036 per 1,000 posts | 2026-11-10 |
+| 1 | [herascrape](https://datacircle.dev/instagram-post-apis/herascrape/top-up-from-5-prepaid-balance-from-5-get-users-user-id-posts) | top-up from $5, Prepaid balance | 82 | 82 | $0.033 per 1,000 posts | 2026-11-18 |
+| 2 | [FetchLayer](https://datacircle.dev/instagram-post-apis/fetchlayer/500-monthly) | $500 monthly | 77.8 | 83 | $0.042 per 1,000 posts | 2026-10-29 |
+| 3 | [Influship](https://datacircle.dev/instagram-post-apis/influship/pay-as-you-go-usage-based-credits-get-v1-raw-instagram-profile-username) | pay as you go, Usage-based credits | 72.9 | 61 | $0.036 per 1,000 posts | 2026-11-10 |
 | 4 | [Refetcher](https://datacircle.dev/instagram-post-apis/refetcher/top-up) | top-up | 70.8 | 65 | $0.075 per 1,000 posts | 2026-11-03 |
 | 5 | [ScrapeField](https://datacircle.dev/instagram-post-apis/scrapefield/149-pack) | $149 pack | 61.2 | 45 | $0.075 per 1,000 posts | 2026-11-08 |
-| 6 | [Omkar Cloud](https://datacircle.dev/instagram-post-apis/omkar-cloud/48-monthly) | $48 monthly | 57.1 | 65 | $0.04 per 1,000 posts | 2026-11-08 |
+| 6 | [Omkar Cloud](https://datacircle.dev/instagram-post-apis/omkar-cloud/48-monthly) | $48 monthly | 56.9 | 65 | $0.04 per 1,000 posts | 2026-11-08 |
 | 7 | [Scrape Everything](https://datacircle.dev/instagram-post-apis/scrape-everything/39-pack-builder-post-v1-instagram-photos) | $39 pack, Builder | 55.9 | 53 | $0.052 per 1,000 posts | 2026-11-08 |
 | 8 | [Captapi](https://datacircle.dev/instagram-post-apis/captapi/9-monthly) | $9 monthly | 50.1 | 67 | $1.35 per 1,000 posts | 2026-10-29 |
 | 9 | [RocketAPI](https://datacircle.dev/instagram-post-apis/rocketapi/299-monthly) | €299 monthly | 49.6 | 68 | $0.056 per 1,000 posts | 2026-11-08 |
@@ -42,8 +42,8 @@ Every plan below is on our ranking page, [Instagram post API: best providers in 
 | 32 | [TrueScrape](https://datacircle.dev/instagram-post-apis/truescrape/500-pack) | $500 pack | 57 | 26 | $0.067 per 1,000 posts | 2026-11-08 |
 | 33 | [FastSocial](https://datacircle.dev/instagram-post-apis/fastsocial/19-pack-credit-pack-20000-credits-get-v1-posts) | $19 pack, Credit pack: 20,000 credits | 45.8 | 39 | $0.079 per 1,000 posts | 2026-11-08 |
 | 34 | [Parseium](https://datacircle.dev/instagram-post-apis/parseium/49-monthly) | $49 monthly | 44.8 | 24 | $0.0065 per 1,000 posts | 2026-11-10 |
-| 35 | [ScraperCompany](https://datacircle.dev/instagram-post-apis/scrapercompany/399-monthly) | $399 monthly | 40.5 | 26 | $0.20 per 1,000 posts | 2026-11-16 |
-| 36 | [SteadyAPI](https://datacircle.dev/instagram-post-apis/steadyapi/299-99-monthly) | $299.99 monthly | 40.4 | 23 | $0.02 per 1,000 posts | 2026-11-10 |
+| 35 | [SteadyAPI](https://datacircle.dev/instagram-post-apis/steadyapi/299-99-monthly) | $299.99 monthly | 41.1 | 23 | $0.02 per 1,000 posts | 2026-11-10 |
+| 36 | [ScraperCompany](https://datacircle.dev/instagram-post-apis/scrapercompany/399-monthly) | $399 monthly | 40.5 | 26 | $0.20 per 1,000 posts | 2026-11-16 |
 | 37 | [API.SH](https://datacircle.dev/instagram-post-apis/api-sh/top-up-from-15) | top-up from $15 | 32.1 | 30 |  | 2026-11-08 |
 | 38 | [Socify](https://datacircle.dev/instagram-post-apis/socify/top-up) | top-up | 30.4 | 32 |  | 2026-11-09 |
 | 39 | [InstaGapi](https://datacircle.dev/instagram-post-apis/instagapi/8-90-monthly) | $8.90 monthly | 26.7 | 25 |  | 2026-11-08 |

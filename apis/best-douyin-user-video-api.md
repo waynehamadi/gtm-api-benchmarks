@@ -1,6 +1,6 @@
 # Douyin user video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
 EveryInfra ranks first in our benchmark, with an Overall score of 80.7 out of 100. EveryInfra scores 74 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.0056 per 1,000 videos. We rank 8 providers. We last tested them on 2026-11-15.
 

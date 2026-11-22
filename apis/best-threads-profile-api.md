@@ -1,14 +1,14 @@
 # Threads profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
-TrueScrape ranks first in our benchmark, with an Overall score of 88.4 out of 100. TrueScrape scores 100 out of 100 for accuracy. TrueScrape's plan "$500 pack" costs $0.80 per 1,000 profiles. We rank 15 providers. We last tested them on 2026-11-09.
+TrueScrape ranks first in our benchmark, with an Overall score of 88.3 out of 100. TrueScrape scores 100 out of 100 for accuracy. TrueScrape's plan "$500 pack" costs $0.80 per 1,000 profiles. We rank 15 providers. We last tested them on 2026-11-09.
 
 Every plan below is on our ranking page, [Threads profile API: best providers in 2026](https://datacircle.dev/best-threads-profile-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [TrueScrape](https://datacircle.dev/threads-profile-apis/truescrape/500-pack) | $500 pack | 88.4 | 100 | $0.80 per 1,000 profiles | 2026-11-09 |
+| 1 | [TrueScrape](https://datacircle.dev/threads-profile-apis/truescrape/500-pack) | $500 pack | 88.3 | 100 | $0.80 per 1,000 profiles | 2026-11-09 |
 | 2 | [ReefAPI](https://datacircle.dev/threads-profile-apis/reefapi/450-quarterly) | $450 quarterly | 87.8 | 90 | $0.50 per 1,000 profiles | 2026-10-30 |
 | 3 | [CarryFeed](https://datacircle.dev/threads-profile-apis/carryfeed/free) | free | 87.2 | 90 | $0.00 per 1,000 profiles | 2026-11-09 |
 | 4 | [Scrappa](https://datacircle.dev/threads-profile-apis/scrappa/10-pack) | $10 pack | 86.5 | 80 | $0.30 per 1,000 profiles | 2026-11-09 |
@@ -18,9 +18,9 @@ Every plan below is on our ranking page, [Threads profile API: best providers in
 | 8 | [ScrapeCreators](https://datacircle.dev/threads-profile-apis/scrapecreators/497-pack) | $497 pack | 69.5 | 100 | $0.99 per 1,000 profiles | 2026-10-30 |
 | 9 | [FetchGoblin](https://datacircle.dev/threads-profile-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 68.7 | 100 | $1.49 per 1,000 profiles | 2026-11-09 |
 | 10 | [Omkar Cloud](https://datacircle.dev/threads-profile-apis/omkar-cloud/48-monthly) | $48 monthly | 67.7 | 86 | $0.48 per 1,000 profiles | 2026-11-09 |
-| 11 | [SociaVault](https://datacircle.dev/threads-profile-apis/sociavault/399-pack) | $399 pack | 64.1 | 100 | $2.00 per 1,000 profiles | 2026-10-30 |
+| 11 | [SociaVault](https://datacircle.dev/threads-profile-apis/sociavault/399-pack) | $399 pack | 64 | 100 | $2.00 per 1,000 profiles | 2026-10-30 |
 | 12 | [AnyAPI](https://datacircle.dev/threads-profile-apis/anyapi/top-up-from-10) | top-up from $10 | 60.6 | 80 | $1.10 per 1,000 profiles | 2026-10-30 |
-| 13 | [API Direct](https://datacircle.dev/threads-profile-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-threads-user) | pay as you go, Pay per request | 60.4 | 90 | $6.00 per 1,000 profiles | 2026-10-30 |
+| 13 | [API Direct](https://datacircle.dev/threads-profile-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-threads-user) | pay as you go, Pay per request | 60.3 | 90 | $6.00 per 1,000 profiles | 2026-10-30 |
 | 14 | [EnsembleData](https://datacircle.dev/threads-profile-apis/ensembledata/400-monthly) | $400 monthly | 57.7 | 90 | $4.85 per 1,000 profiles | 2026-10-30 |
 | 15 | [Bright Data](https://datacircle.dev/threads-profile-apis/bright-data/top-up) | top-up | 50.2 | 66 | $1.50 per 1,000 profiles | 2026-10-30 |
 

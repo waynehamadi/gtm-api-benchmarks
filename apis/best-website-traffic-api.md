@@ -1,6 +1,6 @@
 # Website traffic API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
 ScraperCompany ranks first in our benchmark, with an Overall score of 48.6 out of 100. ScraperCompany scores 47 out of 100 for accuracy. ScraperCompany's plan "$399 monthly" costs $3.99 per 1,000 domains. We rank 3 providers. We last tested them on 2026-11-16.
 

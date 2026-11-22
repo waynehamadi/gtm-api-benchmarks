@@ -1,6 +1,6 @@
 # GitHub profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 85.7 out of 100. Scrappa scores 96 out of 100 for accuracy. Scrappa's plan "$25 pack" costs $0.29 per 1,000 profiles. We rank 11 providers. We last tested them on 2026-11-15.
 

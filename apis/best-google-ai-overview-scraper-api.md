@@ -1,6 +1,6 @@
 # Google AI Overview scraper API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
 Litescrape ranks first in our benchmark, with an Overall score of 86.4 out of 100. Litescrape scores 70 out of 100 for accuracy. Litescrape's plan "top-up from $10, Usage-based" costs $0.15 per 1,000 answers. We rank 11 providers. We last tested them on 2026-11-20.
 
@@ -10,7 +10,7 @@ Every plan below is on our ranking page, [Google AI Overview scraper API: best p
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Litescrape](https://datacircle.dev/google-ai-overview-scraper-apis/litescrape/top-up-from-10-usage-based-get-api-google-ai-overview) | top-up from $10, Usage-based | 86.4 | 70 | $0.15 per 1,000 answers | 2026-11-03 |
 | 2 | [PrismCrawl](https://datacircle.dev/google-ai-overview-scraper-apis/prismcrawl/10-pack) | $10 pack | 61.6 | 65 | $0.27 per 1,000 answers | 2026-11-06 |
-| 3 | [AnyAPI](https://datacircle.dev/google-ai-overview-scraper-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-google-ai-overview) | top-up from $10, Manual top-up | 60 | 77 | $1.80 per 1,000 answers | 2026-11-03 |
+| 3 | [AnyAPI](https://datacircle.dev/google-ai-overview-scraper-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-google-ai-overview) | top-up from $10, Manual top-up | 60.1 | 77 | $1.80 per 1,000 answers | 2026-11-03 |
 | 4 | [OpenWeb Ninja](https://datacircle.dev/google-ai-overview-scraper-apis/openweb-ninja/150-monthly) | $150 monthly, Mega | 59.2 | 77 | $0.75 per 1,000 answers | 2026-11-18 |
 | 5 | [Peec AI](https://datacircle.dev/google-ai-overview-scraper-apis/peec-ai/245-monthly-pro-get-chats-chat-id-content) | $245 monthly, Pro | 57.1 | 88 |  | 2026-11-20 |
 | 6 | [Otterly.ai](https://datacircle.dev/google-ai-overview-scraper-apis/otterly-ai/189-monthly) | $189 monthly | 46 | 72 | $94.50 per 1,000 answers | 2026-11-03 |

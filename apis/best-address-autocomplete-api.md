@@ -1,8 +1,8 @@
 # Address autocomplete API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
-PostGrid ranks first in our benchmark, with an Overall score of 87.4 out of 100. PostGrid scores 78 out of 100 for accuracy. PostGrid's plan "$84 monthly, International Essential" costs $0 extra per 1,000 searches. The $84 monthly price covers any number of searches. We rank 33 providers. We last tested them on 2026-11-18.
+PostGrid ranks first in our benchmark, with an Overall score of 87.4 out of 100. PostGrid scores 78 out of 100 for accuracy. PostGrid's plan "$84 monthly, International Essential" costs $0 extra per 1,000 searches. The $84 monthly price covers any number of searches. We rank 34 providers. We last tested them on 2026-11-20.
 
 Every plan below is on our ranking page, [Address autocomplete API: best providers in 2026](https://datacircle.dev/best-address-autocomplete-api).
 
@@ -25,22 +25,23 @@ Every plan below is on our ranking page, [Address autocomplete API: best provide
 | 15 | [DingoFind](https://datacircle.dev/address-autocomplete-apis/dingofind/a-29-monthly) | A$29 (about $20) monthly | 55.7 | 49 | $0.0067 per 1,000 searches | 2026-11-16 |
 | 16 | [Locio](https://datacircle.dev/address-autocomplete-apis/locio/a-249-monthly-scale-get-v1-addresses) | A$249 (about $173) monthly, Scale | 54.7 | 44 | $0.035 per 1,000 searches | 2026-11-11 |
 | 17 | [Unmap](https://datacircle.dev/address-autocomplete-apis/unmap/19-monthly) | $19 monthly | 54.6 | 54 | $0.076 per 1,000 searches | 2026-11-11 |
-| 18 | [Geocodify](https://datacircle.dev/address-autocomplete-apis/geocodify/49-monthly) | $49 monthly | 51.9 | 47 | $0.16 per 1,000 searches | 2026-11-11 |
-| 19 | [Geoscape](https://datacircle.dev/address-autocomplete-apis/geoscape/a-300-monthly-team-post-v1-verify-autocomplete-au) | A$300 (about $209) monthly, Team | 51.9 | 49 | $0.70 per 1,000 searches | 2026-11-16 |
+| 18 | [Geoscape](https://datacircle.dev/address-autocomplete-apis/geoscape/a-300-monthly-team-post-v1-verify-autocomplete-au) | A$300 (about $209) monthly, Team | 51.9 | 49 | $0.70 per 1,000 searches | 2026-11-16 |
+| 19 | [Geocodify](https://datacircle.dev/address-autocomplete-apis/geocodify/49-monthly) | $49 monthly | 51.9 | 47 | $0.16 per 1,000 searches | 2026-11-11 |
 | 20 | [ApiCheck](https://datacircle.dev/address-autocomplete-apis/apicheck/59-95-pack) | €59.95 pack | 51 | 65 | $1.35 per 1,000 searches | 2026-11-14 |
 | 21 | [TruAddress](https://datacircle.dev/address-autocomplete-apis/truaddress/199-monthly-business-get-api-intl-autocomplete) | $199 monthly, Business | 49.7 | 56 | $1.99 per 1,000 searches | 2026-11-13 |
-| 22 | [Loqate](https://datacircle.dev/address-autocomplete-apis/loqate/50-pack-pay-as-you-go-50-rest-of-world-addresses-get-capture-interactive-find-v1-20-json6-ws) | £50 (about $67) pack, Pay-as-you-go £50 (rest of world addresses) | 41.8 | 70 |  | 2026-11-18 |
-| 23 | [Swiftcomplete](https://datacircle.dev/address-autocomplete-apis/swiftcomplete/10-pack) | £10 (about $13) pack | 41.4 | 43 | $40.05 per 1,000 searches | 2026-11-15 |
-| 24 | [Postcoder](https://datacircle.dev/address-autocomplete-apis/postcoder/27-pack-credit-pack-500-credits-get-pcw-autocomplete-find) | £27 (about $36) pack, Credit pack: 500 credits | 35.3 | 51 |  | 2026-11-08 |
-| 25 | [Autoaddress](https://datacircle.dev/address-autocomplete-apis/autoaddress/94-monthly-standard-monthly-400-lookups-a-month-get-3-0-autocomplete) | €94 monthly, Standard, 400 lookups a month | 33.6 | 57 |  | 2026-11-13 |
-| 26 | [PontoFato](https://datacircle.dev/address-autocomplete-apis/pontofato/free) | free | 54.4 | 21 | $0.00 per 1,000 searches | 2026-11-08 |
-| 27 | [Azure Maps](https://datacircle.dev/address-autocomplete-apis/azure-maps/pay-as-you-go) | pay as you go | 48.9 | 30 | $0.45 per 1,000 searches | 2026-11-09 |
-| 28 | [MapAtlas](https://datacircle.dev/address-autocomplete-apis/mapatlas/pay-as-you-go-10001-to-100000-sessions-a-month) | pay as you go, 10,001 to 100,000 sessions a month | 46.6 | 38 | $2.59 per 1,000 searches | 2026-11-18 |
-| 29 | [Altum AI](https://datacircle.dev/address-autocomplete-apis/altum-ai/50-monthly) | €50 monthly | 30 | 32 |  | 2026-11-17 |
-| 30 | [Chimnie](https://datacircle.dev/address-autocomplete-apis/chimnie/top-up-core) | top-up, Core | 55.9 | 8 | $0.00 per 1,000 searches | 2026-11-18 |
-| 31 | [CSV2GEO](https://datacircle.dev/address-autocomplete-apis/csv2geo/174-monthly) | $174 monthly | 38 | 12 | $0.12 per 1,000 searches | 2026-11-14 |
-| 32 | [LatLng](https://datacircle.dev/address-autocomplete-apis/latlng/29-monthly) | $29 monthly | 35.9 | 6 | $0.029 per 1,000 searches | 2026-11-10 |
-| 33 | [Homesage](https://datacircle.dev/address-autocomplete-apis/homesage/75-monthly) | $75 monthly | 22.5 | 6 |  | 2026-11-11 |
+| 22 | [Canada Post](https://datacircle.dev/address-autocomplete-apis/canada-post/35-pack-35-post-addresscomplete-interactive-find-v2-10-wsdlnew-ws) | $35 pack | 48 | 73 |  | 2026-11-20 |
+| 23 | [Loqate](https://datacircle.dev/address-autocomplete-apis/loqate/50-pack-pay-as-you-go-50-rest-of-world-addresses-get-capture-interactive-find-v1-20-json6-ws) | £50 (about $67) pack, Pay-as-you-go £50 (rest of world addresses) | 41.8 | 70 |  | 2026-11-18 |
+| 24 | [Swiftcomplete](https://datacircle.dev/address-autocomplete-apis/swiftcomplete/10-pack) | £10 (about $13) pack | 41.4 | 43 | $40.05 per 1,000 searches | 2026-11-15 |
+| 25 | [Postcoder](https://datacircle.dev/address-autocomplete-apis/postcoder/27-pack-credit-pack-500-credits-get-pcw-autocomplete-find) | £27 (about $36) pack, Credit pack: 500 credits | 35.3 | 51 |  | 2026-11-08 |
+| 26 | [Autoaddress](https://datacircle.dev/address-autocomplete-apis/autoaddress/94-monthly-standard-monthly-400-lookups-a-month-get-3-0-autocomplete) | €94 monthly, Standard, 400 lookups a month | 33.6 | 57 |  | 2026-11-13 |
+| 27 | [PontoFato](https://datacircle.dev/address-autocomplete-apis/pontofato/free) | free | 54.4 | 21 | $0.00 per 1,000 searches | 2026-11-08 |
+| 28 | [Azure Maps](https://datacircle.dev/address-autocomplete-apis/azure-maps/pay-as-you-go) | pay as you go | 48.9 | 30 | $0.45 per 1,000 searches | 2026-11-09 |
+| 29 | [MapAtlas](https://datacircle.dev/address-autocomplete-apis/mapatlas/pay-as-you-go-10001-to-100000-sessions-a-month) | pay as you go, 10,001 to 100,000 sessions a month | 46.6 | 38 | $2.59 per 1,000 searches | 2026-11-18 |
+| 30 | [Altum AI](https://datacircle.dev/address-autocomplete-apis/altum-ai/50-monthly) | €50 monthly | 30 | 32 |  | 2026-11-17 |
+| 31 | [Chimnie](https://datacircle.dev/address-autocomplete-apis/chimnie/top-up-core) | top-up, Core | 55.9 | 8 | $0.00 per 1,000 searches | 2026-11-18 |
+| 32 | [CSV2GEO](https://datacircle.dev/address-autocomplete-apis/csv2geo/174-monthly) | $174 monthly | 38 | 12 | $0.12 per 1,000 searches | 2026-11-14 |
+| 33 | [LatLng](https://datacircle.dev/address-autocomplete-apis/latlng/29-monthly) | $29 monthly | 35.9 | 6 | $0.029 per 1,000 searches | 2026-11-10 |
+| 34 | [Homesage](https://datacircle.dev/address-autocomplete-apis/homesage/75-monthly) | $75 monthly | 22.5 | 6 |  | 2026-11-11 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

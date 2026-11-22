@@ -1,6 +1,6 @@
 # Reddit post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 80.6 out of 100. Scrappa scores 72 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.003 per 1,000 posts. We rank 26 providers. We last tested them on 2026-11-14.
 
@@ -29,8 +29,8 @@ Every plan below is on our ranking page, [Reddit post API: best providers in 202
 | 19 | [glim.sh](https://datacircle.dev/reddit-post-apis/glim-sh/top-up) | top-up | 38.7 | 40 | $0.50 per 1,000 posts | 2026-11-06 |
 | 20 | [SocialToAI](https://datacircle.dev/reddit-post-apis/socialtoai/10-pack) | $10 pack | 38.5 | 38 | $0.27 per 1,000 posts | 2026-11-14 |
 | 21 | [SocialiQ](https://datacircle.dev/reddit-post-apis/socialiq/10-monthly) | $10 monthly | 36.9 | 28 | $0.10 per 1,000 posts | 2026-11-14 |
-| 22 | [Superpowers Social](https://datacircle.dev/reddit-post-apis/superpowers-social/8-monthly) | $8 monthly | 28.2 | 28 |  | 2026-11-11 |
-| 23 | [TrueScrape](https://datacircle.dev/reddit-post-apis/truescrape/25-pack) | $25 pack | 28.2 | 30 |  | 2026-11-06 |
+| 22 | [TrueScrape](https://datacircle.dev/reddit-post-apis/truescrape/25-pack) | $25 pack | 28.2 | 30 |  | 2026-11-06 |
+| 23 | [Superpowers Social](https://datacircle.dev/reddit-post-apis/superpowers-social/8-monthly) | $8 monthly | 28.2 | 28 |  | 2026-11-11 |
 | 24 | [Redlisten](https://datacircle.dev/reddit-post-apis/redlisten/29-monthly-pro-get-v1-authors-name-posts) | $29 monthly, Pro | 45.8 | 8 | $0.0023 per 1,000 posts | 2026-11-11 |
 | 25 | [Weir](https://datacircle.dev/reddit-post-apis/weir/50-pack) | $50 pack | 37.5 | 15 | $0.44 per 1,000 posts | 2026-11-06 |
 | 26 | [Bright Data](https://datacircle.dev/reddit-post-apis/bright-data/top-up) | top-up | 17.7 | 10 | $1.50 per 1,000 posts | 2026-11-06 |

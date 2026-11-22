@@ -1,6 +1,6 @@
 # LinkedIn person recommendation API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
 Social Fetch ranks first in our benchmark, with an Overall score of 74.9 out of 100. Social Fetch scores 100 out of 100 for accuracy. Social Fetch's plan "$79 monthly" costs $4.74 per 1,000 profiles. We rank 2 providers. We last tested them on 2026-11-09.
 

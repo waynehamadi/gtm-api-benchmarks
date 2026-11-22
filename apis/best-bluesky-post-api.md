@@ -1,20 +1,20 @@
 # Bluesky post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
-Bluesky ranks first in our benchmark, with an Overall score of 77.6 out of 100. Bluesky scores 63 out of 100 for accuracy. Bluesky's plan "free" costs $0.00 per 1,000 posts. We rank 18 providers. We last tested them on 2026-11-18.
+ProLevelMax ranks first in our benchmark, with an Overall score of 75.4 out of 100. ProLevelMax scores 62 out of 100 for accuracy. ProLevelMax's plan "top-up" costs $0.003 per 1,000 posts. We rank 18 providers. We last tested them on 2026-11-18.
 
 Every plan below is on our ranking page, [Bluesky post API: best providers in 2026](https://datacircle.dev/best-bluesky-post-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Bluesky](https://datacircle.dev/bluesky-post-apis/bluesky/free) | free | 77.6 | 63 | $0.00 per 1,000 posts | 2026-11-03 |
-| 2 | [ProLevelMax](https://datacircle.dev/bluesky-post-apis/prolevelmax/top-up) | top-up | 75.4 | 62 | $0.003 per 1,000 posts | 2026-11-18 |
-| 3 | [CarryFeed](https://datacircle.dev/bluesky-post-apis/carryfeed/free) | free | 71.7 | 47 | $0.00 per 1,000 posts | 2026-11-10 |
-| 4 | [Crawlora](https://datacircle.dev/bluesky-post-apis/crawlora/79-monthly) | $79 monthly | 71.7 | 60 | $0.004 per 1,000 posts | 2026-11-04 |
+| 1 | [ProLevelMax](https://datacircle.dev/bluesky-post-apis/prolevelmax/top-up) | top-up | 75.4 | 62 | $0.003 per 1,000 posts | 2026-11-18 |
+| 2 | [Bluesky](https://datacircle.dev/bluesky-post-apis/bluesky/free) | free | 75.3 | 63 | $0.00 per 1,000 posts | 2026-11-03 |
+| 3 | [Crawlora](https://datacircle.dev/bluesky-post-apis/crawlora/79-monthly) | $79 monthly | 71.7 | 60 | $0.004 per 1,000 posts | 2026-11-04 |
+| 4 | [CarryFeed](https://datacircle.dev/bluesky-post-apis/carryfeed/free) | free | 71.6 | 47 | $0.00 per 1,000 posts | 2026-11-10 |
 | 5 | [EveryInfra](https://datacircle.dev/bluesky-post-apis/everyinfra/10-pack) | $10 pack | 70 | 59 | $0.0069 per 1,000 posts | 2026-11-16 |
 | 6 | [ScrapeAtlas](https://datacircle.dev/bluesky-post-apis/scrapeatlas/249-pack) | $249 pack | 66.7 | 73 | $0.013 per 1,000 posts | 2026-11-03 |
-| 7 | [Zapi](https://datacircle.dev/bluesky-post-apis/zapi/rp129000-monthly) | Rp129,000 (about $7) monthly | 57.9 | 61 | $0.0018 per 1,000 posts | 2026-11-10 |
+| 7 | [Zapi](https://datacircle.dev/bluesky-post-apis/zapi/rp129000-monthly) | Rp129,000 (about $7) monthly | 59.3 | 61 | $0.0018 per 1,000 posts | 2026-11-10 |
 | 8 | [API Direct](https://datacircle.dev/bluesky-post-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-bluesky-user-posts-bluesky-user-posts) | pay as you go, Pay per request | 54.8 | 69 | $0.06 per 1,000 posts | 2026-10-31 |
 | 9 | [ScrapingIsNotACrime](https://datacircle.dev/bluesky-post-apis/scrapingisnotacrime/199-pack) | $199 pack | 53 | 46 | $0.017 per 1,000 posts | 2026-10-31 |
 | 10 | [AxioAPI](https://datacircle.dev/bluesky-post-apis/axioapi/5-monthly) | $5 monthly | 52.9 | 37 | $0.0071 per 1,000 posts | 2026-11-17 |

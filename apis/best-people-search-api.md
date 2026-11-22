@@ -1,6 +1,6 @@
 # People lookup API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
 GetProspect ranks first in our benchmark, with an Overall score of 90.1 out of 100. GetProspect scores 93 out of 100 for accuracy. GetProspect's plan "$49 monthly, Starter" costs $0 extra per 1,000 people. The $49 monthly price covers any number of people. We rank 61 providers. We last tested them on 2026-11-17.
 
@@ -18,19 +18,19 @@ Every plan below is on our ranking page, [People lookup API: best providers in 2
 | 8 | [graph8](https://datacircle.dev/people-search-apis/graph8/99-monthly) | $99 monthly | 74.6 | 79 |  | 2026-11-16 |
 | 9 | [NeuralVerge](https://datacircle.dev/people-search-apis/neuralverge/50-monthly-base-post-functions-v1-run-company-employees) | $50 monthly, Base | 72.2 | 88 | $2.00 per 1,000 people | 2026-11-16 |
 | 10 | [LeadMagic](https://datacircle.dev/people-search-apis/leadmagic/499-monthly-professional-post-v1-people-employee-finder) | $499 monthly, Professional | 72.1 | 80 | $0.50 per 1,000 people | 2026-11-16 |
-| 11 | [RouterGrowth](https://datacircle.dev/people-search-apis/routergrowth/39-monthly) | $39 monthly | 71.9 | 72 | $0.37 per 1,000 people | 2026-10-25 |
+| 11 | [RouterGrowth](https://datacircle.dev/people-search-apis/routergrowth/39-monthly) | $39 monthly | 72 | 72 | $0.37 per 1,000 people | 2026-10-25 |
 | 12 | [LeadMCP](https://datacircle.dev/people-search-apis/leadmcp/49-monthly-leadmcp-post-contacts-search) | $49 monthly | 71.2 | 68 | $0.049 per 1,000 people | 2026-11-16 |
 | 13 | [Prospeo](https://datacircle.dev/people-search-apis/prospeo/99-monthly) | $99 monthly | 70.1 | 74 | $0.79 per 1,000 people | 2026-10-21 |
 | 14 | [Snov.io](https://datacircle.dev/people-search-apis/snov-io/39-monthly-starter-post-v2-database-search-prospects-start) | $39 monthly, Starter | 69.4 | 51 |  | 2026-10-29 |
 | 15 | [Enrich.chat](https://datacircle.dev/people-search-apis/enrich-chat/299-monthly-pro-get-company-people) | $299 monthly, Pro | 69.2 | 74 | $0.60 per 1,000 people | 2026-11-16 |
-| 16 | [Context.dev](https://datacircle.dev/people-search-apis/context-dev/500-monthly) | $500 monthly, Scale | 67.6 | 66 | $0.50 per 1,000 people | 2026-11-16 |
-| 17 | [Hunter](https://datacircle.dev/people-search-apis/hunter/299-monthly-scale-get-domain-search) | $299 monthly, Scale | 65.4 | 64 | $1.20 per 1,000 people | 2026-10-21 |
+| 16 | [Context.dev](https://datacircle.dev/people-search-apis/context-dev/500-monthly) | $500 monthly, Scale | 67.7 | 66 | $0.50 per 1,000 people | 2026-11-16 |
+| 17 | [Hunter](https://datacircle.dev/people-search-apis/hunter/299-monthly-scale-get-domain-search) | $299 monthly, Scale | 65.5 | 64 | $1.20 per 1,000 people | 2026-10-21 |
 | 18 | [Exa](https://datacircle.dev/people-search-apis/exa/top-up-from-5-developer-pay-as-you-go-post-search-search) | top-up from $5, Developer (pay as you go) | 61.8 | 87 | $0.70 per 1,000 people | 2026-11-16 |
 | 19 | [The Swarm](https://datacircle.dev/people-search-apis/the-swarm/500-monthly-premium-1000-post-v3-profiles-fetch) | $500 monthly, Premium 1000 | 60.7 | 66 | $10.00 per 1,000 people | 2026-10-20 |
 | 20 | [OneShot](https://datacircle.dev/people-search-apis/oneshot/top-up-from-0-01-card-via-stripe-checkout) | top-up from $0.01, Card via Stripe Checkout | 58.1 | 65 | $0.02 per 1,000 people | 2026-11-16 |
 | 21 | [PeopleSearch.im](https://datacircle.dev/people-search-apis/peoplesearch-im/50-pack-scale-post-api-v1-deliver) | $50 pack, Scale | 57.9 | 92 | $27.78 per 1,000 people | 2026-11-16 |
 | 22 | [Village](https://datacircle.dev/people-search-apis/village/1-monthly) | $1 monthly | 57.9 | 58 | $3.00 per 1,000 people | 2026-11-16 |
-| 23 | [DiscoLike](https://datacircle.dev/people-search-apis/discolike/99-monthly-starter-post-contacts-discover) | $99 monthly, Starter | 57.5 | 71 | $3.50 per 1,000 people | 2026-11-16 |
+| 23 | [DiscoLike](https://datacircle.dev/people-search-apis/discolike/99-monthly-starter-post-contacts-discover) | $99 monthly, Starter | 57.6 | 71 | $3.50 per 1,000 people | 2026-11-16 |
 | 24 | [CompanyEnrich](https://datacircle.dev/people-search-apis/companyenrich/149-monthly-pro-post-people-search-search) | $149 monthly, Pro | 50.4 | 71 | $5.96 per 1,000 people | 2026-10-24 |
 | 25 | [Instantly](https://datacircle.dev/people-search-apis/instantly/94-monthly) | $94 monthly | 50.3 | 91 |  | 2026-10-27 |
 | 26 | [Explee](https://datacircle.dev/people-search-apis/explee/top-up-credits-pay-as-you-go-post-public-api-v1-search-people-by-domains) | top-up, Credits (pay as you go) | 49.4 | 50 | $10.00 per 1,000 people | 2026-11-16 |
@@ -45,7 +45,7 @@ Every plan below is on our ranking page, [People lookup API: best providers in 2
 | 35 | [Companies House](https://datacircle.dev/people-search-apis/companies-house/free-get-company-company-number-officers) | free | 64.8 | 28 | $0.00 per 1,000 people | 2026-10-30 |
 | 36 | [Renidly](https://datacircle.dev/people-search-apis/renidly/290-pack) | $290 pack | 59.3 | 39 | $2.90 per 1,000 people | 2026-10-19 |
 | 37 | [Tomba](https://datacircle.dev/people-search-apis/tomba/199-monthly-pro-get-domain-search-domain-search) | $199 monthly, Pro | 58.8 | 25 | $1.00 per 1,000 people | 2026-11-16 |
-| 38 | [Bytemine](https://datacircle.dev/people-search-apis/bytemine/top-up-from-0-50) | top-up from $0.50 | 42.9 | 32 | $10.00 per 1,000 people | 2026-11-16 |
+| 38 | [Bytemine](https://datacircle.dev/people-search-apis/bytemine/top-up-from-0-50) | top-up from $0.50 | 42.8 | 32 | $10.00 per 1,000 people | 2026-11-16 |
 | 39 | [Sumble](https://datacircle.dev/people-search-apis/sumble/99-monthly-pro-post-v9-people-people) | $99 monthly, Pro | 41.9 | 34 | $10.00 per 1,000 people | 2026-10-26 |
 | 40 | [The Org](https://datacircle.dev/people-search-apis/the-org/top-up-additional-credits-on-premium-get-v1-2-companies-org-chart-executives) | top-up, Additional credits on Premium | 37.8 | 34 |  | 2026-11-06 |
 | 41 | [Woodpecker](https://datacircle.dev/people-search-apis/woodpecker/10-monthly) | $10 monthly | 36.3 | 45 | $20.00 per 1,000 people | 2026-10-27 |

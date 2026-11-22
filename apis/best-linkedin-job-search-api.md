@@ -1,6 +1,6 @@
 # LinkedIn job search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
 Litescrape ranks first in our benchmark, with an Overall score of 86.3 out of 100. Litescrape scores 88 out of 100 for accuracy. Litescrape's plan "top-up from $10" costs $0.015 per 1,000 jobs. We rank 31 providers. We last tested them on 2026-11-15.
 
@@ -24,8 +24,8 @@ Every plan below is on our ranking page, [LinkedIn job search API: best provider
 | 14 | [CoreClaw](https://datacircle.dev/linkedin-job-search-apis/coreclaw/29-monthly-pro-post-api-v2-workers-coreclaw-linkedin-jobs-scraper-runs) | $29 monthly, Pro | 62.9 | 88 | $0.78 per 1,000 jobs | 2026-11-08 |
 | 15 | [lobstr.io](https://datacircle.dev/linkedin-job-search-apis/lobstr-io/500-monthly) | $500 monthly, Team | 62.7 | 88 | $0.50 per 1,000 jobs | 2026-10-27 |
 | 16 | [API Direct](https://datacircle.dev/linkedin-job-search-apis/api-direct/pay-as-you-go) | pay as you go, Pay per request | 62.1 | 92 | $0.24 per 1,000 jobs | 2026-10-23 |
-| 17 | [Scrape.ly](https://datacircle.dev/linkedin-job-search-apis/scrape-ly/19-monthly) | $19 monthly | 61.7 | 88 | $0.85 per 1,000 jobs | 2026-11-08 |
-| 18 | [Social Fetch](https://datacircle.dev/linkedin-job-search-apis/social-fetch/29-monthly) | $29 monthly | 61.7 | 92 | $0.19 per 1,000 jobs | 2026-11-08 |
+| 17 | [Social Fetch](https://datacircle.dev/linkedin-job-search-apis/social-fetch/29-monthly) | $29 monthly | 61.7 | 92 | $0.19 per 1,000 jobs | 2026-11-08 |
+| 18 | [Scrape.ly](https://datacircle.dev/linkedin-job-search-apis/scrape-ly/19-monthly) | $19 monthly | 61.7 | 88 | $0.85 per 1,000 jobs | 2026-11-08 |
 | 19 | [SearchApi](https://datacircle.dev/linkedin-job-search-apis/searchapi/40-monthly) | $40 monthly | 59.4 | 88 | $0.40 per 1,000 jobs | 2026-10-25 |
 | 20 | [Fantastic.jobs](https://datacircle.dev/linkedin-job-search-apis/fantastic-jobs/500-monthly) | $500 monthly | 59.3 | 95 | $2.00 per 1,000 jobs | 2026-10-26 |
 | 21 | [OpenWeb Ninja](https://datacircle.dev/linkedin-job-search-apis/openweb-ninja/150-monthly) | $150 monthly | 58.4 | 86 | $0.075 per 1,000 jobs | 2026-10-23 |

@@ -1,28 +1,27 @@
 # LinkedIn post reaction API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
-Fetchin ranks first in our benchmark, with an Overall score of 76.7 out of 100. Fetchin scores 98 out of 100 for accuracy. Fetchin's plan "$50 monthly, Subscription 50K" costs $0.01 per 1,000 reactions. We rank 15 providers. We last tested them on 2026-11-15.
+Fetchin ranks first in our benchmark, with an Overall score of 76.9 out of 100. Fetchin scores 100 out of 100 for accuracy. Fetchin's plan "$50 monthly, Subscription 50K" costs $0.01 per 1,000 reactions. We rank 14 providers. We last tested them on 2026-11-08.
 
 Every plan below is on our ranking page, [LinkedIn post reaction API: best providers in 2026](https://datacircle.dev/best-linkedin-post-reaction-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Fetchin](https://datacircle.dev/linkedin-post-reaction-apis/fetchin/50-monthly-subscription-50k-get-api-v1-post-reactions) | $50 monthly, Subscription 50K | 76.7 | 98 | $0.01 per 1,000 reactions | 2026-10-27 |
-| 2 | [ScrapeField](https://datacircle.dev/linkedin-post-reaction-apis/scrapefield/39-pack) | $39 pack | 71.2 | 67 | $0.055 per 1,000 reactions | 2026-11-08 |
-| 3 | [BeReach](https://datacircle.dev/linkedin-post-reaction-apis/bereach/10-pack) | €10 pack | 69.2 | 99 | $0.73 per 1,000 reactions | 2026-11-08 |
-| 4 | [AnyAPI](https://datacircle.dev/linkedin-post-reaction-apis/anyapi/top-up-from-10) | top-up from $10, Manual top-up | 69 | 87 | $0.029 per 1,000 reactions | 2026-10-25 |
-| 5 | [The Swarm](https://datacircle.dev/linkedin-post-reaction-apis/the-swarm/500-monthly) | $500 monthly | 67.6 | 78 | $0.10 per 1,000 reactions | 2026-10-27 |
-| 6 | [DataForB2B](https://datacircle.dev/linkedin-post-reaction-apis/dataforb2b/499-monthly) | $499 monthly | 64.7 | 77 | $0.20 per 1,000 reactions | 2026-10-27 |
-| 7 | [HarvestAPI](https://datacircle.dev/linkedin-post-reaction-apis/harvestapi/280-pack) | $280 pack, Pro | 63.4 | 88 | $0.023 per 1,000 reactions | 2026-10-27 |
-| 8 | [Up2Data](https://datacircle.dev/linkedin-post-reaction-apis/up2data/25-pack-10k-post-v1-posts-engagement-reactions) | $25 pack, 10K | 60.6 | 74 | $0.025 per 1,000 reactions | 2026-10-27 |
-| 9 | [Social Fetch](https://datacircle.dev/linkedin-post-reaction-apis/social-fetch/29-monthly) | $29 monthly | 58.7 | 87 | $0.48 per 1,000 reactions | 2026-11-08 |
-| 10 | [Bridgly](https://datacircle.dev/linkedin-post-reaction-apis/bridgly/top-up-from-5) | top-up from $5 | 57.7 | 87 | $2.00 per 1,000 reactions | 2026-11-08 |
-| 11 | [Anysite](https://datacircle.dev/linkedin-post-reaction-apis/anysite/300-monthly) | $300 monthly | 54.6 | 67 | $0.16 per 1,000 reactions | 2026-10-25 |
-| 12 | [Datamagnet](https://datacircle.dev/linkedin-post-reaction-apis/datamagnet/top-up-from-5) | top-up from $5 | 50.6 | 87 |  | 2026-10-27 |
+| 1 | [Fetchin](https://datacircle.dev/linkedin-post-reaction-apis/fetchin/50-monthly-subscription-50k-get-api-v1-post-reactions) | $50 monthly, Subscription 50K | 76.9 | 100 | $0.01 per 1,000 reactions | 2026-10-27 |
+| 2 | [ScrapeField](https://datacircle.dev/linkedin-post-reaction-apis/scrapefield/39-pack) | $39 pack | 69.4 | 67 | $0.055 per 1,000 reactions | 2026-11-08 |
+| 3 | [AnyAPI](https://datacircle.dev/linkedin-post-reaction-apis/anyapi/top-up-from-10) | top-up from $10, Manual top-up | 68.8 | 88 | $0.029 per 1,000 reactions | 2026-10-25 |
+| 4 | [BeReach](https://datacircle.dev/linkedin-post-reaction-apis/bereach/10-pack) | €10 pack | 67.1 | 100 | $0.73 per 1,000 reactions | 2026-11-08 |
+| 5 | [The Swarm](https://datacircle.dev/linkedin-post-reaction-apis/the-swarm/500-monthly) | $500 monthly | 65.7 | 78 | $0.10 per 1,000 reactions | 2026-10-27 |
+| 6 | [HarvestAPI](https://datacircle.dev/linkedin-post-reaction-apis/harvestapi/280-pack) | $280 pack, Pro | 63.4 | 89 | $0.023 per 1,000 reactions | 2026-10-27 |
+| 7 | [DataForB2B](https://datacircle.dev/linkedin-post-reaction-apis/dataforb2b/499-monthly) | $499 monthly | 62.6 | 77 | $0.20 per 1,000 reactions | 2026-10-27 |
+| 8 | [Up2Data](https://datacircle.dev/linkedin-post-reaction-apis/up2data/25-pack-10k-post-v1-posts-engagement-reactions) | $25 pack, 10K | 59.9 | 74 | $0.025 per 1,000 reactions | 2026-10-27 |
+| 9 | [Social Fetch](https://datacircle.dev/linkedin-post-reaction-apis/social-fetch/29-monthly) | $29 monthly | 57.9 | 88 | $0.48 per 1,000 reactions | 2026-11-08 |
+| 10 | [Bridgly](https://datacircle.dev/linkedin-post-reaction-apis/bridgly/top-up-from-5) | top-up from $5 | 56.8 | 88 | $2.00 per 1,000 reactions | 2026-11-08 |
+| 11 | [Anysite](https://datacircle.dev/linkedin-post-reaction-apis/anysite/300-monthly) | $300 monthly | 53.6 | 67 | $0.16 per 1,000 reactions | 2026-10-25 |
+| 12 | [Datamagnet](https://datacircle.dev/linkedin-post-reaction-apis/datamagnet/top-up-from-5) | top-up from $5 | 51.1 | 89 |  | 2026-10-27 |
 | 13 | [Vayne](https://datacircle.dev/linkedin-post-reaction-apis/vayne/49-monthly) | $49 monthly | 41.9 | 71 |  | 2026-10-25 |
-| 14 | [Spaces](https://datacircle.dev/linkedin-post-reaction-apis/spaces/9-monthly) | $9 monthly | 67.9 | 44 | $0.03 per 1,000 reactions | 2026-11-15 |
-| 15 | [treg](https://datacircle.dev/linkedin-post-reaction-apis/treg/top-up-from-10) | top-up from $10 | 26.1 | 11 |  | 2026-10-20 |
+| 14 | [treg](https://datacircle.dev/linkedin-post-reaction-apis/treg/top-up-from-10) | top-up from $10 | 26.1 | 11 |  | 2026-10-20 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

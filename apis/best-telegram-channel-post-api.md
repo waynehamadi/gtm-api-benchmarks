@@ -1,15 +1,15 @@
 # Telegram channel post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
-ScrapeAtlas ranks first in our benchmark, with an Overall score of 73.7 out of 100. ScrapeAtlas scores 88 out of 100 for accuracy. ScrapeAtlas's plan "$249 pack" costs $0.062 per 1,000 posts. We rank 8 providers. We last tested them on 2026-11-07.
+TrueScrape ranks first in our benchmark, with an Overall score of 73.7 out of 100. TrueScrape scores 89 out of 100 for accuracy. TrueScrape's plan "$500 pack" costs $0.04 per 1,000 posts. We rank 8 providers. We last tested them on 2026-11-07.
 
 Every plan below is on our ranking page, [Telegram channel post API: best providers in 2026](https://datacircle.dev/best-telegram-channel-post-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [ScrapeAtlas](https://datacircle.dev/telegram-channel-post-apis/scrapeatlas/249-pack) | $249 pack | 73.7 | 88 | $0.062 per 1,000 posts | 2026-11-07 |
-| 2 | [TrueScrape](https://datacircle.dev/telegram-channel-post-apis/truescrape/500-pack) | $500 pack | 73.7 | 89 | $0.04 per 1,000 posts | 2026-11-07 |
+| 1 | [TrueScrape](https://datacircle.dev/telegram-channel-post-apis/truescrape/500-pack) | $500 pack | 73.7 | 89 | $0.04 per 1,000 posts | 2026-11-07 |
+| 2 | [ScrapeAtlas](https://datacircle.dev/telegram-channel-post-apis/scrapeatlas/249-pack) | $249 pack | 73.7 | 88 | $0.062 per 1,000 posts | 2026-11-07 |
 | 3 | [Scrappa](https://datacircle.dev/telegram-channel-post-apis/scrappa/10-pack) | $10 pack | 61.5 | 70 | $0.015 per 1,000 posts | 2026-11-01 |
 | 4 | [FetchGoblin](https://datacircle.dev/telegram-channel-post-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 60.4 | 87 | $0.075 per 1,000 posts | 2026-11-07 |
 | 5 | [glim.sh](https://datacircle.dev/telegram-channel-post-apis/glim-sh/top-up) | top-up | 60.4 | 86 | $0.05 per 1,000 posts | 2026-11-07 |

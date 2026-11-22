@@ -1,29 +1,29 @@
 # Domain authority API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,465 providers of 163 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
 
-AnyAPI ranks first in our benchmark, with an Overall score of 42.9 out of 100. AnyAPI scores 20 out of 100 for accuracy. AnyAPI's plan "top-up from $10, Manual top-up" costs $4.95 per 1,000 domains. We rank 19 providers. We last tested them on 2026-11-07.
+AnyAPI ranks first in our benchmark, with an Overall score of 43.1 out of 100. AnyAPI scores 20 out of 100 for accuracy. AnyAPI's plan "top-up from $10, Manual top-up" costs $4.95 per 1,000 domains. We rank 19 providers. We last tested them on 2026-11-07.
 
 Every plan below is on our ranking page, [Domain authority API: best providers in 2026](https://datacircle.dev/best-domain-authority-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AnyAPI](https://datacircle.dev/domain-authority-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-semrush-overview) | top-up from $10, Manual top-up | 42.9 | 20 | $4.95 per 1,000 domains | 2026-10-30 |
-| 2 | [Omkar Cloud](https://datacircle.dev/domain-authority-apis/omkar-cloud/16-monthly-starter-plan-get-domains-authority-20000-requests-a-month) | $16 monthly, Starter Plan | 37.7 | 16 | $0.80 per 1,000 domains | 2026-11-07 |
+| 1 | [AnyAPI](https://datacircle.dev/domain-authority-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-semrush-overview) | top-up from $10, Manual top-up | 43.1 | 20 | $4.95 per 1,000 domains | 2026-10-30 |
+| 2 | [Omkar Cloud](https://datacircle.dev/domain-authority-apis/omkar-cloud/16-monthly-starter-plan-get-domains-authority-20000-requests-a-month) | $16 monthly, Starter Plan | 37.8 | 16 | $0.80 per 1,000 domains | 2026-11-07 |
 | 3 | [Argosor](https://datacircle.dev/domain-authority-apis/argosor/19-monthly) | $19 monthly | 36.5 | 13 | $0.76 per 1,000 domains | 2026-11-07 |
-| 4 | [host.io](https://datacircle.dev/domain-authority-apis/host-io/99-monthly) | $99 monthly | 34.6 | 10 | $9.90 per 1,000 domains | 2026-11-07 |
+| 4 | [host.io](https://datacircle.dev/domain-authority-apis/host-io/99-monthly) | $99 monthly | 34.7 | 10 | $9.90 per 1,000 domains | 2026-11-07 |
 | 5 | [SearcherLite](https://datacircle.dev/domain-authority-apis/searcherlite/297-pack) | $297 pack | 24.5 | 17 | $59.40 per 1,000 domains | 2026-11-07 |
-| 6 | [Seonio](https://datacircle.dev/domain-authority-apis/seonio/60-monthly-business-post-api-v1-website-stats) | $60 monthly, Business | 32 | 7 | $1.33 per 1,000 domains | 2026-11-07 |
-| 7 | [UnblockingAPI](https://datacircle.dev/domain-authority-apis/unblockingapi/10-pack) | €10 pack | 28.9 | 5 | $1.13 per 1,000 domains | 2026-11-07 |
+| 6 | [Seonio](https://datacircle.dev/domain-authority-apis/seonio/60-monthly-business-post-api-v1-website-stats) | $60 monthly, Business | 32.1 | 7 | $1.33 per 1,000 domains | 2026-11-07 |
+| 7 | [UnblockingAPI](https://datacircle.dev/domain-authority-apis/unblockingapi/10-pack) | €10 pack | 29 | 5 | $1.13 per 1,000 domains | 2026-11-07 |
 | 8 | [Ranxplorer](https://datacircle.dev/domain-authority-apis/ranxplorer/60-pack) | €60 pack | 27.7 | 6 | $112.53 per 1,000 domains | 2026-11-07 |
 | 9 | [BacklinkMCP](https://datacircle.dev/domain-authority-apis/backlinkmcp/19-monthly) | $19 monthly | 55.8 | 1 | $0 extra per 1,000. The $19 monthly price covers any number of domains | 2026-11-07 |
 | 10 | [Tranco](https://datacircle.dev/domain-authority-apis/tranco/free) | free | 54.5 | 1 | $0.00 per 1,000 domains | 2026-11-07 |
-| 11 | [SE Ranking](https://datacircle.dev/domain-authority-apis/se-ranking/29-monthly-add-on-monthly-billing-get-v1-backlinks-authority-domain) | $29 monthly, Add-on, monthly billing | 54.1 | 1 | $0.97 per 1,000 domains | 2026-10-30 |
+| 11 | [SE Ranking](https://datacircle.dev/domain-authority-apis/se-ranking/29-monthly-add-on-monthly-billing-get-v1-backlinks-authority-domain) | $29 monthly, Add-on, monthly billing | 54.2 | 1 | $0.97 per 1,000 domains | 2026-10-30 |
 | 12 | [Morningscore](https://datacircle.dev/domain-authority-apis/morningscore/69-monthly) | $69 monthly | 53.7 | 3 |  | 2026-11-07 |
 | 13 | [DataForSEO](https://datacircle.dev/domain-authority-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-backlinks-bulk-ranks-live) | top-up from $50, Pay as you go | 42.7 | 1 | $0.036 per 1,000 domains | 2026-10-30 |
-| 14 | [GoAnyAPI](https://datacircle.dev/domain-authority-apis/goanyapi/10-pack) | $10 pack | 42 | 2 | $2.00 per 1,000 domains | 2026-11-07 |
-| 15 | [ScrapeWhale](https://datacircle.dev/domain-authority-apis/scrapewhale/9-90-pack) | $9.90 pack | 34.1 | 1 | $9.90 per 1,000 domains | 2026-11-07 |
-| 16 | [RankParse](https://datacircle.dev/domain-authority-apis/rankparse/199-pack) | $199 pack, Lifetime deal | 27.9 | 3 | $1.99 per 1,000 domains | 2026-10-30 |
+| 14 | [GoAnyAPI](https://datacircle.dev/domain-authority-apis/goanyapi/10-pack) | $10 pack | 42.2 | 2 | $2.00 per 1,000 domains | 2026-11-07 |
+| 15 | [ScrapeWhale](https://datacircle.dev/domain-authority-apis/scrapewhale/9-90-pack) | $9.90 pack | 34.3 | 1 | $9.90 per 1,000 domains | 2026-11-07 |
+| 16 | [RankParse](https://datacircle.dev/domain-authority-apis/rankparse/199-pack) | $199 pack, Lifetime deal | 28 | 3 | $1.99 per 1,000 domains | 2026-10-30 |
 | 17 | [DR Checker](https://datacircle.dev/domain-authority-apis/dr-checker/15-monthly-pro-get-api-dr-checker) | $15 monthly, Pro | 27.2 | 1 | $75.00 per 1,000 domains | 2026-11-07 |
 | 18 | [WooRank](https://datacircle.dev/domain-authority-apis/woorank/99-99-monthly) | $99.99 monthly | 23.4 | 2 |  | 2026-11-07 |
 | 19 | [Seolyticize](https://datacircle.dev/domain-authority-apis/seolyticize/free) | free | 0 | 0 | $0.00 per 1,000 domains | 2026-11-07 |
