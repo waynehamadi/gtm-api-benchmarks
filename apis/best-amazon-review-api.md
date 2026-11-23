@@ -1,6 +1,6 @@
 # Amazon review API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 ReefAPI ranks first in our benchmark, with an Overall score of 72.3 out of 100. ReefAPI scores 49 out of 100 for accuracy. ReefAPI's plan "$200 monthly" costs $0.027 per 1,000 reviews. We rank 7 providers. We last tested them on 2026-11-23.
 

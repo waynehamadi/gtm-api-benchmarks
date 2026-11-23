@@ -1,6 +1,6 @@
 # Company job count API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 Up2Data ranks first in our benchmark, with an Overall score of 74.4 out of 100. Up2Data scores 90 out of 100 for accuracy. Up2Data's plan "$200 pack, 100K" costs $2.00 per 1,000 companies. We rank 2 providers. We last tested them on 2026-10-25.
 

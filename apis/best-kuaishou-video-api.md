@@ -1,6 +1,6 @@
 # Kuaishou video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 ProLevelMax ranks first in our benchmark, with an Overall score of 68.4 out of 100. ProLevelMax scores 91 out of 100 for accuracy. ProLevelMax's plan "top-up" costs $6.00 per 1,000 videos. We rank 3 providers. We last tested them on 2026-11-18.
 

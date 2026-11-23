@@ -1,6 +1,6 @@
 # Instagram profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 herascrape ranks first in our benchmark, with an Overall score of 82.5 out of 100. herascrape scores 71 out of 100 for accuracy. herascrape's plan "top-up from $5, Prepaid balance" costs $0.40 per 1,000 profiles. We rank 56 providers. We last tested them on 2026-11-18.
 
@@ -17,12 +17,12 @@ Every plan below is on our ranking page, [Instagram profile API: best providers 
 | 7 | [ScrapeCreators](https://datacircle.dev/instagram-profile-apis/scrapecreators/497-pack) | $497 pack | 60 | 82 | $0.99 per 1,000 profiles | 2026-10-29 |
 | 8 | [Scrapall](https://datacircle.dev/instagram-profile-apis/scrapall/499-pack) | $499 pack | 59.4 | 80 | $1.00 per 1,000 profiles | 2026-11-05 |
 | 9 | [FetchGoblin](https://datacircle.dev/instagram-profile-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 59.2 | 82 | $1.49 per 1,000 profiles | 2026-11-07 |
-| 10 | [Pullbay](https://datacircle.dev/instagram-profile-apis/pullbay/199-monthly) | $199 monthly | 58 | 46 | $1.20 per 1,000 profiles | 2026-11-04 |
-| 11 | [Scrape.ly](https://datacircle.dev/instagram-profile-apis/scrape-ly/199-monthly) | $199 monthly | 56.8 | 57 | $1.61 per 1,000 profiles | 2026-11-08 |
+| 10 | [Pullbay](https://datacircle.dev/instagram-profile-apis/pullbay/199-monthly) | $199 monthly | 58.1 | 46 | $1.20 per 1,000 profiles | 2026-11-04 |
+| 11 | [Scrape.ly](https://datacircle.dev/instagram-profile-apis/scrape-ly/199-monthly) | $199 monthly | 56.9 | 57 | $1.61 per 1,000 profiles | 2026-11-08 |
 | 12 | [SocialAPIs](https://datacircle.dev/instagram-profile-apis/socialapis/179-monthly) | $179 monthly | 56.7 | 78 | $1.49 per 1,000 profiles | 2026-10-30 |
 | 13 | [RocketAPI](https://datacircle.dev/instagram-profile-apis/rocketapi/299-monthly-business-post-instagram-user-get-web-profile-info) | €299 monthly, Business | 54.6 | 73 | $0.67 per 1,000 profiles | 2026-11-04 |
 | 14 | [SociaVault](https://datacircle.dev/instagram-profile-apis/sociavault/399-pack) | $399 pack | 54 | 82 | $2.00 per 1,000 profiles | 2026-10-29 |
-| 15 | [Openhandle](https://datacircle.dev/instagram-profile-apis/openhandle/pay-as-you-go) | pay as you go | 52.2 | 64 | $2.00 per 1,000 profiles | 2026-11-08 |
+| 15 | [Openhandle](https://datacircle.dev/instagram-profile-apis/openhandle/pay-as-you-go) | pay as you go | 52.3 | 64 | $2.00 per 1,000 profiles | 2026-11-08 |
 | 16 | [API.SH](https://datacircle.dev/instagram-profile-apis/api-sh/50-monthly) | $50 monthly | 51.4 | 55 | $1.00 per 1,000 profiles | 2026-11-07 |
 | 17 | [Omkar Cloud](https://datacircle.dev/instagram-profile-apis/omkar-cloud/48-monthly) | $48 monthly | 51 | 42 | $0.48 per 1,000 profiles | 2026-11-04 |
 | 18 | [ScrapingDaddy](https://datacircle.dev/instagram-profile-apis/scrapingdaddy/49-monthly-pro-get-v2-instagram-profile) | $49 monthly, Pro | 50 | 47 | $0.98 per 1,000 profiles | 2026-11-09 |
@@ -57,7 +57,7 @@ Every plan below is on our ranking page, [Instagram profile API: best providers 
 | 47 | [Desearch](https://datacircle.dev/instagram-profile-apis/desearch/top-up) | top-up | 37.7 | 34 |  | 2026-10-29 |
 | 48 | [Browsable](https://datacircle.dev/instagram-profile-apis/browsable/249-monthly) | $249 monthly | 36.8 | 35 |  | 2026-11-07 |
 | 49 | [RedFox](https://datacircle.dev/instagram-profile-apis/redfox/top-up-from-cny-100) | top-up from CNY 100 (about $15) | 35.3 | 39 | $8.97 per 1,000 profiles | 2026-11-05 |
-| 50 | [instapi.co](https://datacircle.dev/instagram-profile-apis/instapi-co/top-up-from-1) | top-up from $1 | 34.6 | 30 | $10.00 per 1,000 profiles | 2026-11-05 |
+| 50 | [instapi.co](https://datacircle.dev/instagram-profile-apis/instapi-co/top-up-from-1) | top-up from $1 | 34.5 | 30 | $10.00 per 1,000 profiles | 2026-11-05 |
 | 51 | [ByCrawl](https://datacircle.dev/instagram-profile-apis/bycrawl/9-monthly) | $9 monthly | 34.1 | 40 | $36.00 per 1,000 profiles | 2026-11-07 |
 | 52 | [Xpoz](https://datacircle.dev/instagram-profile-apis/xpoz/20-monthly) | $20 monthly | 32.1 | 33 | $32.00 per 1,000 profiles | 2026-11-04 |
 | 53 | [viral.app](https://datacircle.dev/instagram-profile-apis/viral-app/299-monthly-ultra-plan-get-live-platform-accounts-username-username) | $299 monthly, Ultra Plan | 26.8 | 30 |  | 2026-11-08 |

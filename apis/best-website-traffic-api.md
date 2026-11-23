@@ -1,6 +1,6 @@
 # Website traffic API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 Vaneform ranks first in our benchmark, with an Overall score of 65.2 out of 100. Vaneform scores 33 out of 100 for accuracy. Vaneform's plan "$12 monthly, Pro" costs $1.20 per 1,000 domains. We rank 5 providers. We last tested them on 2026-11-22.
 

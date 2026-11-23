@@ -1,6 +1,6 @@
 # Facebook page API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 CoreClaw ranks first in our benchmark, with an Overall score of 70.2 out of 100. CoreClaw scores 55 out of 100 for accuracy. CoreClaw's plan "$29 monthly" costs $0.78 per 1,000 pages. We rank 29 providers. We last tested them on 2026-11-18.
 

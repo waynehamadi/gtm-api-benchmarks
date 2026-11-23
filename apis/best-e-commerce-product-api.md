@@ -1,6 +1,6 @@
 # E-commerce product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 ScrapingBot ranks first in our benchmark, with an Overall score of 72.3 out of 100. ScrapingBot scores 56 out of 100 for accuracy. ScrapingBot's plan "€149 monthly" costs $0.11 per 1,000 products. We rank 5 providers. We last tested them on 2026-11-23.
 

@@ -1,6 +1,6 @@
 # Email validation API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 Validemail.co ranks first in our benchmark, with an Overall score of 82.4 out of 100. Validemail.co scores 80 out of 100 for accuracy. We rank 256 providers. We last tested them on 2026-11-16.
 
@@ -92,7 +92,7 @@ Every plan below is on our ranking page, [Email validation API: best providers i
 | 82 | [Bouncify](https://datacircle.dev/validate-email-apis/bouncify/479-monthly) | $479 monthly | 53.8 | 74 | $0.48 per 1,000 emails | 2026-11-03 |
 | 83 | [WizLeads](https://datacircle.dev/validate-email-apis/wizleads/499-monthly-kingpin-get-email-verify-email) | $499 monthly, Kingpin | 53.7 | 70 | $0.83 per 1,000 emails | 2026-11-03 |
 | 84 | [EndBounce](https://datacircle.dev/validate-email-apis/endbounce/449-pack) | $449 pack | 53.6 | 75 | $0.45 per 1,000 emails | 2026-11-16 |
-| 85 | [CampaignKit](https://datacircle.dev/validate-email-apis/campaignkit/429-pack-onetime-pass-1000000-post-email-validate) | $429 pack, OneTime Pass 1,000,000 | 53.5 | 63 | $0.43 per 1,000 emails | 2026-11-09 |
+| 85 | [CampaignKit](https://datacircle.dev/validate-email-apis/campaignkit/429-pack-onetime-pass-1000000-post-email-validate) | $429 pack, OneTime Pass 1,000,000 | 53.6 | 63 | $0.43 per 1,000 emails | 2026-11-09 |
 | 86 | [verify-email.app](https://datacircle.dev/validate-email-apis/verify-email-app/20-monthly-basic-get-v1-verify) | $20 monthly, Basic | 53.4 | 59 | $0.13 per 1,000 emails | 2026-11-05 |
 | 87 | [validTo](https://datacircle.dev/validate-email-apis/validto/320-monthly-500000-verifications-monthly-get-verify) | $320 monthly, 500,000 Verifications (Monthly) | 53.3 | 74 | $0.64 per 1,000 emails | 2026-11-05 |
 | 88 | [Neutrino API](https://datacircle.dev/validate-email-apis/neutrino-api/50-monthly-tier-2-get-email-verify) | $50 monthly, Tier 2 | 53.3 | 57 | $0.33 per 1,000 emails | 2026-11-06 |
@@ -102,9 +102,9 @@ Every plan below is on our ranking page, [Email validation API: best providers i
 | 92 | [LeadMagic](https://datacircle.dev/validate-email-apis/leadmagic/499-monthly) | $499 monthly, Professional | 52.2 | 59 | $2.50 per 1,000 emails | 2026-11-06 |
 | 93 | [Mailnjoy](https://datacircle.dev/validate-email-apis/mailnjoy/160-pack-250000-credits-post-v2-unitary-unitary-validation-simple) | €160 pack, 250,000 credits | 52.1 | 72 | $0.72 per 1,000 emails | 2026-11-03 |
 | 94 | [FrostyVerify](https://datacircle.dev/validate-email-apis/frostyverify/7-pack-starter-verify-email) | €7 pack, Starter | 52.1 | 67 | $0.79 per 1,000 emails | 2026-11-12 |
-| 95 | [ZeroBounce](https://datacircle.dev/validate-email-apis/zerobounce/449-monthly-zerobounce-one-100000-credits-a-month-get-v2-validate) | $449 monthly, ZeroBounce ONE, 100,000 credits a month | 51.7 | 72 | $4.49 per 1,000 emails | 2026-11-03 |
-| 96 | [Mailerio](https://datacircle.dev/validate-email-apis/mailerio/500-monthly-monthly-1000000-emails-get-v-version-validate) | $500 monthly, Monthly 1,000,000 emails | 51.7 | 62 | $0.50 per 1,000 emails | 2026-11-06 |
-| 97 | [ClearBounce](https://datacircle.dev/validate-email-apis/clearbounce/500-monthly-monthly-subscription-500000-credits-post-verify) | $500 monthly, Monthly Subscription 500,000 credits | 51.6 | 74 | $1.00 per 1,000 emails | 2026-11-06 |
+| 95 | [ClearBounce](https://datacircle.dev/validate-email-apis/clearbounce/500-monthly-monthly-subscription-500000-credits-post-verify) | $500 monthly, Monthly Subscription 500,000 credits | 51.7 | 74 | $1.00 per 1,000 emails | 2026-11-06 |
+| 96 | [ZeroBounce](https://datacircle.dev/validate-email-apis/zerobounce/449-monthly-zerobounce-one-100000-credits-a-month-get-v2-validate) | $449 monthly, ZeroBounce ONE, 100,000 credits a month | 51.7 | 72 | $4.49 per 1,000 emails | 2026-11-03 |
+| 97 | [Mailerio](https://datacircle.dev/validate-email-apis/mailerio/500-monthly-monthly-1000000-emails-get-v-version-validate) | $500 monthly, Monthly 1,000,000 emails | 51.7 | 62 | $0.50 per 1,000 emails | 2026-11-06 |
 | 98 | [InboxPolicy](https://datacircle.dev/validate-email-apis/inboxpolicy/19-pack-builder-post-v1-verify) | $19 pack, Builder | 51.5 | 67 | $3.80 per 1,000 emails | 2026-11-06 |
 | 99 | [ListPlus](https://datacircle.dev/validate-email-apis/listplus/6-pack) | $6 pack | 51.2 | 77 | $12.00 per 1,000 emails | 2026-11-16 |
 | 100 | [Emails Checker](https://datacircle.dev/validate-email-apis/emails-checker/77-pack) | $77 pack | 51 | 75 | $0.39 per 1,000 emails | 2026-11-03 |
@@ -163,7 +163,7 @@ Every plan below is on our ranking page, [Email validation API: best providers i
 | 153 | [Aidenix](https://datacircle.dev/validate-email-apis/aidenix/39-monthly) | $39 monthly | 28.7 | 57 |  | 2026-11-14 |
 | 154 | [Apixies](https://datacircle.dev/validate-email-apis/apixies/free-sandbox-no-account) | free, Sandbox (no account) | 73.3 | 47 | $0.00 per 1,000 emails | 2026-11-11 |
 | 155 | [VerifyKit](https://datacircle.dev/validate-email-apis/verifykit/249-monthly-unlimited-post-v1-verify) | $249 monthly, Unlimited | 65.6 | 47 | $0.05 per 1,000 emails | 2026-11-06 |
-| 156 | [MailSift](https://datacircle.dev/validate-email-apis/mailsift/10-pack-starter-get-verify-verify-one-email) | $10 pack, Starter | 64.2 | 45 | $0.40 per 1,000 emails | 2026-11-06 |
+| 156 | [MailSift](https://datacircle.dev/validate-email-apis/mailsift/10-pack-starter-get-verify-verify-one-email) | $10 pack, Starter | 64.3 | 45 | $0.40 per 1,000 emails | 2026-11-06 |
 | 157 | [SMTPing](https://datacircle.dev/validate-email-apis/smtping/200-pack-2m-credits-post-verify-single) | $200 pack, 2M credits | 60 | 30 | $0.10 per 1,000 emails | 2026-11-06 |
 | 158 | [QuickEmailVerification](https://datacircle.dev/validate-email-apis/quickemailverification/260-monthly) | $260 monthly, Per Day Credits, 10,000 credits a day | 57 | 47 | $0.87 per 1,000 emails | 2026-11-06 |
 | 159 | [Searlo](https://datacircle.dev/validate-email-apis/searlo/199-99-pack) | $199.99 pack | 56.8 | 46 | $1.11 per 1,000 emails | 2026-11-12 |

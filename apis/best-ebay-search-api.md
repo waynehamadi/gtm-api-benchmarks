@@ -1,6 +1,6 @@
 # eBay search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 ReefAPI ranks first in our benchmark, with an Overall score of 59.3 out of 100. ReefAPI scores 35 out of 100 for accuracy. ReefAPI's plan "$450 quarterly" costs $0.50 per 1,000 searches. We rank 17 providers. We last tested them on 2026-11-23.
 
@@ -9,8 +9,8 @@ Every plan below is on our ranking page, [eBay search API: best providers in 202
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [ReefAPI](https://datacircle.dev/ebay-search-apis/reefapi/450-quarterly) | $450 quarterly | 59.3 | 35 | $0.50 per 1,000 searches | 2026-11-11 |
-| 2 | [PerceptLayer](https://datacircle.dev/ebay-search-apis/perceptlayer/399-pack) | $399 pack | 53.9 | 32 | $0.80 per 1,000 searches | 2026-11-03 |
-| 3 | [Scrappa](https://datacircle.dev/ebay-search-apis/scrappa/10-pack) | $10 pack | 46.9 | 32 | $0.30 per 1,000 searches | 2026-11-03 |
+| 2 | [PerceptLayer](https://datacircle.dev/ebay-search-apis/perceptlayer/399-pack) | $399 pack | 53.9 | 32 | $0.80 per 1,000 searches |  |
+| 3 | [Scrappa](https://datacircle.dev/ebay-search-apis/scrappa/10-pack) | $10 pack | 46.9 | 32 | $0.30 per 1,000 searches |  |
 | 4 | [Spidra](https://datacircle.dev/ebay-search-apis/spidra/249-monthly-pro-post-scrape) | $249 monthly, Pro | 46.2 | 44 | $1.99 per 1,000 searches | 2026-11-03 |
 | 5 | [CompSniper](https://datacircle.dev/ebay-search-apis/compsniper/179-monthly) | $179 monthly | 43.9 | 23 | $1.19 per 1,000 searches | 2026-11-11 |
 | 6 | [ScrapeUnblocker](https://datacircle.dev/ebay-search-apis/scrapeunblocker/pay-as-you-go) | pay as you go | 43.2 | 35 | $1.13 per 1,000 searches | 2026-11-03 |

@@ -1,6 +1,6 @@
 # IP geolocation API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 Apixies ranks first in our benchmark, with an Overall score of 89.6 out of 100. Apixies scores 72 out of 100 for accuracy. Apixies's plan "free, Sandbox (no account)" costs $0.00 per 1,000 IP addresses. We rank 45 providers. We last tested them on 2026-11-23.
 
@@ -25,8 +25,8 @@ Every plan below is on our ranking page, [IP geolocation API: best providers in 
 | 15 | [FraudGuard](https://datacircle.dev/ip-geolocation-apis/fraudguard/299-monthly-business-get-v2-ip-geolookup-ip) | $299 monthly, Business | 61.9 | 62 | $0.012 per 1,000 IP addresses | 2026-11-08 |
 | 16 | [WhoisXML API](https://datacircle.dev/ip-geolocation-apis/whoisxml-api/449-monthly) | $449 monthly | 61.7 | 70 | $0.051 per 1,000 IP addresses | 2026-11-08 |
 | 17 | [BigDataCloud](https://datacircle.dev/ip-geolocation-apis/bigdatacloud/29-95-monthly-bronze-get-data-ip-geolocation) | $29.95 monthly, Bronze | 59.8 | 75 | $0.30 per 1,000 IP addresses | 2026-11-08 |
-| 18 | [apiip](https://datacircle.dev/ip-geolocation-apis/apiip/49-99-monthly-professional-get-api-check-standard-ip-lookup) | €49.99 monthly, Professional | 57.1 | 61 | $0.056 per 1,000 IP addresses | 2026-11-14 |
-| 19 | [Pipeworx](https://datacircle.dev/ip-geolocation-apis/pipeworx/99-monthly-99-month-post-ipquery-mcp) | $99 monthly | 56 | 82 | $1.00 per 1,000 IP addresses | 2026-11-23 |
+| 18 | [Pipeworx](https://datacircle.dev/ip-geolocation-apis/pipeworx/99-monthly-99-month-post-ipquery-mcp) | $99 monthly | 58 | 87 | $1.00 per 1,000 IP addresses | 2026-11-23 |
+| 19 | [apiip](https://datacircle.dev/ip-geolocation-apis/apiip/49-99-monthly-professional-get-api-check-standard-ip-lookup) | €49.99 monthly, Professional | 57.1 | 61 | $0.056 per 1,000 IP addresses | 2026-11-14 |
 | 20 | [VPNDetection](https://datacircle.dev/ip-geolocation-apis/vpndetection/99-monthly-scale-get-ip) | $99 monthly, Scale | 55.3 | 55 | $0.05 per 1,000 IP addresses | 2026-11-08 |
 | 21 | [ipify](https://datacircle.dev/ip-geolocation-apis/ipify/399-monthly-monthly-subscription-10000000-credits-per-month-get-api-v2-country-city) | $399 monthly, Monthly subscription: 10,000,000 Credits per month | 55.2 | 70 | $0.08 per 1,000 IP addresses | 2026-11-14 |
 | 22 | [WhoisFreaks](https://datacircle.dev/ip-geolocation-apis/whoisfreaks/10-monthly-monthly-subscription-5000-api-credits-get-v1-0-geolocation) | $10 monthly, Monthly Subscription, 5,000 API Credits | 54.2 | 67 | $2.00 per 1,000 IP addresses | 2026-11-20 |
@@ -47,7 +47,7 @@ Every plan below is on our ranking page, [IP geolocation API: best providers in 
 | 37 | [ApogeoAPI](https://datacircle.dev/ip-geolocation-apis/apogeoapi/79-monthly) | $79 monthly | 47.3 | 38 | $0.16 per 1,000 IP addresses | 2026-11-08 |
 | 38 | [Mapricot](https://datacircle.dev/ip-geolocation-apis/mapricot/25-pack) | $25 pack | 46.9 | 30 | $0.10 per 1,000 IP addresses | 2026-11-14 |
 | 39 | [ipstack](https://datacircle.dev/ip-geolocation-apis/ipstack/99-99-monthly-professional-get-ip) | $99.99 monthly, Professional + | 46.7 | 32 | $0.05 per 1,000 IP addresses | 2026-11-21 |
-| 40 | [2s.io](https://datacircle.dev/ip-geolocation-apis/2s-io/pay-as-you-go-x402-pay-per-call-get-api-geo-ip) | pay as you go, x402 pay per call | 33 | 36 | $2.50 per 1,000 IP addresses | 2026-11-09 |
+| 40 | [2s.io](https://datacircle.dev/ip-geolocation-apis/2s-io/pay-as-you-go-x402-pay-per-call-get-api-geo-ip) | pay as you go, x402 pay per call | 33 | 35 | $2.50 per 1,000 IP addresses | 2026-11-09 |
 | 41 | [Elioplus](https://datacircle.dev/ip-geolocation-apis/elioplus/99-monthly) | $99 monthly | 18.2 | 28 | $39.60 per 1,000 IP addresses | 2026-11-09 |
 | 42 | [EUVatAPI](https://datacircle.dev/ip-geolocation-apis/euvatapi/119-99-monthly) | €119.99 monthly | 31.5 | 11 | $1.35 per 1,000 IP addresses | 2026-11-22 |
 | 43 | [Azure Maps](https://datacircle.dev/ip-geolocation-apis/azure-maps/pay-as-you-go) | pay as you go | 24.6 | 11 | $4.50 per 1,000 IP addresses | 2026-11-09 |

@@ -1,6 +1,6 @@
 # Email finder API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 Emelia ranks first in our benchmark, with an Overall score of 76.4 out of 100. Emelia scores 87 out of 100 for accuracy. Emelia's plan "$499 monthly, 100,000 credits per month" costs $4.99 per 1,000 emails. We rank 143 providers. We last tested them on 2026-11-21.
 
@@ -11,7 +11,7 @@ Every plan below is on our ranking page, [Email finder API: best providers in 20
 | 1 | [Emelia](https://datacircle.dev/find-email-apis/emelia/499-monthly) | $499 monthly, 100,000 credits per month | 76.4 | 87 | $4.99 per 1,000 emails | 2026-10-22 |
 | 2 | [Enrich.so](https://datacircle.dev/find-email-apis/enrich-so/499-monthly) | $499 monthly, Pro | 73.4 | 65 | $2.00 per 1,000 emails | 2026-10-21 |
 | 3 | [Sealch](https://datacircle.dev/find-email-apis/sealch/33-monthly) | $33 monthly | 72.7 | 67 | $3.30 per 1,000 emails | 2026-10-25 |
-| 4 | [Voila Norbert](https://datacircle.dev/find-email-apis/voila-norbert/499-monthly) | $499 monthly | 72.2 | 94 | $9.98 per 1,000 emails | 2026-10-21 |
+| 4 | [Voila Norbert](https://datacircle.dev/find-email-apis/voila-norbert/499-monthly) | $499 monthly | 72.3 | 94 | $9.98 per 1,000 emails | 2026-10-21 |
 | 5 | [Anymail Finder](https://datacircle.dev/find-email-apis/anymail-finder/499-monthly) | $499 monthly | 72.2 | 88 | $9.98 per 1,000 emails | 2026-10-19 |
 | 6 | [GetProspect](https://datacircle.dev/find-email-apis/getprospect/399-monthly-growth-50k-post-v2-email-find) | $399 monthly, Growth 50k | 72.2 | 61 | $7.98 per 1,000 emails | 2026-11-12 |
 | 7 | [WizLeads](https://datacircle.dev/find-email-apis/wizleads/449-quarterly-cartel-get-email-find-email) | $449 quarterly, Cartel | 72.1 | 71 | $4.49 per 1,000 emails | 2026-11-12 |
@@ -29,12 +29,12 @@ Every plan below is on our ranking page, [Email finder API: best providers in 20
 | 19 | [DiscoLike](https://datacircle.dev/find-email-apis/discolike/399-monthly-team-post-email-find) | $399 monthly, Team | 66.7 | 53 | $2.50 per 1,000 emails | 2026-11-12 |
 | 20 | [ApiOne](https://datacircle.dev/find-email-apis/apione/499-monthly) | $499 monthly | 65.9 | 55 | $4.99 per 1,000 emails | 2026-11-20 |
 | 21 | [Snov.io](https://datacircle.dev/find-email-apis/snov-io/369-monthly) | $369 monthly, Pro L | 65.2 | 60 | $7.38 per 1,000 emails | 2026-10-29 |
-| 22 | [Fiber AI](https://datacircle.dev/find-email-apis/fiber-ai/300-monthly-prospector-post-v1-contact-details-basic-work-email) | $300 monthly, Prospector | 64.7 | 82 | $20.00 per 1,000 emails | 2026-10-20 |
+| 22 | [Fiber AI](https://datacircle.dev/find-email-apis/fiber-ai/300-monthly-prospector-post-v1-contact-details-basic-work-email) | $300 monthly, Prospector | 64.6 | 82 | $20.00 per 1,000 emails | 2026-10-20 |
 | 23 | [LeadMagic](https://datacircle.dev/find-email-apis/leadmagic/499-monthly) | $499 monthly, Professional | 64 | 63 | $9.98 per 1,000 emails | 2026-11-12 |
 | 24 | [Generect](https://datacircle.dev/find-email-apis/generect/top-up-from-20-pay-as-you-go-post-api-v1-email-find) | top-up from $20, Pay as you go | 63.9 | 76 | $20.00 per 1,000 emails | 2026-10-21 |
 | 25 | [VeriMailX](https://datacircle.dev/find-email-apis/verimailx/79-pack-tier-1-post-api-public-v1-find-email) | $79 pack, Tier 1 | 63.9 | 61 | $2.16 per 1,000 emails | 2026-11-12 |
 | 26 | [Gamalogic](https://datacircle.dev/find-email-apis/gamalogic/400-monthly) | $400 monthly | 63 | 59 | $8.00 per 1,000 emails | 2026-10-23 |
-| 27 | [Instantly](https://datacircle.dev/find-email-apis/instantly/500-monthly) | $500 monthly | 62.1 | 89 |  | 2026-10-25 |
+| 27 | [Instantly](https://datacircle.dev/find-email-apis/instantly/500-monthly) | $500 monthly | 62 | 89 |  | 2026-10-25 |
 | 28 | [Findymail](https://datacircle.dev/find-email-apis/findymail/399-monthly) | $399 monthly | 61.1 | 53 | $13.30 per 1,000 emails | 2026-10-21 |
 | 29 | [OneShot](https://datacircle.dev/find-email-apis/oneshot/top-up-from-0-01-card-via-stripe-checkout) | top-up from $0.01, Card via Stripe Checkout | 59.9 | 73 | $5.00 per 1,000 emails | 2026-11-12 |
 | 30 | [ProspectAPIs](https://datacircle.dev/find-email-apis/prospectapis/top-up-from-500) | top-up from $500 | 57.9 | 53 | $12.50 per 1,000 emails | 2026-10-26 |
@@ -42,12 +42,12 @@ Every plan below is on our ranking page, [Email finder API: best providers in 20
 | 32 | [OrbiSearch](https://datacircle.dev/find-email-apis/orbisearch/207-pack-enterprise-post-v1-email-lookup) | $207 pack, Enterprise | 56.5 | 69 | $2.07 per 1,000 emails | 2026-11-12 |
 | 33 | [treg](https://datacircle.dev/find-email-apis/treg/top-up-from-10) | top-up from $10, Top-up of $10 to $49 | 56.2 | 63 | $5.82 per 1,000 emails | 2026-11-12 |
 | 34 | [Piloterr](https://datacircle.dev/find-email-apis/piloterr/49-monthly) | $49 monthly | 54.3 | 53 | $2.72 per 1,000 emails | 2026-11-12 |
-| 35 | [RelentlessIdentity](https://datacircle.dev/find-email-apis/relentlessidentity/99-monthly-post-client-attempt) | $99 monthly | 54.1 | 53 | $19.77 per 1,000 emails | 2026-11-12 |
+| 35 | [RelentlessIdentity](https://datacircle.dev/find-email-apis/relentlessidentity/99-monthly-post-client-attempt) | $99 monthly | 54 | 53 | $19.77 per 1,000 emails | 2026-11-12 |
 | 36 | [DeepAPI](https://datacircle.dev/find-email-apis/deepapi/top-up) | top-up | 53.1 | 66 | $73.50 per 1,000 emails | 2026-11-18 |
-| 37 | [RankSpot](https://datacircle.dev/find-email-apis/rankspot/top-up-from-10) | top-up from $10 | 52.9 | 75 | $65.00 per 1,000 emails | 2026-11-12 |
+| 37 | [RankSpot](https://datacircle.dev/find-email-apis/rankspot/top-up-from-10) | top-up from $10 | 52.8 | 75 | $65.00 per 1,000 emails | 2026-11-12 |
 | 38 | [BetterEnrich](https://datacircle.dev/find-email-apis/betterenrich/99-monthly) | $99 monthly, Starter | 52.6 | 61 | $30.94 per 1,000 emails | 2026-11-12 |
-| 39 | [Dropcontact](https://datacircle.dev/find-email-apis/dropcontact/120-monthly-growth-4000-credits-per-month-post-v1-enrich-all-linkedin-url-enrichment) | €120 monthly, Growth, 4,000 credits per month | 50.1 | 63 | $33.76 per 1,000 emails | 2026-10-25 |
-| 40 | [EnrichmentAPI](https://datacircle.dev/find-email-apis/enrichmentapi/99-monthly) | $99 monthly | 50.1 | 53 | $4.95 per 1,000 emails | 2026-11-18 |
+| 39 | [EnrichmentAPI](https://datacircle.dev/find-email-apis/enrichmentapi/99-monthly) | $99 monthly | 50.2 | 53 | $4.95 per 1,000 emails | 2026-11-18 |
+| 40 | [Dropcontact](https://datacircle.dev/find-email-apis/dropcontact/120-monthly-growth-4000-credits-per-month-post-v1-enrich-all-linkedin-url-enrichment) | €120 monthly, Growth, 4,000 credits per month | 50.1 | 63 | $33.76 per 1,000 emails | 2026-10-25 |
 | 41 | [Zooq](https://datacircle.dev/find-email-apis/zooq/299-pack-enterprise-get-api-v1-email-find) | $299 pack, Enterprise | 49.4 | 78 | $39.87 per 1,000 emails | 2026-10-22 |
 | 42 | [Bytemine](https://datacircle.dev/find-email-apis/bytemine/top-up-from-0-50) | top-up from $0.50 | 49.3 | 52 | $10.00 per 1,000 emails | 2026-11-12 |
 | 43 | [Manifold](https://datacircle.dev/find-email-apis/manifold/29-monthly) | $29 monthly | 49.2 | 82 | $135.33 per 1,000 emails | 2026-11-10 |
@@ -74,8 +74,8 @@ Every plan below is on our ranking page, [Email finder API: best providers in 20
 | 64 | [Loopster](https://datacircle.dev/find-email-apis/loopster/179-monthly-launch-post-v1-capabilities-loopster-data-find-work-email-runs) | $179 monthly, Launch | 63.9 | 36 | $0.60 per 1,000 emails | 2026-11-12 |
 | 65 | [Icypeas](https://datacircle.dev/find-email-apis/icypeas/499-monthly-hypergrowth-100000-credits-a-month-post-email-search) | $499 monthly, Hypergrowth, 100,000 credits a month | 61.5 | 42 | $4.99 per 1,000 emails | 2026-11-12 |
 | 66 | [Leadscart](https://datacircle.dev/find-email-apis/leadscart/199-monthly) | $199 monthly | 60.8 | 38 | $1.99 per 1,000 emails | 2026-11-12 |
-| 67 | [Prospeo](https://datacircle.dev/find-email-apis/prospeo/249-monthly-pro-post-enrich-person-enrich-person) | $249 monthly, Pro | 60.5 | 44 | $16.60 per 1,000 emails | 2026-11-20 |
-| 68 | [AI Ark](https://datacircle.dev/find-email-apis/ai-ark/119-monthly) | $119 monthly, Usage-Based Plan, 30,000 Credits / Month | 60.1 | 36 | $3.97 per 1,000 emails | 2026-11-21 |
+| 67 | [Prospeo](https://datacircle.dev/find-email-apis/prospeo/249-monthly-pro-post-enrich-person-enrich-person) | $249 monthly, Pro | 60.6 | 44 | $16.60 per 1,000 emails | 2026-11-20 |
+| 68 | [AI Ark](https://datacircle.dev/find-email-apis/ai-ark/119-monthly) | $119 monthly, Usage-Based Plan, 30,000 Credits / Month | 60.2 | 36 | $3.97 per 1,000 emails | 2026-11-21 |
 | 69 | [Enrich.chat](https://datacircle.dev/find-email-apis/enrich-chat/90-monthly-scale-get-email) | $90 monthly, Scale | 59.6 | 26 | $1.80 per 1,000 emails | 2026-11-12 |
 | 70 | [Enrow](https://datacircle.dev/find-email-apis/enrow/87-monthly) | $87 monthly, Pro | 59.2 | 44 | $8.70 per 1,000 emails | 2026-11-12 |
 | 71 | [FindLeadEmails](https://datacircle.dev/find-email-apis/findleademails/69-monthly-scale-post-api-v1-email-find) | $69 monthly, Scale | 58.6 | 34 | $4.60 per 1,000 emails | 2026-11-12 |
@@ -83,8 +83,8 @@ Every plan below is on our ranking page, [Email finder API: best providers in 20
 | 73 | [Village](https://datacircle.dev/find-email-apis/village/1-monthly-core-post-v2-people-enrich-emails) | $1 monthly, Core | 55.2 | 26 | $10.00 per 1,000 emails | 2026-11-12 |
 | 74 | [Explee](https://datacircle.dev/find-email-apis/explee/top-up-credits-pay-as-you-go-post-public-api-v1-enrich-email-find-email-by-name-basic) | top-up, Credits (pay as you go) | 54.2 | 36 | $15.00 per 1,000 emails | 2026-11-12 |
 | 75 | [Clearout](https://datacircle.dev/find-email-apis/clearout/360-monthly) | $360 monthly | 53.3 | 44 | $14.40 per 1,000 emails | 2026-11-12 |
-| 76 | [Kendo](https://datacircle.dev/find-email-apis/kendo/129-monthly-corporate-get-emailbyname) | $129 monthly, Corporate | 50.9 | 26 | $12.90 per 1,000 emails | 2026-11-12 |
-| 77 | [AnyAPI](https://datacircle.dev/find-email-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-email-find) | top-up from $10, Manual top-up | 47.3 | 40 | $30.80 per 1,000 emails | 2026-11-12 |
+| 76 | [Kendo](https://datacircle.dev/find-email-apis/kendo/129-monthly-corporate-get-emailbyname) | $129 monthly, Corporate | 51 | 26 | $12.90 per 1,000 emails | 2026-11-12 |
+| 77 | [AnyAPI](https://datacircle.dev/find-email-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-email-find) | top-up from $10, Manual top-up | 47.2 | 40 | $30.80 per 1,000 emails | 2026-11-12 |
 | 78 | [NeuralVerge](https://datacircle.dev/find-email-apis/neuralverge/50-monthly) | $50 monthly, Base | 46.2 | 45 | $10.00 per 1,000 emails | 2026-11-13 |
 | 79 | [Databar](https://datacircle.dev/find-email-apis/databar/495-monthly-scale-post-v1-enrichments-enrichment-id-run) | $495 monthly, Scale | 46.2 | 36 | $19.80 per 1,000 emails | 2026-11-12 |
 | 80 | [Layrcake](https://datacircle.dev/find-email-apis/layrcake/top-up-from-20) | top-up from $20 | 44.1 | 45 | $50.00 per 1,000 emails | 2026-11-12 |
@@ -94,13 +94,13 @@ Every plan below is on our ranking page, [Email finder API: best providers in 20
 | 84 | [SignalHire](https://datacircle.dev/find-email-apis/signalhire/79-monthly) | $79 monthly | 40.2 | 32 | $39.50 per 1,000 emails | 2026-11-21 |
 | 85 | [Suprsonic](https://datacircle.dev/find-email-apis/suprsonic/29-monthly) | $29 monthly | 39.7 | 42 | $29.00 per 1,000 emails | 2026-11-12 |
 | 86 | [HarvestAPI](https://datacircle.dev/find-email-apis/harvestapi/280-pack) | $280 pack | 39.7 | 33 | $11.60 per 1,000 emails | 2026-10-22 |
-| 87 | [Woodpecker](https://datacircle.dev/find-email-apis/woodpecker/10-monthly) | $10 monthly | 38.7 | 28 | $30.00 per 1,000 emails | 2026-10-27 |
+| 87 | [Woodpecker](https://datacircle.dev/find-email-apis/woodpecker/10-monthly) | $10 monthly | 38.6 | 28 | $30.00 per 1,000 emails | 2026-10-27 |
 | 88 | [EndBounce](https://datacircle.dev/find-email-apis/endbounce/449-pack) | $449 pack | 38.1 | 27 | $2.25 per 1,000 emails | 2026-11-16 |
 | 89 | [GetSales](https://datacircle.dev/find-email-apis/getsales/top-up-from-50) | top-up from $50 | 37.8 | 36 | $50.00 per 1,000 emails | 2026-11-21 |
 | 90 | [Hatch](https://datacircle.dev/find-email-apis/hatch/49-monthly) | $49 monthly | 37.8 | 34 | $13.60 per 1,000 emails | 2026-11-12 |
 | 91 | [Descovo](https://datacircle.dev/find-email-apis/descovo/249-monthly-pro-post-mcp-standard-reveal) | $249 monthly, Pro | 37.4 | 26 | $33.20 per 1,000 emails | 2026-11-18 |
 | 92 | [AeroLeads](https://datacircle.dev/find-email-apis/aeroleads/299-pack) | $299 pack, Cruise | 37.2 | 36 | $14.95 per 1,000 emails | 2026-10-21 |
-| 93 | [Sumble](https://datacircle.dev/find-email-apis/sumble/99-monthly) | $99 monthly | 36.1 | 40 | $110.00 per 1,000 emails | 2026-10-26 |
+| 93 | [Sumble](https://datacircle.dev/find-email-apis/sumble/99-monthly) | $99 monthly | 36 | 40 | $110.00 per 1,000 emails | 2026-10-26 |
 | 94 | [LoneScale](https://datacircle.dev/find-email-apis/lonescale/200-monthly-starter-post-trigger-enrich-sync) | $200 monthly, Starter | 35.9 | 29 | $100.00 per 1,000 emails | 2026-10-27 |
 | 95 | [Kairon](https://datacircle.dev/find-email-apis/kairon/49-monthly) | $49 monthly | 35.5 | 42 | $98.00 per 1,000 emails | 2026-11-15 |
 | 96 | [ZELIQ](https://datacircle.dev/find-email-apis/zeliq/369-monthly) | $369 monthly | 35 | 26 | $36.90 per 1,000 emails | 2026-11-16 |
@@ -109,7 +109,7 @@ Every plan below is on our ranking page, [Email finder API: best providers in 20
 | 99 | [The Hog](https://datacircle.dev/find-email-apis/the-hog/top-up) | top-up | 30.5 | 26 | $65.00 per 1,000 emails | 2026-11-20 |
 | 100 | [Hirebase](https://datacircle.dev/find-email-apis/hirebase/pay-as-you-go) | pay as you go | 30.3 | 26 | $50.00 per 1,000 emails | 2026-11-12 |
 | 101 | [PeopleDB](https://datacircle.dev/find-email-apis/peopledb/15-pack) | $15 pack | 29.3 | 29 | $150.00 per 1,000 emails | 2026-10-26 |
-| 102 | [DINQ](https://datacircle.dev/find-email-apis/dinq/49-monthly) | $49 monthly | 27.4 | 26 | $196.00 per 1,000 emails | 2026-11-12 |
+| 102 | [DINQ](https://datacircle.dev/find-email-apis/dinq/49-monthly) | $49 monthly | 27.3 | 26 | $196.00 per 1,000 emails | 2026-11-12 |
 | 103 | [GetLeads](https://datacircle.dev/find-email-apis/getleads/497-monthly-unlimited-post-api-v1-enrich-from-person) | $497 monthly, Unlimited | 64.8 | 17 | $0.083 per 1,000 emails | 2026-10-29 |
 | 104 | [LeadOcean](https://datacircle.dev/find-email-apis/leadocean/497-monthly-agency-get-v2-people-email-work) | $497 monthly, Agency | 62.7 | 10 | $0.017 per 1,000 emails | 2026-11-12 |
 | 105 | [QuickEnrich](https://datacircle.dev/find-email-apis/quickenrich/29-monthly) | $29 monthly | 62.1 | 17 | $4.83 per 1,000 emails | 2026-10-22 |
@@ -120,17 +120,17 @@ Every plan below is on our ranking page, [Email finder API: best providers in 20
 | 110 | [HeroBounce](https://datacircle.dev/find-email-apis/herobounce/200-monthly) | $200 monthly | 53.7 | 21 | $4.00 per 1,000 emails | 2026-11-12 |
 | 111 | [Signaliz](https://datacircle.dev/find-email-apis/signaliz/top-up) | top-up | 48.7 | 19 | $10.00 per 1,000 emails | 2026-11-12 |
 | 112 | [MillionPhones](https://datacircle.dev/find-email-apis/millionphones/300-monthly) | $300 monthly | 48.4 | 16 | $7.50 per 1,000 emails | 2026-11-13 |
-| 113 | [Mindcase](https://datacircle.dev/find-email-apis/mindcase/99-99-pack) | $99.99 pack | 45.1 | 21 | $18.18 per 1,000 emails | 2026-11-09 |
+| 113 | [Mindcase](https://datacircle.dev/find-email-apis/mindcase/99-99-pack) | $99.99 pack | 45 | 21 | $18.18 per 1,000 emails | 2026-11-09 |
 | 114 | [AskOptimus](https://datacircle.dev/find-email-apis/askoptimus/279-monthly) | $279 monthly | 44.5 | 16 | $11.16 per 1,000 emails | 2026-11-12 |
 | 115 | [MyEmailVerifier](https://datacircle.dev/find-email-apis/myemailverifier/299-monthly-monthly-subscription-1000000-emails-50000-bonus-post-leads-search-apikey) | $299 monthly, Monthly Subscription, 1,000,000 emails + 50,000 bonus | 44.3 | 10 | $4.27 per 1,000 emails | 2026-11-16 |
-| 116 | [HiProspect](https://datacircle.dev/find-email-apis/hiprospect/205-monthly) | £205 (about $273) monthly | 41.3 | 21 | $18.22 per 1,000 emails | 2026-10-31 |
+| 116 | [HiProspect](https://datacircle.dev/find-email-apis/hiprospect/205-monthly) | £205 (about $273) monthly | 41.2 | 21 | $18.22 per 1,000 emails | 2026-10-31 |
 | 117 | [Minelead](https://datacircle.dev/find-email-apis/minelead/299-monthly) | $299 monthly | 38.2 | 18 | $1.50 per 1,000 emails | 2026-11-20 |
-| 118 | [Enrich Layer](https://datacircle.dev/find-email-apis/enrich-layer/299-monthly) | $299 monthly | 36.4 | 22 | $35.88 per 1,000 emails | 2026-10-21 |
+| 118 | [Enrich Layer](https://datacircle.dev/find-email-apis/enrich-layer/299-monthly) | $299 monthly | 36.3 | 22 | $35.88 per 1,000 emails | 2026-10-21 |
 | 119 | [FindEmails.com](https://datacircle.dev/find-email-apis/findemails-com/99-monthly) | $99 monthly | 34.4 | 18 | $9.90 per 1,000 emails | 2026-11-18 |
-| 120 | [NinjaPear](https://datacircle.dev/find-email-apis/ninjapear/299-monthly) | $299 monthly | 34 | 14 | $23.92 per 1,000 emails | 2026-10-21 |
-| 121 | [EmailListChecker](https://datacircle.dev/find-email-apis/emaillistchecker/62-10-monthly) | $62.10 monthly | 30.8 | 16 |  | 2026-11-12 |
+| 120 | [NinjaPear](https://datacircle.dev/find-email-apis/ninjapear/299-monthly) | $299 monthly | 33.9 | 14 | $23.92 per 1,000 emails | 2026-10-21 |
+| 121 | [EmailListChecker](https://datacircle.dev/find-email-apis/emaillistchecker/188-monthly) | $188 monthly | 30.9 | 16 |  | 2026-11-12 |
 | 122 | [Minerva](https://datacircle.dev/find-email-apis/minerva/400-monthly-growth-10k-records-monthly-post-v2-get-li-contact-info) | $400 monthly, Growth 10k records | 30.3 | 18 | $480.19 per 1,000 emails | 2026-11-13 |
-| 123 | [OXYGEN](https://datacircle.dev/find-email-apis/oxygen/49-monthly) | $49 monthly | 30 | 21 | $85.00 per 1,000 emails | 2026-11-18 |
+| 123 | [OXYGEN](https://datacircle.dev/find-email-apis/oxygen/49-monthly) | $49 monthly | 29.9 | 21 | $85.00 per 1,000 emails | 2026-11-18 |
 | 124 | [EnvoAPI](https://datacircle.dev/find-email-apis/envoapi/499-monthly-scale-get-v1-emails-find) | $499 monthly, Scale | 28.9 | 11 | $19.96 per 1,000 emails | 2026-10-26 |
 | 125 | [Potarix](https://datacircle.dev/find-email-apis/potarix/10-pack-1000-credits-post-find-email-linkedin) | $10 pack, 1,000 credits | 26.6 | 10 | $100.00 per 1,000 emails | 2026-11-16 |
 | 126 | [Lusha](https://datacircle.dev/find-email-apis/lusha/49-90-monthly-starter-post-v3-contacts-search-and-enrich-search-and-enrich-contacts) | $49.90 monthly, Starter | 26.5 | 18 | $249.50 per 1,000 emails | 2026-11-21 |

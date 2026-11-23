@@ -1,6 +1,6 @@
 # Facebook post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 EveryInfra ranks first in our benchmark, with an Overall score of 73.1 out of 100. EveryInfra scores 75 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.056 per 1,000 posts. We rank 19 providers. We last tested them on 2026-11-14.
 

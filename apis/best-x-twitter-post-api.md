@@ -1,6 +1,6 @@
 # X (Twitter) post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 TwitterXAPI ranks first in our benchmark, with an Overall score of 68.1 out of 100. TwitterXAPI scores 65 out of 100 for accuracy. TwitterXAPI's plan "$19.99 monthly" costs $0.08 per 1,000 posts. We rank 53 providers. We last tested them on 2026-11-22.
 
@@ -8,7 +8,7 @@ Every plan below is on our ranking page, [X (Twitter) post API: best providers i
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [TwitterXAPI](https://datacircle.dev/x-post-apis/twitterxapi/19-99-monthly-monthly-get-v1-users-username-tweets) | $19.99 monthly | 68.1 | 65 | $0.08 per 1,000 posts | 2026-11-16 |
+| 1 | [TwitterXAPI](https://datacircle.dev/x-post-apis/twitterxapi/19-99-monthly-monthly-get-v1-users-username-tweets) | $19.99 monthly | 68.1 | 65 | $0.08 per 1,000 posts |  |
 | 2 | [EveryInfra](https://datacircle.dev/x-post-apis/everyinfra/10-pack) | $10 pack | 66.9 | 35 | $0.0028 per 1,000 posts | 2026-11-07 |
 | 3 | [Scrappa](https://datacircle.dev/x-post-apis/scrappa/25-pack) | $25 pack | 65.8 | 46 | $0.015 per 1,000 posts | 2026-10-29 |
 | 4 | [TwittrAPI](https://datacircle.dev/x-post-apis/twittrapi/top-up-from-20) | top-up from $20 | 61.4 | 66 | $0.005 per 1,000 posts | 2026-11-11 |

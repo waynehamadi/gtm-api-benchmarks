@@ -1,8 +1,8 @@
 # TikTok video details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
-ShortVidAPI ranks first in our benchmark, with an Overall score of 77.7 out of 100. ShortVidAPI scores 70 out of 100 for accuracy. ShortVidAPI's plan "$199 monthly" costs $0.40 per 1,000 videos. We rank 15 providers. We last tested them on 2026-11-16.
+ShortVidAPI ranks first in our benchmark, with an Overall score of 77.7 out of 100. ShortVidAPI scores 70 out of 100 for accuracy. ShortVidAPI's plan "$199 monthly" costs $0.40 per 1,000 videos. We rank 16 providers. We last tested them on 2026-11-23.
 
 Every plan below is on our ranking page, [TikTok video details API: best providers in 2026](https://datacircle.dev/best-tiktok-video-details-api).
 
@@ -15,14 +15,15 @@ Every plan below is on our ranking page, [TikTok video details API: best provide
 | 5 | [ScrapeCreators](https://datacircle.dev/tiktok-video-details-apis/scrapecreators/497-pack) | $497 pack | 60.6 | 90 | $0.99 per 1,000 videos | 2026-11-15 |
 | 6 | [ScraperCompany](https://datacircle.dev/tiktok-video-details-apis/scrapercompany/399-monthly) | $399 monthly | 60 | 51 | $1.60 per 1,000 videos | 2026-11-16 |
 | 7 | [Vee3](https://datacircle.dev/tiktok-video-details-apis/vee3/5-monthly) | $5 monthly | 56.8 | 60 | $0.50 per 1,000 videos | 2026-11-15 |
-| 8 | [Context.dev](https://datacircle.dev/tiktok-video-details-apis/context-dev/500-monthly-scale-post-v1-web-scrape) | $500 monthly, Scale | 54.4 | 54 | $0.50 per 1,000 videos | 2026-11-15 |
-| 9 | [API Direct](https://datacircle.dev/tiktok-video-details-apis/api-direct/pay-as-you-go) | pay as you go | 44.5 | 62 | $6.00 per 1,000 videos | 2026-11-15 |
-| 10 | [ImbueData](https://datacircle.dev/tiktok-video-details-apis/imbuedata/199-pack) | $199 pack | 42.3 | 56 |  | 2026-11-15 |
-| 11 | [AxioAPI](https://datacircle.dev/tiktok-video-details-apis/axioapi/5-monthly) | $5 monthly | 48.1 | 37 | $0.71 per 1,000 videos | 2026-11-15 |
-| 12 | [Social Fetch](https://datacircle.dev/tiktok-video-details-apis/social-fetch/29-monthly) | $29 monthly | 41.7 | 42 | $1.61 per 1,000 videos | 2026-11-15 |
-| 13 | [SocialiQ](https://datacircle.dev/tiktok-video-details-apis/socialiq/10-monthly) | $10 monthly | 34.3 | 33 | $5.00 per 1,000 videos | 2026-11-15 |
-| 14 | [FastSaver](https://datacircle.dev/tiktok-video-details-apis/fastsaver/9-monthly) | $9 monthly | 55.8 | 14 | $0.14 per 1,000 videos | 2026-11-15 |
-| 15 | [FrameFetch](https://datacircle.dev/tiktok-video-details-apis/framefetch/100-pack-credit-pack-100-post-v1-metadata) | $100 pack, Credit pack "100" | 39.1 | 16 | $1.79 per 1,000 videos | 2026-11-15 |
+| 8 | [TikWM API](https://datacircle.dev/tiktok-video-details-apis/tikwm-api/18-monthly) | $18 monthly | 55.8 | 57 | $0.03 per 1,000 videos | 2026-11-23 |
+| 9 | [Context.dev](https://datacircle.dev/tiktok-video-details-apis/context-dev/500-monthly-scale-post-v1-web-scrape) | $500 monthly, Scale | 54.4 | 54 | $0.50 per 1,000 videos | 2026-11-15 |
+| 10 | [API Direct](https://datacircle.dev/tiktok-video-details-apis/api-direct/pay-as-you-go) | pay as you go | 44.5 | 62 | $6.00 per 1,000 videos | 2026-11-15 |
+| 11 | [ImbueData](https://datacircle.dev/tiktok-video-details-apis/imbuedata/199-pack) | $199 pack | 42.3 | 56 |  | 2026-11-15 |
+| 12 | [AxioAPI](https://datacircle.dev/tiktok-video-details-apis/axioapi/5-monthly) | $5 monthly | 48.1 | 37 | $0.71 per 1,000 videos | 2026-11-15 |
+| 13 | [Social Fetch](https://datacircle.dev/tiktok-video-details-apis/social-fetch/29-monthly) | $29 monthly | 41.6 | 41 | $1.61 per 1,000 videos | 2026-11-15 |
+| 14 | [SocialiQ](https://datacircle.dev/tiktok-video-details-apis/socialiq/10-monthly) | $10 monthly | 34.3 | 33 | $5.00 per 1,000 videos | 2026-11-15 |
+| 15 | [FastSaver](https://datacircle.dev/tiktok-video-details-apis/fastsaver/9-monthly) | $9 monthly | 55.8 | 14 | $0.14 per 1,000 videos | 2026-11-15 |
+| 16 | [FrameFetch](https://datacircle.dev/tiktok-video-details-apis/framefetch/100-pack-credit-pack-100-post-v1-metadata) | $100 pack, Credit pack "100" | 39.1 | 16 | $1.79 per 1,000 videos | 2026-11-15 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

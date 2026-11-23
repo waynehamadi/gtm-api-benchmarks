@@ -1,6 +1,6 @@
 # IP company lookup API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 IPKit ranks first in our benchmark, with an Overall score of 94.1 out of 100. IPKit scores 96 out of 100 for accuracy. IPKit's plan "free" costs $0.00 per 1,000 IP addresses. We rank 90 providers. We last tested them on 2026-11-23.
 
@@ -46,21 +46,21 @@ Every plan below is on our ranking page, [IP company lookup API: best providers 
 | 36 | [ipdata.info](https://datacircle.dev/ip-company-lookup-apis/ipdata-info/79-monthly) | $79 monthly | 66.9 | 73 | $0.00053 per 1,000 IP addresses | 2026-11-11 |
 | 37 | [FernTool](https://datacircle.dev/ip-company-lookup-apis/ferntool/free) | free | 66.7 | 50 | $0.00 per 1,000 IP addresses | 2026-11-10 |
 | 38 | [Sugra API](https://datacircle.dev/ip-company-lookup-apis/sugra-api/59-monthly-pro-post-api-v1-network-bulk-ip) | $59 monthly, Pro | 65.7 | 98 | $0.039 per 1,000 IP addresses | 2026-11-15 |
-| 39 | [ProofTell](https://datacircle.dev/ip-company-lookup-apis/prooftell/pay-as-you-go-volume-above-1000000-checks-a-month-post-v1-ip) | pay as you go, Volume, above 1,000,000 checks a month | 64 | 50 | $0.10 per 1,000 IP addresses | 2026-11-22 |
-| 40 | [ipify](https://datacircle.dev/ip-company-lookup-apis/ipify/399-monthly-monthly-subscription-10000000-credits-per-month-get-api-v2-country) | $399 monthly, Monthly subscription: 10,000,000 Credits per month | 63.9 | 91 | $0.04 per 1,000 IP addresses | 2026-11-11 |
-| 41 | [Tanod](https://datacircle.dev/ip-company-lookup-apis/tanod/1-pack) | $1 pack | 60.7 | 85 | $1.00 per 1,000 IP addresses | 2026-11-15 |
-| 42 | [RDAPAPI](https://datacircle.dev/ip-company-lookup-apis/rdapapi/9-monthly) | $9 monthly | 60.7 | 76 | $0.30 per 1,000 IP addresses | 2026-11-17 |
-| 43 | [How.is](https://datacircle.dev/ip-company-lookup-apis/how-is/top-up-from-5) | top-up from $5 | 60.6 | 99 | $5.00 per 1,000 IP addresses | 2026-11-10 |
-| 44 | [Netlas](https://datacircle.dev/ip-company-lookup-apis/netlas/49-monthly) | $49 monthly | 60.1 | 95 | $1.63 per 1,000 IP addresses | 2026-11-05 |
-| 45 | [apiip](https://datacircle.dev/ip-company-lookup-apis/apiip/49-99-monthly-professional-get-api-check-standard-ip-lookup) | €49.99 monthly, Professional | 60.1 | 70 | $0.056 per 1,000 IP addresses | 2026-11-14 |
-| 46 | [IPinfo](https://datacircle.dev/ip-company-lookup-apis/ipinfo/31-monthly-ipinfo-core-get-lite-ip) | $31 monthly, IPinfo Core | 59.2 | 74 |  | 2026-11-08 |
-| 47 | [Veille](https://datacircle.dev/ip-company-lookup-apis/veille/99-monthly) | €99 monthly | 58.8 | 99 | $0.45 per 1,000 IP addresses | 2026-11-17 |
-| 48 | [HackerTarget](https://datacircle.dev/ip-company-lookup-apis/hackertarget/250-pack) | $250 pack | 58.8 | 98 | $2.50 per 1,000 IP addresses | 2026-11-05 |
-| 49 | [IPWho.org](https://datacircle.dev/ip-company-lookup-apis/ipwho-org/14-monthly-startup-get-ip-ip) | $14 monthly, Startup | 58.6 | 53 | $0.0019 per 1,000 IP addresses | 2026-11-08 |
-| 50 | [WhoisFreaks](https://datacircle.dev/ip-company-lookup-apis/whoisfreaks/10-monthly-monthly-subscription-5000-api-credits-get-v1-0-ip-whois) | $10 monthly, Monthly Subscription, 5,000 API Credits | 58.5 | 84 | $2.00 per 1,000 IP addresses | 2026-11-08 |
-| 51 | [C99.nl](https://datacircle.dev/ip-company-lookup-apis/c99-nl/5-monthly) | $5 monthly | 58.1 | 50 | $0.033 per 1,000 IP addresses | 2026-11-08 |
-| 52 | [FraudGuard](https://datacircle.dev/ip-company-lookup-apis/fraudguard/299-monthly-business-get-v2-ip-geolookup-ip) | $299 monthly, Business | 57.3 | 50 | $0.012 per 1,000 IP addresses | 2026-11-08 |
-| 53 | [Pipeworx](https://datacircle.dev/ip-company-lookup-apis/pipeworx/99-monthly-99-month-post-hackertarget-mcp) | $99 monthly | 54.8 | 75 | $1.00 per 1,000 IP addresses | 2026-11-23 |
+| 39 | [Pipeworx](https://datacircle.dev/ip-company-lookup-apis/pipeworx/99-monthly-99-month-post-hackertarget-mcp) | $99 monthly | 64.2 | 99 | $1.00 per 1,000 IP addresses | 2026-11-23 |
+| 40 | [ProofTell](https://datacircle.dev/ip-company-lookup-apis/prooftell/pay-as-you-go-volume-above-1000000-checks-a-month-post-v1-ip) | pay as you go, Volume, above 1,000,000 checks a month | 64 | 50 | $0.10 per 1,000 IP addresses | 2026-11-22 |
+| 41 | [ipify](https://datacircle.dev/ip-company-lookup-apis/ipify/399-monthly-monthly-subscription-10000000-credits-per-month-get-api-v2-country) | $399 monthly, Monthly subscription: 10,000,000 Credits per month | 63.9 | 91 | $0.04 per 1,000 IP addresses | 2026-11-11 |
+| 42 | [Tanod](https://datacircle.dev/ip-company-lookup-apis/tanod/1-pack) | $1 pack | 60.7 | 85 | $1.00 per 1,000 IP addresses | 2026-11-15 |
+| 43 | [RDAPAPI](https://datacircle.dev/ip-company-lookup-apis/rdapapi/9-monthly) | $9 monthly | 60.7 | 76 | $0.30 per 1,000 IP addresses | 2026-11-17 |
+| 44 | [How.is](https://datacircle.dev/ip-company-lookup-apis/how-is/top-up-from-5) | top-up from $5 | 60.6 | 99 | $5.00 per 1,000 IP addresses | 2026-11-10 |
+| 45 | [Netlas](https://datacircle.dev/ip-company-lookup-apis/netlas/49-monthly) | $49 monthly | 60.1 | 95 | $1.63 per 1,000 IP addresses | 2026-11-05 |
+| 46 | [apiip](https://datacircle.dev/ip-company-lookup-apis/apiip/49-99-monthly-professional-get-api-check-standard-ip-lookup) | €49.99 monthly, Professional | 60.1 | 70 | $0.056 per 1,000 IP addresses | 2026-11-14 |
+| 47 | [IPinfo](https://datacircle.dev/ip-company-lookup-apis/ipinfo/31-monthly-ipinfo-core-get-lite-ip) | $31 monthly, IPinfo Core | 59.2 | 74 |  | 2026-11-08 |
+| 48 | [Veille](https://datacircle.dev/ip-company-lookup-apis/veille/99-monthly) | €99 monthly | 58.8 | 99 | $0.45 per 1,000 IP addresses | 2026-11-17 |
+| 49 | [HackerTarget](https://datacircle.dev/ip-company-lookup-apis/hackertarget/250-pack) | $250 pack | 58.8 | 98 | $2.50 per 1,000 IP addresses | 2026-11-05 |
+| 50 | [IPWho.org](https://datacircle.dev/ip-company-lookup-apis/ipwho-org/14-monthly-startup-get-ip-ip) | $14 monthly, Startup | 58.6 | 53 | $0.0019 per 1,000 IP addresses | 2026-11-08 |
+| 51 | [WhoisFreaks](https://datacircle.dev/ip-company-lookup-apis/whoisfreaks/10-monthly-monthly-subscription-5000-api-credits-get-v1-0-ip-whois) | $10 monthly, Monthly Subscription, 5,000 API Credits | 58.5 | 84 | $2.00 per 1,000 IP addresses | 2026-11-08 |
+| 52 | [C99.nl](https://datacircle.dev/ip-company-lookup-apis/c99-nl/5-monthly) | $5 monthly | 58.1 | 50 | $0.033 per 1,000 IP addresses | 2026-11-08 |
+| 53 | [FraudGuard](https://datacircle.dev/ip-company-lookup-apis/fraudguard/299-monthly-business-get-v2-ip-geolookup-ip) | $299 monthly, Business | 57.3 | 50 | $0.012 per 1,000 IP addresses | 2026-11-08 |
 | 54 | [DataAndAPIs](https://datacircle.dev/ip-company-lookup-apis/dataandapis/99-99-monthly-ultra-get-v1-ip-address) | $99.99 monthly, Ultra | 54.4 | 64 | $0.10 per 1,000 IP addresses | 2026-11-11 |
 | 55 | [Network Data Labs](https://datacircle.dev/ip-company-lookup-apis/network-data-labs/79-monthly-scale-get-v0-ip-ip) | $79 monthly, Scale | 53.7 | 71 | $0.04 per 1,000 IP addresses | 2026-11-08 |
 | 56 | [fourzerotwo](https://datacircle.dev/ip-company-lookup-apis/fourzerotwo/5-pack-card-credit-5-get-v1-ip-geolocation-asn) | $5 pack, Card credit $5 | 53.4 | 71 | $0.50 per 1,000 IP addresses | 2026-11-11 |

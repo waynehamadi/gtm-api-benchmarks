@@ -1,6 +1,6 @@
 # TikTok comment API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 81.9 out of 100. Scrappa scores 74 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.0061 per 1,000 comments. We rank 12 providers. We last tested them on 2026-11-16.
 

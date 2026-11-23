@@ -1,6 +1,6 @@
 # Xiaohongshu user note API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 AnyAPI ranks first in our benchmark, with an Overall score of 49.7 out of 100. AnyAPI scores 66 out of 100 for accuracy. We rank 2 providers. We last tested them on 2026-10-31.
 

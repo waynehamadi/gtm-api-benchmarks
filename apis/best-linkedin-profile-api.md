@@ -1,6 +1,6 @@
 # LinkedIn profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 Reverse Contact ranks first in our benchmark, with an Overall score of 77.2 out of 100. Reverse Contact scores 64 out of 100 for accuracy. Reverse Contact's plan "$449 monthly" costs $0.15 per 1,000 profiles. We rank 122 providers. We last tested them on 2026-11-21.
 
@@ -13,14 +13,14 @@ Every plan below is on our ranking page, [LinkedIn profile API: best providers i
 | 3 | [EveryInfra](https://datacircle.dev/linkedin-profile-apis/everyinfra/10-pack) | $10 pack | 76.2 | 67 | $0.78 per 1,000 profiles | 2026-11-06 |
 | 4 | [Fetchin](https://datacircle.dev/linkedin-profile-apis/fetchin/50-monthly-subscription-50k-get-api-v1-profile-get-profile-full) | $50 monthly, Subscription 50K | 71.6 | 90 | $2.00 per 1,000 profiles | 2026-10-27 |
 | 5 | [Mindcase](https://datacircle.dev/linkedin-profile-apis/mindcase/19-99-pack) | $19.99 pack | 70.8 | 76 | $4.00 per 1,000 profiles | 2026-11-07 |
-| 6 | [API for Agents](https://datacircle.dev/linkedin-profile-apis/api-for-agents/top-up-from-5) | top-up from $5 | 66.5 | 63 | $4.00 per 1,000 profiles | 2026-11-21 |
-| 7 | [Bridgly](https://datacircle.dev/linkedin-profile-apis/bridgly/top-up-from-5) | top-up from $5 | 66.5 | 57 | $4.00 per 1,000 profiles | 2026-10-26 |
+| 6 | [Bridgly](https://datacircle.dev/linkedin-profile-apis/bridgly/top-up-from-5) | top-up from $5 | 66.6 | 57 | $4.00 per 1,000 profiles | 2026-10-26 |
+| 7 | [API for Agents](https://datacircle.dev/linkedin-profile-apis/api-for-agents/top-up-from-5) | top-up from $5 | 66.5 | 63 | $4.00 per 1,000 profiles | 2026-11-21 |
 | 8 | [Orange Slice](https://datacircle.dev/linkedin-profile-apis/orange-slice/top-up) | top-up | 66.1 | 47 | $2.50 per 1,000 profiles | 2026-11-21 |
 | 9 | [AI Ark](https://datacircle.dev/linkedin-profile-apis/ai-ark/399-monthly-usage-based-plan-120000-credits-month-post-v1-people-export-single) | $399 monthly, Usage-Based Plan, 120,000 Credits / Month | 61.2 | 53 | $3.33 per 1,000 profiles | 2026-10-20 |
 | 10 | [HarvestAPI](https://datacircle.dev/linkedin-profile-apis/harvestapi/280-pack) | $280 pack | 60.8 | 86 | $3.70 per 1,000 profiles | 2026-10-27 |
 | 11 | [SocialListeningAPI](https://datacircle.dev/linkedin-profile-apis/sociallisteningapi/100-pack) | $100 pack | 59.5 | 86 | $5.00 per 1,000 profiles | 2026-10-27 |
-| 12 | [Superagnt](https://datacircle.dev/linkedin-profile-apis/superagnt/29-monthly-data-credits-small-get-v1-data-linkedin) | $29 monthly, Data Credits Small | 59 | 60 | $8.10 per 1,000 profiles | 2026-11-06 |
-| 13 | [The Swarm](https://datacircle.dev/linkedin-profile-apis/the-swarm/500-monthly-premium-1000-post-v3-profiles-fetch) | $500 monthly, Premium 1000 | 58.6 | 49 | $10.00 per 1,000 profiles | 2026-10-21 |
+| 12 | [Superagnt](https://datacircle.dev/linkedin-profile-apis/superagnt/29-monthly-data-credits-small-get-v1-data-linkedin) | $29 monthly, Data Credits Small | 59.1 | 60 | $8.10 per 1,000 profiles | 2026-11-06 |
+| 13 | [The Swarm](https://datacircle.dev/linkedin-profile-apis/the-swarm/500-monthly-premium-1000-post-v3-profiles-fetch) | $500 monthly, Premium 1000 | 58.7 | 49 | $10.00 per 1,000 profiles | 2026-10-21 |
 | 14 | [AnyAPI](https://datacircle.dev/linkedin-profile-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-linkedin-profile) | top-up from $10, Manual top-up | 57.9 | 68 | $2.90 per 1,000 profiles | 2026-10-28 |
 | 15 | [Datamagnet](https://datacircle.dev/linkedin-profile-apis/datamagnet/199-monthly-scale) | $199 monthly, Scale | 57.3 | 87 | $7.96 per 1,000 profiles | 2026-10-27 |
 | 16 | [Renidly](https://datacircle.dev/linkedin-profile-apis/renidly/290-pack) | $290 pack | 57 | 74 | $2.90 per 1,000 profiles | 2026-10-19 |
@@ -51,18 +51,18 @@ Every plan below is on our ranking page, [LinkedIn profile API: best providers i
 | 41 | [Tapline](https://datacircle.dev/linkedin-profile-apis/tapline/199-monthly) | $199 monthly | 60 | 23 | $0.40 per 1,000 profiles | 2026-11-12 |
 | 42 | [WebAutomation](https://datacircle.dev/linkedin-profile-apis/webautomation/99-monthly) | $99 monthly | 59.9 | 24 | $0.25 per 1,000 profiles | 2026-11-16 |
 | 43 | [B2BProfile API](https://datacircle.dev/linkedin-profile-apis/b2bprofile-api/19-monthly-starter-get-v1-profile-enrich-person-profile-work-history-api-for-linkedin) | $19 monthly, Starter | 58.5 | 23 | $0.76 per 1,000 profiles | 2026-11-12 |
-| 44 | [BeReach](https://datacircle.dev/linkedin-profile-apis/bereach/10-pack) | €10 pack | 53.4 | 43 | $7.31 per 1,000 profiles | 2026-11-07 |
-| 45 | [BedrockTap](https://datacircle.dev/linkedin-profile-apis/bedrocktap/29-monthly) | $29 monthly | 53.4 | 34 | $5.00 per 1,000 profiles | 2026-11-08 |
-| 46 | [Icypeas](https://datacircle.dev/linkedin-profile-apis/icypeas/499-monthly) | $499 monthly | 52.2 | 37 | $7.49 per 1,000 profiles | 2026-10-27 |
+| 44 | [BedrockTap](https://datacircle.dev/linkedin-profile-apis/bedrocktap/29-monthly) | $29 monthly | 53.5 | 34 | $5.00 per 1,000 profiles | 2026-11-08 |
+| 45 | [BeReach](https://datacircle.dev/linkedin-profile-apis/bereach/10-pack) | €10 pack | 53.4 | 43 | $7.31 per 1,000 profiles | 2026-11-07 |
+| 46 | [Icypeas](https://datacircle.dev/linkedin-profile-apis/icypeas/499-monthly) | $499 monthly | 52.3 | 37 | $7.49 per 1,000 profiles | 2026-10-27 |
 | 47 | [Scrupp](https://datacircle.dev/linkedin-profile-apis/scrupp/499-monthly-100000-credits-month-post-linkedin-profile) | $499 monthly, 100,000 credits / month | 52.1 | 41 | $4.99 per 1,000 profiles | 2026-11-21 |
 | 48 | [ScrapingBot](https://datacircle.dev/linkedin-profile-apis/scrapingbot/171-monthly) | €171 monthly | 50 | 23 | $3.85 per 1,000 profiles | 2026-10-21 |
 | 49 | [RouterGrowth](https://datacircle.dev/linkedin-profile-apis/routergrowth/499-monthly-scale-post-v1-run-person-enrichment) | $499 monthly, Scale | 47.2 | 28 | $5.20 per 1,000 profiles | 2026-10-26 |
 | 50 | [graph8](https://datacircle.dev/linkedin-profile-apis/graph8/499-monthly) | $499 monthly | 46.8 | 30 |  | 2026-10-25 |
 | 51 | [SocQ](https://datacircle.dev/linkedin-profile-apis/socq/top-up-from-5) | top-up from $5 | 45.9 | 35 | $12.50 per 1,000 profiles | 2026-10-27 |
 | 52 | [SocialCrawl](https://datacircle.dev/linkedin-profile-apis/socialcrawl/299-pack) | £299 (about $399) pack, Pro | 45.6 | 37 | $13.29 per 1,000 profiles | 2026-10-21 |
-| 53 | [Context.dev](https://datacircle.dev/linkedin-profile-apis/context-dev/500-monthly) | $500 monthly | 44.9 | 34 | $10.00 per 1,000 profiles | 2026-10-27 |
-| 54 | [Anysite](https://datacircle.dev/linkedin-profile-apis/anysite/300-monthly) | $300 monthly, Scale | 43.9 | 35 | $1.58 per 1,000 profiles | 2026-10-25 |
-| 55 | [Bowmark](https://datacircle.dev/linkedin-profile-apis/bowmark/pay-as-you-go) | pay as you go | 43.9 | 24 |  | 2026-11-21 |
+| 53 | [Context.dev](https://datacircle.dev/linkedin-profile-apis/context-dev/500-monthly) | $500 monthly | 45 | 34 | $10.00 per 1,000 profiles | 2026-10-27 |
+| 54 | [Bowmark](https://datacircle.dev/linkedin-profile-apis/bowmark/pay-as-you-go) | pay as you go | 44 | 24 |  | 2026-11-21 |
+| 55 | [Anysite](https://datacircle.dev/linkedin-profile-apis/anysite/300-monthly) | $300 monthly, Scale | 43.9 | 35 | $1.58 per 1,000 profiles | 2026-10-25 |
 | 56 | [Bytemine](https://datacircle.dev/linkedin-profile-apis/bytemine/top-up-from-0-50) | top-up from $0.50 | 43.5 | 23 | $10.00 per 1,000 profiles | 2026-10-28 |
 | 57 | [Wellbyte](https://datacircle.dev/linkedin-profile-apis/wellbyte/top-up-pay-as-you-go-get-v1-linkedin-web-v2-get-user-profile) | top-up, Pay as you go | 43.2 | 25 | $11.00 per 1,000 profiles | 2026-11-21 |
 | 58 | [Scavio](https://datacircle.dev/linkedin-profile-apis/scavio/500-monthly-growth-monthly-post-api-v1-linkedin-person) | $500 monthly, Growth | 42.5 | 30 | $1.00 per 1,000 profiles | 2026-10-29 |
@@ -76,20 +76,20 @@ Every plan below is on our ranking page, [LinkedIn profile API: best providers i
 | 66 | [PeopleSearch.im](https://datacircle.dev/linkedin-profile-apis/peoplesearch-im/50-pack) | $50 pack | 34.9 | 33 | $55.56 per 1,000 profiles | 2026-11-03 |
 | 67 | [SignalHire](https://datacircle.dev/linkedin-profile-apis/signalhire/79-monthly) | $79 monthly | 34.1 | 31 | $39.50 per 1,000 profiles | 2026-10-24 |
 | 68 | [Oneprofile](https://datacircle.dev/linkedin-profile-apis/oneprofile/20-monthly) | $20 monthly | 33.6 | 44 | $392.00 per 1,000 profiles | 2026-11-21 |
-| 69 | [Crawlbase](https://datacircle.dev/linkedin-profile-apis/crawlbase/pay-as-you-go-next-100k-requests-a-month) | pay as you go, next 100K requests a month | 33.6 | 26 | $12.00 per 1,000 profiles | 2026-11-14 |
+| 69 | [Crawlbase](https://datacircle.dev/linkedin-profile-apis/crawlbase/pay-as-you-go-next-1m-requests-a-month) | pay as you go, next 1M requests a month | 33.6 | 26 | $10.00 per 1,000 profiles | 2026-11-14 |
 | 70 | [Captain Data](https://datacircle.dev/linkedin-profile-apis/captain-data/247-monthly) | $247 monthly, Bronze, 5,000 credits / month | 31.8 | 38 | $49.48 per 1,000 profiles | 2026-10-20 |
 | 71 | [Suprsonic](https://datacircle.dev/linkedin-profile-apis/suprsonic/29-monthly) | $29 monthly | 29.9 | 28 | $43.50 per 1,000 profiles | 2026-11-10 |
 | 72 | [ChocoData](https://datacircle.dev/linkedin-profile-apis/chocodata/19-monthly) | $19 monthly, Vibe | 59 | 18 | $0.70 per 1,000 profiles | 2026-10-26 |
-| 73 | [CoreClaw](https://datacircle.dev/linkedin-profile-apis/coreclaw/top-up-from-5) | top-up from $5 | 58.5 | 20 | $0.90 per 1,000 profiles | 2026-11-06 |
+| 73 | [CoreClaw](https://datacircle.dev/linkedin-profile-apis/coreclaw/top-up-from-5) | top-up from $5 | 58.6 | 20 | $0.90 per 1,000 profiles | 2026-11-06 |
 | 74 | [LinkedIn Scraper API](https://datacircle.dev/linkedin-profile-apis/linkedin-scraper-api/top-up) | top-up | 57.3 | 16 | $0.90 per 1,000 profiles | 2026-10-26 |
 | 75 | [ScrapeBadger](https://datacircle.dev/linkedin-profile-apis/scrapebadger/49-monthly) | $49 monthly | 56.9 | 20 | $0.98 per 1,000 profiles | 2026-10-20 |
 | 76 | [Village](https://datacircle.dev/linkedin-profile-apis/village/1-monthly-core-post-v2-people-enrich-enrich-person-cached-only) | $1 monthly, Core | 56.7 | 20 |  | 2026-10-29 |
 | 77 | [TrueScrape](https://datacircle.dev/linkedin-profile-apis/truescrape/100-pack) | $100 pack | 56 | 16 | $1.00 per 1,000 profiles | 2026-11-06 |
-| 78 | [ScrapeAtlas](https://datacircle.dev/linkedin-profile-apis/scrapeatlas/249-pack) | $249 pack | 54.2 | 16 | $1.25 per 1,000 profiles | 2026-11-02 |
+| 78 | [ScrapeAtlas](https://datacircle.dev/linkedin-profile-apis/scrapeatlas/249-pack) | $249 pack | 54.3 | 16 | $1.25 per 1,000 profiles | 2026-11-02 |
 | 79 | [CrustAPI](https://datacircle.dev/linkedin-profile-apis/crustapi/top-up-from-10-10-deposit-get-v1-linkedin-people-refresh) | top-up from $10, $10+ deposit | 53.5 | 17 | $1.96 per 1,000 profiles | 2026-11-07 |
 | 80 | [QuickEnrich](https://datacircle.dev/linkedin-profile-apis/quickenrich/99-monthly) | $99 monthly | 53.1 | 9 | $3.96 per 1,000 profiles | 2026-10-23 |
 | 81 | [Scraper Api](https://datacircle.dev/linkedin-profile-apis/scraper-api/49-pack) | $49 pack | 52.4 | 14 | $1.96 per 1,000 profiles | 2026-11-07 |
-| 82 | [SociaVault](https://datacircle.dev/linkedin-profile-apis/sociavault/399-pack) | $399 pack | 51 | 15 | $2.00 per 1,000 profiles | 2026-10-22 |
+| 82 | [SociaVault](https://datacircle.dev/linkedin-profile-apis/sociavault/399-pack) | $399 pack | 51.1 | 15 | $2.00 per 1,000 profiles | 2026-10-22 |
 | 83 | [Spidra](https://datacircle.dev/linkedin-profile-apis/spidra/249-monthly) | $249 monthly | 50 | 16 | $1.99 per 1,000 profiles | 2026-11-01 |
 | 84 | [SignalQub](https://datacircle.dev/linkedin-profile-apis/signalqub/448-pack) | $448 pack | 49.8 | 15 | $2.56 per 1,000 profiles | 2026-10-27 |
 | 85 | [Scrape.ly](https://datacircle.dev/linkedin-profile-apis/scrape-ly/19-monthly) | $19 monthly | 49.8 | 14 | $3.40 per 1,000 profiles | 2026-11-07 |
@@ -122,10 +122,10 @@ Every plan below is on our ranking page, [LinkedIn profile API: best providers i
 | 112 | [MillionPhones](https://datacircle.dev/linkedin-profile-apis/millionphones/300-monthly-pro-40000-credits-mo-get-person-person-enrichment) | $300 monthly, Pro 40,000 credits/mo | 51.4 | 8 | $0.75 per 1,000 profiles | 2026-10-27 |
 | 113 | [SocialKit](https://datacircle.dev/linkedin-profile-apis/socialkit/210-monthly) | $210 monthly | 51.2 | 8 | $1.40 per 1,000 profiles | 2026-10-29 |
 | 114 | [Exellius Systems Inc](https://datacircle.dev/linkedin-profile-apis/exellius-systems-inc/199-monthly-professional) | $199 monthly, Professional | 45.6 | 8 | $7.96 per 1,000 profiles | 2026-10-25 |
-| 115 | [CrawlFeed](https://datacircle.dev/linkedin-profile-apis/crawlfeed/349-pack) | $349 pack | 41.8 | 7 | $4.65 per 1,000 profiles | 2026-11-21 |
-| 116 | [ScrapingDaddy](https://datacircle.dev/linkedin-profile-apis/scrapingdaddy/49-monthly) | $49 monthly | 35.1 | 5 | $0.98 per 1,000 profiles | 2026-11-21 |
-| 117 | [Tomba](https://datacircle.dev/linkedin-profile-apis/tomba/449-monthly) | $449 monthly | 34.5 | 4 | $8.98 per 1,000 profiles | 2026-10-26 |
-| 118 | [Enrow](https://datacircle.dev/linkedin-profile-apis/enrow/87-monthly) | $87 monthly | 33.9 | 5 | $8.70 per 1,000 profiles | 2026-10-29 |
+| 115 | [CrawlFeed](https://datacircle.dev/linkedin-profile-apis/crawlfeed/349-pack) | $349 pack | 41.9 | 7 | $4.65 per 1,000 profiles | 2026-11-21 |
+| 116 | [ScrapingDaddy](https://datacircle.dev/linkedin-profile-apis/scrapingdaddy/49-monthly) | $49 monthly | 35.2 | 5 | $0.98 per 1,000 profiles | 2026-11-21 |
+| 117 | [Tomba](https://datacircle.dev/linkedin-profile-apis/tomba/449-monthly) | $449 monthly | 34.6 | 4 | $8.98 per 1,000 profiles | 2026-10-26 |
+| 118 | [Enrow](https://datacircle.dev/linkedin-profile-apis/enrow/87-monthly) | $87 monthly | 34 | 5 | $8.70 per 1,000 profiles | 2026-10-29 |
 | 119 | [Clearout](https://datacircle.dev/linkedin-profile-apis/clearout/360-monthly) | $360 monthly | 30.8 | 3 | $14.40 per 1,000 profiles | 2026-10-20 |
 | 120 | [OneShot](https://datacircle.dev/linkedin-profile-apis/oneshot/top-up-from-0-01-card-via-stripe-checkout) | top-up from $0.01, Card via Stripe Checkout | 30.5 | 4 | $5.00 per 1,000 profiles | 2026-10-24 |
 | 121 | [ScraperCompany](https://datacircle.dev/linkedin-profile-apis/scrapercompany/399-monthly) | $399 monthly | 29.3 | 8 | $15.96 per 1,000 profiles | 2026-11-19 |

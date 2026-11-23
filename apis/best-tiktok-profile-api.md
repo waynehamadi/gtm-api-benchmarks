@@ -1,6 +1,6 @@
 # TikTok profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 Tapline ranks first in our benchmark, with an Overall score of 85.3 out of 100. Tapline scores 91 out of 100 for accuracy. Tapline's plan "$199 monthly" costs $0.20 per 1,000 profiles. We rank 53 providers. We last tested them on 2026-11-22.
 
@@ -11,15 +11,15 @@ Every plan below is on our ranking page, [TikTok profile API: best providers in 
 | 1 | [Tapline](https://datacircle.dev/tiktok-profile-apis/tapline/199-monthly) | $199 monthly | 85.3 | 91 | $0.20 per 1,000 profiles | 2026-11-16 |
 | 2 | [Litescrape](https://datacircle.dev/tiktok-profile-apis/litescrape/top-up-from-10) | top-up from $10 | 80.9 | 78 | $0.15 per 1,000 profiles | 2026-10-29 |
 | 3 | [ShortVidAPI](https://datacircle.dev/tiktok-profile-apis/shortvidapi/199-monthly) | $199 monthly | 80.2 | 91 | $0.40 per 1,000 profiles | 2026-11-04 |
-| 4 | [TrueScrape](https://datacircle.dev/tiktok-profile-apis/truescrape/500-pack) | $500 pack | 80.1 | 91 | $0.80 per 1,000 profiles | 2026-11-06 |
+| 4 | [TrueScrape](https://datacircle.dev/tiktok-profile-apis/truescrape/500-pack) | $500 pack | 80.2 | 91 | $0.80 per 1,000 profiles | 2026-11-06 |
 | 5 | [Upscrape](https://datacircle.dev/tiktok-profile-apis/upscrape/499-pack) | $499 pack | 76.8 | 91 | $0.94 per 1,000 profiles | 2026-11-05 |
-| 6 | [ScrapeAtlas](https://datacircle.dev/tiktok-profile-apis/scrapeatlas/249-pack) | $249 pack | 75.4 | 91 | $1.25 per 1,000 profiles | 2026-11-05 |
+| 6 | [ScrapeAtlas](https://datacircle.dev/tiktok-profile-apis/scrapeatlas/249-pack) | $249 pack | 75.5 | 91 | $1.25 per 1,000 profiles | 2026-11-05 |
 | 7 | [KonbiniAPI](https://datacircle.dev/tiktok-profile-apis/konbiniapi/499-monthly) | $499 monthly | 74 | 75 | $1.11 per 1,000 profiles | 2026-11-05 |
 | 8 | [Scrappa](https://datacircle.dev/tiktok-profile-apis/scrappa/10-pack) | $10 pack | 73.3 | 54 | $0.30 per 1,000 profiles | 2026-10-29 |
 | 9 | [lobstr.io](https://datacircle.dev/tiktok-profile-apis/lobstr-io/500-monthly) | $500 monthly | 73.1 | 75 | $0.50 per 1,000 profiles | 2026-10-29 |
 | 10 | [Crawlora](https://datacircle.dev/tiktok-profile-apis/crawlora/499-monthly) | $499 monthly | 71.1 | 76 | $0.80 per 1,000 profiles | 2026-11-08 |
-| 11 | [Stophy](https://datacircle.dev/tiktok-profile-apis/stophy/top-up-from-500) | top-up from $500 | 69.7 | 72 | $1.20 per 1,000 profiles | 2026-11-08 |
-| 12 | [Socify](https://datacircle.dev/tiktok-profile-apis/socify/top-up) | top-up | 67.9 | 79 | $1.50 per 1,000 profiles | 2026-11-11 |
+| 11 | [Stophy](https://datacircle.dev/tiktok-profile-apis/stophy/top-up-from-500) | top-up from $500 | 69.8 | 72 | $1.20 per 1,000 profiles | 2026-11-08 |
+| 12 | [Socify](https://datacircle.dev/tiktok-profile-apis/socify/top-up) | top-up | 68 | 79 | $1.50 per 1,000 profiles | 2026-11-11 |
 | 13 | [EveryInfra](https://datacircle.dev/tiktok-profile-apis/everyinfra/10-pack) | $10 pack | 66.6 | 51 | $0.56 per 1,000 profiles | 2026-11-22 |
 | 14 | [API.SH](https://datacircle.dev/tiktok-profile-apis/api-sh/50-monthly) | $50 monthly | 66.3 | 91 | $1.00 per 1,000 profiles | 2026-11-06 |
 | 15 | [ScrapeCreators](https://datacircle.dev/tiktok-profile-apis/scrapecreators/497-pack) | $497 pack | 66.1 | 91 | $0.99 per 1,000 profiles | 2026-10-29 |
@@ -28,13 +28,13 @@ Every plan below is on our ranking page, [TikTok profile API: best providers in 
 | 18 | [Refetcher](https://datacircle.dev/tiktok-profile-apis/refetcher/top-up) | top-up | 63.1 | 48 | $0.90 per 1,000 profiles | 2026-11-03 |
 | 19 | [Social Fetch](https://datacircle.dev/tiktok-profile-apis/social-fetch/29-monthly) | $29 monthly | 61.9 | 87 | $1.61 per 1,000 profiles | 2026-11-08 |
 | 20 | [Zapi](https://datacircle.dev/tiktok-profile-apis/zapi/rp129000-monthly) | Rp129,000 (about $7) monthly | 61 | 63 | $0.036 per 1,000 profiles | 2026-11-06 |
-| 21 | [SociaVault](https://datacircle.dev/tiktok-profile-apis/sociavault/399-pack) | $399 pack | 60 | 91 | $2.00 per 1,000 profiles | 2026-10-29 |
+| 21 | [SociaVault](https://datacircle.dev/tiktok-profile-apis/sociavault/399-pack) | $399 pack | 60.1 | 91 | $2.00 per 1,000 profiles | 2026-10-29 |
 | 22 | [Omkar Cloud](https://datacircle.dev/tiktok-profile-apis/omkar-cloud/48-monthly) | $48 monthly | 60 | 64 | $0.48 per 1,000 profiles | 2026-11-05 |
-| 23 | [CoreClaw](https://datacircle.dev/tiktok-profile-apis/coreclaw/199-monthly) | $199 monthly | 59.3 | 79 | $2.70 per 1,000 profiles | 2026-11-05 |
+| 23 | [CoreClaw](https://datacircle.dev/tiktok-profile-apis/coreclaw/199-monthly) | $199 monthly | 59.4 | 79 | $2.70 per 1,000 profiles | 2026-11-05 |
 | 24 | [Context.dev](https://datacircle.dev/tiktok-profile-apis/context-dev/500-monthly) | $500 monthly | 57.3 | 72 | $0.50 per 1,000 profiles | 2026-10-30 |
-| 25 | [EnsembleData](https://datacircle.dev/tiktok-profile-apis/ensembledata/200-monthly-bronze-get-tt-user-info) | $200 monthly, Bronze | 57 | 74 | $1.33 per 1,000 profiles | 2026-10-30 |
+| 25 | [EnsembleData](https://datacircle.dev/tiktok-profile-apis/ensembledata/200-monthly-bronze-get-tt-user-info) | $200 monthly, Bronze | 57.1 | 74 | $1.33 per 1,000 profiles | 2026-10-30 |
 | 26 | [Novada](https://datacircle.dev/tiktok-profile-apis/novada/135-monthly) | $135 monthly | 56.2 | 79 | $1.20 per 1,000 profiles | 2026-10-30 |
-| 27 | [Influship](https://datacircle.dev/tiktok-profile-apis/influship/pay-as-you-go-usage-based-credits) | pay as you go, Usage-based credits | 55.3 | 46 | $1.80 per 1,000 profiles | 2026-11-11 |
+| 27 | [Influship](https://datacircle.dev/tiktok-profile-apis/influship/pay-as-you-go-usage-based-credits) | pay as you go, Usage-based credits | 55.4 | 46 | $1.80 per 1,000 profiles | 2026-11-11 |
 | 28 | [AnyAPI](https://datacircle.dev/tiktok-profile-apis/anyapi/top-up-from-10) | top-up from $10 | 55.2 | 50 | $0.40 per 1,000 profiles | 2026-10-29 |
 | 29 | [Vee3](https://datacircle.dev/tiktok-profile-apis/vee3/100-monthly) | $100 monthly | 53.7 | 54 | $0.50 per 1,000 profiles | 2026-11-11 |
 | 30 | [Scrapeless](https://datacircle.dev/tiktok-profile-apis/scrapeless/top-up) | top-up | 53.2 | 67 |  | 2026-10-29 |
@@ -46,16 +46,16 @@ Every plan below is on our ranking page, [TikTok profile API: best providers in 
 | 36 | [socially](https://datacircle.dev/tiktok-profile-apis/socially/149-monthly-scale-post-v1-profiles-lookup) | $149 monthly, Scale | 42.7 | 55 | $2.98 per 1,000 profiles | 2026-11-11 |
 | 37 | [Xpoz](https://datacircle.dev/tiktok-profile-apis/xpoz/20-monthly) | $20 monthly | 37.9 | 47 | $13.33 per 1,000 profiles | 2026-11-05 |
 | 38 | [OneAPI](https://datacircle.dev/tiktok-profile-apis/oneapi/top-up-pay-as-you-go-post-api-tiktok-fetch-user-data-v2) | top-up, Pay as you go | 26.9 | 47 |  | 2026-11-06 |
-| 39 | [ScrapeIO](https://datacircle.dev/tiktok-profile-apis/scrapeio/497-pack) | $497 pack | 60.5 | 40 | $0.99 per 1,000 profiles | 2026-11-11 |
+| 39 | [ScrapeIO](https://datacircle.dev/tiktok-profile-apis/scrapeio/497-pack) | $497 pack | 60.6 | 40 | $0.99 per 1,000 profiles | 2026-11-11 |
 | 40 | [Qovia](https://datacircle.dev/tiktok-profile-apis/qovia/top-up) | top-up | 60.4 | 43 | $1.00 per 1,000 profiles | 2026-11-03 |
-| 41 | [Pullbay](https://datacircle.dev/tiktok-profile-apis/pullbay/199-monthly) | $199 monthly | 59 | 41 | $1.20 per 1,000 profiles | 2026-11-05 |
+| 41 | [Pullbay](https://datacircle.dev/tiktok-profile-apis/pullbay/199-monthly) | $199 monthly | 59.1 | 41 | $1.20 per 1,000 profiles | 2026-11-05 |
 | 42 | [Scrollhound](https://datacircle.dev/tiktok-profile-apis/scrollhound/25-pack) | $25 pack | 58.7 | 36 |  | 2026-11-11 |
-| 43 | [SocialKit](https://datacircle.dev/tiktok-profile-apis/socialkit/210-monthly) | $210 monthly | 56.7 | 28 | $1.40 per 1,000 profiles | 2026-10-29 |
+| 43 | [SocialKit](https://datacircle.dev/tiktok-profile-apis/socialkit/210-monthly) | $210 monthly | 56.8 | 28 | $1.40 per 1,000 profiles | 2026-10-29 |
 | 44 | [ScraperCompany](https://datacircle.dev/tiktok-profile-apis/scrapercompany/399-monthly) | $399 monthly | 55.8 | 39 | $1.60 per 1,000 profiles | 2026-11-16 |
 | 45 | [ScrapeField](https://datacircle.dev/tiktok-profile-apis/scrapefield/149-pack) | $149 pack | 48.4 | 36 | $1.80 per 1,000 profiles | 2026-11-06 |
 | 46 | [Desearch](https://datacircle.dev/tiktok-profile-apis/desearch/top-up) | top-up | 43.8 | 43 |  | 2026-10-29 |
 | 47 | [Peekalink](https://datacircle.dev/tiktok-profile-apis/peekalink/49-monthly) | $49 monthly | 36.9 | 36 | $0.14 per 1,000 profiles | 2026-11-08 |
-| 48 | [Janney AI](https://datacircle.dev/tiktok-profile-apis/janney-ai/299-monthly) | $299 monthly, Growth | 33.4 | 35 | $19.93 per 1,000 profiles | 2026-11-08 |
+| 48 | [Janney AI](https://datacircle.dev/tiktok-profile-apis/janney-ai/299-monthly) | $299 monthly, Growth | 33.3 | 35 | $19.93 per 1,000 profiles | 2026-11-08 |
 | 49 | [Juicer](https://datacircle.dev/tiktok-profile-apis/juicer/top-up-from-10) | top-up from $10 | 30.9 | 39 | $250.00 per 1,000 profiles | 2026-11-11 |
 | 50 | [viral.app](https://datacircle.dev/tiktok-profile-apis/viral-app/299-monthly-ultra-plan-get-live-platform-accounts-username-username) | $299 monthly, Ultra Plan | 26.9 | 30 |  | 2026-11-08 |
 | 51 | [Euler Stream](https://datacircle.dev/tiktok-profile-apis/euler-stream/100-monthly-business-50k) | $100 monthly, Business 50K | 41.4 | 16 | $0.067 per 1,000 profiles | 2026-11-17 |

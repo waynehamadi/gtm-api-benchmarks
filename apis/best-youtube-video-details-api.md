@@ -1,8 +1,8 @@
 # YouTube video details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
-youtubescraperapi ranks first in our benchmark, with an Overall score of 76.9 out of 100. youtubescraperapi scores 84 out of 100 for accuracy. youtubescraperapi's plan "$19 monthly, Vibe" costs $0.70 per 1,000 videos. We rank 11 providers. We last tested them on 2026-11-18.
+youtubescraperapi ranks first in our benchmark, with an Overall score of 76.9 out of 100. youtubescraperapi scores 84 out of 100 for accuracy. youtubescraperapi's plan "$19 monthly, Vibe" costs $0.70 per 1,000 videos. We rank 13 providers. We last tested them on 2026-11-23.
 
 Every plan below is on our ranking page, [YouTube video details API: best providers in 2026](https://datacircle.dev/best-youtube-video-details-api).
 
@@ -15,10 +15,12 @@ Every plan below is on our ranking page, [YouTube video details API: best provid
 | 5 | [TubeAlfred](https://datacircle.dev/youtube-video-details-apis/tubealfred/29-monthly-creator-pro-get-v1-youtube-video-video-id) | $29 monthly, Creator Pro | 64.3 | 84 | $2.42 per 1,000 videos | 2026-11-18 |
 | 6 | [YouTube Transcribes](https://datacircle.dev/youtube-video-details-apis/youtube-transcribes/1-99-pack) | $1.99 pack | 52.8 | 69 |  | 2026-11-18 |
 | 7 | [Supadata](https://datacircle.dev/youtube-video-details-apis/supadata/297-monthly-giga-get-v1-metadata) | $297 monthly, Giga | 50.6 | 61 | $0.99 per 1,000 videos | 2026-11-10 |
-| 8 | [VideoData API](https://datacircle.dev/youtube-video-details-apis/videodata-api/69-monthly) | $69 monthly | 67.3 | 34 | $0.58 per 1,000 videos | 2026-11-16 |
-| 9 | [Shortformkit](https://datacircle.dev/youtube-video-details-apis/shortformkit/free) | free | 67 | 36 | $0.00 per 1,000 videos | 2026-11-10 |
-| 10 | [YouTubeScribe](https://datacircle.dev/youtube-video-details-apis/youtubescribe/2-49-pack) | $2.49 pack | 55.7 | 26 |  | 2026-11-16 |
-| 11 | [Vid Kraken](https://datacircle.dev/youtube-video-details-apis/vid-kraken/top-up-from-49) | top-up from $49 | 54 | 15 |  | 2026-11-11 |
+| 8 | [Vee3](https://datacircle.dev/youtube-video-details-apis/vee3/100-monthly) | $100 monthly | 49.7 | 69 | $2.50 per 1,000 videos | 2026-11-23 |
+| 9 | [VideoData API](https://datacircle.dev/youtube-video-details-apis/videodata-api/69-monthly) | $69 monthly | 67.3 | 34 | $0.58 per 1,000 videos | 2026-11-16 |
+| 10 | [Shortformkit](https://datacircle.dev/youtube-video-details-apis/shortformkit/free) | free | 67 | 36 | $0.00 per 1,000 videos | 2026-11-10 |
+| 11 | [YouTubeScribe](https://datacircle.dev/youtube-video-details-apis/youtubescribe/2-49-pack) | $2.49 pack | 55.7 | 26 |  | 2026-11-16 |
+| 12 | [Iframely](https://datacircle.dev/youtube-video-details-apis/iframely/399-monthly-enterprise-get-api-data) | $399 monthly, Enterprise | 54.5 | 30 | $0.80 per 1,000 videos | 2026-11-23 |
+| 13 | [Vid Kraken](https://datacircle.dev/youtube-video-details-apis/vid-kraken/top-up-from-49) | top-up from $49 | 54 | 15 |  | 2026-11-11 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

@@ -1,6 +1,6 @@
 # LinkedIn person article API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
 
 Fetchin ranks first in our benchmark, with an Overall score of 60.7 out of 100. Fetchin scores 52 out of 100 for accuracy. Fetchin's plan "$50 monthly" costs $0.01 per 1,000 articles. We rank 4 providers. We last tested them on 2026-11-15.
 
