@@ -1,8 +1,8 @@
 # X (Twitter) post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
-TwitterXAPI ranks first in our benchmark, with an Overall score of 68.1 out of 100. TwitterXAPI scores 65 out of 100 for accuracy. TwitterXAPI's plan "$19.99 monthly" costs $0.08 per 1,000 posts. We rank 53 providers. We last tested them on 2026-11-20.
+TwitterXAPI ranks first in our benchmark, with an Overall score of 68.1 out of 100. TwitterXAPI scores 65 out of 100 for accuracy. TwitterXAPI's plan "$19.99 monthly" costs $0.08 per 1,000 posts. We rank 53 providers. We last tested them on 2026-11-22.
 
 Every plan below is on our ranking page, [X (Twitter) post API: best providers in 2026](https://datacircle.dev/best-x-twitter-post-api).
 
@@ -51,16 +51,16 @@ Every plan below is on our ranking page, [X (Twitter) post API: best providers i
 | 41 | [XFluxAPI](https://datacircle.dev/x-post-apis/xfluxapi/19-monthly) | $19 monthly | 26.5 | 23 |  | 2026-11-19 |
 | 42 | [Bright Data](https://datacircle.dev/x-post-apis/bright-data/top-up) | top-up | 21.8 | 20 | $1.50 per 1,000 posts | 2026-10-30 |
 | 43 | [Crawlora](https://datacircle.dev/x-post-apis/crawlora/499-monthly) | $499 monthly | 49.7 | 9 | $0.016 per 1,000 posts | 2026-11-05 |
-| 44 | [ScraperCompany](https://datacircle.dev/x-post-apis/scrapercompany/399-monthly) | $399 monthly | 47.9 | 3 | $0.016 per 1,000 posts | 2026-11-16 |
-| 45 | [API.SH](https://datacircle.dev/x-post-apis/api-sh/50-monthly) | $50 monthly | 38.8 | 10 | $0.01 per 1,000 posts | 2026-11-07 |
-| 46 | [Elfa AI](https://datacircle.dev/x-post-apis/elfa-ai/top-up-from-20-pay-as-you-go-get-v2-data-keyword-mentions) | top-up from $20, Pay as you go | 29 | 2 | $0.48 per 1,000 posts | 2026-11-05 |
-| 47 | [Stophy](https://datacircle.dev/x-post-apis/stophy/top-up-from-10) | top-up from $10 | 24.7 | 5 |  | 2026-11-07 |
-| 48 | [TrueScrape](https://datacircle.dev/x-post-apis/truescrape/25-pack) | $25 pack | 23.3 | 13 |  | 2026-11-05 |
-| 49 | [ScraperSocial](https://datacircle.dev/x-post-apis/scrapersocial/top-up-from-4-50) | top-up from $4.50 | 23 | 12 | $4.50 per 1,000 posts | 2026-11-09 |
-| 50 | [Layrcake](https://datacircle.dev/x-post-apis/layrcake/top-up-from-20) | top-up from $20 | 20.1 | 8 | $5.00 per 1,000 posts | 2026-11-11 |
+| 44 | [API.SH](https://datacircle.dev/x-post-apis/api-sh/50-monthly) | $50 monthly | 38.8 | 10 | $0.01 per 1,000 posts | 2026-11-07 |
+| 45 | [TrueScrape](https://datacircle.dev/x-post-apis/truescrape/25-pack) | $25 pack | 23.3 | 13 |  | 2026-11-05 |
+| 46 | [ScraperSocial](https://datacircle.dev/x-post-apis/scrapersocial/top-up-from-4-50) | top-up from $4.50 | 23 | 12 | $4.50 per 1,000 posts | 2026-11-09 |
+| 47 | [Layrcake](https://datacircle.dev/x-post-apis/layrcake/top-up-from-20) | top-up from $20 | 20.2 | 8 | $5.00 per 1,000 posts | 2026-11-22 |
+| 48 | [ScraperCompany](https://datacircle.dev/x-post-apis/scrapercompany/399-monthly) | $399 monthly | 47.9 | 3 | $0.016 per 1,000 posts | 2026-11-16 |
+| 49 | [Elfa AI](https://datacircle.dev/x-post-apis/elfa-ai/top-up-from-20-pay-as-you-go-get-v2-data-keyword-mentions) | top-up from $20, Pay as you go | 29 | 2 | $0.48 per 1,000 posts | 2026-11-05 |
+| 50 | [Stophy](https://datacircle.dev/x-post-apis/stophy/top-up-from-10) | top-up from $10 | 24.7 | 5 |  | 2026-11-07 |
 | 51 | [Xcatcher](https://datacircle.dev/x-post-apis/xcatcher/top-up-account-points-post-api-v1-tasks-create-crawl-task) | top-up, Account points | 10.1 | 3 | $10.00 per 1,000 posts | 2026-11-07 |
 | 52 | [Moni](https://datacircle.dev/x-post-apis/moni/120-monthly) | $120 monthly | 0 | 0 |  | 2026-11-08 |
-| 53 | [ViralHunt](https://datacircle.dev/x-post-apis/viralhunt/29-monthly) | $29 monthly | 0 | 0 |  | 2026-11-15 |
+| 53 | [ViralHunt](https://datacircle.dev/x-post-apis/viralhunt/29-monthly) | $29 monthly | 0 | 0 |  | 2026-11-22 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

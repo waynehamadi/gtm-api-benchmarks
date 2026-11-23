@@ -1,36 +1,36 @@
 # Phone validation API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
-Trestle ranks first in our benchmark, with an Overall score of 61.2 out of 100. Trestle scores 93 out of 100 for accuracy. Trestle's plan "top-up from $10, Self-Serve, pay as you go" costs $15.00 per 1,000 numbers. We rank 70 providers. We last tested them on 2026-11-14.
+Trestle ranks first in our benchmark, with an Overall score of 61.3 out of 100. Trestle scores 93 out of 100 for accuracy. Trestle's plan "top-up from $10, Self-Serve, pay as you go" costs $15.00 per 1,000 numbers. We rank 70 providers. We last tested them on 2026-11-22.
 
 Every plan below is on our ranking page, [Phone validation API: best providers in 2026](https://datacircle.dev/best-phone-validation-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Trestle](https://datacircle.dev/validate-phone-apis/trestle/top-up-from-10-self-serve-pay-as-you-go-get-3-0-phone-intel-phone-validation-api) | top-up from $10, Self-Serve, pay as you go | 61.2 | 93 | $15.00 per 1,000 numbers | 2026-11-07 |
-| 2 | [Signal House](https://datacircle.dev/validate-phone-apis/signal-house/top-up-from-10) | top-up from $10 | 60 | 93 | $5.00 per 1,000 numbers | 2026-11-10 |
+| 1 | [Trestle](https://datacircle.dev/validate-phone-apis/trestle/top-up-from-10-self-serve-pay-as-you-go-get-3-0-phone-intel-phone-validation-api) | top-up from $10, Self-Serve, pay as you go | 61.3 | 93 | $15.00 per 1,000 numbers | 2026-11-07 |
+| 2 | [Signal House](https://datacircle.dev/validate-phone-apis/signal-house/top-up-from-10) | top-up from $10 | 60 | 93 | $5.00 per 1,000 numbers | 2026-11-19 |
 | 3 | [Data247](https://datacircle.dev/validate-phone-apis/data247/12-pack-membership-get-v3-0-verify247-phone) | $12 pack, Membership | 59.6 | 88 |  | 2026-10-29 |
-| 4 | [Abstract API](https://datacircle.dev/validate-phone-apis/abstract-api/19-monthly-starter-5000-requests-month) | $19 monthly, Starter, 5,000 requests / month | 56.2 | 86 | $3.80 per 1,000 numbers | 2026-10-23 |
-| 5 | [Foxentry](https://datacircle.dev/validate-phone-apis/foxentry/top-up-pay-as-you-go-post-phone-validate-validate-phone-number-extended) | top-up, Pay as you go | 55.2 | 93 | $26.00 per 1,000 numbers | 2026-11-03 |
-| 6 | [HLR Lookups](https://datacircle.dev/validate-phone-apis/hlr-lookups/top-up-1-1m-post-hlr-lookup) | top-up, 1 - 1M | 54.2 | 79 | $11.25 per 1,000 numbers | 2026-10-26 |
-| 7 | [Wavix](https://datacircle.dev/validate-phone-apis/wavix/250-monthly-flex-pro-get-v1-validation) | $250 monthly, Flex Pro | 51.6 | 93 | $7.00 per 1,000 numbers | 2026-11-09 |
-| 8 | [Verify550](https://datacircle.dev/validate-phone-apis/verify550/190-pack-100000-credits-get-api-singlephone) | $190 pack, 100,000 Credits | 50.9 | 88 | $19.00 per 1,000 numbers | 2026-11-09 |
-| 9 | [seven.io](https://datacircle.dev/validate-phone-apis/seven-io/top-up-prepaid-balance-get-api-lookup-hlr) | top-up, Prepaid balance | 50.9 | 79 | $11.25 per 1,000 numbers | 2026-10-25 |
-| 10 | [Zadarma](https://datacircle.dev/validate-phone-apis/zadarma/top-up) | top-up | 49.9 | 79 | $7.00 per 1,000 numbers | 2026-10-29 |
-| 11 | [TPSClear](https://datacircle.dev/validate-phone-apis/tpsclear/1-pack) | £1 (about $1) pack | 49.8 | 100 | $13.34 per 1,000 numbers | 2026-11-13 |
-| 12 | [HLR Lookup](https://datacircle.dev/validate-phone-apis/hlr-lookup/370-pack-100000-lookups-post-apiv2-hlr) | £370 (about $493) pack, 100,000 lookups | 49.5 | 58 | $4.93 per 1,000 numbers | 2026-10-26 |
-| 13 | [NeuralVerge](https://datacircle.dev/validate-phone-apis/neuralverge/50-monthly) | $50 monthly | 48.7 | 87 |  | 2026-10-25 |
-| 14 | [Postio](https://datacircle.dev/validate-phone-apis/postio/top-up-from-10) | top-up from £10 (about $13) | 48.5 | 57 | $13.34 per 1,000 numbers | 2026-11-06 |
-| 15 | [CallerAPI](https://datacircle.dev/validate-phone-apis/callerapi/25-monthly-basic-get-api-network-lookup-phone) | $25 monthly, Basic | 47.3 | 66 | $5.00 per 1,000 numbers | 2026-10-27 |
-| 16 | [Data8](https://datacircle.dev/validate-phone-apis/data8/60-pack) | £60 (about $80) pack, 1,000 credits | 47.1 | 89 | $80.01 per 1,000 numbers | 2026-10-26 |
-| 17 | [FraudNova](https://datacircle.dev/validate-phone-apis/fraudnova/40-pack-starter-get-api-v1-check-phone) | $40 pack, Starter | 41.5 | 57 | $8.00 per 1,000 numbers | 2026-11-14 |
-| 18 | [Dexatel](https://datacircle.dev/validate-phone-apis/dexatel/pay-as-you-go-up-to-500k-lookups) | pay as you go, Up to 500K lookups | 41.5 | 53 | $6.00 per 1,000 numbers | 2026-10-29 |
-| 19 | [Loqate](https://datacircle.dev/validate-phone-apis/loqate/100-pack) | $100 pack | 39 | 57 | $50.00 per 1,000 numbers | 2026-11-14 |
-| 20 | [Addressfinder](https://datacircle.dev/validate-phone-apis/addressfinder/nz-55-monthly) | NZ$55 (about $31) monthly | 36.5 | 57 | $62.30 per 1,000 numbers | 2026-11-03 |
+| 4 | [Abstract API](https://datacircle.dev/validate-phone-apis/abstract-api/19-monthly-starter-5000-requests-month) | $19 monthly, Starter, 5,000 requests / month | 56.2 | 86 | $3.80 per 1,000 numbers | 2026-11-19 |
+| 5 | [Foxentry](https://datacircle.dev/validate-phone-apis/foxentry/top-up-pay-as-you-go-post-phone-validate-validate-phone-number-extended) | top-up, Pay as you go | 55.3 | 93 | $26.00 per 1,000 numbers | 2026-11-03 |
+| 6 | [HLR Lookups](https://datacircle.dev/validate-phone-apis/hlr-lookups/top-up-1-1m-post-hlr-lookup) | top-up, 1 - 1M | 54.3 | 79 | $11.25 per 1,000 numbers | 2026-11-19 |
+| 7 | [Wavix](https://datacircle.dev/validate-phone-apis/wavix/250-monthly-flex-pro-get-v1-validation) | $250 monthly, Flex Pro | 51.6 | 93 | $7.00 per 1,000 numbers | 2026-11-19 |
+| 8 | [Verify550](https://datacircle.dev/validate-phone-apis/verify550/190-pack-100000-credits-get-api-singlephone) | $190 pack, 100,000 Credits | 50.9 | 88 | $19.00 per 1,000 numbers | 2026-11-19 |
+| 9 | [seven.io](https://datacircle.dev/validate-phone-apis/seven-io/top-up-prepaid-balance-get-api-lookup-hlr) | top-up, Prepaid balance | 50.9 | 79 | $11.25 per 1,000 numbers | 2026-11-19 |
+| 10 | [Zadarma](https://datacircle.dev/validate-phone-apis/zadarma/top-up) | top-up | 50 | 79 | $7.00 per 1,000 numbers | 2026-11-19 |
+| 11 | [TPSClear](https://datacircle.dev/validate-phone-apis/tpsclear/1-pack) | £1 (about $1) pack | 49.8 | 100 | $13.34 per 1,000 numbers | 2026-11-19 |
+| 12 | [HLR Lookup](https://datacircle.dev/validate-phone-apis/hlr-lookup/370-pack-100000-lookups-post-apiv2-hlr) | £370 (about $493) pack, 100,000 lookups | 49.6 | 58 | $4.93 per 1,000 numbers | 2026-11-19 |
+| 13 | [NeuralVerge](https://datacircle.dev/validate-phone-apis/neuralverge/50-monthly) | $50 monthly | 48.7 | 87 |  | 2026-11-19 |
+| 14 | [Postio](https://datacircle.dev/validate-phone-apis/postio/top-up-from-10) | top-up from £10 (about $13) | 48.5 | 57 | $13.34 per 1,000 numbers | 2026-11-19 |
+| 15 | [CallerAPI](https://datacircle.dev/validate-phone-apis/callerapi/25-monthly-basic-get-api-network-lookup-phone) | $25 monthly, Basic | 47.3 | 66 | $5.00 per 1,000 numbers | 2026-11-19 |
+| 16 | [Data8](https://datacircle.dev/validate-phone-apis/data8/60-pack) | £60 (about $80) pack, 1,000 credits | 47.2 | 89 | $80.01 per 1,000 numbers | 2026-11-19 |
+| 17 | [FraudNova](https://datacircle.dev/validate-phone-apis/fraudnova/40-pack-starter-get-api-v1-check-phone) | $40 pack, Starter | 41.6 | 57 | $8.00 per 1,000 numbers | 2026-11-19 |
+| 18 | [Dexatel](https://datacircle.dev/validate-phone-apis/dexatel/pay-as-you-go-up-to-500k-lookups) | pay as you go, Up to 500K lookups | 41.6 | 53 | $6.00 per 1,000 numbers | 2026-10-29 |
+| 19 | [Loqate](https://datacircle.dev/validate-phone-apis/loqate/100-pack) | $100 pack | 39 | 57 | $50.00 per 1,000 numbers | 2026-11-19 |
+| 20 | [Addressfinder](https://datacircle.dev/validate-phone-apis/addressfinder/nz-55-monthly) | NZ$55 (about $31) monthly | 36.5 | 57 | $62.30 per 1,000 numbers | 2026-11-19 |
 | 21 | [Number Portability Lookup](https://datacircle.dev/validate-phone-apis/number-portability-lookup/top-up) | top-up | 34.3 | 45 | $2.50 per 1,000 numbers | 2026-11-14 |
-| 22 | [Mocean](https://datacircle.dev/validate-phone-apis/mocean/top-up) | top-up | 28.7 | 31 | $3.94 per 1,000 numbers | 2026-10-29 |
-| 23 | [LabsMobile](https://datacircle.dev/validate-phone-apis/labsmobile/top-up-from-9) | top-up from €9 | 16.3 | 19 |  | 2026-11-06 |
+| 22 | [Mocean](https://datacircle.dev/validate-phone-apis/mocean/top-up) | top-up | 28.7 | 31 | $3.94 per 1,000 numbers | 2026-11-19 |
+| 23 | [LabsMobile](https://datacircle.dev/validate-phone-apis/labsmobile/top-up-from-9) | top-up from €9 | 16.3 | 19 |  | 2026-11-19 |
 | 24 | [AgentPhone](https://datacircle.dev/validate-phone-apis/agentphone/top-up) | top-up | 0 | 0 | $9.00 per 1,000 numbers | 2026-11-06 |
 | 25 | [Antideo](https://datacircle.dev/validate-phone-apis/antideo/5-monthly-50-requests-hour-get-phone-phone-number) | $5 monthly, 50 requests/hour | 0 | 0 |  | 2026-10-29 |
 | 26 | [API Ninjas](https://datacircle.dev/validate-phone-apis/api-ninjas/59-monthly-developer-get-v1-phonelookup) | $59 monthly, Developer | 0 | 0 | $0.59 per 1,000 numbers | 2026-10-30 |
@@ -64,14 +64,14 @@ Every plan below is on our ranking page, [Phone validation API: best providers i
 | 54 | [ProWebLook](https://datacircle.dev/validate-phone-apis/proweblook/3-99-monthly) | $3.99 monthly | 0 | 0 | $7.98 per 1,000 numbers | 2026-10-27 |
 | 55 | [Pushbuild](https://datacircle.dev/validate-phone-apis/pushbuild/top-up) | top-up | 0 | 0 | $0.16 per 1,000 numbers | 2026-11-05 |
 | 56 | [ReefAPI](https://datacircle.dev/validate-phone-apis/reefapi/15-monthly-pro-monthly-post-phone-validate-v1-validate) | $15 monthly, Pro monthly | 0 | 0 | $1.50 per 1,000 numbers | 2026-10-27 |
-| 57 | [Ringer (Telique)](https://datacircle.dev/validate-phone-apis/ringer-telique/top-up-from-10-paid-get-v1-telique-cnam-identity) | top-up from $10, Paid | 0 | 0 | $10.00 per 1,000 numbers | 2026-11-10 |
+| 57 | [Ringer (Telique)](https://datacircle.dev/validate-phone-apis/ringer-telique/top-up-from-10-paid-get-v1-telique-cnam-identity) | top-up from $10, Paid | 0 | 0 | $10.00 per 1,000 numbers | 2026-11-22 |
 | 58 | [Strale](https://datacircle.dev/validate-phone-apis/strale/top-up-from-10) | top-up from €10 | 0 | 0 | $22.51 per 1,000 numbers | 2026-10-23 |
 | 59 | [Textmagic](https://datacircle.dev/validate-phone-apis/textmagic/20-pack) | $20 pack | 0 | 0 | $40.00 per 1,000 numbers | 2026-11-03 |
 | 60 | [TokenVerify](https://datacircle.dev/validate-phone-apis/tokenverify/29-monthly-starter-post-v1-verify-phone) | £29 (about $39) monthly, Starter | 0 | 0 | $3.87 per 1,000 numbers | 2026-11-07 |
 | 61 | [Tomba](https://datacircle.dev/validate-phone-apis/tomba/pay-as-you-go) | pay as you go | 0 | 0 | $3.12 per 1,000 numbers | 2026-10-30 |
 | 62 | [Tracerfy](https://datacircle.dev/validate-phone-apis/tracerfy/top-up-from-20) | top-up from $20 | 0 | 0 | $100.00 per 1,000 numbers | 2026-11-14 |
 | 63 | [TrustLookup](https://datacircle.dev/validate-phone-apis/trustlookup/19-monthly-starter-get-v1-lookup-phone-validation) | $19 monthly, Starter | 0 | 0 | $2.53 per 1,000 numbers | 2026-11-11 |
-| 64 | [USACallerLookup](https://datacircle.dev/validate-phone-apis/usacallerlookup/free) | free | 0 | 0 | $0.00 per 1,000 numbers | 2026-11-10 |
+| 64 | [USACallerLookup](https://datacircle.dev/validate-phone-apis/usacallerlookup/free) | free | 0 | 0 | $0.00 per 1,000 numbers | 2026-11-19 |
 | 65 | [VerifNow](https://datacircle.dev/validate-phone-apis/verifnow/19-monthly) | $19 monthly | 0 | 0 | $1.90 per 1,000 numbers | 2026-11-09 |
 | 66 | [Veriphone](https://datacircle.dev/validate-phone-apis/veriphone/12-99-monthly-starter-get-v3-verify-v3-verify) | $12.99 monthly, Starter | 0 | 0 | $1.30 per 1,000 numbers | 2026-10-26 |
 | 67 | [VeriPulse](https://datacircle.dev/validate-phone-apis/veripulse/free) | free | 0 | 0 | $0.00 per 1,000 numbers | 2026-11-14 |

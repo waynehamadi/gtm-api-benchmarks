@@ -1,6 +1,6 @@
 # Kuaishou user video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
 JustOneAPI ranks first in our benchmark, with an Overall score of 46.7 out of 100. JustOneAPI scores 55 out of 100 for accuracy. We rank 2 providers. We last tested them on 2026-11-17.
 

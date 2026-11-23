@@ -1,6 +1,6 @@
 # Douyin video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
 Scavio ranks first in our benchmark, with an Overall score of 84.5 out of 100. Scavio scores 87 out of 100 for accuracy. Scavio's plan "$500 monthly" costs $1.00 per 1,000 videos. We rank 10 providers. We last tested them on 2026-11-15.
 

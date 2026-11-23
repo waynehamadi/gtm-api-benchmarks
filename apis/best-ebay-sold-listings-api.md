@@ -1,6 +1,6 @@
 # eBay sold listings API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
 Trawl ranks first in our benchmark, with an Overall score of 70.7 out of 100. Trawl scores 56 out of 100 for accuracy. Trawl's plan "$250 monthly, Scale" costs $1.25 per 1,000 searches. We rank 6 providers. We last tested them on 2026-11-17.
 

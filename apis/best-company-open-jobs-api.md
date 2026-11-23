@@ -1,6 +1,6 @@
 # Company job openings API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
 freehire ranks first in our benchmark, with an Overall score of 72.2 out of 100. freehire scores 60 out of 100 for accuracy. We rank 45 providers. We last tested them on 2026-11-21.
 
@@ -39,19 +39,19 @@ Every plan below is on our ranking page, [Company job openings API: best provide
 | 29 | [Reqbeat](https://datacircle.dev/company-open-job-apis/reqbeat/79-monthly) | €79 monthly | 33.5 | 28 |  | 2026-11-07 |
 | 30 | [Xcout](https://datacircle.dev/company-open-job-apis/xcout/99-monthly-starter) | $99 monthly, Starter | 31.6 | 29 | $0.99 per 1,000 jobs | 2026-11-16 |
 | 31 | [Mantiks](https://datacircle.dev/company-open-job-apis/mantiks/190-monthly-growth-get-company-jobs) | €190 monthly, Growth | 24.9 | 29 |  | 2026-10-29 |
-| 32 | [Personio](https://datacircle.dev/company-open-job-apis/personio/free) | free | 57.3 | 8 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 33 | [Polymer](https://datacircle.dev/company-open-job-apis/polymer/free) | free | 57.1 | 7 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 34 | [Recruitee](https://datacircle.dev/company-open-job-apis/recruitee/free) | free | 54.1 | 5 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 35 | [Teamtailor](https://datacircle.dev/company-open-job-apis/teamtailor/free) | free | 53.5 | 18 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 36 | [Lever](https://datacircle.dev/company-open-job-apis/lever/free) | free | 52.8 | 7 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 37 | [Pinpoint](https://datacircle.dev/company-open-job-apis/pinpoint/free) | free | 52.6 | 14 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 38 | [Trakstar Hire](https://datacircle.dev/company-open-job-apis/trakstar-hire/free) | free | 51.8 | 16 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 39 | [Gem](https://datacircle.dev/company-open-job-apis/gem/free) | free | 51.4 | 14 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 40 | [Manatal](https://datacircle.dev/company-open-job-apis/manatal/free) | free | 51.3 | 14 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 41 | [JobScore](https://datacircle.dev/company-open-job-apis/jobscore/free) | free | 45.9 | 1 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 42 | [VeritaHire](https://datacircle.dev/company-open-job-apis/veritahire/19-75-pack) | $19.75 pack | 33.7 | 13 | $3.95 per 1,000 jobs | 2026-11-07 |
-| 43 | [Pipecorn](https://datacircle.dev/company-open-job-apis/pipecorn/189-monthly) | $189 monthly | 25 | 20 | $15.75 per 1,000 jobs | 2026-10-27 |
-| 44 | [Thordata](https://datacircle.dev/company-open-job-apis/thordata/500-pack) | $500 pack | 22.4 | 15 | $0.67 per 1,000 jobs | 2026-11-07 |
+| 32 | [Teamtailor](https://datacircle.dev/company-open-job-apis/teamtailor/free) | free | 53.5 | 18 | $0.00 per 1,000 jobs | 2026-10-28 |
+| 33 | [Pinpoint](https://datacircle.dev/company-open-job-apis/pinpoint/free) | free | 52.6 | 14 | $0.00 per 1,000 jobs | 2026-10-28 |
+| 34 | [Trakstar Hire](https://datacircle.dev/company-open-job-apis/trakstar-hire/free) | free | 51.8 | 16 | $0.00 per 1,000 jobs | 2026-10-28 |
+| 35 | [Gem](https://datacircle.dev/company-open-job-apis/gem/free) | free | 51.4 | 14 | $0.00 per 1,000 jobs | 2026-10-28 |
+| 36 | [Manatal](https://datacircle.dev/company-open-job-apis/manatal/free) | free | 51.3 | 14 | $0.00 per 1,000 jobs | 2026-10-28 |
+| 37 | [VeritaHire](https://datacircle.dev/company-open-job-apis/veritahire/19-75-pack) | $19.75 pack | 33.7 | 13 | $3.95 per 1,000 jobs | 2026-11-07 |
+| 38 | [Pipecorn](https://datacircle.dev/company-open-job-apis/pipecorn/189-monthly) | $189 monthly | 25 | 20 | $15.75 per 1,000 jobs | 2026-10-27 |
+| 39 | [Thordata](https://datacircle.dev/company-open-job-apis/thordata/500-pack) | $500 pack | 22.4 | 15 | $0.67 per 1,000 jobs | 2026-11-07 |
+| 40 | [Personio](https://datacircle.dev/company-open-job-apis/personio/free) | free | 57.3 | 8 | $0.00 per 1,000 jobs | 2026-10-28 |
+| 41 | [Polymer](https://datacircle.dev/company-open-job-apis/polymer/free) | free | 57.1 | 7 | $0.00 per 1,000 jobs | 2026-10-28 |
+| 42 | [Recruitee](https://datacircle.dev/company-open-job-apis/recruitee/free) | free | 54.1 | 5 | $0.00 per 1,000 jobs | 2026-10-28 |
+| 43 | [Lever](https://datacircle.dev/company-open-job-apis/lever/free) | free | 52.8 | 7 | $0.00 per 1,000 jobs | 2026-10-28 |
+| 44 | [JobScore](https://datacircle.dev/company-open-job-apis/jobscore/free) | free | 45.9 | 1 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 45 | [Job Opportunities API](https://datacircle.dev/company-open-job-apis/job-opportunities-api/29-monthly) | €29 monthly | 0 | 0 | $3.26 per 1,000 jobs | 2026-11-16 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.

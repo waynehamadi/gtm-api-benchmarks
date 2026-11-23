@@ -1,6 +1,6 @@
 # ChatGPT scraper API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 75.1 out of 100. Scrappa scores 51 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 answers. We rank 17 providers. We last tested them on 2026-11-16.
 

@@ -1,8 +1,8 @@
 # eBay product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
-Litescrape ranks first in our benchmark, with an Overall score of 78.4 out of 100. Litescrape scores 68 out of 100 for accuracy. Litescrape's plan "top-up from $10, Usage-based" costs $0.15 per 1,000 products. We rank 17 providers. We last tested them on 2026-11-18.
+Litescrape ranks first in our benchmark, with an Overall score of 78.4 out of 100. Litescrape scores 68 out of 100 for accuracy. Litescrape's plan "top-up from $10, Usage-based" costs $0.15 per 1,000 products. We rank 17 providers. We last tested them on 2026-11-23.
 
 Every plan below is on our ranking page, [eBay product API: best providers in 2026](https://datacircle.dev/best-ebay-product-api).
 
@@ -23,7 +23,7 @@ Every plan below is on our ranking page, [eBay product API: best providers in 20
 | 13 | [ebaysoldlistingsAPI](https://datacircle.dev/ebay-product-apis/ebaysoldlistingsapi/299-monthly) | $299 monthly | 64.4 | 15 |  | 2026-11-15 |
 | 14 | [Scrappa](https://datacircle.dev/ebay-product-apis/scrappa/10-pack) | $10 pack | 62.5 | 16 | $0.30 per 1,000 products | 2026-10-31 |
 | 15 | [PrismCrawl](https://datacircle.dev/ebay-product-apis/prismcrawl/10-pack) | $10 pack | 40.7 | 15 | $0.27 per 1,000 products | 2026-10-31 |
-| 16 | [kwery](https://datacircle.dev/ebay-product-apis/kwery/399-monthly) | €399 monthly | 35.1 | 16 | $2.25 per 1,000 products | 2026-11-18 |
+| 16 | [kwery](https://datacircle.dev/ebay-product-apis/kwery/399-monthly) | €399 monthly | 35.1 | 16 | $2.25 per 1,000 products | 2026-11-23 |
 | 17 | [Lianex](https://datacircle.dev/ebay-product-apis/lianex/free) | free | 0 | 0 | $0.00 per 1,000 products | 2026-11-12 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.

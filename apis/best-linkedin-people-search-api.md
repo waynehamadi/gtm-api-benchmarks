@@ -1,8 +1,8 @@
 # LinkedIn people search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
-DataForB2B ranks first in our benchmark, with an Overall score of 80.8 out of 100. DataForB2B scores 95 out of 100 for accuracy. DataForB2B's plan "$499 monthly, Growth" costs $0.075 per 1,000 people. We rank 23 providers. We last tested them on 2026-11-15.
+DataForB2B ranks first in our benchmark, with an Overall score of 80.8 out of 100. DataForB2B scores 95 out of 100 for accuracy. DataForB2B's plan "$499 monthly, Growth" costs $0.075 per 1,000 people. We rank 23 providers. We last tested them on 2026-11-22.
 
 Every plan below is on our ranking page, [LinkedIn people search API: best providers in 2026](https://datacircle.dev/best-linkedin-people-search-api).
 
@@ -25,7 +25,7 @@ Every plan below is on our ranking page, [LinkedIn people search API: best provi
 | 15 | [Datamagnet](https://datacircle.dev/linkedin-people-search-apis/datamagnet/top-up-from-5-credit-calculator-post-salesnavigator-search) | top-up from $5, Credit calculator | 52.5 | 84 |  | 2026-10-25 |
 | 16 | [ScrapeLi](https://datacircle.dev/linkedin-people-search-apis/scrapeli/12-monthly-monthly-3000-credits-post-company-employees-orders) | $12 monthly, Monthly 3,000 credits | 52.3 | 78 | $4.00 per 1,000 people | 2026-10-26 |
 | 17 | [NeuralVerge](https://datacircle.dev/linkedin-people-search-apis/neuralverge/50-monthly-base-post-functions-v1-run-linkedin-company-employee) | $50 monthly, Base | 50.9 | 92 |  | 2026-10-21 |
-| 18 | [Bytemine](https://datacircle.dev/linkedin-people-search-apis/bytemine/top-up-from-0-50) | top-up from $0.50 | 50.6 | 62 | $10.00 per 1,000 people | 2026-10-28 |
+| 18 | [Bytemine](https://datacircle.dev/linkedin-people-search-apis/bytemine/top-up-from-0-50) | top-up from $0.50 | 50.6 | 62 | $10.00 per 1,000 people | 2026-11-22 |
 | 19 | [Forager](https://datacircle.dev/linkedin-people-search-apis/forager/50-monthly) | $50 monthly | 37.5 | 59 |  | 2026-10-28 |
 | 20 | [WebAutomation](https://datacircle.dev/linkedin-people-search-apis/webautomation/449-monthly-business-post-v1-person-search) | $449 monthly, Business | 57.6 | 38 | $0.15 per 1,000 people | 2026-10-30 |
 | 21 | [Desearch](https://datacircle.dev/linkedin-people-search-apis/desearch/top-up) | top-up | 35.5 | 43 | $50.00 per 1,000 people | 2026-10-29 |

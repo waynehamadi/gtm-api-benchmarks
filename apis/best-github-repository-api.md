@@ -1,6 +1,6 @@
 # GitHub repository API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 75.5 out of 100. Scrappa scores 68 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 repositories. We rank 19 providers. We last tested them on 2026-11-16.
 
@@ -25,8 +25,8 @@ Every plan below is on our ranking page, [GitHub repository API: best providers 
 | 15 | [Crawlora](https://datacircle.dev/github-repository-apis/crawlora/499-monthly) | $499 monthly | 58 | 27 | $0.20 per 1,000 repositories | 2026-11-06 |
 | 16 | [AgentDiet](https://datacircle.dev/github-repository-apis/agentdiet/29-monthly) | $29 monthly | 39.2 | 27 | $1.45 per 1,000 repositories | 2026-11-16 |
 | 17 | [deps.dev](https://datacircle.dev/github-repository-apis/deps-dev/free) | free | 58.3 | 10 | $0.00 per 1,000 repositories | 2026-11-14 |
-| 18 | [GithubTrends](https://datacircle.dev/github-repository-apis/githubtrends/free) | free | 52 | 2 | $0.00 per 1,000 repositories | 2026-11-10 |
-| 19 | [Peekalink](https://datacircle.dev/github-repository-apis/peekalink/49-monthly) | $49 monthly | 28.3 | 11 | $0.14 per 1,000 repositories | 2026-11-10 |
+| 18 | [Peekalink](https://datacircle.dev/github-repository-apis/peekalink/49-monthly) | $49 monthly | 28.3 | 11 | $0.14 per 1,000 repositories | 2026-11-10 |
+| 19 | [GithubTrends](https://datacircle.dev/github-repository-apis/githubtrends/free) | free | 52 | 2 | $0.00 per 1,000 repositories | 2026-11-10 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

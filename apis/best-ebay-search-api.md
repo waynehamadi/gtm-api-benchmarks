@@ -1,8 +1,8 @@
 # eBay search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
-ReefAPI ranks first in our benchmark, with an Overall score of 59.3 out of 100. ReefAPI scores 35 out of 100 for accuracy. ReefAPI's plan "$450 quarterly" costs $0.50 per 1,000 searches. We rank 17 providers. We last tested them on 2026-11-11.
+ReefAPI ranks first in our benchmark, with an Overall score of 59.3 out of 100. ReefAPI scores 35 out of 100 for accuracy. ReefAPI's plan "$450 quarterly" costs $0.50 per 1,000 searches. We rank 17 providers. We last tested them on 2026-11-23.
 
 Every plan below is on our ranking page, [eBay search API: best providers in 2026](https://datacircle.dev/best-ebay-search-api).
 
@@ -23,7 +23,7 @@ Every plan below is on our ranking page, [eBay search API: best providers in 202
 | 13 | [PrismCrawl](https://datacircle.dev/ebay-search-apis/prismcrawl/10-pack) | $10 pack | 42.3 | 19 | $0.27 per 1,000 searches | 2026-10-31 |
 | 14 | [Litescrape](https://datacircle.dev/ebay-search-apis/litescrape/top-up-from-10-usage-based-get-api-ebay-search) | top-up from $10, Usage-based | 41.5 | 13 | $0.15 per 1,000 searches | 2026-11-11 |
 | 15 | [AnyAPI](https://datacircle.dev/ebay-search-apis/anyapi/top-up-from-10) | top-up from $10 | 36.2 | 17 | $1.20 per 1,000 searches | 2026-11-03 |
-| 16 | [kwery](https://datacircle.dev/ebay-search-apis/kwery/399-monthly) | €399 monthly | 34.6 | 19 | $2.25 per 1,000 searches | 2026-11-11 |
+| 16 | [kwery](https://datacircle.dev/ebay-search-apis/kwery/399-monthly) | €399 monthly | 34.6 | 19 | $2.25 per 1,000 searches | 2026-11-23 |
 | 17 | [Datawebot (ecommerce product data API)](https://datacircle.dev/ebay-search-apis/datawebot-ecommerce-product-data-api/100-pack) | $100 pack | 24 | 19 | $3.13 per 1,000 searches | 2026-11-06 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.

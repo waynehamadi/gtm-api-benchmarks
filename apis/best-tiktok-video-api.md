@@ -1,6 +1,6 @@
 # TikTok video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
 Litescrape ranks first in our benchmark, with an Overall score of 80.5 out of 100. Litescrape scores 71 out of 100 for accuracy. Litescrape's plan "top-up from $10" costs $0.0043 per 1,000 videos. We rank 48 providers. We last tested them on 2026-11-18.
 

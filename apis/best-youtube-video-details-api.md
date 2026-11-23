@@ -1,6 +1,6 @@
 # YouTube video details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
 youtubescraperapi ranks first in our benchmark, with an Overall score of 76.9 out of 100. youtubescraperapi scores 84 out of 100 for accuracy. youtubescraperapi's plan "$19 monthly, Vibe" costs $0.70 per 1,000 videos. We rank 11 providers. We last tested them on 2026-11-18.
 
@@ -9,10 +9,10 @@ Every plan below is on our ranking page, [YouTube video details API: best provid
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [youtubescraperapi](https://datacircle.dev/youtube-video-details-apis/youtubescraperapi/19-monthly-vibe-get-youtube-video) | $19 monthly, Vibe | 76.9 | 84 | $0.70 per 1,000 videos | 2026-11-15 |
-| 2 | [Poix](https://datacircle.dev/youtube-video-details-apis/poix/top-up-from-5-pay-as-you-go-get-videos) | top-up from $5, Pay-as-you-go | 73 | 84 | $0.0026 per 1,000 videos | 2026-11-10 |
-| 3 | [YTAPI](https://datacircle.dev/youtube-video-details-apis/ytapi/79-pack-value-get-v1-videos-id-video-info) | $79 pack, Value | 72.8 | 86 | $1.58 per 1,000 videos | 2026-11-10 |
-| 4 | [ScraperCompany](https://datacircle.dev/youtube-video-details-apis/scrapercompany/399-monthly) | $399 monthly | 68.9 | 92 | $1.60 per 1,000 videos | 2026-11-16 |
-| 5 | [TubeAlfred](https://datacircle.dev/youtube-video-details-apis/tubealfred/29-monthly-creator-pro-get-v1-youtube-video-video-id) | $29 monthly, Creator Pro | 64 | 84 | $2.42 per 1,000 videos | 2026-11-18 |
+| 2 | [YTAPI](https://datacircle.dev/youtube-video-details-apis/ytapi/79-pack-value-get-v1-videos-id-video-info) | $79 pack, Value | 73.1 | 86 | $1.58 per 1,000 videos | 2026-11-10 |
+| 3 | [Poix](https://datacircle.dev/youtube-video-details-apis/poix/top-up-from-5-pay-as-you-go-get-videos) | top-up from $5, Pay-as-you-go | 73 | 84 | $0.0026 per 1,000 videos | 2026-11-10 |
+| 4 | [ScraperCompany](https://datacircle.dev/youtube-video-details-apis/scrapercompany/399-monthly) | $399 monthly | 69.2 | 92 | $1.60 per 1,000 videos | 2026-11-16 |
+| 5 | [TubeAlfred](https://datacircle.dev/youtube-video-details-apis/tubealfred/29-monthly-creator-pro-get-v1-youtube-video-video-id) | $29 monthly, Creator Pro | 64.3 | 84 | $2.42 per 1,000 videos | 2026-11-18 |
 | 6 | [YouTube Transcribes](https://datacircle.dev/youtube-video-details-apis/youtube-transcribes/1-99-pack) | $1.99 pack | 52.8 | 69 |  | 2026-11-18 |
 | 7 | [Supadata](https://datacircle.dev/youtube-video-details-apis/supadata/297-monthly-giga-get-v1-metadata) | $297 monthly, Giga | 50.6 | 61 | $0.99 per 1,000 videos | 2026-11-10 |
 | 8 | [VideoData API](https://datacircle.dev/youtube-video-details-apis/videodata-api/69-monthly) | $69 monthly | 67.3 | 34 | $0.58 per 1,000 videos | 2026-11-16 |

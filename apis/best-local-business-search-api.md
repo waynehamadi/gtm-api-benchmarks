@@ -1,8 +1,8 @@
 # Local business search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
-Bolt Scraper ranks first in our benchmark, with an Overall score of 47.3 out of 100. Bolt Scraper scores 36 out of 100 for accuracy. Bolt Scraper's plan "$199 monthly, Advanced" costs $0.13 per 1,000 places. We rank 94 providers. We last tested them on 2026-11-21.
+Bolt Scraper ranks first in our benchmark, with an Overall score of 47.3 out of 100. Bolt Scraper scores 36 out of 100 for accuracy. Bolt Scraper's plan "$199 monthly, Advanced" costs $0.13 per 1,000 places. We rank 95 providers. We last tested them on 2026-11-23.
 
 Every plan below is on our ranking page, [Local business search API: best providers in 2026](https://datacircle.dev/best-local-business-search-api).
 
@@ -73,35 +73,36 @@ Every plan below is on our ranking page, [Local business search API: best provid
 | 63 | [Unmap](https://datacircle.dev/local-business-search-apis/unmap/19-monthly-indie-get-places-nearby) | $19 monthly, indie | 39.8 | 8 | $0.0015 per 1,000 places | 2026-11-11 |
 | 64 | [SerpData](https://datacircle.dev/local-business-search-apis/serpdata/40-pack-starter-post-google-maps-search-places) | $40 pack, Starter | 39.5 | 12 | $0.0005 per 1,000 places | 2026-11-09 |
 | 65 | [ArcGIS](https://datacircle.dev/local-business-search-apis/arcgis/pay-as-you-go-pay-as-you-go-get-places-near-point) | pay as you go | 38.6 | 9 | $0.40 per 1,000 places | 2026-11-05 |
-| 66 | [2GIS](https://datacircle.dev/local-business-search-apis/2gis/30000-monthly) | ₽30,000 (about $358) monthly | 38.6 | 3 | $0.072 per 1,000 places | 2026-11-05 |
-| 67 | [ScraperCompany](https://datacircle.dev/local-business-search-apis/scrapercompany/399-monthly) | $399 monthly | 38.3 | 12 | $0.12 per 1,000 places | 2026-11-16 |
-| 68 | [Coldlytics](https://datacircle.dev/local-business-search-apis/coldlytics/49-monthly) | $49 monthly | 37.7 | 11 | $0.20 per 1,000 places | 2026-11-15 |
-| 69 | [ReviewsData API](https://datacircle.dev/local-business-search-apis/reviewsdata-api/199-monthly-business-get-v1-yelp-search) | $199 monthly, Business | 37.6 | 12 | $0.20 per 1,000 places | 2026-11-21 |
-| 70 | [Storefinch](https://datacircle.dev/local-business-search-apis/storefinch/19-monthly) | $19 monthly | 35.9 | 7 | $0.019 per 1,000 places | 2026-11-11 |
-| 71 | [Montjoy Places](https://datacircle.dev/local-business-search-apis/montjoy-places/19-monthly) | $19 monthly | 32.4 | 5 | $0.0071 per 1,000 places | 2026-11-14 |
-| 72 | [x402serps](https://datacircle.dev/local-business-search-apis/x402serps/5-pack-5500-credits-post-api-v1-places) | $5 pack, 5,500 credits | 30.2 | 9 | $0.18 per 1,000 places | 2026-11-05 |
-| 73 | [Semscraper](https://datacircle.dev/local-business-search-apis/semscraper/top-up) | top-up | 29.7 | 11 | $0.034 per 1,000 places | 2026-11-17 |
-| 74 | [MapsData](https://datacircle.dev/local-business-search-apis/mapsdata/99-monthly) | $99 monthly | 26.8 | 12 | $0.33 per 1,000 places | 2026-11-17 |
-| 75 | [Outsend](https://datacircle.dev/local-business-search-apis/outsend/top-up) | top-up | 26.2 | 11 | $1.01 per 1,000 places | 2026-11-07 |
-| 76 | [FlashData](https://datacircle.dev/local-business-search-apis/flashdata/top-up-from-10-pay-as-you-go-post-v1-queries-realtime) | top-up from $10, Pay as you go | 21.8 | 11 |  | 2026-11-05 |
-| 77 | [BestTime](https://datacircle.dev/local-business-search-apis/besttime/0-monthly-pro-usage-post-api-v1-venues-search) | $189 monthly, Pro Usage | 21.7 | 5 | $1.50 per 1,000 places | 2026-11-16 |
-| 78 | [ByCrawl](https://datacircle.dev/local-business-search-apis/bycrawl/9-monthly) | $9 monthly | 21.4 | 11 |  | 2026-11-07 |
-| 79 | [Browsable](https://datacircle.dev/local-business-search-apis/browsable/19-monthly-starter-post-v1-googlemaps-search) | $19 monthly, Starter | 21.3 | 12 |  | 2026-11-07 |
-| 80 | [Hashscraper](https://datacircle.dev/local-business-search-apis/hashscraper/21-99-pack) | $21.99 pack | 21.3 | 9 | $36.65 per 1,000 places | 2026-11-12 |
-| 81 | [PrismCrawl](https://datacircle.dev/local-business-search-apis/prismcrawl/5-pack-micro-post-v1-google-local) | $5 pack, Micro | 21.1 | 10 |  | 2026-11-21 |
-| 82 | [ScrapingBot.io](https://datacircle.dev/local-business-search-apis/scrapingbot-io/49-99-monthly-starter-post-api-v1-google-maps) | $49.99 monthly, Starter | 20.9 | 12 |  | 2026-11-07 |
-| 83 | [Scale SERP](https://datacircle.dev/local-business-search-apis/scale-serp/29-monthly) | $29 monthly | 20.3 | 11 |  | 2026-11-05 |
-| 84 | [LatLng](https://datacircle.dev/local-business-search-apis/latlng/29-monthly-pro-get-v1-places-search) | $29 monthly, Pro | 19.6 | 3 |  | 2026-11-10 |
-| 85 | [Osint](https://datacircle.dev/local-business-search-apis/osint/4-20-pack) | $4.20 pack | 19.4 | 5 |  | 2026-11-13 |
-| 86 | [Barikoi](https://datacircle.dev/local-business-search-apis/barikoi/pay-as-you-go-from-api-call-3001-of-the-month-get-v2-api-search-nearby-category-1-10) | pay as you go, from API call 3,001 of the month | 18.4 | 1 |  | 2026-11-05 |
-| 87 | [Voygr PlaceCall](https://datacircle.dev/local-business-search-apis/voygr-placecall/100-pack) | $100 pack | 18.2 | 4 | $8.33 per 1,000 places | 2026-11-15 |
-| 88 | [Crawlora](https://datacircle.dev/local-business-search-apis/crawlora/9-monthly) | $9 monthly, Starter | 17.7 | 1 |  | 2026-11-05 |
-| 89 | [Arteemis](https://datacircle.dev/local-business-search-apis/arteemis/99-monthly) | €99 monthly | 17.4 | 9 |  | 2026-11-21 |
-| 90 | [MapQuest](https://datacircle.dev/local-business-search-apis/mapquest/119-monthly-basic-get-search-v4-place) | $119 monthly, Basic | 16.7 | 3 |  | 2026-11-16 |
-| 91 | [Lead Radar](https://datacircle.dev/local-business-search-apis/lead-radar/9-90-pack) | €9.90 pack | 16.6 | 7 | $18.57 per 1,000 places | 2026-11-07 |
-| 92 | [Maps Harvest](https://datacircle.dev/local-business-search-apis/maps-harvest/250-monthly) | $250 monthly | 14.4 | 9 | $5.00 per 1,000 places | 2026-11-07 |
+| 66 | [ScraperCompany](https://datacircle.dev/local-business-search-apis/scrapercompany/399-monthly) | $399 monthly | 38.3 | 12 | $0.12 per 1,000 places | 2026-11-16 |
+| 67 | [Coldlytics](https://datacircle.dev/local-business-search-apis/coldlytics/49-monthly) | $49 monthly | 37.7 | 11 | $0.20 per 1,000 places | 2026-11-15 |
+| 68 | [ReviewsData API](https://datacircle.dev/local-business-search-apis/reviewsdata-api/199-monthly-business-get-v1-yelp-search) | $199 monthly, Business | 37.6 | 12 | $0.20 per 1,000 places | 2026-11-21 |
+| 69 | [Storefinch](https://datacircle.dev/local-business-search-apis/storefinch/19-monthly) | $19 monthly | 35.9 | 7 | $0.019 per 1,000 places | 2026-11-11 |
+| 70 | [x402serps](https://datacircle.dev/local-business-search-apis/x402serps/5-pack-5500-credits-post-api-v1-places) | $5 pack, 5,500 credits | 30.2 | 9 | $0.18 per 1,000 places | 2026-11-05 |
+| 71 | [Semscraper](https://datacircle.dev/local-business-search-apis/semscraper/top-up) | top-up | 29.7 | 11 | $0.034 per 1,000 places | 2026-11-17 |
+| 72 | [MapsData](https://datacircle.dev/local-business-search-apis/mapsdata/99-monthly) | $99 monthly | 26.8 | 12 | $0.33 per 1,000 places | 2026-11-17 |
+| 73 | [Outsend](https://datacircle.dev/local-business-search-apis/outsend/top-up) | top-up | 26.2 | 11 | $1.01 per 1,000 places | 2026-11-07 |
+| 74 | [FlashData](https://datacircle.dev/local-business-search-apis/flashdata/top-up-from-10-pay-as-you-go-post-v1-queries-realtime) | top-up from $10, Pay as you go | 21.8 | 11 |  | 2026-11-05 |
+| 75 | [ByCrawl](https://datacircle.dev/local-business-search-apis/bycrawl/9-monthly) | $9 monthly | 21.4 | 11 |  | 2026-11-07 |
+| 76 | [Browsable](https://datacircle.dev/local-business-search-apis/browsable/19-monthly-starter-post-v1-googlemaps-search) | $19 monthly, Starter | 21.3 | 12 |  | 2026-11-07 |
+| 77 | [Hashscraper](https://datacircle.dev/local-business-search-apis/hashscraper/21-99-pack) | $21.99 pack | 21.3 | 9 | $36.65 per 1,000 places | 2026-11-12 |
+| 78 | [PrismCrawl](https://datacircle.dev/local-business-search-apis/prismcrawl/5-pack-micro-post-v1-google-local) | $5 pack, Micro | 21.1 | 10 |  | 2026-11-21 |
+| 79 | [ScrapingBot.io](https://datacircle.dev/local-business-search-apis/scrapingbot-io/49-99-monthly-starter-post-api-v1-google-maps) | $49.99 monthly, Starter | 20.9 | 12 |  | 2026-11-07 |
+| 80 | [Scale SERP](https://datacircle.dev/local-business-search-apis/scale-serp/29-monthly) | $29 monthly | 20.3 | 11 |  | 2026-11-05 |
+| 81 | [Arteemis](https://datacircle.dev/local-business-search-apis/arteemis/99-monthly) | €99 monthly | 17.4 | 9 |  | 2026-11-21 |
+| 82 | [Lead Radar](https://datacircle.dev/local-business-search-apis/lead-radar/9-90-pack) | €9.90 pack | 16.6 | 7 | $18.57 per 1,000 places | 2026-11-07 |
+| 83 | [Maps Harvest](https://datacircle.dev/local-business-search-apis/maps-harvest/250-monthly) | $250 monthly | 14.4 | 9 | $5.00 per 1,000 places | 2026-11-07 |
+| 84 | [2GIS](https://datacircle.dev/local-business-search-apis/2gis/30000-monthly) | ₽30,000 (about $358) monthly | 38.6 | 3 | $0.072 per 1,000 places | 2026-11-05 |
+| 85 | [Montjoy Places](https://datacircle.dev/local-business-search-apis/montjoy-places/19-monthly) | $19 monthly | 32.4 | 5 | $0.0071 per 1,000 places | 2026-11-14 |
+| 86 | [BestTime](https://datacircle.dev/local-business-search-apis/besttime/0-monthly-pro-usage-post-api-v1-venues-search) | $189 monthly, Pro Usage | 21.7 | 5 | $1.50 per 1,000 places | 2026-11-16 |
+| 87 | [LatLng](https://datacircle.dev/local-business-search-apis/latlng/29-monthly-pro-get-v1-places-search) | $29 monthly, Pro | 19.6 | 3 |  | 2026-11-10 |
+| 88 | [Osint](https://datacircle.dev/local-business-search-apis/osint/4-20-pack) | $4.20 pack | 19.4 | 5 |  | 2026-11-13 |
+| 89 | [Barikoi](https://datacircle.dev/local-business-search-apis/barikoi/pay-as-you-go-from-api-call-3001-of-the-month-get-v2-api-search-nearby-category-1-10) | pay as you go, from API call 3,001 of the month | 18.4 | 1 |  | 2026-11-05 |
+| 90 | [Voygr PlaceCall](https://datacircle.dev/local-business-search-apis/voygr-placecall/100-pack) | $100 pack | 18.2 | 4 | $8.33 per 1,000 places | 2026-11-15 |
+| 91 | [Crawlora](https://datacircle.dev/local-business-search-apis/crawlora/9-monthly) | $9 monthly, Starter | 17.7 | 1 |  | 2026-11-05 |
+| 92 | [MapQuest](https://datacircle.dev/local-business-search-apis/mapquest/119-monthly-basic-get-search-v4-place) | $119 monthly, Basic | 16.7 | 3 |  | 2026-11-16 |
 | 93 | [FUNEL](https://datacircle.dev/local-business-search-apis/funel/2-25-pack) | $2.25 pack | 0 | 0 |  | 2026-11-15 |
-| 94 | [GeoData Placefinder](https://datacircle.dev/local-business-search-apis/geodata-placefinder/free-get-api-search) | free | 0 | 0 | $0.00 per 1,000 places | 2026-11-11 |
+| 94 | [gankdat](https://datacircle.dev/local-business-search-apis/gankdat/5-monthly) | £5 (about $7) monthly | 0 | 0 | $0.067 per 1,000 places | 2026-11-23 |
+| 95 | [GeoData Placefinder](https://datacircle.dev/local-business-search-apis/geodata-placefinder/free-get-api-search) | free | 0 | 0 | $0.00 per 1,000 places | 2026-11-11 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

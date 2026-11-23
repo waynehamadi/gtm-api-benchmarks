@@ -1,8 +1,8 @@
 # Job posting details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,457 providers of 164 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,477 providers of 167 kinds of API.
 
-Arbetsförmedlingen ranks first in our benchmark, with an Overall score of 92 out of 100. Arbetsförmedlingen scores 84 out of 100 for accuracy. Arbetsförmedlingen's plan "free, Open data" costs $0.00 per 1,000 jobs. We rank 40 providers. We last tested them on 2026-11-21.
+Arbetsförmedlingen ranks first in our benchmark, with an Overall score of 92 out of 100. Arbetsförmedlingen scores 84 out of 100 for accuracy. Arbetsförmedlingen's plan "free, Open data" costs $0.00 per 1,000 jobs. We rank 40 providers. We last tested them on 2026-11-22.
 
 Every plan below is on our ranking page, [Job posting details API: best providers in 2026](https://datacircle.dev/best-job-posting-details-api).
 
@@ -26,7 +26,7 @@ Every plan below is on our ranking page, [Job posting details API: best provider
 | 16 | [VeritaHire](https://datacircle.dev/job-posting-details-apis/veritahire/free-no-key) | free, no key | 72.3 | 49 | $0.00 per 1,000 jobs | 2026-11-08 |
 | 17 | [Gem](https://datacircle.dev/job-posting-details-apis/gem/free) | free | 70.5 | 49 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 18 | [Reed](https://datacircle.dev/job-posting-details-apis/reed/free) | free | 70.3 | 66 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 19 | [Job Opportunities API](https://datacircle.dev/job-posting-details-apis/job-opportunities-api/299-monthly) | €299 monthly | 67.5 | 63 | $0.84 per 1,000 jobs | 2026-11-10 |
+| 19 | [Job Opportunities API](https://datacircle.dev/job-posting-details-apis/job-opportunities-api/299-monthly) | €299 monthly | 67.7 | 64 | $0.84 per 1,000 jobs | 2026-11-22 |
 | 20 | [USAJOBS](https://datacircle.dev/job-posting-details-apis/usajobs/free) | free | 65.4 | 54 | $0.00 per 1,000 jobs | 2026-11-08 |
 | 21 | [ReefAPI](https://datacircle.dev/job-posting-details-apis/reefapi/450-quarterly-enterprise-quarterly-post-ats-jobs-v1-job-detail-job-detail-lever) | $450 quarterly, Enterprise quarterly | 64 | 62 | $0.50 per 1,000 jobs | 2026-10-27 |
 | 22 | [Exende](https://datacircle.dev/job-posting-details-apis/exende/149-monthly) | €149 monthly | 62.9 | 64 | $0.56 per 1,000 jobs | 2026-11-08 |
