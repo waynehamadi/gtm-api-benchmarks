@@ -1,6 +1,6 @@
 # Backlinks API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 DataForSEO ranks first in our benchmark, with an Overall score of 58.9 out of 100. DataForSEO scores 75 out of 100 for accuracy. DataForSEO's plan "top-up from $50" costs $0.036 per 1,000 backlinks. We rank 10 providers. We last tested them on 2026-11-23.
 

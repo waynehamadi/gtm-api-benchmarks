@@ -1,6 +1,6 @@
 # LinkedIn company data API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 DataForB2B ranks first in our benchmark, with an Overall score of 85 out of 100. DataForB2B scores 74 out of 100 for accuracy. DataForB2B's plan "$499 monthly" costs $0.10 per 1,000 companies. We rank 92 providers. We last tested them on 2026-11-23.
 

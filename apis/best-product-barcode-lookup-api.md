@@ -1,6 +1,6 @@
 # Product barcode lookup API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 EAN-DB ranks first in our benchmark, with an Overall score of 53.6 out of 100. EAN-DB scores 29 out of 100 for accuracy. EAN-DB's plan "€249 pack" costs $0.93 per 1,000 barcodes. We rank 13 providers. We last tested them on 2026-11-24.
 

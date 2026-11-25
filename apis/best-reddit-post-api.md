@@ -1,6 +1,6 @@
 # Reddit post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 80.6 out of 100. Scrappa scores 72 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.003 per 1,000 posts. We rank 29 providers. We last tested them on 2026-11-23.
 

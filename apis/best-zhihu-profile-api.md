@@ -1,6 +1,6 @@
 # Zhihu profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 AnyAPI ranks first in our benchmark, with an Overall score of 76.5 out of 100. AnyAPI scores 98 out of 100 for accuracy. AnyAPI's plan "top-up from $10" costs $1.20 per 1,000 profiles. We rank 3 providers. We last tested them on 2026-11-16.
 

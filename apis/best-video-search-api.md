@@ -1,8 +1,8 @@
 # Video search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
-Scrappa ranks first in our benchmark, with an Overall score of 87.7 out of 100. Scrappa scores 95 out of 100 for accuracy. Scrappa's plan "$25 pack" costs $0.29 per 1,000 searches. We rank 54 providers. We last tested them on 2026-11-24.
+Scrappa ranks first in our benchmark, with an Overall score of 87.7 out of 100. Scrappa scores 95 out of 100 for accuracy. Scrappa's plan "$25 pack" costs $0.29 per 1,000 searches. We rank 55 providers. We last tested them on 2026-11-24.
 
 Every plan below is on our ranking page, [Video search API: best providers in 2026](https://datacircle.dev/best-video-search-api).
 
@@ -39,29 +39,30 @@ Every plan below is on our ranking page, [Video search API: best providers in 20
 | 29 | [Search1API](https://datacircle.dev/video-search-apis/search1api/19-monthly-basic-post-search-search) | $19 monthly, Basic | 60.2 | 80 | $0.76 per 1,000 searches | 2026-11-06 |
 | 30 | [MapleSerp](https://datacircle.dev/video-search-apis/mapleserp/45-monthly) | $45 monthly | 58.9 | 93 | $0.90 per 1,000 searches | 2026-10-30 |
 | 31 | [Reserp](https://datacircle.dev/video-search-apis/reserp/top-up-paid-first-2m-requests-post-v2-serp-structured) | top-up, Paid: first 2M requests | 57.9 | 88 | $0.75 per 1,000 searches | 2026-11-16 |
-| 32 | [Supadata](https://datacircle.dev/video-search-apis/supadata/297-monthly) | $297 monthly | 57.3 | 84 | $0.99 per 1,000 searches | 2026-11-03 |
-| 33 | [Openhandle](https://datacircle.dev/video-search-apis/openhandle/pay-as-you-go) | pay as you go | 57.2 | 83 | $2.00 per 1,000 searches | 2026-11-07 |
-| 34 | [YouTubeTranscript.dev](https://datacircle.dev/video-search-apis/youtubetranscript-dev/79-monthly-business-get-search-videos) | $79 monthly, Business | 56.9 | 84 | $4.39 per 1,000 searches | 2026-11-08 |
-| 35 | [FrameFetch](https://datacircle.dev/video-search-apis/framefetch/1-pack) | $1 pack | 56.2 | 87 | $2.00 per 1,000 searches | 2026-11-06 |
-| 36 | [TranscriptOut](https://datacircle.dev/video-search-apis/transcriptout/54-99-monthly-25000-credits-a-month-get-v1-search) | $54.99 monthly, 25,000 credits a month | 56.2 | 87 | $2.20 per 1,000 searches | 2026-11-07 |
-| 37 | [Transcript Dock](https://datacircle.dev/video-search-apis/transcript-dock/top-up-from-6-extra-credits-scale-rate-post-v1-video-discoveries-find-videos-youtube-search) | top-up from $6, Extra credits (Scale rate) | 54.5 | 86 | $6.00 per 1,000 searches | 2026-11-07 |
-| 38 | [Vimeo](https://datacircle.dev/video-search-apis/vimeo/20-monthly) | $20 monthly | 52.8 | 98 |  | 2026-11-14 |
-| 39 | [BulkTranscripts](https://datacircle.dev/video-search-apis/bulktranscripts/499-pack-agency-get-api-v1-search) | $499 pack, Agency | 52.7 | 87 | $2.50 per 1,000 searches | 2026-11-07 |
-| 40 | [ReplyNodes](https://datacircle.dev/video-search-apis/replynodes/99-monthly) | $99 monthly | 52.3 | 78 | $2.97 per 1,000 searches | 2026-11-07 |
-| 41 | [YepAPI](https://datacircle.dev/video-search-apis/yepapi/top-up) | top-up | 51.8 | 86 | $10.00 per 1,000 searches | 2026-11-04 |
-| 42 | [Automatio](https://datacircle.dev/video-search-apis/automatio/18-monthly) | $18 monthly | 49.7 | 80 | $10.00 per 1,000 searches | 2026-11-06 |
-| 43 | [Novada](https://datacircle.dev/video-search-apis/novada/290-monthly-290-post-request-bing-videos) | $290 monthly | 49 | 60 | $0.90 per 1,000 searches | 2026-11-06 |
-| 44 | [OpenWeb Ninja](https://datacircle.dev/video-search-apis/openweb-ninja/150-monthly-mega-get-search-video-search) | $150 monthly, Mega | 48.6 | 80 | $0.75 per 1,000 searches | 2026-11-22 |
-| 45 | [ByCrawl](https://datacircle.dev/video-search-apis/bycrawl/9-monthly) | $9 monthly | 47.9 | 76 | $18.00 per 1,000 searches | 2026-11-07 |
-| 46 | [YouTubeVideoTranscript.io](https://datacircle.dev/video-search-apis/youtubevideotranscript-io/9-monthly-starter-get-api-v1-search) | $9 monthly, Starter | 47.8 | 84 |  | 2026-11-07 |
-| 47 | [LinkDigest](https://datacircle.dev/video-search-apis/linkdigest/9-monthly) | $9 monthly | 47.3 | 76 | $18.00 per 1,000 searches | 2026-11-07 |
-| 48 | [Caelario](https://datacircle.dev/video-search-apis/caelario/19-pack-launch-post-v1-batches) | $19 pack, Launch | 46.2 | 80 |  | 2026-11-19 |
-| 49 | [SerpApi](https://datacircle.dev/video-search-apis/serpapi/150-monthly-production-get-search-bing-videos-api) | $150 monthly, Production | 45.2 | 94 | $10.00 per 1,000 searches | 2026-11-20 |
-| 50 | [Omkar Cloud](https://datacircle.dev/video-search-apis/omkar-cloud/148-monthly) | $148 monthly | 45.7 | 48 | $0.99 per 1,000 searches | 2026-11-06 |
-| 51 | [XMLStock](https://datacircle.dev/video-search-apis/xmlstock/top-up-get-yandexlive-xml) | top-up, Basic | 43 | 27 | $0.30 per 1,000 searches | 2026-11-06 |
-| 52 | [Marketplace for AI Agents](https://datacircle.dev/video-search-apis/marketplace-for-ai-agents/10-pack-10-credit-pack-get-api-public-v1-google-videos) | $10 pack, $10 credit pack | 35 | 33 | $5.00 per 1,000 searches | 2026-11-07 |
-| 53 | [JustSerpAPI](https://datacircle.dev/video-search-apis/justserpapi/5-monthly-launch-get-api-v1-google-shorts-search) | $5 monthly, Launch | 34.5 | 48 |  | 2026-11-06 |
-| 54 | [ScraperCompany](https://datacircle.dev/video-search-apis/scrapercompany/399-monthly) | $399 monthly | 34.2 | 19 | $2.39 per 1,000 searches | 2026-11-16 |
+| 32 | [FastSaver](https://datacircle.dev/video-search-apis/fastsaver/9-monthly) | $9 monthly | 57.7 | 59 | $0.18 per 1,000 searches | 2026-11-24 |
+| 33 | [Supadata](https://datacircle.dev/video-search-apis/supadata/297-monthly) | $297 monthly | 57.3 | 84 | $0.99 per 1,000 searches | 2026-11-03 |
+| 34 | [Openhandle](https://datacircle.dev/video-search-apis/openhandle/pay-as-you-go) | pay as you go | 57.2 | 83 | $2.00 per 1,000 searches | 2026-11-07 |
+| 35 | [YouTubeTranscript.dev](https://datacircle.dev/video-search-apis/youtubetranscript-dev/79-monthly-business-get-search-videos) | $79 monthly, Business | 56.9 | 84 | $4.39 per 1,000 searches | 2026-11-08 |
+| 36 | [FrameFetch](https://datacircle.dev/video-search-apis/framefetch/1-pack) | $1 pack | 56.2 | 87 | $2.00 per 1,000 searches | 2026-11-06 |
+| 37 | [TranscriptOut](https://datacircle.dev/video-search-apis/transcriptout/54-99-monthly-25000-credits-a-month-get-v1-search) | $54.99 monthly, 25,000 credits a month | 56.2 | 87 | $2.20 per 1,000 searches | 2026-11-07 |
+| 38 | [Transcript Dock](https://datacircle.dev/video-search-apis/transcript-dock/top-up-from-6-extra-credits-scale-rate-post-v1-video-discoveries-find-videos-youtube-search) | top-up from $6, Extra credits (Scale rate) | 54.5 | 86 | $6.00 per 1,000 searches | 2026-11-07 |
+| 39 | [Vimeo](https://datacircle.dev/video-search-apis/vimeo/20-monthly) | $20 monthly | 52.8 | 98 |  | 2026-11-14 |
+| 40 | [BulkTranscripts](https://datacircle.dev/video-search-apis/bulktranscripts/499-pack-agency-get-api-v1-search) | $499 pack, Agency | 52.7 | 87 | $2.50 per 1,000 searches | 2026-11-07 |
+| 41 | [ReplyNodes](https://datacircle.dev/video-search-apis/replynodes/99-monthly) | $99 monthly | 52.3 | 78 | $2.97 per 1,000 searches | 2026-11-07 |
+| 42 | [YepAPI](https://datacircle.dev/video-search-apis/yepapi/top-up) | top-up | 51.8 | 86 | $10.00 per 1,000 searches | 2026-11-04 |
+| 43 | [Automatio](https://datacircle.dev/video-search-apis/automatio/18-monthly) | $18 monthly | 49.7 | 80 | $10.00 per 1,000 searches | 2026-11-06 |
+| 44 | [Novada](https://datacircle.dev/video-search-apis/novada/290-monthly-290-post-request-bing-videos) | $290 monthly | 49 | 60 | $0.90 per 1,000 searches | 2026-11-06 |
+| 45 | [OpenWeb Ninja](https://datacircle.dev/video-search-apis/openweb-ninja/150-monthly-mega-get-search-video-search) | $150 monthly, Mega | 48.6 | 80 | $0.75 per 1,000 searches | 2026-11-22 |
+| 46 | [ByCrawl](https://datacircle.dev/video-search-apis/bycrawl/9-monthly) | $9 monthly | 47.9 | 76 | $18.00 per 1,000 searches | 2026-11-07 |
+| 47 | [YouTubeVideoTranscript.io](https://datacircle.dev/video-search-apis/youtubevideotranscript-io/9-monthly-starter-get-api-v1-search) | $9 monthly, Starter | 47.8 | 84 |  | 2026-11-07 |
+| 48 | [LinkDigest](https://datacircle.dev/video-search-apis/linkdigest/9-monthly) | $9 monthly | 47.3 | 76 | $18.00 per 1,000 searches | 2026-11-07 |
+| 49 | [Caelario](https://datacircle.dev/video-search-apis/caelario/19-pack-launch-post-v1-batches) | $19 pack, Launch | 46.2 | 80 |  | 2026-11-19 |
+| 50 | [SerpApi](https://datacircle.dev/video-search-apis/serpapi/150-monthly-production-get-search-bing-videos-api) | $150 monthly, Production | 45.2 | 94 | $10.00 per 1,000 searches | 2026-11-20 |
+| 51 | [Omkar Cloud](https://datacircle.dev/video-search-apis/omkar-cloud/148-monthly) | $148 monthly | 45.7 | 48 | $0.99 per 1,000 searches | 2026-11-06 |
+| 52 | [XMLStock](https://datacircle.dev/video-search-apis/xmlstock/top-up-get-yandexlive-xml) | top-up, Basic | 43 | 27 | $0.30 per 1,000 searches | 2026-11-06 |
+| 53 | [Marketplace for AI Agents](https://datacircle.dev/video-search-apis/marketplace-for-ai-agents/10-pack-10-credit-pack-get-api-public-v1-google-videos) | $10 pack, $10 credit pack | 35 | 33 | $5.00 per 1,000 searches | 2026-11-07 |
+| 54 | [JustSerpAPI](https://datacircle.dev/video-search-apis/justserpapi/5-monthly-launch-get-api-v1-google-shorts-search) | $5 monthly, Launch | 34.5 | 48 |  | 2026-11-06 |
+| 55 | [ScraperCompany](https://datacircle.dev/video-search-apis/scrapercompany/399-monthly) | $399 monthly | 34.2 | 19 | $2.39 per 1,000 searches | 2026-11-16 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

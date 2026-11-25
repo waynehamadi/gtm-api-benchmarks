@@ -1,6 +1,6 @@
 # IP company lookup API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 IPLogs ranks first in our benchmark, with an Overall score of 97.3 out of 100. IPLogs scores 99 out of 100 for accuracy. IPLogs's plan "free" costs $0.00 per 1,000 IP addresses. We rank 91 providers. We last tested them on 2026-11-24.
 
@@ -38,8 +38,8 @@ Every plan below is on our ranking page, [IP company lookup API: best providers 
 | 28 | [KeyCDN](https://datacircle.dev/ip-company-lookup-apis/keycdn/free) | free | 72.7 | 50 | $0.00 per 1,000 IP addresses | 2026-11-08 |
 | 29 | [Country.is](https://datacircle.dev/ip-company-lookup-apis/country-is/free-get-ip) | free | 72.5 | 50 | $0.00 per 1,000 IP addresses | 2026-11-08 |
 | 30 | [IPScanner](https://datacircle.dev/ip-company-lookup-apis/ipscanner/5-pack-pay-as-you-go-5-get-asn-ip) | $5 pack, Pay as you go $5 | 72.1 | 50 |  | 2026-11-11 |
-| 31 | [Pushbuild](https://datacircle.dev/ip-company-lookup-apis/pushbuild/top-up) | top-up | 70.4 | 100 | $0.32 per 1,000 IP addresses | 2026-11-05 |
-| 32 | [VPNDetection](https://datacircle.dev/ip-company-lookup-apis/vpndetection/99-monthly-scale-get-ip) | $99 monthly, Scale | 69.8 | 96 | $0.05 per 1,000 IP addresses | 2026-11-24 |
+| 31 | [VPNDetection](https://datacircle.dev/ip-company-lookup-apis/vpndetection/19-monthly-starter-get-ip) | $19 monthly, Starter | 71.1 | 100 | $0.076 per 1,000 IP addresses | 2026-11-24 |
+| 32 | [Pushbuild](https://datacircle.dev/ip-company-lookup-apis/pushbuild/top-up) | top-up | 70.4 | 100 | $0.32 per 1,000 IP addresses | 2026-11-05 |
 | 33 | [IPScope](https://datacircle.dev/ip-company-lookup-apis/ipscope/99-monthly-business-get-v1-ip-ip) | $99 monthly, Business | 68.2 | 58 | $0.0099 per 1,000 IP addresses | 2026-11-11 |
 | 34 | [IPGeo by Techniknews](https://datacircle.dev/ip-company-lookup-apis/ipgeo-by-techniknews/free) | free | 67.8 | 56 | $0.00 per 1,000 IP addresses | 2026-11-08 |
 | 35 | [Ipregistry](https://datacircle.dev/ip-company-lookup-apis/ipregistry/29-monthly-starter-get-ip) | $29 monthly, Starter | 67.7 | 96 | $0.29 per 1,000 IP addresses | 2026-11-05 |

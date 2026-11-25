@@ -1,8 +1,8 @@
 # Email verification API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
-pingutil ranks first in our benchmark, with an Overall score of 82.3 out of 100. pingutil scores 77 out of 100 for accuracy. pingutil's plan "free API key" costs $0.00 per 1,000 emails. We rank 327 providers. We last tested them on 2026-11-24.
+pingutil ranks first in our benchmark, with an Overall score of 82.3 out of 100. pingutil scores 77 out of 100 for accuracy. pingutil's plan "free API key" costs $0.00 per 1,000 emails. We rank 333 providers. We last tested them on 2026-11-24.
 
 Every plan below is on our ranking page, [Email verification API: best providers in 2026](https://datacircle.dev/best-email-verification-api).
 
@@ -130,211 +130,217 @@ Every plan below is on our ranking page, [Email verification API: best providers
 | 120 | [BounceCheck](https://datacircle.dev/validate-email-apis/bouncecheck/29-99-monthly-pro-post-verification-single) | $29.99 monthly, Pro | 48.7 | 66 | $1.50 per 1,000 emails | 2026-11-20 |
 | 121 | [HTMLWeb](https://datacircle.dev/validate-email-apis/htmlweb/7800-pack-100000-requests-get-json-service-email-email-validation-api) | ₽7,800 (about $93) pack, 100,000 requests | 48.3 | 51 | $0.93 per 1,000 emails | 2026-11-09 |
 | 122 | [BounceBan](https://datacircle.dev/validate-email-apis/bounceban/255-monthly-100000-credits-monthly-subscription-15-off-get-v1-verify-single-single-email-verification-clay-n8n-and-other-waterfall-services) | $255 monthly, 100,000 Credits, Monthly subscription (15% off) | 48.2 | 74 | $2.55 per 1,000 emails | 2026-11-03 |
-| 123 | [Corenexis](https://datacircle.dev/validate-email-apis/corenexis/9-99-monthly) | $9.99 monthly | 48.1 | 66 | $0.67 per 1,000 emails | 2026-11-21 |
-| 124 | [Enrow](https://datacircle.dev/validate-email-apis/enrow/87-monthly) | $87 monthly, Pro | 47.5 | 66 | $2.18 per 1,000 emails | 2026-11-03 |
-| 125 | [AnyAPI](https://datacircle.dev/validate-email-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-email-verify) | top-up from $10, Manual top-up | 47.2 | 72 | $6.60 per 1,000 emails | 2026-11-03 |
-| 126 | [Invalid Bounce](https://datacircle.dev/validate-email-apis/invalid-bounce/449-pack) | $449 pack | 46.9 | 69 | $0.45 per 1,000 emails | 2026-11-03 |
-| 127 | [TrekMail](https://datacircle.dev/validate-email-apis/trekmail/179-pack-100000-credits-post-verify-verify-one-address-deep) | $179 pack, 100,000 credits | 46.8 | 80 | $3.58 per 1,000 emails | 2026-11-18 |
-| 128 | [OxiBounce](https://datacircle.dev/validate-email-apis/oxibounce/249-pack-100-000-verifications-post-check) | €249 pack, 100 000 vérifications | 46.6 | 77 | $2.80 per 1,000 emails | 2026-11-03 |
-| 129 | [VeriMailX](https://datacircle.dev/validate-email-apis/verimailx/79-pack-tier-1-post-validate) | $79 pack, Tier 1 | 46.4 | 62 | $0.22 per 1,000 emails | 2026-11-11 |
-| 130 | [PureChecker](https://datacircle.dev/validate-email-apis/purechecker/8-monthly-monthly-subscription-500-emails-day-get-api-v1-single-check) | $8 monthly, Monthly Subscription, 500 emails/day | 46.1 | 49 | $0.53 per 1,000 emails | 2026-11-05 |
-| 131 | [Email2Verify](https://datacircle.dev/validate-email-apis/email2verify/99-monthly) | $99 monthly | 45.9 | 59 | $0.099 per 1,000 emails | 2026-11-03 |
-| 132 | [Draft and Check](https://datacircle.dev/validate-email-apis/draft-and-check/99-pack-50000-post-verify) | $99 pack, 50,000 | 45.7 | 64 | $1.98 per 1,000 emails | 2026-11-21 |
-| 133 | [MailingAPI](https://datacircle.dev/validate-email-apis/mailingapi/pay-as-you-go-100001-post-v1-validate-single) | pay as you go, 100,001+ | 45.6 | 56 | $1.00 per 1,000 emails | 2026-11-04 |
-| 134 | [RankFabrik](https://datacircle.dev/validate-email-apis/rankfabrik/100-monthly-artisan-get-verifier) | €100 monthly, Artisan | 45.5 | 80 | $4.50 per 1,000 emails | 2026-11-06 |
-| 135 | [ByeBouncer](https://datacircle.dev/validate-email-apis/byebouncer/10-pack-pack-xs-post-api-v1-verify-email) | $10 pack, Pack XS | 45.4 | 66 | $5.00 per 1,000 emails | 2026-11-11 |
-| 136 | [turboSMTP](https://datacircle.dev/validate-email-apis/turbosmtp/14-95-monthly-basic-15000-emails-a-month-post-emailvalidation-validateemail) | €14.95 monthly, Basic, 15,000 emails a month | 45.3 | 77 | $168.23 per 1,000 emails | 2026-11-07 |
-| 137 | [DebounceAPI](https://datacircle.dev/validate-email-apis/debounceapi/199-99-pack-business-post-verify) | $199.99 pack, Business | 45.3 | 66 | $2.00 per 1,000 emails | 2026-11-12 |
-| 138 | [Wontbounce](https://datacircle.dev/validate-email-apis/wontbounce/99-monthly) | $99 monthly | 45.3 | 65 | $0.99 per 1,000 emails | 2026-11-21 |
-| 139 | [VerifySwift](https://datacircle.dev/validate-email-apis/verifyswift/9-99-monthly-daily-credits-600-a-day) | $9.99 monthly, Daily Credits 600 a day | 45.3 | 59 | $0.56 per 1,000 emails | 2026-11-07 |
-| 140 | [SyncGTM](https://datacircle.dev/validate-email-apis/syncgtm/249-monthly) | $249 monthly | 45.2 | 63 | $4.98 per 1,000 emails | 2026-11-03 |
-| 141 | [Lakewave](https://datacircle.dev/validate-email-apis/lakewave/19-monthly-sled-solo-post-emails-verify) | $19 monthly, SLED Solo | 45.1 | 80 | $63.33 per 1,000 emails | 2026-11-09 |
-| 142 | [Postcoder](https://datacircle.dev/validate-email-apis/postcoder/35-pack) | £35 (about $47) pack | 45 | 75 | $56.01 per 1,000 emails | 2026-11-03 |
-| 143 | [MiN8T](https://datacircle.dev/validate-email-apis/min8t/19-pack) | $19 pack | 44.9 | 77 | $9.50 per 1,000 emails | 2026-11-18 |
-| 144 | [SpamCipher](https://datacircle.dev/validate-email-apis/spamcipher/94-99-monthly-spamcipher-one-10000-credits-a-month-post-api-v1-verify) | $94.99 monthly, SpamCipher ONE, 10,000 credits a month | 44.9 | 75 | $9.50 per 1,000 emails | 2026-11-08 |
-| 145 | [Dropcontact](https://datacircle.dev/validate-email-apis/dropcontact/35-monthly) | €35 monthly | 44.8 | 85 | $78.77 per 1,000 emails | 2026-11-03 |
-| 146 | [ManyPI](https://datacircle.dev/validate-email-apis/manypi/25-monthly) | $25 monthly | 44.8 | 77 | $25.00 per 1,000 emails | 2026-11-07 |
-| 147 | [EmailValidator.ru](https://datacircle.dev/validate-email-apis/emailvalidator-ru/2990-monthly-pro-post-validate) | ₽2,990 (about $36) monthly, Pro | 44.8 | 54 | $1.43 per 1,000 emails | 2026-11-09 |
-| 148 | [Tomba](https://datacircle.dev/validate-email-apis/tomba/199-monthly) | $199 monthly, Pro | 44.3 | 69 | $9.95 per 1,000 emails | 2026-11-06 |
-| 149 | [graph8](https://datacircle.dev/validate-email-apis/graph8/499-monthly) | $499 monthly | 44.2 | 77 |  | 2026-11-06 |
-| 150 | [Email Verifier API](https://datacircle.dev/validate-email-apis/email-verifier-api/399-95-pack) | $399.95 pack | 43.6 | 70 | $4.00 per 1,000 emails | 2026-11-06 |
-| 151 | [Verifox](https://datacircle.dev/validate-email-apis/verifox/349-pack-100000-credits-post-email-validation) | $349 pack, 100,000 credits | 43.4 | 66 | $3.49 per 1,000 emails | 2026-11-03 |
-| 152 | [Skrapp](https://datacircle.dev/validate-email-apis/skrapp/349-monthly-enterprise-50k-get-v3-verify) | $349 monthly, Enterprise 50K | 43.2 | 63 | $6.98 per 1,000 emails | 2026-11-06 |
-| 153 | [Listar](https://datacircle.dev/validate-email-apis/listar/top-up-from-10) | top-up from €10 | 42.7 | 66 | $11.25 per 1,000 emails | 2026-11-03 |
-| 154 | [Alibaba Cloud](https://datacircle.dev/validate-email-apis/alibaba-cloud/500-pack-100000-post-validateemail) | $500 pack, 100,000 | 42.5 | 63 | $5.00 per 1,000 emails | 2026-11-09 |
-| 155 | [EmailAwesome](https://datacircle.dev/validate-email-apis/emailawesome/500-monthly) | $500 monthly | 42.5 | 51 | $2.00 per 1,000 emails | 2026-11-16 |
-| 156 | [Databar](https://datacircle.dev/validate-email-apis/databar/99-monthly) | $99 monthly | 42.4 | 74 | $19.80 per 1,000 emails | 2026-11-14 |
-| 157 | [Vouch](https://datacircle.dev/validate-email-apis/vouch/15-pack-2500-credits-get-v1-verify) | €15 pack, 2,500 credits | 42.4 | 67 | $6.75 per 1,000 emails | 2026-11-11 |
-| 158 | [Webbula](https://datacircle.dev/validate-email-apis/webbula/24-95-monthly-core-post-task-express) | $24.95 monthly, Core | 42.1 | 70 | $9.98 per 1,000 emails | 2026-11-16 |
-| 159 | [Addressfinder](https://datacircle.dev/validate-email-apis/addressfinder/nz-55-monthly) | NZ$55 (about $31) monthly | 41.9 | 75 | $62.30 per 1,000 emails | 2026-11-03 |
-| 160 | [FraudNova](https://datacircle.dev/validate-email-apis/fraudnova/40-pack-starter-get-api-v1-check-email) | $40 pack, Starter | 41.7 | 65 | $8.00 per 1,000 emails | 2026-11-14 |
-| 161 | [Catch-all Verifier](https://datacircle.dev/validate-email-apis/catch-all-verifier/49-pack-10000-credits-post-api-v1-verify-single) | $49 pack, 10,000 Credits | 40.3 | 62 | $4.90 per 1,000 emails | 2026-11-05 |
-| 162 | [Scrubby](https://datacircle.dev/validate-email-apis/scrubby/40-pack-pay-as-you-go-post-validate-email-quick-verification-validate-instantly-staging) | $40 pack, Pay As You Go | 39.4 | 63 | $8.00 per 1,000 emails | 2026-11-14 |
-| 163 | [Fraud Blocker](https://datacircle.dev/validate-email-apis/fraud-blocker/99-monthly) | $99 monthly | 38.4 | 83 | $396.00 per 1,000 emails | 2026-11-23 |
-| 164 | [Email Hippo](https://datacircle.dev/validate-email-apis/email-hippo/468-monthly-more-100000-edition-2-monthly) | $468 monthly, MORE 100,000 Edition 2 (Monthly) | 38.4 | 69 | $4.68 per 1,000 emails | 2026-11-18 |
-| 165 | [Email Validation API.net](https://datacircle.dev/validate-email-apis/email-validation-api-net/29-pack-29-deposit-post-validate) | $29 pack, $29 deposit | 38.3 | 49 | $3.90 per 1,000 emails | 2026-11-10 |
-| 166 | [Hopewiser](https://datacircle.dev/validate-email-apis/hopewiser/2-30-pack) | £2.30 (about $3) pack | 37.9 | 77 | $30.67 per 1,000 emails | 2026-11-08 |
-| 167 | [Aidenix](https://datacircle.dev/validate-email-apis/aidenix/39-monthly) | $39 monthly | 36 | 67 |  | 2026-11-16 |
-| 168 | [Mail List Shield](https://datacircle.dev/validate-email-apis/mail-list-shield/top-up) | top-up | 34.3 | 64 | $10.00 per 1,000 emails | 2026-11-09 |
-| 169 | [Apixies](https://datacircle.dev/validate-email-apis/apixies/free-sandbox-no-account) | free, Sandbox (no account) | 72.7 | 47 | $0.00 per 1,000 emails | 2026-11-11 |
-| 170 | [HostSherlock](https://datacircle.dev/validate-email-apis/hostsherlock/29-monthly-starter-post-v1-verify-single) | $29 monthly, Starter | 65.9 | 42 |  | 2026-11-22 |
-| 171 | [VerifyKit](https://datacircle.dev/validate-email-apis/verifykit/249-monthly-unlimited-post-v1-verify) | $249 monthly, Unlimited | 65.4 | 47 | $0.05 per 1,000 emails | 2026-11-06 |
-| 172 | [SMTPing](https://datacircle.dev/validate-email-apis/smtping/200-pack-2m-credits-post-verify-single) | $200 pack, 2M credits | 59.9 | 30 | $0.10 per 1,000 emails | 2026-11-06 |
-| 173 | [Searlo](https://datacircle.dev/validate-email-apis/searlo/199-99-pack) | $199.99 pack | 56.6 | 46 | $1.11 per 1,000 emails | 2026-11-12 |
-| 174 | [QuickEmailVerification](https://datacircle.dev/validate-email-apis/quickemailverification/260-monthly) | $260 monthly, Per Day Credits, 10,000 credits a day | 56.2 | 47 | $0.87 per 1,000 emails | 2026-11-06 |
-| 175 | [MailSift](https://datacircle.dev/validate-email-apis/mailsift/249-pack-enterprise-get-verify-verify-one-email-with-deep-verification) | $249 pack, Enterprise | 52.3 | 27 | $1.25 per 1,000 emails | 2026-11-06 |
-| 176 | [emailverifier.dev](https://datacircle.dev/validate-email-apis/emailverifier-dev/10-pack) | $10 pack | 45.3 | 45 | $0.50 per 1,000 emails | 2026-11-06 |
-| 177 | [SafetyMails](https://datacircle.dev/validate-email-apis/safetymails/416-70-monthly) | $416.70 monthly | 44.6 | 41 | $1.39 per 1,000 emails | 2026-11-13 |
-| 178 | [WhoisXML API](https://datacircle.dev/validate-email-apis/whoisxml-api/449-monthly) | $449 monthly | 44 | 46 | $2.53 per 1,000 emails | 2026-11-06 |
-| 179 | [Status Check](https://datacircle.dev/validate-email-apis/status-check/top-up) | top-up | 44 | 45 | $1.00 per 1,000 emails | 2026-11-16 |
-| 180 | [CleanMyList](https://datacircle.dev/validate-email-apis/cleanmylist/119-monthly-verify-scale-post-v1-verify) | $119 monthly, Verify Scale | 43.1 | 47 | $0.99 per 1,000 emails | 2026-11-03 |
-| 181 | [Unisender Go](https://datacircle.dev/validate-email-apis/unisender-go/800-monthly-by-card-6000-emails-a-month-first-100-validations-a-month) | ₽800 (about $10) monthly, By card, 6,000 emails a month, first 100 validations a month | 41 | 27 | $0.00 per 1,000 emails | 2026-11-03 |
-| 182 | [Bulk Email Verifier](https://datacircle.dev/validate-email-apis/bulk-email-verifier/400-pack-500000-requests-post-api-single) | $400 pack, ≥ 500,000 requests | 39.9 | 42 | $0.80 per 1,000 emails | 2026-11-10 |
-| 183 | [Loqate](https://datacircle.dev/validate-email-apis/loqate/50-pack-pay-as-you-go-50-get-emailvalidation-interactive-validate-v2-00-json6-ws) | £50 (about $67) pack, Pay-as-you-go £50 | 39.2 | 47 | $85.34 per 1,000 emails | 2026-11-06 |
-| 184 | [ProWebLook](https://datacircle.dev/validate-email-apis/proweblook/279-20-monthly) | $279.20 monthly | 39 | 45 | $0.28 per 1,000 emails | 2026-11-06 |
-| 185 | [Heybounce](https://datacircle.dev/validate-email-apis/heybounce/351-monthly-monthly-100000-credits-get-validate) | $351 monthly, Monthly 100,000 credits | 38.5 | 40 | $3.51 per 1,000 emails | 2026-11-06 |
-| 186 | [SimpleCold](https://datacircle.dev/validate-email-apis/simplecold/375-pack-250000-credits-get-api-validation-single) | $375 pack, 250,000 credits | 38.2 | 36 | $1.50 per 1,000 emails | 2026-11-23 |
-| 187 | [AddressZen](https://datacircle.dev/validate-email-apis/addresszen/49-pack) | $49 pack | 37.7 | 47 | $35.00 per 1,000 emails | 2026-11-11 |
-| 188 | [Trumailo](https://datacircle.dev/validate-email-apis/trumailo/19-monthly) | $19 monthly | 37.3 | 36 | $0.38 per 1,000 emails | 2026-11-03 |
-| 189 | [Foxentry](https://datacircle.dev/validate-email-apis/foxentry/top-up-pay-as-you-go-post-email-validate-validate-email-extended) | top-up, Pay as you go | 36.2 | 47 | $16.20 per 1,000 emails | 2026-11-03 |
-| 190 | [Abstract API](https://datacircle.dev/validate-email-apis/abstract-api/199-monthly) | $199 monthly | 35.5 | 47 | $1.33 per 1,000 emails | 2026-11-06 |
-| 191 | [MailRambo](https://datacircle.dev/validate-email-apis/mailrambo/149-monthly-enterprise-post-v1-verify) | $149 monthly, Enterprise | 33.9 | 37 | $1.99 per 1,000 emails | 2026-11-06 |
-| 192 | [Textmagic](https://datacircle.dev/validate-email-apis/textmagic/20-pack) | $20 pack | 33.8 | 45 | $40.00 per 1,000 emails | 2026-11-24 |
-| 193 | [PeopleDB](https://datacircle.dev/validate-email-apis/peopledb/15-pack-100-credits-get-email-verifications) | $15 pack, 100 credits | 30.4 | 45 | $150.00 per 1,000 emails | 2026-11-06 |
-| 194 | [ValidEmail.net](https://datacircle.dev/validate-email-apis/validemail-net/400-pack) | $400 pack | 28.8 | 17 | $0.40 per 1,000 emails | 2026-11-16 |
-| 195 | [Mailboxlayer by APILayer](https://datacircle.dev/validate-email-apis/mailboxlayer-by-apilayer/74-99-monthly-professional-get-check) | $74.99 monthly, Professional | 25.3 | 7 | $1.50 per 1,000 emails | 2026-11-06 |
-| 196 | [Enrich.so](https://datacircle.dev/validate-email-apis/enrich-so/499-monthly) | $499 monthly, Pro | 75.5 | 73 | $0.20 per 1,000 emails | 2026-10-21 |
-| 197 | [Sealch](https://datacircle.dev/validate-email-apis/sealch/33-monthly-monthly-up-to-100000-mo-post-api-verify) | $33 monthly, Monthly up to 100,000 / mo | 70.5 | 63 | $0.33 per 1,000 emails | 2026-10-26 |
-| 198 | [RouterGrowth](https://datacircle.dev/validate-email-apis/routergrowth/499-monthly) | $499 monthly | 61.7 | 69 | $1.49 per 1,000 emails | 2026-10-26 |
-| 199 | [Emelia](https://datacircle.dev/validate-email-apis/emelia/499-monthly) | $499 monthly | 56.4 | 87 | $1.25 per 1,000 emails | 2026-10-23 |
-| 200 | [Hunter](https://datacircle.dev/validate-email-apis/hunter/299-monthly-scale-get-email-verifier) | $299 monthly, Scale | 51.8 | 79 | $5.98 per 1,000 emails | 2026-10-21 |
-| 201 | [Generect](https://datacircle.dev/validate-email-apis/generect/top-up-from-20) | top-up from $20 | 51.4 | 81 | $5.00 per 1,000 emails | 2026-10-20 |
-| 202 | [Fiber AI](https://datacircle.dev/validate-email-apis/fiber-ai/top-up-from-3) | top-up from $3 | 49.8 | 87 | $30.00 per 1,000 emails | 2026-10-20 |
-| 203 | [Anysite](https://datacircle.dev/validate-email-apis/anysite/49-monthly) | $49 monthly | 49.2 | 87 | $130.67 per 1,000 emails | 2026-10-25 |
-| 204 | [Snov.io](https://datacircle.dev/validate-email-apis/snov-io/369-monthly) | $369 monthly | 46 | 71 |  | 2026-10-29 |
-| 205 | [Mails.so](https://datacircle.dev/validate-email-apis/mails-so/98-monthly-business-get-validate) | €98 monthly, Business | 43.2 | 58 | $2.21 per 1,000 emails | 2026-10-23 |
-| 206 | [SendPulse](https://datacircle.dev/validate-email-apis/sendpulse/458-monthly-subscription-250000-monthly-post-verifier-service-send-single-to-verify) | $458 monthly, Subscription 250000 | 42 | 59 | $1.83 per 1,000 emails | 2026-10-31 |
-| 207 | [Findymail](https://datacircle.dev/validate-email-apis/findymail/99-monthly) | $99 monthly | 41.2 | 74 | $19.80 per 1,000 emails | 2026-10-21 |
-| 208 | [Data8](https://datacircle.dev/validate-email-apis/data8/25-pack-1000-credits-post-emailvalidation-isvalid-json) | £25 (about $33) pack, 1,000 credits | 37.2 | 63 | $33.34 per 1,000 emails | 2026-10-26 |
-| 209 | [Data247](https://datacircle.dev/validate-email-apis/data247/12-pack) | $12 pack | 42.2 | 41 |  | 2026-10-29 |
-| 210 | [MailerCheck](https://datacircle.dev/validate-email-apis/mailercheck/top-up-from-500-pay-as-you-go-100000-credits-post-check-single) | top-up from $500, Pay as you go, 100,000 credits | 39.6 | 47 | $5.00 per 1,000 emails | 2026-10-26 |
-| 211 | [Gamalogic](https://datacircle.dev/validate-email-apis/gamalogic/400-monthly-monthly-500000-credits-month-get-emailvrf) | $400 monthly, 500,000 Credits /Month | 38 | 30 | $0.80 per 1,000 emails | 2026-10-21 |
-| 212 | [VerificarEmails](https://datacircle.dev/validate-email-apis/verificaremails/345-pack) | €345 pack | 35.5 | 47 | $3.88 per 1,000 emails | 2026-10-23 |
-| 213 | [Sixtyfour](https://datacircle.dev/validate-email-apis/sixtyfour/top-up-from-50) | top-up from $50 | 29.9 | 36 |  | 2026-10-27 |
-| 214 | [AeroLeads](https://datacircle.dev/validate-email-apis/aeroleads/49-pack) | $49 pack | 28.8 | 41 |  | 2026-10-21 |
-| 215 | [Argorant](https://datacircle.dev/validate-email-apis/argorant/449-monthly) | $449 monthly | 25.7 | 30 | $2.25 per 1,000 emails | 2026-10-28 |
-| 216 | [NeverBounce](https://datacircle.dev/validate-email-apis/neverbounce/249-monthly-growth-up-to-250000-get-single-check) | $249 monthly, Growth, up to 250,000 | 34.8 | 22 | $1.00 per 1,000 emails | 2026-10-28 |
-| 217 | [2s.io](https://datacircle.dev/validate-email-apis/2s-io/pay-as-you-go) | pay as you go | 0 | 0 | $2.50 per 1,000 emails | 2026-11-09 |
-| 218 | [Agent Extraction API](https://datacircle.dev/validate-email-apis/agent-extraction-api/pay-as-you-go-x402-pay-per-call-get-api-email-verify-batch) | pay as you go, x402 pay per call | 0 | 0 | $0.25 per 1,000 emails | 2026-11-09 |
-| 219 | [Agent Margin Router](https://datacircle.dev/validate-email-apis/agent-margin-router/pay-as-you-go) | pay as you go | 0 | 0 | $10.00 per 1,000 emails | 2026-11-11 |
-| 220 | [Agent Toolbox](https://datacircle.dev/validate-email-apis/agent-toolbox/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-09 |
-| 221 | [AgentDiet](https://datacircle.dev/validate-email-apis/agentdiet/pay-as-you-go) | pay as you go | 0 | 0 |  | 2026-11-24 |
-| 222 | [AI Rook](https://datacircle.dev/validate-email-apis/ai-rook/pay-as-you-go) | pay as you go | 0 | 0 | $1.00 per 1,000 emails | 2026-11-09 |
-| 223 | [Ambolt](https://datacircle.dev/validate-email-apis/ambolt/pay-as-you-go) | pay as you go | 0 | 0 | $3.00 per 1,000 emails | 2026-11-11 |
-| 224 | [Antideo](https://datacircle.dev/validate-email-apis/antideo/5-monthly) | $5 monthly | 0 | 0 |  | 2026-11-06 |
-| 225 | [API Ninjas](https://datacircle.dev/validate-email-apis/api-ninjas/59-monthly) | $59 monthly | 0 | 0 | $0.59 per 1,000 emails | 2026-11-22 |
-| 226 | [APIMesa](https://datacircle.dev/validate-email-apis/apimesa/5-monthly-basic-email-validate-api) | $5 monthly, Basic | 0 | 0 | $1.25 per 1,000 emails | 2026-11-12 |
-| 227 | [apipick](https://datacircle.dev/validate-email-apis/apipick/5-pack) | $5 pack | 0 | 0 | $1.00 per 1,000 emails | 2026-11-03 |
-| 228 | [APIVerve](https://datacircle.dev/validate-email-apis/apiverve/29-99-monthly) | $29.99 monthly | 0 | 0 | $3.00 per 1,000 emails | 2026-10-23 |
-| 229 | [Arch Tools](https://datacircle.dev/validate-email-apis/arch-tools/9-pack) | $9 pack | 0 | 0 | $9.00 per 1,000 emails | 2026-11-06 |
-| 230 | [AxioAPI](https://datacircle.dev/validate-email-apis/axioapi/2-monthly-starter-post-api-v1-email-validate) | $2 monthly, Starter | 0 | 0 | $0.80 per 1,000 emails | 2026-11-12 |
-| 231 | [BigDataCloud](https://datacircle.dev/validate-email-apis/bigdatacloud/9-95-monthly) | $9.95 monthly | 0 | 0 | $1.00 per 1,000 emails | 2026-11-06 |
-| 232 | [Botoi](https://datacircle.dev/validate-email-apis/botoi/9-monthly-starter-post-v1-email-validate) | $9 monthly, Starter | 0 | 0 | $0.03 per 1,000 emails | 2026-11-06 |
-| 233 | [Bouncebuster](https://datacircle.dev/validate-email-apis/bouncebuster/19-monthly-starter-post-verify) | $19 monthly, Starter | 0 | 0 | $1.90 per 1,000 emails | 2026-11-05 |
-| 234 | [BounceLens](https://datacircle.dev/validate-email-apis/bouncelens/free-get-api-check) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-11 |
-| 235 | [BusinessMCP](https://datacircle.dev/validate-email-apis/businessmcp/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-12 |
-| 236 | [Bytemine](https://datacircle.dev/validate-email-apis/bytemine/pay-as-you-go) | pay as you go | 0 | 0 | $10.00 per 1,000 emails | 2026-11-06 |
-| 237 | [Check Mail](https://datacircle.dev/validate-email-apis/check-mail/50-monthly) | $50 monthly | 0 | 0 | $0.25 per 1,000 emails | 2026-11-03 |
-| 238 | [CheckMail1](https://datacircle.dev/validate-email-apis/checkmail1/1-pack-trial-post-verify-batch) | $1 pack, Trial | 0 | 0 | $10.00 per 1,000 emails | 2026-11-03 |
-| 239 | [Coinslot](https://datacircle.dev/validate-email-apis/coinslot/pay-as-you-go) | pay as you go | 0 | 0 | $0.15 per 1,000 emails | 2026-11-09 |
-| 240 | [Cold Leads](https://datacircle.dev/validate-email-apis/cold-leads/99-monthly-business-post-verify) | $99 monthly, Business | 0 | 0 |  | 2026-11-06 |
-| 241 | [Companyfacts](https://datacircle.dev/validate-email-apis/companyfacts/pay-as-you-go) | pay as you go | 0 | 0 | $1.00 per 1,000 emails | 2026-11-06 |
-| 242 | [Contact Verify](https://datacircle.dev/validate-email-apis/contact-verify/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-08 |
-| 243 | [ContactLint](https://datacircle.dev/validate-email-apis/contactlint/9-pack-credit-pack-5000-post-v1-email-validate) | $9 pack, Credit pack 5,000 | 0 | 0 | $1.80 per 1,000 emails | 2026-11-06 |
-| 244 | [Continuum API](https://datacircle.dev/validate-email-apis/continuum-api/29-monthly-starter-post-v1-verify) | $29 monthly, Starter | 0 | 0 | $5.80 per 1,000 emails | 2026-11-03 |
-| 245 | [DaData](https://datacircle.dev/validate-email-apis/dadata/top-up) | top-up | 0 | 0 | $2.39 per 1,000 emails | 2026-11-06 |
-| 246 | [Datakoot](https://datacircle.dev/validate-email-apis/datakoot/10-monthly) | $10 monthly | 0 | 0 | $0.20 per 1,000 emails | 2026-11-09 |
-| 247 | [Didit](https://datacircle.dev/validate-email-apis/didit/top-up-from-50) | top-up from $50 | 0 | 0 |  | 2026-11-06 |
-| 248 | [Disify](https://datacircle.dev/validate-email-apis/disify/9-monthly-starter-get-email-email) | $9 monthly, Starter | 0 | 0 |  | 2026-11-03 |
-| 249 | [DomScan](https://datacircle.dev/validate-email-apis/domscan/6-monthly-starter-get-v1-email-verify) | $6 monthly, Starter | 0 | 0 | $0.48 per 1,000 emails | 2026-11-05 |
-| 250 | [Dymo API](https://datacircle.dev/validate-email-apis/dymo-api/14-99-monthly-standard-500-credits-post-private-secure-verify-email-validation) | $14.99 monthly, Standard, 500 credits | 0 | 0 | $3.00 per 1,000 emails | 2026-11-14 |
-| 251 | [EasyEmailAPI](https://datacircle.dev/validate-email-apis/easyemailapi/19-monthly) | $19 monthly | 0 | 0 | $0.19 per 1,000 emails | 2026-11-06 |
-| 252 | [Elastic Email](https://datacircle.dev/validate-email-apis/elastic-email/19-monthly-email-api-starter-50000-emails-month-post-verifications-email) | $19 monthly, Email API Starter (50,000 emails/month) | 0 | 0 | $0.38 per 1,000 emails | 2026-11-06 |
-| 253 | [Elvesora](https://datacircle.dev/validate-email-apis/elvesora/50-monthly-starter-post-api-v1-validate) | $50 monthly, Starter | 0 | 0 | $2.00 per 1,000 emails | 2026-10-27 |
-| 254 | [EmailDetective](https://datacircle.dev/validate-email-apis/emaildetective/19-monthly-basic-get-emails-emailaddress) | $19 monthly, Basic | 0 | 0 | $0.76 per 1,000 emails | 2026-11-06 |
-| 255 | [EmailIQ](https://datacircle.dev/validate-email-apis/emailiq/pay-as-you-go-pay-per-call-with-x402-post-email-intelligence) | pay as you go, Pay-per-call with x402 | 0 | 0 | $100.00 per 1,000 emails | 2026-11-15 |
-| 256 | [Emailit](https://datacircle.dev/validate-email-apis/emailit/top-up-from-20-pay-as-you-go-post-email-verifications-verify-an-address) | top-up from $20, Pay as you go | 0 | 0 | $1.00 per 1,000 emails | 2026-11-06 |
-| 257 | [EnvoAPI](https://datacircle.dev/validate-email-apis/envoapi/29-pack-starter-top-up-get-v1-emails-verify) | $29 pack, Starter top-up | 0 | 0 | $11.60 per 1,000 emails | 2026-10-26 |
-| 258 | [Exepal](https://datacircle.dev/validate-email-apis/exepal/5-pack-starter-post-v1-email) | $5 pack, Founder pack | 0 | 0 | $2.00 per 1,000 emails | 2026-11-14 |
-| 259 | [Fastcrawl](https://datacircle.dev/validate-email-apis/fastcrawl/5-monthly) | $5 monthly | 0 | 0 | $1.00 per 1,000 emails | 2026-11-12 |
-| 260 | [FatihAI](https://datacircle.dev/validate-email-apis/fatihai/500-monthly) | $500 monthly | 0 | 0 | $10.00 per 1,000 emails | 2026-11-16 |
-| 261 | [FirstSales](https://datacircle.dev/validate-email-apis/firstsales/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-06 |
-| 262 | [FluentEDI](https://datacircle.dev/validate-email-apis/fluentedi/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-11 |
-| 263 | [fourzerotwo](https://datacircle.dev/validate-email-apis/fourzerotwo/pay-as-you-go) | pay as you go | 0 | 0 | $1.00 per 1,000 emails | 2026-11-11 |
-| 264 | [FraudCheck API](https://datacircle.dev/validate-email-apis/fraudcheck-api/19-99-monthly) | $19.99 monthly | 0 | 0 | $0.80 per 1,000 emails | 2026-11-11 |
-| 265 | [Geoscape](https://datacircle.dev/validate-email-apis/geoscape/a-100-monthly) | A$100 (about $70) monthly | 0 | 0 | $13.92 per 1,000 emails | 2026-11-16 |
-| 266 | [Icypeas](https://datacircle.dev/validate-email-apis/icypeas/19-monthly-basic-post-email-verification) | $19 monthly, Basic | 0 | 0 | $1.90 per 1,000 emails | 2026-11-06 |
-| 267 | [Interzoid](https://datacircle.dev/validate-email-apis/interzoid/pay-as-you-go-x402-pay-per-call-get-emailtrustscore) | pay as you go, x402 pay per call | 0 | 0 | $250.00 per 1,000 emails | 2026-10-26 |
-| 268 | [Invertexto](https://datacircle.dev/validate-email-apis/invertexto/r-49-monthly) | R$49 (about $10) monthly | 0 | 0 | $0.096 per 1,000 emails | 2026-11-09 |
-| 269 | [IPScanner](https://datacircle.dev/validate-email-apis/ipscanner/5-pack) | $5 pack | 0 | 0 | $2.00 per 1,000 emails | 2026-11-11 |
-| 270 | [IsItDisposable](https://datacircle.dev/validate-email-apis/isitdisposable/19-monthly-starter-post-v1-check) | $19 monthly, Starter | 0 | 0 | $1.90 per 1,000 emails | 2026-11-06 |
-| 271 | [IsTempMail](https://datacircle.dev/validate-email-apis/istempmail/5-monthly) | $5 monthly | 0 | 0 | $1.00 per 1,000 emails | 2026-11-03 |
-| 272 | [IsValid](https://datacircle.dev/validate-email-apis/isvalid/9-monthly) | €9 monthly | 0 | 0 | $0.034 per 1,000 emails | 2026-11-05 |
-| 273 | [Kaidn](https://datacircle.dev/validate-email-apis/kaidn/39-monthly) | $39 monthly | 0 | 0 | $0.78 per 1,000 emails | 2026-11-11 |
-| 274 | [LayerCall](https://datacircle.dev/validate-email-apis/layercall/49-monthly-starter-get-v1-verify-email) | $49 monthly, Starter | 0 | 0 | $2.45 per 1,000 emails | 2026-11-11 |
-| 275 | [LeadFuze](https://datacircle.dev/validate-email-apis/leadfuze/250-monthly-starter-post-verification-email) | $250 monthly, Starter | 0 | 0 |  | 2026-11-03 |
-| 276 | [ListWise](https://datacircle.dev/validate-email-apis/listwise/44-monthly-monthly-10k-get-clean-quick-php) | $44 monthly, Monthly 10k | 0 | 0 |  | 2026-11-11 |
-| 277 | [Lordevo](https://datacircle.dev/validate-email-apis/lordevo/pay-as-you-go) | pay as you go | 0 | 0 | $2.00 per 1,000 emails | 2026-11-09 |
-| 278 | [LOX24](https://datacircle.dev/validate-email-apis/lox24/top-up-economy) | top-up, Economy | 0 | 0 | $22.51 per 1,000 emails | 2026-11-08 |
-| 279 | [MailCheck](https://datacircle.dev/validate-email-apis/mailcheck/9-monthly) | €9 monthly | 0 | 0 | $2.03 per 1,000 emails | 2026-11-03 |
-| 280 | [Mailhive](https://datacircle.dev/validate-email-apis/mailhive/ngn-1500-monthly) | NGN 1,500 (about $1) monthly | 0 | 0 |  | 2026-11-11 |
-| 281 | [Manifold](https://datacircle.dev/validate-email-apis/manifold/top-up-from-10) | top-up from $10 | 0 | 0 | $25.00 per 1,000 emails | 2026-11-10 |
-| 282 | [ManyLives](https://datacircle.dev/validate-email-apis/manylives/pay-as-you-go) | pay as you go | 0 | 0 | $2.00 per 1,000 emails | 2026-11-11 |
-| 283 | [Mekong Trade Intel](https://datacircle.dev/validate-email-apis/mekong-trade-intel/pay-as-you-go) | pay as you go | 0 | 0 | $1.00 per 1,000 emails | 2026-11-09 |
-| 284 | [Minelead](https://datacircle.dev/validate-email-apis/minelead/39-monthly) | $39 monthly, Starter | 0 | 0 | $39.00 per 1,000 emails | 2026-11-06 |
-| 285 | [MXCheck](https://datacircle.dev/validate-email-apis/mxcheck/free-tier-get-api-validate) | free tier | 0 | 0 | $0.00 per 1,000 emails | 2026-11-22 |
-| 286 | [NameAPI](https://datacircle.dev/validate-email-apis/nameapi/10-monthly) | €10 monthly | 0 | 0 | $0.56 per 1,000 emails | 2026-11-06 |
-| 287 | [NexMailPro](https://datacircle.dev/validate-email-apis/nexmailpro/9-pack-starter-top-up-post-verify-email) | $9 pack, Starter Top-Up | 0 | 0 | $1.80 per 1,000 emails | 2026-11-06 |
-| 288 | [NoParam](https://datacircle.dev/validate-email-apis/noparam/29-monthly-starter-post-verify) | $29 monthly, Starter | 0 | 0 | $2.90 per 1,000 emails | 2026-11-09 |
-| 289 | [OpenLookup](https://datacircle.dev/validate-email-apis/openlookup/9-monthly-starter-post-v1-email-check) | $9 monthly, Starter | 0 | 0 | $1.80 per 1,000 emails | 2026-11-03 |
-| 290 | [PeopleSearch.im](https://datacircle.dev/validate-email-apis/peoplesearch-im/5-pack) | $5 pack | 0 | 0 | $50.00 per 1,000 emails | 2026-11-07 |
-| 291 | [Postio](https://datacircle.dev/validate-email-apis/postio/top-up-from-10) | top-up from £10 (about $13) | 0 | 0 | $13.34 per 1,000 emails | 2026-11-03 |
-| 292 | [proxycheck.io](https://datacircle.dev/validate-email-apis/proxycheck-io/4-99-monthly) | $4.99 monthly | 0 | 0 | $0.017 per 1,000 emails | 2026-11-03 |
-| 293 | [Pushbuild](https://datacircle.dev/validate-email-apis/pushbuild/top-up) | top-up | 0 | 0 | $0.32 per 1,000 emails | 2026-11-05 |
-| 294 | [Pyzit](https://datacircle.dev/validate-email-apis/pyzit/9-99-monthly-starter-post-v1-tmd-check) | $9.99 monthly, Starter | 0 | 0 | $0.40 per 1,000 emails | 2026-11-11 |
-| 295 | [RealMail](https://datacircle.dev/validate-email-apis/realmail/16-pack) | $16 pack | 0 | 0 | $6.40 per 1,000 emails | 2026-11-06 |
-| 296 | [RealPhoneValidation](https://datacircle.dev/validate-email-apis/realphonevalidation/top-up-from-25) | top-up from $25 | 0 | 0 | $20.00 per 1,000 emails | 2026-11-23 |
-| 297 | [ReefAPI](https://datacircle.dev/validate-email-apis/reefapi/15-monthly) | $15 monthly | 0 | 0 | $1.50 per 1,000 emails | 2026-11-08 |
-| 298 | [RiteKit](https://datacircle.dev/validate-email-apis/ritekit/99-monthly-tier-0-get-v2-person-insights-disposable-email-detection) | $99 monthly, Tier 0 | 0 | 0 | $1.98 per 1,000 emails | 2026-11-04 |
-| 299 | [Scrappy](https://datacircle.dev/validate-email-apis/scrappy/9-pack) | $9 pack | 0 | 0 | $18.00 per 1,000 emails | 2026-11-07 |
-| 300 | [Sendly](https://datacircle.dev/validate-email-apis/sendly/free-post-api-verify) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-09 |
-| 301 | [SentriSend](https://datacircle.dev/validate-email-apis/sentrisend/29-monthly) | $29 monthly | 0 | 0 | $0.58 per 1,000 emails | 2026-11-11 |
-| 302 | [Signitize](https://datacircle.dev/validate-email-apis/signitize/29-pack-premium-30-days-post-v1-check) | $29 pack, Premium (30 days) | 0 | 0 | $0.29 per 1,000 emails | 2026-11-10 |
-| 303 | [SignupScore](https://datacircle.dev/validate-email-apis/signupscore/12-monthly) | $12 monthly | 0 | 0 | $0.48 per 1,000 emails | 2026-11-05 |
-| 304 | [Sortwell](https://datacircle.dev/validate-email-apis/sortwell/9-pack) | $9 pack | 0 | 0 | $0.90 per 1,000 emails | 2026-11-16 |
-| 305 | [StopReg](https://datacircle.dev/validate-email-apis/stopreg/20-monthly) | $20 monthly | 0 | 0 | $0.33 per 1,000 emails | 2026-11-06 |
-| 306 | [Strale](https://datacircle.dev/validate-email-apis/strale/top-up-from-10-prepaid-wallet-post-v1-do-email-validation) | top-up from €10, Prepaid wallet | 0 | 0 |  | 2026-11-06 |
-| 307 | [Suprsonic](https://datacircle.dev/validate-email-apis/suprsonic/29-monthly) | $29 monthly | 0 | 0 | $14.50 per 1,000 emails | 2026-11-06 |
-| 308 | [Tanod](https://datacircle.dev/validate-email-apis/tanod/pay-as-you-go) | pay as you go | 0 | 0 | $1.00 per 1,000 emails | 2026-11-09 |
-| 309 | [TempMailChecker](https://datacircle.dev/validate-email-apis/tempmailchecker/12-monthly) | $12 monthly | 0 | 0 | $4.00 per 1,000 emails | 2026-11-03 |
-| 310 | [TempMailDetector](https://datacircle.dev/validate-email-apis/tempmaildetector/5-monthly) | $5 monthly | 0 | 0 | $5.00 per 1,000 emails | 2026-11-24 |
-| 311 | [throwaway.cloud](https://datacircle.dev/validate-email-apis/throwaway-cloud/free-get-api-v3-subject) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-05 |
-| 312 | [TokenVerify](https://datacircle.dev/validate-email-apis/tokenverify/29-monthly-starter-post-v1-verify-email) | £29 (about $39) monthly, Starter | 0 | 0 | $3.87 per 1,000 emails | 2026-11-07 |
-| 313 | [Trueform](https://datacircle.dev/validate-email-apis/trueform/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-11 |
-| 314 | [TrustPath](https://datacircle.dev/validate-email-apis/trustpath/50-monthly) | €50 monthly | 0 | 0 | $14.07 per 1,000 emails | 2026-11-03 |
-| 315 | [Truval](https://datacircle.dev/validate-email-apis/truval/9-monthly-builder-post-v1-email-verify) | €9 monthly, Builder | 0 | 0 | $2.03 per 1,000 emails | 2026-11-11 |
-| 316 | [UniOne](https://datacircle.dev/validate-email-apis/unione/4-monthly-startup-6k-6000-emails-a-month-first-100-validations-a-month) | $4 monthly, StartUp 6K, 6,000 emails a month, first 100 validations a month | 0 | 0 | $0.00 per 1,000 emails | 2026-11-04 |
-| 317 | [UnwrapEmail](https://datacircle.dev/validate-email-apis/unwrapemail/pay-as-you-go-50001-validations-get-emails-validate) | pay as you go, 50,001+ validations | 0 | 0 | $1.00 per 1,000 emails | 2026-11-21 |
-| 318 | [UserCheck](https://datacircle.dev/validate-email-apis/usercheck/50-monthly-pro-200k-get-email-email) | $50 monthly, Pro 200k | 0 | 0 | $0.25 per 1,000 emails | 2026-11-06 |
-| 319 | [ValidKit](https://datacircle.dev/validate-email-apis/validkit/20-monthly-starter-post-v1-verify) | $20 monthly, Starter | 0 | 0 | $2.00 per 1,000 emails | 2026-11-03 |
-| 320 | [VeriDock](https://datacircle.dev/validate-email-apis/veridock/9-monthly-starter-get-verify) | $9 monthly, Starter | 0 | 0 | $4.50 per 1,000 emails | 2026-11-22 |
-| 321 | [verifi.email](https://datacircle.dev/validate-email-apis/verifi-email/9-monthly-starter-get-v1-validate) | $9 monthly, Starter | 0 | 0 | $1.80 per 1,000 emails | 2026-11-04 |
-| 322 | [VerifNow](https://datacircle.dev/validate-email-apis/verifnow/19-monthly) | $19 monthly | 0 | 0 | $1.90 per 1,000 emails | 2026-11-09 |
-| 323 | [VeriPulse](https://datacircle.dev/validate-email-apis/veripulse/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-15 |
-| 324 | [Vetto](https://datacircle.dev/validate-email-apis/vetto/12-monthly) | $12 monthly | 0 | 0 | $0.20 per 1,000 emails | 2026-11-16 |
-| 325 | [Watch-IP](https://datacircle.dev/validate-email-apis/watch-ip/9-monthly-starter-post-v1-email-validate) | $9 monthly, Starter | 0 | 0 | $0.036 per 1,000 emails | 2026-11-12 |
-| 326 | [YourAITools](https://datacircle.dev/validate-email-apis/youraitools/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-09 |
-| 327 | [ZapSMTP](https://datacircle.dev/validate-email-apis/zapsmtp/15-monthly-pro-50k-post-email-validations) | $15 monthly, Pro 50k | 0 | 0 | $3.00 per 1,000 emails | 2026-11-11 |
+| 123 | [ApiOne](https://datacircle.dev/validate-email-apis/apione/499-monthly) | $499 monthly | 48.1 | 67 | $4.99 per 1,000 emails | 2026-11-24 |
+| 124 | [Corenexis](https://datacircle.dev/validate-email-apis/corenexis/9-99-monthly) | $9.99 monthly | 48.1 | 66 | $0.67 per 1,000 emails | 2026-11-21 |
+| 125 | [Enrow](https://datacircle.dev/validate-email-apis/enrow/87-monthly) | $87 monthly, Pro | 47.5 | 66 | $2.18 per 1,000 emails | 2026-11-03 |
+| 126 | [AnyAPI](https://datacircle.dev/validate-email-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-email-verify) | top-up from $10, Manual top-up | 47.2 | 72 | $6.60 per 1,000 emails | 2026-11-03 |
+| 127 | [Invalid Bounce](https://datacircle.dev/validate-email-apis/invalid-bounce/449-pack) | $449 pack | 46.9 | 69 | $0.45 per 1,000 emails | 2026-11-03 |
+| 128 | [TrekMail](https://datacircle.dev/validate-email-apis/trekmail/179-pack-100000-credits-post-verify-verify-one-address-deep) | $179 pack, 100,000 credits | 46.8 | 80 | $3.58 per 1,000 emails | 2026-11-18 |
+| 129 | [OxiBounce](https://datacircle.dev/validate-email-apis/oxibounce/249-pack-100-000-verifications-post-check) | €249 pack, 100 000 vérifications | 46.6 | 77 | $2.80 per 1,000 emails | 2026-11-03 |
+| 130 | [VeriMailX](https://datacircle.dev/validate-email-apis/verimailx/79-pack-tier-1-post-validate) | $79 pack, Tier 1 | 46.4 | 62 | $0.22 per 1,000 emails | 2026-11-11 |
+| 131 | [PureChecker](https://datacircle.dev/validate-email-apis/purechecker/8-monthly-monthly-subscription-500-emails-day-get-api-v1-single-check) | $8 monthly, Monthly Subscription, 500 emails/day | 46.1 | 49 | $0.53 per 1,000 emails | 2026-11-05 |
+| 132 | [Email2Verify](https://datacircle.dev/validate-email-apis/email2verify/99-monthly) | $99 monthly | 45.9 | 59 | $0.099 per 1,000 emails | 2026-11-03 |
+| 133 | [Draft and Check](https://datacircle.dev/validate-email-apis/draft-and-check/99-pack-50000-post-verify) | $99 pack, 50,000 | 45.7 | 64 | $1.98 per 1,000 emails | 2026-11-21 |
+| 134 | [MailingAPI](https://datacircle.dev/validate-email-apis/mailingapi/pay-as-you-go-100001-post-v1-validate-single) | pay as you go, 100,001+ | 45.6 | 56 | $1.00 per 1,000 emails | 2026-11-04 |
+| 135 | [RankFabrik](https://datacircle.dev/validate-email-apis/rankfabrik/100-monthly-artisan-get-verifier) | €100 monthly, Artisan | 45.5 | 80 | $4.50 per 1,000 emails | 2026-11-06 |
+| 136 | [ByeBouncer](https://datacircle.dev/validate-email-apis/byebouncer/10-pack-pack-xs-post-api-v1-verify-email) | $10 pack, Pack XS | 45.4 | 66 | $5.00 per 1,000 emails | 2026-11-11 |
+| 137 | [turboSMTP](https://datacircle.dev/validate-email-apis/turbosmtp/14-95-monthly-basic-15000-emails-a-month-post-emailvalidation-validateemail) | €14.95 monthly, Basic, 15,000 emails a month | 45.3 | 77 | $168.23 per 1,000 emails | 2026-11-07 |
+| 138 | [DebounceAPI](https://datacircle.dev/validate-email-apis/debounceapi/199-99-pack-business-post-verify) | $199.99 pack, Business | 45.3 | 66 | $2.00 per 1,000 emails | 2026-11-12 |
+| 139 | [Wontbounce](https://datacircle.dev/validate-email-apis/wontbounce/99-monthly) | $99 monthly | 45.3 | 65 | $0.99 per 1,000 emails | 2026-11-21 |
+| 140 | [VerifySwift](https://datacircle.dev/validate-email-apis/verifyswift/9-99-monthly-daily-credits-600-a-day) | $9.99 monthly, Daily Credits 600 a day | 45.3 | 59 | $0.56 per 1,000 emails | 2026-11-07 |
+| 141 | [SyncGTM](https://datacircle.dev/validate-email-apis/syncgtm/249-monthly) | $249 monthly | 45.2 | 63 | $4.98 per 1,000 emails | 2026-11-03 |
+| 142 | [Lakewave](https://datacircle.dev/validate-email-apis/lakewave/19-monthly-sled-solo-post-emails-verify) | $19 monthly, SLED Solo | 45.1 | 80 | $63.33 per 1,000 emails | 2026-11-09 |
+| 143 | [Postcoder](https://datacircle.dev/validate-email-apis/postcoder/35-pack) | £35 (about $47) pack | 45 | 75 | $56.01 per 1,000 emails | 2026-11-03 |
+| 144 | [MiN8T](https://datacircle.dev/validate-email-apis/min8t/19-pack) | $19 pack | 44.9 | 77 | $9.50 per 1,000 emails | 2026-11-18 |
+| 145 | [SpamCipher](https://datacircle.dev/validate-email-apis/spamcipher/94-99-monthly-spamcipher-one-10000-credits-a-month-post-api-v1-verify) | $94.99 monthly, SpamCipher ONE, 10,000 credits a month | 44.9 | 75 | $9.50 per 1,000 emails | 2026-11-08 |
+| 146 | [Dropcontact](https://datacircle.dev/validate-email-apis/dropcontact/35-monthly) | €35 monthly | 44.8 | 85 | $78.77 per 1,000 emails | 2026-11-03 |
+| 147 | [ManyPI](https://datacircle.dev/validate-email-apis/manypi/25-monthly) | $25 monthly | 44.8 | 77 | $25.00 per 1,000 emails | 2026-11-07 |
+| 148 | [EmailValidator.ru](https://datacircle.dev/validate-email-apis/emailvalidator-ru/2990-monthly-pro-post-validate) | ₽2,990 (about $36) monthly, Pro | 44.8 | 54 | $1.43 per 1,000 emails | 2026-11-09 |
+| 149 | [Tomba](https://datacircle.dev/validate-email-apis/tomba/199-monthly) | $199 monthly, Pro | 44.3 | 69 | $9.95 per 1,000 emails | 2026-11-06 |
+| 150 | [graph8](https://datacircle.dev/validate-email-apis/graph8/499-monthly) | $499 monthly | 44.2 | 77 |  | 2026-11-06 |
+| 151 | [Email Verifier API](https://datacircle.dev/validate-email-apis/email-verifier-api/399-95-pack) | $399.95 pack | 43.6 | 70 | $4.00 per 1,000 emails | 2026-11-06 |
+| 152 | [Sorzio](https://datacircle.dev/validate-email-apis/sorzio/39-monthly) | $39 monthly | 43.6 | 67 | $10.00 per 1,000 emails | 2026-11-24 |
+| 153 | [Verifox](https://datacircle.dev/validate-email-apis/verifox/349-pack-100000-credits-post-email-validation) | $349 pack, 100,000 credits | 43.4 | 66 | $3.49 per 1,000 emails | 2026-11-03 |
+| 154 | [Skrapp](https://datacircle.dev/validate-email-apis/skrapp/349-monthly-enterprise-50k-get-v3-verify) | $349 monthly, Enterprise 50K | 43.2 | 63 | $6.98 per 1,000 emails | 2026-11-06 |
+| 155 | [Listar](https://datacircle.dev/validate-email-apis/listar/top-up-from-10) | top-up from €10 | 42.7 | 66 | $11.25 per 1,000 emails | 2026-11-03 |
+| 156 | [Alibaba Cloud](https://datacircle.dev/validate-email-apis/alibaba-cloud/500-pack-100000-post-validateemail) | $500 pack, 100,000 | 42.6 | 63 | $5.00 per 1,000 emails | 2026-11-09 |
+| 157 | [EmailAwesome](https://datacircle.dev/validate-email-apis/emailawesome/500-monthly) | $500 monthly | 42.5 | 51 | $2.00 per 1,000 emails | 2026-11-16 |
+| 158 | [Databar](https://datacircle.dev/validate-email-apis/databar/99-monthly) | $99 monthly | 42.4 | 74 | $19.80 per 1,000 emails | 2026-11-14 |
+| 159 | [Vouch](https://datacircle.dev/validate-email-apis/vouch/15-pack-2500-credits-get-v1-verify) | €15 pack, 2,500 credits | 42.4 | 67 | $6.75 per 1,000 emails | 2026-11-11 |
+| 160 | [Webbula](https://datacircle.dev/validate-email-apis/webbula/24-95-monthly-core-post-task-express) | $24.95 monthly, Core | 42.1 | 70 | $9.98 per 1,000 emails | 2026-11-16 |
+| 161 | [Addressfinder](https://datacircle.dev/validate-email-apis/addressfinder/nz-55-monthly) | NZ$55 (about $31) monthly | 41.9 | 75 | $62.30 per 1,000 emails | 2026-11-03 |
+| 162 | [FraudNova](https://datacircle.dev/validate-email-apis/fraudnova/40-pack-starter-get-api-v1-check-email) | $40 pack, Starter | 41.7 | 65 | $8.00 per 1,000 emails | 2026-11-14 |
+| 163 | [Catch-all Verifier](https://datacircle.dev/validate-email-apis/catch-all-verifier/49-pack-10000-credits-post-api-v1-verify-single) | $49 pack, 10,000 Credits | 40.3 | 62 | $4.90 per 1,000 emails | 2026-11-05 |
+| 164 | [Ideal Postcodes](https://datacircle.dev/validate-email-apis/ideal-postcodes/9-pack) | £9 (about $12) pack | 40 | 58 | $60.01 per 1,000 emails | 2026-11-24 |
+| 165 | [Scrubby](https://datacircle.dev/validate-email-apis/scrubby/40-pack-pay-as-you-go-post-validate-email-quick-verification-validate-instantly-staging) | $40 pack, Pay As You Go | 39.4 | 63 | $8.00 per 1,000 emails | 2026-11-14 |
+| 166 | [Fraud Blocker](https://datacircle.dev/validate-email-apis/fraud-blocker/99-monthly) | $99 monthly | 38.4 | 83 | $396.00 per 1,000 emails | 2026-11-23 |
+| 167 | [Email Hippo](https://datacircle.dev/validate-email-apis/email-hippo/468-monthly-more-100000-edition-2-monthly) | $468 monthly, MORE 100,000 Edition 2 (Monthly) | 38.4 | 69 | $4.68 per 1,000 emails | 2026-11-18 |
+| 168 | [Email Validation API.net](https://datacircle.dev/validate-email-apis/email-validation-api-net/29-pack-29-deposit-post-validate) | $29 pack, $29 deposit | 38.3 | 49 | $3.90 per 1,000 emails | 2026-11-10 |
+| 169 | [Hopewiser](https://datacircle.dev/validate-email-apis/hopewiser/2-30-pack) | £2.30 (about $3) pack | 37.9 | 77 | $30.67 per 1,000 emails | 2026-11-08 |
+| 170 | [Aidenix](https://datacircle.dev/validate-email-apis/aidenix/39-monthly) | $39 monthly | 36 | 67 |  | 2026-11-16 |
+| 171 | [Mail List Shield](https://datacircle.dev/validate-email-apis/mail-list-shield/top-up) | top-up | 34.3 | 64 | $10.00 per 1,000 emails | 2026-11-09 |
+| 172 | [Apixies](https://datacircle.dev/validate-email-apis/apixies/free-sandbox-no-account) | free, Sandbox (no account) | 72.7 | 47 | $0.00 per 1,000 emails | 2026-11-11 |
+| 173 | [HostSherlock](https://datacircle.dev/validate-email-apis/hostsherlock/29-monthly-starter-post-v1-verify-single) | $29 monthly, Starter | 65.9 | 42 |  | 2026-11-22 |
+| 174 | [VerifyKit](https://datacircle.dev/validate-email-apis/verifykit/249-monthly-unlimited-post-v1-verify) | $249 monthly, Unlimited | 65.4 | 47 | $0.05 per 1,000 emails | 2026-11-06 |
+| 175 | [SMTPing](https://datacircle.dev/validate-email-apis/smtping/200-pack-2m-credits-post-verify-single) | $200 pack, 2M credits | 59.9 | 30 | $0.10 per 1,000 emails | 2026-11-06 |
+| 176 | [Searlo](https://datacircle.dev/validate-email-apis/searlo/199-99-pack) | $199.99 pack | 56.6 | 46 | $1.11 per 1,000 emails | 2026-11-12 |
+| 177 | [QuickEmailVerification](https://datacircle.dev/validate-email-apis/quickemailverification/260-monthly) | $260 monthly, Per Day Credits, 10,000 credits a day | 56.2 | 47 | $0.87 per 1,000 emails | 2026-11-06 |
+| 178 | [MailSift](https://datacircle.dev/validate-email-apis/mailsift/249-pack-enterprise-get-verify-verify-one-email-with-deep-verification) | $249 pack, Enterprise | 52.3 | 27 | $1.25 per 1,000 emails | 2026-11-06 |
+| 179 | [emailverifier.dev](https://datacircle.dev/validate-email-apis/emailverifier-dev/10-pack) | $10 pack | 45.3 | 45 | $0.50 per 1,000 emails | 2026-11-06 |
+| 180 | [SafetyMails](https://datacircle.dev/validate-email-apis/safetymails/416-70-monthly) | $416.70 monthly | 44.6 | 41 | $1.39 per 1,000 emails | 2026-11-13 |
+| 181 | [WhoisXML API](https://datacircle.dev/validate-email-apis/whoisxml-api/449-monthly) | $449 monthly | 44 | 46 | $2.53 per 1,000 emails | 2026-11-06 |
+| 182 | [Status Check](https://datacircle.dev/validate-email-apis/status-check/top-up) | top-up | 44 | 45 | $1.00 per 1,000 emails | 2026-11-16 |
+| 183 | [CleanMyList](https://datacircle.dev/validate-email-apis/cleanmylist/119-monthly-verify-scale-post-v1-verify) | $119 monthly, Verify Scale | 43.1 | 47 | $0.99 per 1,000 emails | 2026-11-03 |
+| 184 | [Unisender Go](https://datacircle.dev/validate-email-apis/unisender-go/800-monthly-by-card-6000-emails-a-month-first-100-validations-a-month) | ₽800 (about $10) monthly, By card, 6,000 emails a month, first 100 validations a month | 41 | 27 | $0.00 per 1,000 emails | 2026-11-03 |
+| 185 | [Bulk Email Verifier](https://datacircle.dev/validate-email-apis/bulk-email-verifier/400-pack-500000-requests-post-api-single) | $400 pack, ≥ 500,000 requests | 39.9 | 42 | $0.80 per 1,000 emails | 2026-11-10 |
+| 186 | [Loqate](https://datacircle.dev/validate-email-apis/loqate/50-pack-pay-as-you-go-50-get-emailvalidation-interactive-validate-v2-00-json6-ws) | £50 (about $67) pack, Pay-as-you-go £50 | 39.2 | 47 | $85.34 per 1,000 emails | 2026-11-06 |
+| 187 | [ProWebLook](https://datacircle.dev/validate-email-apis/proweblook/279-20-monthly) | $279.20 monthly | 39.1 | 45 | $0.28 per 1,000 emails | 2026-11-06 |
+| 188 | [Heybounce](https://datacircle.dev/validate-email-apis/heybounce/351-monthly-monthly-100000-credits-get-validate) | $351 monthly, Monthly 100,000 credits | 38.5 | 40 | $3.51 per 1,000 emails | 2026-11-06 |
+| 189 | [SimpleCold](https://datacircle.dev/validate-email-apis/simplecold/375-pack-250000-credits-get-api-validation-single) | $375 pack, 250,000 credits | 38.2 | 36 | $1.50 per 1,000 emails | 2026-11-23 |
+| 190 | [AddressZen](https://datacircle.dev/validate-email-apis/addresszen/49-pack) | $49 pack | 37.7 | 47 | $35.00 per 1,000 emails | 2026-11-11 |
+| 191 | [Trumailo](https://datacircle.dev/validate-email-apis/trumailo/19-monthly) | $19 monthly | 37.3 | 36 | $0.38 per 1,000 emails | 2026-11-03 |
+| 192 | [Foxentry](https://datacircle.dev/validate-email-apis/foxentry/top-up-pay-as-you-go-post-email-validate-validate-email-extended) | top-up, Pay as you go | 36.2 | 47 | $16.20 per 1,000 emails | 2026-11-03 |
+| 193 | [Abstract API](https://datacircle.dev/validate-email-apis/abstract-api/199-monthly) | $199 monthly | 35.5 | 47 | $1.33 per 1,000 emails | 2026-11-06 |
+| 194 | [MailRambo](https://datacircle.dev/validate-email-apis/mailrambo/149-monthly-enterprise-post-v1-verify) | $149 monthly, Enterprise | 33.9 | 37 | $1.99 per 1,000 emails | 2026-11-06 |
+| 195 | [Textmagic](https://datacircle.dev/validate-email-apis/textmagic/20-pack) | $20 pack | 33.8 | 45 | $40.00 per 1,000 emails | 2026-11-24 |
+| 196 | [PeopleDB](https://datacircle.dev/validate-email-apis/peopledb/15-pack-100-credits-get-email-verifications) | $15 pack, 100 credits | 30.4 | 45 | $150.00 per 1,000 emails | 2026-11-06 |
+| 197 | [ValidEmail.net](https://datacircle.dev/validate-email-apis/validemail-net/400-pack) | $400 pack | 28.8 | 17 | $0.40 per 1,000 emails | 2026-11-16 |
+| 198 | [Mailboxlayer by APILayer](https://datacircle.dev/validate-email-apis/mailboxlayer-by-apilayer/74-99-monthly-professional-get-check) | $74.99 monthly, Professional | 25.3 | 7 | $1.50 per 1,000 emails | 2026-11-06 |
+| 199 | [Checkify](https://datacircle.dev/validate-email-apis/checkify/149-monthly) | $149 monthly | 18.7 | 7 | $29.80 per 1,000 emails | 2026-11-24 |
+| 200 | [Enrich.so](https://datacircle.dev/validate-email-apis/enrich-so/499-monthly) | $499 monthly, Pro | 75.5 | 73 | $0.20 per 1,000 emails | 2026-10-21 |
+| 201 | [Sealch](https://datacircle.dev/validate-email-apis/sealch/33-monthly-monthly-up-to-100000-mo-post-api-verify) | $33 monthly, Monthly up to 100,000 / mo | 70.5 | 63 | $0.33 per 1,000 emails | 2026-10-26 |
+| 202 | [RouterGrowth](https://datacircle.dev/validate-email-apis/routergrowth/499-monthly) | $499 monthly | 61.7 | 69 | $1.49 per 1,000 emails | 2026-10-26 |
+| 203 | [Emelia](https://datacircle.dev/validate-email-apis/emelia/499-monthly) | $499 monthly | 56.4 | 87 | $1.25 per 1,000 emails | 2026-10-23 |
+| 204 | [Hunter](https://datacircle.dev/validate-email-apis/hunter/299-monthly-scale-get-email-verifier) | $299 monthly, Scale | 51.8 | 79 | $5.98 per 1,000 emails | 2026-10-21 |
+| 205 | [Generect](https://datacircle.dev/validate-email-apis/generect/top-up-from-20) | top-up from $20 | 51.4 | 81 | $5.00 per 1,000 emails | 2026-10-20 |
+| 206 | [Fiber AI](https://datacircle.dev/validate-email-apis/fiber-ai/top-up-from-3) | top-up from $3 | 49.8 | 87 | $30.00 per 1,000 emails | 2026-10-20 |
+| 207 | [Anysite](https://datacircle.dev/validate-email-apis/anysite/49-monthly) | $49 monthly | 49.2 | 87 | $130.67 per 1,000 emails | 2026-10-25 |
+| 208 | [Snov.io](https://datacircle.dev/validate-email-apis/snov-io/369-monthly) | $369 monthly | 46 | 71 |  | 2026-10-29 |
+| 209 | [Mails.so](https://datacircle.dev/validate-email-apis/mails-so/98-monthly-business-get-validate) | €98 monthly, Business | 43.2 | 58 | $2.21 per 1,000 emails | 2026-10-23 |
+| 210 | [SendPulse](https://datacircle.dev/validate-email-apis/sendpulse/458-monthly-subscription-250000-monthly-post-verifier-service-send-single-to-verify) | $458 monthly, Subscription 250000 | 42 | 59 | $1.83 per 1,000 emails | 2026-10-31 |
+| 211 | [Findymail](https://datacircle.dev/validate-email-apis/findymail/99-monthly) | $99 monthly | 41.2 | 74 | $19.80 per 1,000 emails | 2026-10-21 |
+| 212 | [Data8](https://datacircle.dev/validate-email-apis/data8/25-pack-1000-credits-post-emailvalidation-isvalid-json) | £25 (about $33) pack, 1,000 credits | 37.2 | 63 | $33.34 per 1,000 emails | 2026-10-26 |
+| 213 | [Data247](https://datacircle.dev/validate-email-apis/data247/12-pack) | $12 pack | 42.2 | 41 |  | 2026-10-29 |
+| 214 | [MailerCheck](https://datacircle.dev/validate-email-apis/mailercheck/top-up-from-500-pay-as-you-go-100000-credits-post-check-single) | top-up from $500, Pay as you go, 100,000 credits | 39.6 | 47 | $5.00 per 1,000 emails | 2026-10-26 |
+| 215 | [Gamalogic](https://datacircle.dev/validate-email-apis/gamalogic/400-monthly-monthly-500000-credits-month-get-emailvrf) | $400 monthly, 500,000 Credits /Month | 38 | 30 | $0.80 per 1,000 emails | 2026-10-21 |
+| 216 | [VerificarEmails](https://datacircle.dev/validate-email-apis/verificaremails/345-pack) | €345 pack | 35.5 | 47 | $3.88 per 1,000 emails | 2026-10-23 |
+| 217 | [Sixtyfour](https://datacircle.dev/validate-email-apis/sixtyfour/top-up-from-50) | top-up from $50 | 29.9 | 36 |  | 2026-10-27 |
+| 218 | [AeroLeads](https://datacircle.dev/validate-email-apis/aeroleads/49-pack) | $49 pack | 28.8 | 41 |  | 2026-10-21 |
+| 219 | [Argorant](https://datacircle.dev/validate-email-apis/argorant/449-monthly) | $449 monthly | 25.7 | 30 | $2.25 per 1,000 emails | 2026-10-28 |
+| 220 | [NeverBounce](https://datacircle.dev/validate-email-apis/neverbounce/249-monthly-growth-up-to-250000-get-single-check) | $249 monthly, Growth, up to 250,000 | 34.8 | 22 | $1.00 per 1,000 emails | 2026-10-28 |
+| 221 | [2s.io](https://datacircle.dev/validate-email-apis/2s-io/pay-as-you-go) | pay as you go | 0 | 0 | $2.50 per 1,000 emails | 2026-11-09 |
+| 222 | [Agent Extraction API](https://datacircle.dev/validate-email-apis/agent-extraction-api/pay-as-you-go-x402-pay-per-call-get-api-email-verify-batch) | pay as you go, x402 pay per call | 0 | 0 | $0.25 per 1,000 emails | 2026-11-09 |
+| 223 | [Agent Margin Router](https://datacircle.dev/validate-email-apis/agent-margin-router/pay-as-you-go) | pay as you go | 0 | 0 | $10.00 per 1,000 emails | 2026-11-11 |
+| 224 | [Agent Toolbox](https://datacircle.dev/validate-email-apis/agent-toolbox/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-09 |
+| 225 | [AgentDiet](https://datacircle.dev/validate-email-apis/agentdiet/pay-as-you-go) | pay as you go | 0 | 0 |  | 2026-11-24 |
+| 226 | [AI Rook](https://datacircle.dev/validate-email-apis/ai-rook/pay-as-you-go) | pay as you go | 0 | 0 | $1.00 per 1,000 emails | 2026-11-09 |
+| 227 | [Ambolt](https://datacircle.dev/validate-email-apis/ambolt/pay-as-you-go) | pay as you go | 0 | 0 | $3.00 per 1,000 emails | 2026-11-11 |
+| 228 | [Antideo](https://datacircle.dev/validate-email-apis/antideo/5-monthly) | $5 monthly | 0 | 0 |  | 2026-11-06 |
+| 229 | [API Ninjas](https://datacircle.dev/validate-email-apis/api-ninjas/59-monthly) | $59 monthly | 0 | 0 | $0.59 per 1,000 emails | 2026-11-22 |
+| 230 | [APIMesa](https://datacircle.dev/validate-email-apis/apimesa/5-monthly-basic-email-validate-api) | $5 monthly, Basic | 0 | 0 | $1.25 per 1,000 emails | 2026-11-12 |
+| 231 | [apipick](https://datacircle.dev/validate-email-apis/apipick/5-pack) | $5 pack | 0 | 0 | $1.00 per 1,000 emails | 2026-11-03 |
+| 232 | [APIVerve](https://datacircle.dev/validate-email-apis/apiverve/29-99-monthly) | $29.99 monthly | 0 | 0 | $3.00 per 1,000 emails | 2026-10-23 |
+| 233 | [Arch Tools](https://datacircle.dev/validate-email-apis/arch-tools/9-pack) | $9 pack | 0 | 0 | $9.00 per 1,000 emails | 2026-11-06 |
+| 234 | [AxioAPI](https://datacircle.dev/validate-email-apis/axioapi/2-monthly-starter-post-api-v1-email-validate) | $2 monthly, Starter | 0 | 0 | $0.80 per 1,000 emails | 2026-11-12 |
+| 235 | [BigDataCloud](https://datacircle.dev/validate-email-apis/bigdatacloud/9-95-monthly) | $9.95 monthly | 0 | 0 | $1.00 per 1,000 emails | 2026-11-06 |
+| 236 | [Botoi](https://datacircle.dev/validate-email-apis/botoi/9-monthly-starter-post-v1-email-validate) | $9 monthly, Starter | 0 | 0 | $0.03 per 1,000 emails | 2026-11-06 |
+| 237 | [Bouncebuster](https://datacircle.dev/validate-email-apis/bouncebuster/19-monthly-starter-post-verify) | $19 monthly, Starter | 0 | 0 | $1.90 per 1,000 emails | 2026-11-05 |
+| 238 | [BounceLens](https://datacircle.dev/validate-email-apis/bouncelens/free-get-api-check) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-11 |
+| 239 | [BusinessMCP](https://datacircle.dev/validate-email-apis/businessmcp/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-12 |
+| 240 | [Bytemine](https://datacircle.dev/validate-email-apis/bytemine/pay-as-you-go) | pay as you go | 0 | 0 | $10.00 per 1,000 emails | 2026-11-06 |
+| 241 | [Check Mail](https://datacircle.dev/validate-email-apis/check-mail/50-monthly) | $50 monthly | 0 | 0 | $0.25 per 1,000 emails | 2026-11-03 |
+| 242 | [CheckMail1](https://datacircle.dev/validate-email-apis/checkmail1/1-pack-trial-post-verify-batch) | $1 pack, Trial | 0 | 0 | $10.00 per 1,000 emails | 2026-11-03 |
+| 243 | [Cleariflow](https://datacircle.dev/validate-email-apis/cleariflow/6-monthly) | €6 monthly | 0 | 0 | $1.35 per 1,000 emails | 2026-11-24 |
+| 244 | [Coinslot](https://datacircle.dev/validate-email-apis/coinslot/pay-as-you-go) | pay as you go | 0 | 0 | $0.15 per 1,000 emails | 2026-11-09 |
+| 245 | [Cold Leads](https://datacircle.dev/validate-email-apis/cold-leads/99-monthly-business-post-verify) | $99 monthly, Business | 0 | 0 |  | 2026-11-06 |
+| 246 | [Companyfacts](https://datacircle.dev/validate-email-apis/companyfacts/pay-as-you-go) | pay as you go | 0 | 0 | $1.00 per 1,000 emails | 2026-11-06 |
+| 247 | [Contact Verify](https://datacircle.dev/validate-email-apis/contact-verify/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-08 |
+| 248 | [ContactLint](https://datacircle.dev/validate-email-apis/contactlint/9-pack-credit-pack-5000-post-v1-email-validate) | $9 pack, Credit pack 5,000 | 0 | 0 | $1.80 per 1,000 emails | 2026-11-06 |
+| 249 | [Continuum API](https://datacircle.dev/validate-email-apis/continuum-api/29-monthly-starter-post-v1-verify) | $29 monthly, Starter | 0 | 0 | $5.80 per 1,000 emails | 2026-11-03 |
+| 250 | [DaData](https://datacircle.dev/validate-email-apis/dadata/top-up) | top-up | 0 | 0 | $2.39 per 1,000 emails | 2026-11-06 |
+| 251 | [Datakoot](https://datacircle.dev/validate-email-apis/datakoot/10-monthly) | $10 monthly | 0 | 0 | $0.20 per 1,000 emails | 2026-11-09 |
+| 252 | [Didit](https://datacircle.dev/validate-email-apis/didit/top-up-from-50) | top-up from $50 | 0 | 0 |  | 2026-11-06 |
+| 253 | [Disify](https://datacircle.dev/validate-email-apis/disify/9-monthly-starter-get-email-email) | $9 monthly, Starter | 0 | 0 |  | 2026-11-03 |
+| 254 | [DomScan](https://datacircle.dev/validate-email-apis/domscan/6-monthly-starter-get-v1-email-verify) | $6 monthly, Starter | 0 | 0 | $0.48 per 1,000 emails | 2026-11-05 |
+| 255 | [Dymo API](https://datacircle.dev/validate-email-apis/dymo-api/14-99-monthly-standard-500-credits-post-private-secure-verify-email-validation) | $14.99 monthly, Standard, 500 credits | 0 | 0 | $3.00 per 1,000 emails | 2026-11-14 |
+| 256 | [EasyEmailAPI](https://datacircle.dev/validate-email-apis/easyemailapi/19-monthly) | $19 monthly | 0 | 0 | $0.19 per 1,000 emails | 2026-11-06 |
+| 257 | [Elastic Email](https://datacircle.dev/validate-email-apis/elastic-email/19-monthly-email-api-starter-50000-emails-month-post-verifications-email) | $19 monthly, Email API Starter (50,000 emails/month) | 0 | 0 | $0.38 per 1,000 emails | 2026-11-06 |
+| 258 | [Elvesora](https://datacircle.dev/validate-email-apis/elvesora/50-monthly-starter-post-api-v1-validate) | $50 monthly, Starter | 0 | 0 | $2.00 per 1,000 emails | 2026-10-27 |
+| 259 | [EmailDetective](https://datacircle.dev/validate-email-apis/emaildetective/19-monthly-basic-get-emails-emailaddress) | $19 monthly, Basic | 0 | 0 | $0.76 per 1,000 emails | 2026-11-06 |
+| 260 | [EmailIQ](https://datacircle.dev/validate-email-apis/emailiq/pay-as-you-go-pay-per-call-with-x402-post-email-intelligence) | pay as you go, Pay-per-call with x402 | 0 | 0 | $100.00 per 1,000 emails | 2026-11-15 |
+| 261 | [Emailit](https://datacircle.dev/validate-email-apis/emailit/top-up-from-20-pay-as-you-go-post-email-verifications-verify-an-address) | top-up from $20, Pay as you go | 0 | 0 | $1.00 per 1,000 emails | 2026-11-06 |
+| 262 | [EnvoAPI](https://datacircle.dev/validate-email-apis/envoapi/29-pack-starter-top-up-get-v1-emails-verify) | $29 pack, Starter top-up | 0 | 0 | $11.60 per 1,000 emails | 2026-10-26 |
+| 263 | [Exepal](https://datacircle.dev/validate-email-apis/exepal/5-pack-starter-post-v1-email) | $5 pack, Founder pack | 0 | 0 | $2.00 per 1,000 emails | 2026-11-14 |
+| 264 | [Fastcrawl](https://datacircle.dev/validate-email-apis/fastcrawl/5-monthly) | $5 monthly | 0 | 0 | $1.00 per 1,000 emails | 2026-11-12 |
+| 265 | [FatihAI](https://datacircle.dev/validate-email-apis/fatihai/500-monthly) | $500 monthly | 0 | 0 | $10.00 per 1,000 emails | 2026-11-16 |
+| 266 | [FirstSales](https://datacircle.dev/validate-email-apis/firstsales/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-06 |
+| 267 | [FluentEDI](https://datacircle.dev/validate-email-apis/fluentedi/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-11 |
+| 268 | [fourzerotwo](https://datacircle.dev/validate-email-apis/fourzerotwo/pay-as-you-go) | pay as you go | 0 | 0 | $1.00 per 1,000 emails | 2026-11-11 |
+| 269 | [FraudCheck API](https://datacircle.dev/validate-email-apis/fraudcheck-api/19-99-monthly) | $19.99 monthly | 0 | 0 | $0.80 per 1,000 emails | 2026-11-11 |
+| 270 | [Geoscape](https://datacircle.dev/validate-email-apis/geoscape/a-100-monthly) | A$100 (about $70) monthly | 0 | 0 | $13.92 per 1,000 emails | 2026-11-16 |
+| 271 | [Icypeas](https://datacircle.dev/validate-email-apis/icypeas/19-monthly-basic-post-email-verification) | $19 monthly, Basic | 0 | 0 | $1.90 per 1,000 emails | 2026-11-06 |
+| 272 | [Interzoid](https://datacircle.dev/validate-email-apis/interzoid/pay-as-you-go-x402-pay-per-call-get-emailtrustscore) | pay as you go, x402 pay per call | 0 | 0 | $250.00 per 1,000 emails | 2026-10-26 |
+| 273 | [Invertexto](https://datacircle.dev/validate-email-apis/invertexto/r-49-monthly) | R$49 (about $10) monthly | 0 | 0 | $0.096 per 1,000 emails | 2026-11-09 |
+| 274 | [IPScanner](https://datacircle.dev/validate-email-apis/ipscanner/5-pack) | $5 pack | 0 | 0 | $2.00 per 1,000 emails | 2026-11-11 |
+| 275 | [IsItDisposable](https://datacircle.dev/validate-email-apis/isitdisposable/19-monthly-starter-post-v1-check) | $19 monthly, Starter | 0 | 0 | $1.90 per 1,000 emails | 2026-11-06 |
+| 276 | [IsTempMail](https://datacircle.dev/validate-email-apis/istempmail/5-monthly) | $5 monthly | 0 | 0 | $1.00 per 1,000 emails | 2026-11-03 |
+| 277 | [IsValid](https://datacircle.dev/validate-email-apis/isvalid/9-monthly) | €9 monthly | 0 | 0 | $0.034 per 1,000 emails | 2026-11-05 |
+| 278 | [Kaidn](https://datacircle.dev/validate-email-apis/kaidn/39-monthly) | $39 monthly | 0 | 0 | $0.78 per 1,000 emails | 2026-11-11 |
+| 279 | [LayerCall](https://datacircle.dev/validate-email-apis/layercall/49-monthly-starter-get-v1-verify-email) | $49 monthly, Starter | 0 | 0 | $2.45 per 1,000 emails | 2026-11-11 |
+| 280 | [LeadFuze](https://datacircle.dev/validate-email-apis/leadfuze/250-monthly-starter-post-verification-email) | $250 monthly, Starter | 0 | 0 |  | 2026-11-03 |
+| 281 | [ListWise](https://datacircle.dev/validate-email-apis/listwise/44-monthly-monthly-10k-get-clean-quick-php) | $44 monthly, Monthly 10k | 0 | 0 |  | 2026-11-11 |
+| 282 | [Lordevo](https://datacircle.dev/validate-email-apis/lordevo/pay-as-you-go) | pay as you go | 0 | 0 | $2.00 per 1,000 emails | 2026-11-09 |
+| 283 | [LOX24](https://datacircle.dev/validate-email-apis/lox24/top-up-economy) | top-up, Economy | 0 | 0 | $22.51 per 1,000 emails | 2026-11-08 |
+| 284 | [MailCheck](https://datacircle.dev/validate-email-apis/mailcheck/9-monthly) | €9 monthly | 0 | 0 | $2.03 per 1,000 emails | 2026-11-03 |
+| 285 | [Mailhive](https://datacircle.dev/validate-email-apis/mailhive/ngn-1500-monthly) | NGN 1,500 (about $1) monthly | 0 | 0 |  | 2026-11-11 |
+| 286 | [Manifold](https://datacircle.dev/validate-email-apis/manifold/top-up-from-10) | top-up from $10 | 0 | 0 | $25.00 per 1,000 emails | 2026-11-10 |
+| 287 | [ManyLives](https://datacircle.dev/validate-email-apis/manylives/pay-as-you-go) | pay as you go | 0 | 0 | $2.00 per 1,000 emails | 2026-11-11 |
+| 288 | [Mekong Trade Intel](https://datacircle.dev/validate-email-apis/mekong-trade-intel/pay-as-you-go) | pay as you go | 0 | 0 | $1.00 per 1,000 emails | 2026-11-09 |
+| 289 | [Minelead](https://datacircle.dev/validate-email-apis/minelead/39-monthly) | $39 monthly, Starter | 0 | 0 | $39.00 per 1,000 emails | 2026-11-06 |
+| 290 | [MXCheck](https://datacircle.dev/validate-email-apis/mxcheck/free-tier-get-api-validate) | free tier | 0 | 0 | $0.00 per 1,000 emails | 2026-11-22 |
+| 291 | [NameAPI](https://datacircle.dev/validate-email-apis/nameapi/10-monthly) | €10 monthly | 0 | 0 | $0.56 per 1,000 emails | 2026-11-06 |
+| 292 | [NexMailPro](https://datacircle.dev/validate-email-apis/nexmailpro/9-pack-starter-top-up-post-verify-email) | $9 pack, Starter Top-Up | 0 | 0 | $1.80 per 1,000 emails | 2026-11-06 |
+| 293 | [NoParam](https://datacircle.dev/validate-email-apis/noparam/29-monthly-starter-post-verify) | $29 monthly, Starter | 0 | 0 | $2.90 per 1,000 emails | 2026-11-09 |
+| 294 | [OpenLookup](https://datacircle.dev/validate-email-apis/openlookup/9-monthly-starter-post-v1-email-check) | $9 monthly, Starter | 0 | 0 | $1.80 per 1,000 emails | 2026-11-03 |
+| 295 | [PeopleSearch.im](https://datacircle.dev/validate-email-apis/peoplesearch-im/5-pack) | $5 pack | 0 | 0 | $50.00 per 1,000 emails | 2026-11-07 |
+| 296 | [Postio](https://datacircle.dev/validate-email-apis/postio/top-up-from-10) | top-up from £10 (about $13) | 0 | 0 | $13.34 per 1,000 emails | 2026-11-03 |
+| 297 | [proxycheck.io](https://datacircle.dev/validate-email-apis/proxycheck-io/4-99-monthly) | $4.99 monthly | 0 | 0 | $0.017 per 1,000 emails | 2026-11-03 |
+| 298 | [Pushbuild](https://datacircle.dev/validate-email-apis/pushbuild/top-up) | top-up | 0 | 0 | $0.32 per 1,000 emails | 2026-11-05 |
+| 299 | [Pyzit](https://datacircle.dev/validate-email-apis/pyzit/9-99-monthly-starter-post-v1-tmd-check) | $9.99 monthly, Starter | 0 | 0 | $0.40 per 1,000 emails | 2026-11-11 |
+| 300 | [RealMail](https://datacircle.dev/validate-email-apis/realmail/16-pack) | $16 pack | 0 | 0 | $6.40 per 1,000 emails | 2026-11-06 |
+| 301 | [RealPhoneValidation](https://datacircle.dev/validate-email-apis/realphonevalidation/top-up-from-25) | top-up from $25 | 0 | 0 | $20.00 per 1,000 emails | 2026-11-23 |
+| 302 | [ReefAPI](https://datacircle.dev/validate-email-apis/reefapi/15-monthly) | $15 monthly | 0 | 0 | $1.50 per 1,000 emails | 2026-11-08 |
+| 303 | [RiteKit](https://datacircle.dev/validate-email-apis/ritekit/99-monthly-tier-0-get-v2-person-insights-disposable-email-detection) | $99 monthly, Tier 0 | 0 | 0 | $1.98 per 1,000 emails | 2026-11-04 |
+| 304 | [Scrappy](https://datacircle.dev/validate-email-apis/scrappy/9-pack) | $9 pack | 0 | 0 | $18.00 per 1,000 emails | 2026-11-07 |
+| 305 | [Sendly](https://datacircle.dev/validate-email-apis/sendly/free-post-api-verify) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-09 |
+| 306 | [SentriSend](https://datacircle.dev/validate-email-apis/sentrisend/29-monthly) | $29 monthly | 0 | 0 | $0.58 per 1,000 emails | 2026-11-11 |
+| 307 | [Signitize](https://datacircle.dev/validate-email-apis/signitize/29-pack-premium-30-days-post-v1-check) | $29 pack, Premium (30 days) | 0 | 0 | $0.29 per 1,000 emails | 2026-11-10 |
+| 308 | [SignupScore](https://datacircle.dev/validate-email-apis/signupscore/12-monthly) | $12 monthly | 0 | 0 | $0.48 per 1,000 emails | 2026-11-05 |
+| 309 | [Sortwell](https://datacircle.dev/validate-email-apis/sortwell/9-pack) | $9 pack | 0 | 0 | $0.90 per 1,000 emails | 2026-11-16 |
+| 310 | [StopReg](https://datacircle.dev/validate-email-apis/stopreg/20-monthly) | $20 monthly | 0 | 0 | $0.33 per 1,000 emails | 2026-11-06 |
+| 311 | [Strale](https://datacircle.dev/validate-email-apis/strale/top-up-from-10-prepaid-wallet-post-v1-do-email-validation) | top-up from €10, Prepaid wallet | 0 | 0 |  | 2026-11-06 |
+| 312 | [Suprsonic](https://datacircle.dev/validate-email-apis/suprsonic/29-monthly) | $29 monthly | 0 | 0 | $14.50 per 1,000 emails | 2026-11-06 |
+| 313 | [Tanod](https://datacircle.dev/validate-email-apis/tanod/pay-as-you-go) | pay as you go | 0 | 0 | $1.00 per 1,000 emails | 2026-11-09 |
+| 314 | [TempMailChecker](https://datacircle.dev/validate-email-apis/tempmailchecker/12-monthly) | $12 monthly | 0 | 0 | $4.00 per 1,000 emails | 2026-11-03 |
+| 315 | [TempMailDetector](https://datacircle.dev/validate-email-apis/tempmaildetector/5-monthly) | $5 monthly | 0 | 0 | $5.00 per 1,000 emails | 2026-11-24 |
+| 316 | [Temsor](https://datacircle.dev/validate-email-apis/temsor/10-pack) | $10 pack | 0 | 0 | $0.50 per 1,000 emails | 2026-11-24 |
+| 317 | [throwaway.cloud](https://datacircle.dev/validate-email-apis/throwaway-cloud/free-get-api-v3-subject) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-05 |
+| 318 | [TokenVerify](https://datacircle.dev/validate-email-apis/tokenverify/29-monthly-starter-post-v1-verify-email) | £29 (about $39) monthly, Starter | 0 | 0 | $3.87 per 1,000 emails | 2026-11-07 |
+| 319 | [Trueform](https://datacircle.dev/validate-email-apis/trueform/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-11 |
+| 320 | [TrustPath](https://datacircle.dev/validate-email-apis/trustpath/50-monthly) | €50 monthly | 0 | 0 | $14.07 per 1,000 emails | 2026-11-03 |
+| 321 | [Truval](https://datacircle.dev/validate-email-apis/truval/9-monthly-builder-post-v1-email-verify) | €9 monthly, Builder | 0 | 0 | $2.03 per 1,000 emails | 2026-11-11 |
+| 322 | [UniOne](https://datacircle.dev/validate-email-apis/unione/4-monthly-startup-6k-6000-emails-a-month-first-100-validations-a-month) | $4 monthly, StartUp 6K, 6,000 emails a month, first 100 validations a month | 0 | 0 | $0.00 per 1,000 emails | 2026-11-04 |
+| 323 | [UnwrapEmail](https://datacircle.dev/validate-email-apis/unwrapemail/pay-as-you-go-50001-validations-get-emails-validate) | pay as you go, 50,001+ validations | 0 | 0 | $1.00 per 1,000 emails | 2026-11-21 |
+| 324 | [UserCheck](https://datacircle.dev/validate-email-apis/usercheck/50-monthly-pro-200k-get-email-email) | $50 monthly, Pro 200k | 0 | 0 | $0.25 per 1,000 emails | 2026-11-06 |
+| 325 | [ValidKit](https://datacircle.dev/validate-email-apis/validkit/20-monthly-starter-post-v1-verify) | $20 monthly, Starter | 0 | 0 | $2.00 per 1,000 emails | 2026-11-03 |
+| 326 | [VeriDock](https://datacircle.dev/validate-email-apis/veridock/9-monthly-starter-get-verify) | $9 monthly, Starter | 0 | 0 | $4.50 per 1,000 emails | 2026-11-22 |
+| 327 | [verifi.email](https://datacircle.dev/validate-email-apis/verifi-email/9-monthly-starter-get-v1-validate) | $9 monthly, Starter | 0 | 0 | $1.80 per 1,000 emails | 2026-11-04 |
+| 328 | [VerifNow](https://datacircle.dev/validate-email-apis/verifnow/19-monthly) | $19 monthly | 0 | 0 | $1.90 per 1,000 emails | 2026-11-09 |
+| 329 | [VeriPulse](https://datacircle.dev/validate-email-apis/veripulse/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-15 |
+| 330 | [Vetto](https://datacircle.dev/validate-email-apis/vetto/12-monthly) | $12 monthly | 0 | 0 | $0.20 per 1,000 emails | 2026-11-16 |
+| 331 | [Watch-IP](https://datacircle.dev/validate-email-apis/watch-ip/9-monthly-starter-post-v1-email-validate) | $9 monthly, Starter | 0 | 0 | $0.036 per 1,000 emails | 2026-11-12 |
+| 332 | [YourAITools](https://datacircle.dev/validate-email-apis/youraitools/free) | free | 0 | 0 | $0.00 per 1,000 emails | 2026-11-09 |
+| 333 | [ZapSMTP](https://datacircle.dev/validate-email-apis/zapsmtp/15-monthly-pro-50k-post-email-validations) | $15 monthly, Pro 50k | 0 | 0 | $3.00 per 1,000 emails | 2026-11-11 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

@@ -1,6 +1,6 @@
 # Zillow search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 PerceptLayer ranks first in our benchmark, with an Overall score of 75 out of 100. PerceptLayer scores 82 out of 100 for accuracy. PerceptLayer's plan "$399 pack" costs $0.80 per 1,000 searches. We rank 15 providers. We last tested them on 2026-11-19.
 

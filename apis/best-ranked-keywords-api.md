@@ -1,6 +1,6 @@
 # Keyword ranking API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 SocQ ranks first in our benchmark, with an Overall score of 61 out of 100. SocQ scores 64 out of 100 for accuracy. SocQ's plan "top-up from $5" costs $0.50 per 1,000 keywords. We rank 13 providers. We last tested them on 2026-11-24.
 

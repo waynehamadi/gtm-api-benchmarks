@@ -1,6 +1,6 @@
 # Email finder API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 Emelia ranks first in our benchmark, with an Overall score of 76.6 out of 100. Emelia scores 88 out of 100 for accuracy. Emelia's plan "$499 monthly, 100,000 credits per month" costs $4.99 per 1,000 emails. We rank 147 providers. We last tested them on 2026-11-24.
 
@@ -61,7 +61,7 @@ Every plan below is on our ranking page, [Email finder API: best providers in 20
 | 51 | [ListPlus](https://datacircle.dev/find-email-apis/listplus/18-pack) | $18 pack | 46.7 | 61 | $72.00 per 1,000 emails | 2026-11-16 |
 | 52 | [Oneprofile](https://datacircle.dev/find-email-apis/oneprofile/20-monthly) | $20 monthly | 46.1 | 65 | $200.00 per 1,000 emails | 2026-11-20 |
 | 53 | [PreceptAI](https://datacircle.dev/find-email-apis/preceptai/59-monthly-starter-post-v1-leads-enrich-start-contacts-enrichment) | £59 (about $79) monthly, Starter | 44.9 | 73 | $183.58 per 1,000 emails | 2026-11-16 |
-| 54 | [Listar](https://datacircle.dev/find-email-apis/listar/top-up-from-10-starter-post-search-unified) | top-up from €10, Starter | 44 | 53 | $112.53 per 1,000 emails | 2026-11-24 |
+| 54 | [Listar](https://datacircle.dev/find-email-apis/listar/top-up-from-10-starter-post-search-unified) | top-up from €10, Starter | 44.1 | 53 | $112.53 per 1,000 emails | 2026-11-24 |
 | 55 | [FirstTouch](https://datacircle.dev/find-email-apis/firsttouch/99-monthly) | $99 monthly | 43.7 | 73 | $396.00 per 1,000 emails | 2026-11-16 |
 | 56 | [Sixtyfour](https://datacircle.dev/find-email-apis/sixtyfour/top-up-from-50) | top-up from $50 | 43.5 | 75 |  | 2026-10-27 |
 | 57 | [Nock](https://datacircle.dev/find-email-apis/nock/r-799-monthly) | R$799 (about $157) monthly, Growth | 43.4 | 52 | $58.95 per 1,000 emails | 2026-11-12 |

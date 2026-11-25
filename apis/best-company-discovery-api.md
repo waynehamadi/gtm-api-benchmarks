@@ -1,6 +1,6 @@
 # Company discovery API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 GetProspect ranks first in our benchmark, with an Overall score of 92.7 out of 100. GetProspect scores 100 out of 100 for accuracy. GetProspect's plan "$49 monthly" costs $0 extra per 1,000 companies. The $49 monthly price covers any number of companies. We rank 90 providers. We last tested them on 2026-11-22.
 
@@ -34,7 +34,7 @@ Every plan below is on our ranking page, [Company discovery API: best providers 
 | 24 | [Exa](https://datacircle.dev/company-discovery-apis/exa/top-up-from-5-developer-pay-as-you-go-post-search-search) | top-up from $5, Developer (pay as you go) | 58.9 | 84 | $0.70 per 1,000 companies | 2026-11-01 |
 | 25 | [Bright Data](https://datacircle.dev/company-discovery-apis/bright-data/top-up-pay-as-you-go-post-search-company-search-companies-ludicrous) | top-up, Pay as you go | 57.8 | 89 | $0.02 per 1,000 companies | 2026-11-02 |
 | 26 | [OneShot](https://datacircle.dev/company-discovery-apis/oneshot/top-up-from-0-01-card-via-stripe-checkout) | top-up from $0.01, Card via Stripe Checkout | 57.8 | 73 | $0.10 per 1,000 companies | 2026-10-29 |
-| 27 | [Findymail](https://datacircle.dev/company-discovery-apis/findymail/399-monthly) | $399 monthly, Business Plus | 57.2 | 63 | $1.33 per 1,000 companies | 2026-11-05 |
+| 27 | [Findymail](https://datacircle.dev/company-discovery-apis/findymail/399-monthly) | $399 monthly, Business Plus | 57.6 | 64 | $1.33 per 1,000 companies | 2026-11-05 |
 | 28 | [PreceptAI](https://datacircle.dev/company-discovery-apis/preceptai/59-monthly) | £59 (about $79) monthly | 55 | 100 | $26.23 per 1,000 companies | 2026-11-21 |
 | 29 | [Bloomberry](https://datacircle.dev/company-discovery-apis/bloomberry/299-monthly-pro-get-accounts-tech-json) | $299 monthly, Pro | 55 | 96 | $46.00 per 1,000 companies | 2026-10-21 |
 | 30 | [Instantly](https://datacircle.dev/company-discovery-apis/instantly/500-monthly-hyper-credits-3-post-api-v2-supersearch-enrichment-company-lists-create-a-company-list-build-theirstack) | $500 monthly, Hyper credits 3 | 53.5 | 86 | $22.22 per 1,000 companies | 2026-10-24 |
@@ -44,7 +44,7 @@ Every plan below is on our ranking page, [Company discovery API: best providers 
 | 34 | [Sumble](https://datacircle.dev/company-discovery-apis/sumble/99-monthly-pro-post-v9-organizations-organizations) | $99 monthly, Pro | 48.2 | 54 | $10.00 per 1,000 companies | 2026-10-26 |
 | 35 | [CompanyEnrich](https://datacircle.dev/company-discovery-apis/companyenrich/149-monthly-pro-post-companies-search-search) | $149 monthly, Pro | 47.9 | 61 | $2.98 per 1,000 companies | 2026-10-24 |
 | 36 | [Coresignal](https://datacircle.dev/company-discovery-apis/coresignal/49-monthly-mini-get-v2-company-multi-source-collect-company-id-collect-company-api) | $49 monthly, Mini | 45.5 | 78 | $196.00 per 1,000 companies | 2026-10-21 |
-| 37 | [Lusha](https://datacircle.dev/company-discovery-apis/lusha/69-90-monthly-pro-600-credits-a-month-post-v3-companies-prospecting-prospecting-companies) | $69.90 monthly, Pro, 600 credits a month | 45.5 | 61 | $4.66 per 1,000 companies | 2026-10-20 |
+| 37 | [Lusha](https://datacircle.dev/company-discovery-apis/lusha/69-90-monthly-pro-600-credits-a-month-post-v3-companies-prospecting-prospecting-companies) | $69.90 monthly, Pro, 600 credits a month | 45.5 | 62 | $4.66 per 1,000 companies | 2026-10-20 |
 | 38 | [Perigon](https://datacircle.dev/company-discovery-apis/perigon/250-monthly) | $250 monthly | 42.7 | 50 | $0.50 per 1,000 companies | 2026-10-30 |
 | 39 | [People Data Labs](https://datacircle.dev/company-discovery-apis/people-data-labs/100-monthly) | $100 monthly | 41.5 | 53 | $100.00 per 1,000 companies | 2026-10-20 |
 | 40 | [Aidenix](https://datacircle.dev/company-discovery-apis/aidenix/39-monthly) | $39 monthly | 35.6 | 50 | $55.71 per 1,000 companies | 2026-11-07 |

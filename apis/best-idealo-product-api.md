@@ -1,6 +1,6 @@
 # Idealo product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 kwery ranks first in our benchmark, with an Overall score of 62.1 out of 100. kwery scores 85 out of 100 for accuracy. kwery's plan "€399 monthly, Growth S" costs $4.49 per 1,000 products. We rank 3 providers. We last tested them on 2026-11-23.
 

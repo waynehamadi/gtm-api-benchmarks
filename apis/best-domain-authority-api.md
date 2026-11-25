@@ -1,6 +1,6 @@
 # Domain authority API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 AnyAPI ranks first in our benchmark, with an Overall score of 44.6 out of 100. AnyAPI scores 20 out of 100 for accuracy. AnyAPI's plan "top-up from $10, Manual top-up" costs $4.95 per 1,000 domains. We rank 19 providers. We last tested them on 2026-11-23.
 

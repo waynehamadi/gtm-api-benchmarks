@@ -1,6 +1,6 @@
 # Instagram post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
 
 herascrape ranks first in our benchmark, with an Overall score of 82 out of 100. herascrape scores 82 out of 100 for accuracy. herascrape's plan "top-up from $5, Prepaid balance" costs $0.033 per 1,000 posts. We rank 45 providers. We last tested them on 2026-11-23.
 
