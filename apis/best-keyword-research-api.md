@@ -1,6 +1,6 @@
 # Keyword research API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
 DataForSEO ranks first in our benchmark, with an Overall score of 54.9 out of 100. DataForSEO scores 39 out of 100 for accuracy. DataForSEO's plan "top-up from $50, Pay as you go" costs $0.12 per 1,000 keywords. We rank 20 providers. We last tested them on 2026-11-17.
 
@@ -27,7 +27,7 @@ Every plan below is on our ranking page, [Keyword research API: best providers i
 | 17 | [JSON SEO](https://datacircle.dev/keyword-research-apis/json-seo/top-up-balance-get-wordstat-frequency) | top-up, Balance | 34.6 | 1 | $0.12 per 1,000 keywords | 2026-11-17 |
 | 18 | [Trends MCP](https://datacircle.dev/keyword-research-apis/trends-mcp/49-monthly-pro-post-api-get-time-series) | $49 monthly, Pro | 30.9 | 3 | $9.80 per 1,000 keywords | 2026-11-11 |
 | 19 | [Arsenkin Tools](https://datacircle.dev/keyword-research-apis/arsenkin-tools/2490-monthly) | ₽2,490 (about $30) monthly | 30.2 | 2 | $0.35 per 1,000 keywords | 2026-11-10 |
-| 20 | [Answer Socrates](https://datacircle.dev/keyword-research-apis/answer-socrates/299-monthly) | $299 monthly | 20.9 | 2 | $11.96 per 1,000 keywords | 2026-11-05 |
+| 20 | [Answer Socrates](https://datacircle.dev/google-trends-apis/answer-socrates/299-monthly) | $299 monthly | 20.9 | 2 | $11.96 per 1,000 keywords | 2026-11-05 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

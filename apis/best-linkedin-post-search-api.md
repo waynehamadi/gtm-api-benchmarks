@@ -1,8 +1,8 @@
 # LinkedIn post search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
-Scrappa ranks first in our benchmark, with an Overall score of 84.9 out of 100. Scrappa scores 91 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.015 per 1,000 posts. We rank 29 providers. We last tested them on 2026-11-16.
+Scrappa ranks first in our benchmark, with an Overall score of 84.9 out of 100. Scrappa scores 91 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.015 per 1,000 posts. We rank 30 providers. We last tested them on 2026-11-18.
 
 Every plan below is on our ranking page, [LinkedIn post search API: best providers in 2026](https://datacircle.dev/best-linkedin-post-search-api).
 
@@ -22,7 +22,7 @@ Every plan below is on our ranking page, [LinkedIn post search API: best provide
 | 12 | [ScrapeAtlas](https://datacircle.dev/linkedin-post-search-apis/scrapeatlas/19-pack) | $19 pack | 59.4 | 91 | $0.38 per 1,000 posts | 2026-10-28 |
 | 13 | [RichAPI](https://datacircle.dev/linkedin-post-search-apis/richapi/100-pack) | $100 pack | 57.8 | 76 | $2.00 per 1,000 posts | 2026-10-25 |
 | 14 | [API Direct](https://datacircle.dev/linkedin-post-search-apis/api-direct/pay-as-you-go) | pay as you go, Pay per request | 55.8 | 73 | $0.30 per 1,000 posts | 2026-10-25 |
-| 15 | [PreceptAI](https://datacircle.dev/linkedin-post-search-apis/preceptai/109-monthly-core-post-v1-leads-post-search-discover-people-from-linkedin-posts) | £109 (about $145) monthly, Core | 54.7 | 100 | $4.85 per 1,000 posts | 2026-11-16 |
+| 15 | [PreceptAI](https://datacircle.dev/linkedin-post-search-apis/preceptai/109-monthly-core-post-v1-leads-post-search-discover-people-from-linkedin-posts) | £109 (about $145) monthly, Core | 54.7 | 100 | $4.85 per 1,000 posts | 2026-11-18 |
 | 16 | [Captapi](https://datacircle.dev/linkedin-post-search-apis/captapi/9-monthly) | $9 monthly | 54.5 | 83 | $3.60 per 1,000 posts | 2026-10-28 |
 | 17 | [FetchGoblin](https://datacircle.dev/linkedin-post-search-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 52.2 | 92 |  | 2026-11-08 |
 | 18 | [Datamagnet](https://datacircle.dev/linkedin-post-search-apis/datamagnet/top-up-from-5) | top-up from $5 | 52.2 | 91 |  | 2026-10-26 |
@@ -36,7 +36,8 @@ Every plan below is on our ranking page, [LinkedIn post search API: best provide
 | 26 | [SocialListeningAPI](https://datacircle.dev/linkedin-post-search-apis/sociallisteningapi/20-pack) | $20 pack | 45.9 | 73 |  | 2026-10-27 |
 | 27 | [Layrcake](https://datacircle.dev/linkedin-post-search-apis/layrcake/top-up-from-20) | top-up from $20 | 45.5 | 66 | $5.00 per 1,000 posts | 2026-11-11 |
 | 28 | [B2BProfile API](https://datacircle.dev/linkedin-post-search-apis/b2bprofile-api/199-monthly-business-scale-get-v1-posts-search-search-public-b2b-posts-discussions-api-for-linkedin) | $199 monthly, Business / Scale | 58 | 29 | $0.08 per 1,000 posts | 2026-11-11 |
-| 29 | [Superagnt](https://datacircle.dev/linkedin-post-search-apis/superagnt/29-monthly-data-credits-small-post-v1-data-linkedin-search-posts) | $29 monthly, Data Credits Small | 0 | 0 |  | 2026-11-08 |
+| 29 | [CommunityTracker](https://datacircle.dev/linkedin-post-search-apis/communitytracker/4-99-pack) | $4.99 pack | 26 | 34 |  | 2026-11-18 |
+| 30 | [Superagnt](https://datacircle.dev/linkedin-post-search-apis/superagnt/29-monthly-data-credits-small-post-v1-data-linkedin-search-posts) | $29 monthly, Data Credits Small | 0 | 0 |  | 2026-11-08 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

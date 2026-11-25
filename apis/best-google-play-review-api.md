@@ -1,6 +1,6 @@
 # Google Play review API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
 SignalShelf ranks first in our benchmark, with an Overall score of 85.3 out of 100. SignalShelf scores 84 out of 100 for accuracy. SignalShelf's plan "$499 pack" costs $0.005 per 1,000 reviews. We rank 13 providers. We last tested them on 2026-11-18.
 

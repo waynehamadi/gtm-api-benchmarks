@@ -1,15 +1,15 @@
 # Google Shopping product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
-Litescrape ranks first in our benchmark, with an Overall score of 72.5 out of 100. Litescrape scores 47 out of 100 for accuracy. Litescrape's plan "top-up from $10" costs $0.15 per 1,000 products. We rank 8 providers. We last tested them on 2026-11-21.
+Litescrape ranks first in our benchmark, with an Overall score of 72.5 out of 100. Litescrape scores 47 out of 100 for accuracy. Litescrape's plan "top-up from $10" costs $0.15 per 1,000 products. We rank 8 providers. We last tested them on 2026-11-24.
 
 Every plan below is on our ranking page, [Google Shopping product API: best providers in 2026](https://datacircle.dev/best-google-shopping-product-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Litescrape](https://datacircle.dev/google-shopping-product-apis/litescrape/top-up-from-10) | top-up from $10 | 72.5 | 47 | $0.15 per 1,000 products | 2026-10-30 |
-| 2 | [kwery](https://datacircle.dev/google-shopping-product-apis/kwery/399-monthly) | €399 monthly | 57.1 | 51 | $2.25 per 1,000 products | 2026-11-18 |
+| 2 | [kwery](https://datacircle.dev/google-shopping-product-apis/kwery/399-monthly) | €399 monthly | 57.1 | 51 | $2.25 per 1,000 products | 2026-11-24 |
 | 3 | [Omkar Cloud](https://datacircle.dev/google-shopping-product-apis/omkar-cloud/148-monthly) | $148 monthly | 56 | 47 | $0.99 per 1,000 products | 2026-11-09 |
 | 4 | [OpenWeb Ninja](https://datacircle.dev/google-shopping-product-apis/openweb-ninja/150-monthly) | $150 monthly | 54 | 58 | $0.75 per 1,000 products | 2026-11-18 |
 | 5 | [DataForSEO](https://datacircle.dev/google-shopping-product-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-merchant-google-product-info-task-post-setting-google-shopping-product-info-tasks-standard-queue) | top-up from $50, Pay as you go | 47.4 | 43 | $1.00 per 1,000 products | 2026-11-03 |

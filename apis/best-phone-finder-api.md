@@ -1,14 +1,14 @@
 # Phone finder API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
-MillionPhones ranks first in our benchmark, with an Overall score of 68.3 out of 100. MillionPhones scores 47 out of 100 for accuracy. MillionPhones's plan "$300 monthly, Pro 40,000 credits/mo" costs $75.00 per 1,000 numbers. We rank 57 providers. We last tested them on 2026-11-20.
+MillionPhones ranks first in our benchmark, with an Overall score of 68.4 out of 100. MillionPhones scores 47 out of 100 for accuracy. MillionPhones's plan "$300 monthly, Pro 40,000 credits/mo" costs $75.00 per 1,000 numbers. We rank 57 providers. We last tested them on 2026-11-20.
 
 Every plan below is on our ranking page, [Phone finder API: best providers in 2026](https://datacircle.dev/best-phone-finder-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [MillionPhones](https://datacircle.dev/find-phone-apis/millionphones/300-monthly-pro-40000-credits-mo-get-phone) | $300 monthly, Pro 40,000 credits/mo | 68.3 | 47 | $75.00 per 1,000 numbers | 2026-10-27 |
+| 1 | [MillionPhones](https://datacircle.dev/find-phone-apis/millionphones/300-monthly-pro-40000-credits-mo-get-phone) | $300 monthly, Pro 40,000 credits/mo | 68.4 | 47 | $75.00 per 1,000 numbers | 2026-10-27 |
 | 2 | [Fiber AI](https://datacircle.dev/find-phone-apis/fiber-ai/top-up-from-3-pay-as-you-go-post-v1-contact-details-single) | top-up from $3, Pay-as-you-go | 61.1 | 40 | $90.00 per 1,000 numbers | 2026-10-23 |
 | 3 | [Descovo](https://datacircle.dev/find-phone-apis/descovo/99-monthly-starter-post-mcp-standard-reveal) | $99 monthly, Starter | 59.4 | 40 | $59.40 per 1,000 numbers | 2026-11-14 |
 | 4 | [treg](https://datacircle.dev/find-phone-apis/treg/top-up-from-10) | top-up from $10 | 55.8 | 32 | $116.61 per 1,000 numbers | 2026-10-27 |
@@ -23,7 +23,7 @@ Every plan below is on our ranking page, [Phone finder API: best providers in 20
 | 13 | [Scalelist](https://datacircle.dev/find-phone-apis/scalelist/199-monthly-5000-credits-month-get-finder-phone) | $199 monthly, 5,000 credits / month | 46.9 | 47 | $398.00 per 1,000 numbers | 2026-11-16 |
 | 14 | [Driva](https://datacircle.dev/find-phone-apis/driva/top-up) | top-up | 45 | 54 | $393.48 per 1,000 numbers | 2026-11-06 |
 | 15 | [Leadbase](https://datacircle.dev/find-phone-apis/leadbase/390-monthly) | €390 monthly | 44 | 47 | $450.12 per 1,000 numbers | 2026-11-11 |
-| 16 | [BetterEnrich](https://datacircle.dev/find-phone-apis/betterenrich/99-monthly) | $99 monthly | 43.4 | 34 | $396.00 per 1,000 numbers | 2026-11-06 |
+| 16 | [BetterEnrich](https://datacircle.dev/find-phone-apis/betterenrich/99-monthly) | $99 monthly | 43.3 | 34 | $396.00 per 1,000 numbers | 2026-11-06 |
 | 17 | [Reachfast](https://datacircle.dev/find-phone-apis/reachfast/259-99-monthly) | $259.99 monthly | 40.5 | 33 | $288.88 per 1,000 numbers | 2026-11-17 |
 | 18 | [LoneScale](https://datacircle.dev/find-phone-apis/lonescale/200-monthly-starter-post-trigger-enrich-sync) | $200 monthly, Starter | 38.8 | 58 |  | 2026-10-27 |
 | 19 | [Basile](https://datacircle.dev/find-phone-apis/basile/top-up-from-1-enrichment-balance-post-enrichment-find) | top-up from €1, Enrichment balance | 38.6 | 43 | $562.65 per 1,000 numbers | 2026-11-14 |
@@ -41,7 +41,7 @@ Every plan below is on our ranking page, [Phone finder API: best providers in 20
 | 31 | [GetProspect](https://datacircle.dev/find-phone-apis/getprospect/49-monthly-300-phone-number-credits-post-v2-people-enrich) | $49 monthly, 300 phone number credits | 49.2 | 27 | $163.33 per 1,000 numbers | 2026-11-14 |
 | 32 | [DataForB2B](https://datacircle.dev/find-phone-apis/dataforb2b/99-monthly) | $99 monthly | 46.3 | 20 | $150.00 per 1,000 numbers | 2026-10-25 |
 | 33 | [BetterContact](https://datacircle.dev/find-phone-apis/bettercontact/199-monthly) | $199 monthly | 36.1 | 20 | $398.00 per 1,000 numbers | 2026-11-06 |
-| 34 | [Hirebase](https://datacircle.dev/find-phone-apis/hirebase/pay-as-you-go) | pay as you go | 34.4 | 27 | $400.00 per 1,000 numbers | 2026-10-28 |
+| 34 | [Hirebase](https://datacircle.dev/find-phone-apis/hirebase/pay-as-you-go) | pay as you go | 34.3 | 27 | $400.00 per 1,000 numbers | 2026-10-28 |
 | 35 | [LeadOcean](https://datacircle.dev/find-phone-apis/leadocean/497-monthly-agency-get-v1-people-phone) | $497 monthly, Agency | 64 | 13 | $0.017 per 1,000 numbers | 2026-11-14 |
 | 36 | [LeadMCP](https://datacircle.dev/find-phone-apis/leadmcp/49-monthly) | $49 monthly | 56.5 | 13 | $0.049 per 1,000 numbers | 2026-11-06 |
 | 37 | [LeadMagic](https://datacircle.dev/find-phone-apis/leadmagic/499-monthly) | $499 monthly | 56 | 13 | $49.90 per 1,000 numbers | 2026-10-27 |

@@ -1,8 +1,8 @@
 # Hacker News comment API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
-Algolia ranks first in our benchmark, with an Overall score of 90.7 out of 100. Algolia scores 100 out of 100 for accuracy. Algolia's plan "free" costs $0.00 per 1,000 comments. We rank 7 providers. We last tested them on 2026-11-16.
+Algolia ranks first in our benchmark, with an Overall score of 90.7 out of 100. Algolia scores 100 out of 100 for accuracy. Algolia's plan "free" costs $0.00 per 1,000 comments. We rank 7 providers. We last tested them on 2026-11-23.
 
 Every plan below is on our ranking page, [Hacker News comment API: best providers in 2026](https://datacircle.dev/best-hacker-news-comment-api).
 
@@ -11,7 +11,7 @@ Every plan below is on our ranking page, [Hacker News comment API: best provider
 | 1 | [Algolia](https://datacircle.dev/hacker-news-comment-apis/algolia/free) | free | 90.7 | 100 | $0.00 per 1,000 comments | 2026-11-03 |
 | 2 | [Hacker News](https://datacircle.dev/hacker-news-comment-apis/hacker-news/free) | free | 87.3 | 100 | $0.00 per 1,000 comments | 2026-11-05 |
 | 3 | [ScrapeAtlas](https://datacircle.dev/hacker-news-comment-apis/scrapeatlas/249-pack) | $249 pack | 84.2 | 100 | $0.02 per 1,000 comments | 2026-11-16 |
-| 4 | [ProLevelMax](https://datacircle.dev/hacker-news-comment-apis/prolevelmax/top-up) | top-up | 75.8 | 93 | $0.049 per 1,000 comments | 2026-11-01 |
+| 4 | [ProLevelMax](https://datacircle.dev/hacker-news-comment-apis/prolevelmax/top-up) | top-up | 76.5 | 100 | $0.049 per 1,000 comments | 2026-11-23 |
 | 5 | [AnyAPI](https://datacircle.dev/hacker-news-comment-apis/anyapi/top-up-from-10) | top-up from $10 | 59.3 | 100 |  | 2026-11-01 |
 | 6 | [ScrapingIsNotACrime](https://datacircle.dev/hacker-news-comment-apis/scrapingisnotacrime/5-pack) | $5 pack | 56.9 | 100 |  | 2026-11-01 |
 | 7 | [Scrappa](https://datacircle.dev/hacker-news-comment-apis/scrappa/10-pack) | $10 pack | 56.4 | 100 |  | 2026-11-01 |

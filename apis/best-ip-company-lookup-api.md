@@ -1,16 +1,16 @@
 # IP company lookup API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
-IPKit ranks first in our benchmark, with an Overall score of 94.1 out of 100. IPKit scores 96 out of 100 for accuracy. IPKit's plan "free" costs $0.00 per 1,000 IP addresses. We rank 90 providers. We last tested them on 2026-11-23.
+IPLogs ranks first in our benchmark, with an Overall score of 97.3 out of 100. IPLogs scores 99 out of 100 for accuracy. IPLogs's plan "free" costs $0.00 per 1,000 IP addresses. We rank 91 providers. We last tested them on 2026-11-24.
 
 Every plan below is on our ranking page, [IP company lookup API: best providers in 2026](https://datacircle.dev/best-ip-company-lookup-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [IPKit](https://datacircle.dev/ip-company-lookup-apis/ipkit/free) | free | 94.1 | 96 | $0.00 per 1,000 IP addresses | 2026-11-08 |
-| 2 | [thenetworkery](https://datacircle.dev/ip-company-lookup-apis/thenetworkery/free) | free | 90.8 | 100 | $0.00 per 1,000 IP addresses | 2026-11-10 |
-| 3 | [IPLogs](https://datacircle.dev/ip-company-lookup-apis/iplogs/free-get-v1-lookup-ip) | free | 90.5 | 99 | $0.00 per 1,000 IP addresses | 2026-11-14 |
+| 1 | [IPLogs](https://datacircle.dev/ip-company-lookup-apis/iplogs/free-get-v1-lookup-ip) | free | 97.3 | 99 | $0.00 per 1,000 IP addresses | 2026-11-14 |
+| 2 | [IPKit](https://datacircle.dev/ip-company-lookup-apis/ipkit/free) | free | 94.1 | 96 | $0.00 per 1,000 IP addresses | 2026-11-08 |
+| 3 | [thenetworkery](https://datacircle.dev/ip-company-lookup-apis/thenetworkery/free) | free | 90.8 | 100 | $0.00 per 1,000 IP addresses | 2026-11-10 |
 | 4 | [DC5 WHOIS](https://datacircle.dev/ip-company-lookup-apis/dc5-whois/free-public-instance-get-api-v1-lookup) | free, Public instance | 89.4 | 91 | $0.00 per 1,000 IP addresses | 2026-11-10 |
 | 5 | [WhoisRequest](https://datacircle.dev/ip-company-lookup-apis/whoisrequest/free) | free | 88.9 | 71 | $0.00 per 1,000 IP addresses | 2026-11-11 |
 | 6 | [Company of Craft](https://datacircle.dev/ip-company-lookup-apis/company-of-craft/free-get-api-ip-lookup) | free | 88.2 | 80 | $0.00 per 1,000 IP addresses | 2026-11-12 |
@@ -39,7 +39,7 @@ Every plan below is on our ranking page, [IP company lookup API: best providers 
 | 29 | [Country.is](https://datacircle.dev/ip-company-lookup-apis/country-is/free-get-ip) | free | 72.5 | 50 | $0.00 per 1,000 IP addresses | 2026-11-08 |
 | 30 | [IPScanner](https://datacircle.dev/ip-company-lookup-apis/ipscanner/5-pack-pay-as-you-go-5-get-asn-ip) | $5 pack, Pay as you go $5 | 72.1 | 50 |  | 2026-11-11 |
 | 31 | [Pushbuild](https://datacircle.dev/ip-company-lookup-apis/pushbuild/top-up) | top-up | 70.4 | 100 | $0.32 per 1,000 IP addresses | 2026-11-05 |
-| 32 | [VPNDetection](https://datacircle.dev/ip-company-lookup-apis/vpndetection/99-monthly-scale-get-ip) | $99 monthly, Scale | 69.8 | 96 | $0.05 per 1,000 IP addresses | 2026-11-08 |
+| 32 | [VPNDetection](https://datacircle.dev/ip-company-lookup-apis/vpndetection/99-monthly-scale-get-ip) | $99 monthly, Scale | 69.8 | 96 | $0.05 per 1,000 IP addresses | 2026-11-24 |
 | 33 | [IPScope](https://datacircle.dev/ip-company-lookup-apis/ipscope/99-monthly-business-get-v1-ip-ip) | $99 monthly, Business | 68.2 | 58 | $0.0099 per 1,000 IP addresses | 2026-11-11 |
 | 34 | [IPGeo by Techniknews](https://datacircle.dev/ip-company-lookup-apis/ipgeo-by-techniknews/free) | free | 67.8 | 56 | $0.00 per 1,000 IP addresses | 2026-11-08 |
 | 35 | [Ipregistry](https://datacircle.dev/ip-company-lookup-apis/ipregistry/29-monthly-starter-get-ip) | $29 monthly, Starter | 67.7 | 96 | $0.29 per 1,000 IP addresses | 2026-11-05 |
@@ -60,44 +60,45 @@ Every plan below is on our ranking page, [IP company lookup API: best providers 
 | 50 | [IPWho.org](https://datacircle.dev/ip-company-lookup-apis/ipwho-org/14-monthly-startup-get-ip-ip) | $14 monthly, Startup | 58.6 | 53 | $0.0019 per 1,000 IP addresses | 2026-11-08 |
 | 51 | [WhoisFreaks](https://datacircle.dev/ip-company-lookup-apis/whoisfreaks/10-monthly-monthly-subscription-5000-api-credits-get-v1-0-ip-whois) | $10 monthly, Monthly Subscription, 5,000 API Credits | 58.5 | 84 | $2.00 per 1,000 IP addresses | 2026-11-08 |
 | 52 | [C99.nl](https://datacircle.dev/ip-company-lookup-apis/c99-nl/5-monthly) | $5 monthly | 58.1 | 50 | $0.033 per 1,000 IP addresses | 2026-11-08 |
-| 53 | [FraudGuard](https://datacircle.dev/ip-company-lookup-apis/fraudguard/299-monthly-business-get-v2-ip-geolookup-ip) | $299 monthly, Business | 57.3 | 50 | $0.012 per 1,000 IP addresses | 2026-11-08 |
-| 54 | [DataAndAPIs](https://datacircle.dev/ip-company-lookup-apis/dataandapis/99-99-monthly-ultra-get-v1-ip-address) | $99.99 monthly, Ultra | 54.4 | 64 | $0.10 per 1,000 IP addresses | 2026-11-11 |
-| 55 | [Network Data Labs](https://datacircle.dev/ip-company-lookup-apis/network-data-labs/79-monthly-scale-get-v0-ip-ip) | $79 monthly, Scale | 53.7 | 71 | $0.04 per 1,000 IP addresses | 2026-11-08 |
-| 56 | [fourzerotwo](https://datacircle.dev/ip-company-lookup-apis/fourzerotwo/5-pack-card-credit-5-get-v1-ip-geolocation-asn) | $5 pack, Card credit $5 | 53.4 | 71 | $0.50 per 1,000 IP addresses | 2026-11-11 |
-| 57 | [Censys](https://datacircle.dev/ip-company-lookup-apis/censys/79-monthly-censys-starter-get-v3-global-asset-host-host-id) | $79 monthly, Censys Starter | 53.3 | 98 | $158.00 per 1,000 IP addresses | 2026-11-10 |
-| 58 | [ipapi.co](https://datacircle.dev/ip-company-lookup-apis/ipapi-co/399-monthly) | $399 monthly | 53 | 65 | $0.027 per 1,000 IP addresses | 2026-11-05 |
-| 59 | [NetRiskScan](https://datacircle.dev/ip-company-lookup-apis/netriskscan/129-monthly) | $129 monthly | 51.6 | 99 | $0.43 per 1,000 IP addresses | 2026-11-20 |
-| 60 | [Maskbreak](https://datacircle.dev/ip-company-lookup-apis/maskbreak/99-monthly) | €99 monthly | 51.5 | 50 | $0.045 per 1,000 IP addresses | 2026-11-08 |
-| 61 | [DomScan](https://datacircle.dev/ip-company-lookup-apis/domscan/49-monthly) | $49 monthly | 51.3 | 54 | $0.098 per 1,000 IP addresses | 2026-11-05 |
-| 62 | [TrustLookup](https://datacircle.dev/ip-company-lookup-apis/trustlookup/249-monthly) | $249 monthly | 50.5 | 55 | $1.99 per 1,000 IP addresses | 2026-11-11 |
-| 63 | [IPDetective](https://datacircle.dev/ip-company-lookup-apis/ipdetective/25-monthly-basic-get-ip-ip) | $25 monthly, Basic | 49.2 | 50 | $0.028 per 1,000 IP addresses | 2026-11-05 |
-| 64 | [IP2Location.io](https://datacircle.dev/ip-company-lookup-apis/ip2location-io/49-monthly-starter-get) | $49 monthly, Starter | 49.1 | 50 | $0.33 per 1,000 IP addresses | 2026-11-05 |
-| 65 | [NetLoc8](https://datacircle.dev/ip-company-lookup-apis/netloc8/79-monthly) | $79 monthly | 49 | 74 | $0.79 per 1,000 IP addresses | 2026-11-16 |
-| 66 | [FraudCheck API](https://datacircle.dev/ip-company-lookup-apis/fraudcheck-api/19-99-monthly) | $19.99 monthly | 48.5 | 50 | $0.80 per 1,000 IP addresses | 2026-11-11 |
-| 67 | [Focsec](https://datacircle.dev/ip-company-lookup-apis/focsec/89-monthly) | $89 monthly | 44.5 | 50 | $0.12 per 1,000 IP addresses | 2026-11-11 |
-| 68 | [IP-Info.app](https://datacircle.dev/ip-company-lookup-apis/ip-info-app/11-monthly) | $11 monthly | 43.8 | 50 | $0.28 per 1,000 IP addresses | 2026-11-20 |
-| 69 | [isMalicious](https://datacircle.dev/ip-company-lookup-apis/ismalicious/99-monthly) | €99 monthly | 43.8 | 50 | $11.14 per 1,000 IP addresses | 2026-11-10 |
-| 70 | [ProxyRadar](https://datacircle.dev/ip-company-lookup-apis/proxyradar/14-99-monthly) | $14.99 monthly | 43.5 | 50 | $0.01 per 1,000 IP addresses | 2026-11-08 |
-| 71 | [sthan.io](https://datacircle.dev/ip-company-lookup-apis/sthan-io/10-monthly) | $10 monthly | 41.7 | 55 | $0.04 per 1,000 IP addresses | 2026-11-08 |
-| 72 | [FullHunt](https://datacircle.dev/ip-company-lookup-apis/fullhunt/149-monthly) | $149 monthly | 37.8 | 56 | $298.00 per 1,000 IP addresses | 2026-11-15 |
-| 73 | [IP.LS](https://datacircle.dev/ip-company-lookup-apis/ip-ls/free-get-ip) | free | 79.5 | 49 | $0.00 per 1,000 IP addresses | 2026-11-10 |
-| 74 | [FreeIPAPI](https://datacircle.dev/ip-company-lookup-apis/freeipapi/free) | free | 72.3 | 49 | $0.00 per 1,000 IP addresses | 2026-11-05 |
-| 75 | [ipquery.io](https://datacircle.dev/ip-company-lookup-apis/ipquery-io/free) | free | 72.3 | 49 | $0.00 per 1,000 IP addresses | 2026-11-05 |
-| 76 | [FluentEDI](https://datacircle.dev/ip-company-lookup-apis/fluentedi/free) | free | 71.6 | 43 | $0.00 per 1,000 IP addresses | 2026-11-10 |
-| 77 | [Shodan](https://datacircle.dev/ip-company-lookup-apis/shodan/49-pack) | $49 pack | 69.7 | 26 | $0 extra per 1,000. The plan's price covers any number of IP addresses | 2026-11-05 |
-| 78 | [FindIP](https://datacircle.dev/ip-company-lookup-apis/findip/free) | free | 69.4 | 49 | $0.00 per 1,000 IP addresses | 2026-11-09 |
-| 79 | [ipv4.fr](https://datacircle.dev/ip-company-lookup-apis/ipv4-fr/49-monthly) | €49 monthly | 57.4 | 49 | $0.018 per 1,000 IP addresses | 2026-11-08 |
-| 80 | [IPGeolocation.io](https://datacircle.dev/ip-company-lookup-apis/ipgeolocation-io/249-monthly-premium-get-v3-ipgeo) | $249 monthly, Premium | 54.1 | 49 | $0.05 per 1,000 IP addresses | 2026-11-08 |
-| 81 | [IPHub](https://datacircle.dev/ip-company-lookup-apis/iphub/249-monthly-basic-5000000-requests-month-get-ip-ip) | $249 monthly, Basic 5,000,000 requests / month | 50.3 | 49 | $0.05 per 1,000 IP addresses | 2026-11-10 |
-| 82 | [AbuseIPDB](https://datacircle.dev/ip-company-lookup-apis/abuseipdb/25-monthly) | $25 monthly | 47.8 | 46 | $0.083 per 1,000 IP addresses | 2026-11-09 |
-| 83 | [IPHunter](https://datacircle.dev/ip-company-lookup-apis/iphunter/9-99-monthly) | €9.99 monthly | 43.7 | 29 | $0.0062 per 1,000 IP addresses | 2026-11-10 |
-| 84 | [LayerCall](https://datacircle.dev/ip-company-lookup-apis/layercall/49-monthly-starter-get-v1-score-ip) | $49 monthly, Starter | 42.9 | 49 | $2.45 per 1,000 IP addresses | 2026-11-11 |
-| 85 | [2s.io](https://datacircle.dev/ip-company-lookup-apis/2s-io/pay-as-you-go-x402-pay-per-call-get-api-geo-ip) | pay as you go, x402 pay per call | 37.9 | 47 | $2.50 per 1,000 IP addresses | 2026-11-12 |
-| 86 | [FraudLabs Pro](https://datacircle.dev/ip-company-lookup-apis/fraudlabs-pro/499-95-monthly) | $499.95 monthly | 35.2 | 45 | $5.00 per 1,000 IP addresses | 2026-11-08 |
-| 87 | [FraudNova](https://datacircle.dev/ip-company-lookup-apis/fraudnova/40-pack-starter-get-api-v1-check) | $40 pack, Starter | 34.3 | 46 | $8.00 per 1,000 IP addresses | 2026-11-14 |
-| 88 | [Lordevo](https://datacircle.dev/ip-company-lookup-apis/lordevo/pay-as-you-go) | pay as you go | 32.4 | 41 | $2.00 per 1,000 IP addresses | 2026-11-12 |
-| 89 | [Unblock Master](https://datacircle.dev/ip-company-lookup-apis/unblock-master/free) | free | 56.4 | 5 | $0.00 per 1,000 IP addresses | 2026-11-08 |
-| 90 | [Elioplus](https://datacircle.dev/ip-company-lookup-apis/elioplus/99-monthly) | $99 monthly | 0 | 0 | $39.60 per 1,000 IP addresses | 2026-11-08 |
+| 53 | [vpnapi.io](https://datacircle.dev/ip-company-lookup-apis/vpnapi-io/29-monthly) | $29 monthly | 57.9 | 73 | $0.019 per 1,000 IP addresses | 2026-11-23 |
+| 54 | [FraudGuard](https://datacircle.dev/ip-company-lookup-apis/fraudguard/299-monthly-business-get-v2-ip-geolookup-ip) | $299 monthly, Business | 57.3 | 50 | $0.012 per 1,000 IP addresses | 2026-11-08 |
+| 55 | [DataAndAPIs](https://datacircle.dev/ip-company-lookup-apis/dataandapis/99-99-monthly-ultra-get-v1-ip-address) | $99.99 monthly, Ultra | 54.4 | 64 | $0.10 per 1,000 IP addresses | 2026-11-11 |
+| 56 | [Network Data Labs](https://datacircle.dev/ip-company-lookup-apis/network-data-labs/79-monthly-scale-get-v0-ip-ip) | $79 monthly, Scale | 53.7 | 71 | $0.04 per 1,000 IP addresses | 2026-11-08 |
+| 57 | [fourzerotwo](https://datacircle.dev/ip-company-lookup-apis/fourzerotwo/5-pack-card-credit-5-get-v1-ip-geolocation-asn) | $5 pack, Card credit $5 | 53.4 | 71 | $0.50 per 1,000 IP addresses | 2026-11-11 |
+| 58 | [Censys](https://datacircle.dev/ip-company-lookup-apis/censys/79-monthly-censys-starter-get-v3-global-asset-host-host-id) | $79 monthly, Censys Starter | 53.3 | 98 | $158.00 per 1,000 IP addresses | 2026-11-10 |
+| 59 | [ipapi.co](https://datacircle.dev/ip-company-lookup-apis/ipapi-co/399-monthly) | $399 monthly | 53 | 65 | $0.027 per 1,000 IP addresses | 2026-11-05 |
+| 60 | [NetRiskScan](https://datacircle.dev/ip-company-lookup-apis/netriskscan/129-monthly) | $129 monthly | 51.6 | 99 | $0.43 per 1,000 IP addresses | 2026-11-20 |
+| 61 | [Maskbreak](https://datacircle.dev/ip-company-lookup-apis/maskbreak/99-monthly) | €99 monthly | 51.5 | 50 | $0.045 per 1,000 IP addresses | 2026-11-08 |
+| 62 | [DomScan](https://datacircle.dev/ip-company-lookup-apis/domscan/49-monthly) | $49 monthly | 51.3 | 54 | $0.098 per 1,000 IP addresses | 2026-11-05 |
+| 63 | [TrustLookup](https://datacircle.dev/ip-company-lookup-apis/trustlookup/249-monthly) | $249 monthly | 50.5 | 55 | $1.99 per 1,000 IP addresses | 2026-11-11 |
+| 64 | [IPDetective](https://datacircle.dev/ip-company-lookup-apis/ipdetective/25-monthly-basic-get-ip-ip) | $25 monthly, Basic | 49.2 | 50 | $0.028 per 1,000 IP addresses | 2026-11-05 |
+| 65 | [IP2Location.io](https://datacircle.dev/ip-company-lookup-apis/ip2location-io/49-monthly-starter-get) | $49 monthly, Starter | 49.1 | 50 | $0.33 per 1,000 IP addresses | 2026-11-05 |
+| 66 | [NetLoc8](https://datacircle.dev/ip-company-lookup-apis/netloc8/79-monthly) | $79 monthly | 49 | 74 | $0.79 per 1,000 IP addresses | 2026-11-16 |
+| 67 | [FraudCheck API](https://datacircle.dev/ip-company-lookup-apis/fraudcheck-api/19-99-monthly) | $19.99 monthly | 48.5 | 50 | $0.80 per 1,000 IP addresses | 2026-11-11 |
+| 68 | [Focsec](https://datacircle.dev/ip-company-lookup-apis/focsec/89-monthly) | $89 monthly | 44.5 | 50 | $0.12 per 1,000 IP addresses | 2026-11-11 |
+| 69 | [IP-Info.app](https://datacircle.dev/ip-company-lookup-apis/ip-info-app/11-monthly) | $11 monthly | 43.8 | 50 | $0.28 per 1,000 IP addresses | 2026-11-20 |
+| 70 | [isMalicious](https://datacircle.dev/ip-company-lookup-apis/ismalicious/99-monthly) | €99 monthly | 43.8 | 50 | $11.14 per 1,000 IP addresses | 2026-11-10 |
+| 71 | [ProxyRadar](https://datacircle.dev/ip-company-lookup-apis/proxyradar/14-99-monthly) | $14.99 monthly | 43.5 | 50 | $0.01 per 1,000 IP addresses | 2026-11-08 |
+| 72 | [sthan.io](https://datacircle.dev/ip-company-lookup-apis/sthan-io/10-monthly) | $10 monthly | 41.7 | 55 | $0.04 per 1,000 IP addresses | 2026-11-08 |
+| 73 | [FullHunt](https://datacircle.dev/ip-company-lookup-apis/fullhunt/149-monthly) | $149 monthly | 37.8 | 56 | $298.00 per 1,000 IP addresses | 2026-11-15 |
+| 74 | [IP.LS](https://datacircle.dev/ip-company-lookup-apis/ip-ls/free-get-ip) | free | 79.5 | 49 | $0.00 per 1,000 IP addresses | 2026-11-10 |
+| 75 | [FreeIPAPI](https://datacircle.dev/ip-company-lookup-apis/freeipapi/free) | free | 72.3 | 49 | $0.00 per 1,000 IP addresses | 2026-11-05 |
+| 76 | [ipquery.io](https://datacircle.dev/ip-company-lookup-apis/ipquery-io/free) | free | 72.3 | 49 | $0.00 per 1,000 IP addresses | 2026-11-05 |
+| 77 | [FluentEDI](https://datacircle.dev/ip-company-lookup-apis/fluentedi/free) | free | 71.6 | 43 | $0.00 per 1,000 IP addresses | 2026-11-10 |
+| 78 | [Shodan](https://datacircle.dev/ip-company-lookup-apis/shodan/49-pack) | $49 pack | 69.7 | 26 | $0 extra per 1,000. The plan's price covers any number of IP addresses | 2026-11-05 |
+| 79 | [FindIP](https://datacircle.dev/ip-company-lookup-apis/findip/free) | free | 69.4 | 49 | $0.00 per 1,000 IP addresses | 2026-11-09 |
+| 80 | [ipv4.fr](https://datacircle.dev/ip-company-lookup-apis/ipv4-fr/49-monthly) | €49 monthly | 57.4 | 49 | $0.018 per 1,000 IP addresses | 2026-11-08 |
+| 81 | [IPGeolocation.io](https://datacircle.dev/ip-company-lookup-apis/ipgeolocation-io/249-monthly-premium-get-v3-ipgeo) | $249 monthly, Premium | 54.1 | 49 | $0.05 per 1,000 IP addresses | 2026-11-08 |
+| 82 | [IPHub](https://datacircle.dev/ip-company-lookup-apis/iphub/249-monthly-basic-5000000-requests-month-get-ip-ip) | $249 monthly, Basic 5,000,000 requests / month | 50.3 | 49 | $0.05 per 1,000 IP addresses | 2026-11-10 |
+| 83 | [AbuseIPDB](https://datacircle.dev/ip-company-lookup-apis/abuseipdb/25-monthly) | $25 monthly | 47.8 | 46 | $0.083 per 1,000 IP addresses | 2026-11-09 |
+| 84 | [IPHunter](https://datacircle.dev/ip-company-lookup-apis/iphunter/9-99-monthly) | €9.99 monthly | 43.7 | 29 | $0.0062 per 1,000 IP addresses | 2026-11-10 |
+| 85 | [LayerCall](https://datacircle.dev/ip-company-lookup-apis/layercall/49-monthly-starter-get-v1-score-ip) | $49 monthly, Starter | 42.9 | 49 | $2.45 per 1,000 IP addresses | 2026-11-11 |
+| 86 | [2s.io](https://datacircle.dev/ip-company-lookup-apis/2s-io/pay-as-you-go-x402-pay-per-call-get-api-geo-ip) | pay as you go, x402 pay per call | 37.9 | 47 | $2.50 per 1,000 IP addresses | 2026-11-12 |
+| 87 | [FraudLabs Pro](https://datacircle.dev/ip-company-lookup-apis/fraudlabs-pro/499-95-monthly) | $499.95 monthly | 35.2 | 45 | $5.00 per 1,000 IP addresses | 2026-11-08 |
+| 88 | [FraudNova](https://datacircle.dev/ip-company-lookup-apis/fraudnova/40-pack-starter-get-api-v1-check) | $40 pack, Starter | 34.3 | 46 | $8.00 per 1,000 IP addresses | 2026-11-14 |
+| 89 | [Lordevo](https://datacircle.dev/ip-company-lookup-apis/lordevo/pay-as-you-go) | pay as you go | 32.4 | 41 | $2.00 per 1,000 IP addresses | 2026-11-12 |
+| 90 | [Unblock Master](https://datacircle.dev/ip-company-lookup-apis/unblock-master/free) | free | 56.4 | 5 | $0.00 per 1,000 IP addresses | 2026-11-08 |
+| 91 | [Elioplus](https://datacircle.dev/ip-company-lookup-apis/elioplus/99-monthly) | $99 monthly | 0 | 0 | $39.60 per 1,000 IP addresses | 2026-11-08 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

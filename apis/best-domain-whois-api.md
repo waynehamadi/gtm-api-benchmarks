@@ -1,6 +1,6 @@
 # Domain WHOIS API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
 WhoisRequest ranks first in our benchmark, with an Overall score of 96.9 out of 100. WhoisRequest scores 93 out of 100 for accuracy. WhoisRequest's plan "free" costs $0.00 per 1,000 domains. We rank 57 providers. We last tested them on 2026-11-17.
 

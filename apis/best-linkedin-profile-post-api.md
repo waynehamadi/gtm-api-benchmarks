@@ -1,8 +1,8 @@
 # LinkedIn profile post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
-Fetchin ranks first in our benchmark, with an Overall score of 75.4 out of 100. Fetchin scores 92 out of 100 for accuracy. Fetchin's plan "$50 monthly" costs $0.01 per 1,000 posts. We rank 19 providers. We last tested them on 2026-11-06.
+Fetchin ranks first in our benchmark, with an Overall score of 75.4 out of 100. Fetchin scores 92 out of 100 for accuracy. Fetchin's plan "$50 monthly" costs $0.01 per 1,000 posts. We rank 21 providers. We last tested them on 2026-11-23.
 
 Every plan below is on our ranking page, [LinkedIn profile post API: best providers in 2026](https://datacircle.dev/best-linkedin-profile-post-api).
 
@@ -12,21 +12,23 @@ Every plan below is on our ranking page, [LinkedIn profile post API: best provid
 | 2 | [Village](https://datacircle.dev/linkedin-person-post-apis/village/1-monthly) | $1 monthly | 72.4 | 68 | $0.20 per 1,000 posts | 2026-10-30 |
 | 3 | [HarvestAPI](https://datacircle.dev/linkedin-person-post-apis/harvestapi/20-pack) | $20 pack | 71.5 | 91 | $0.04 per 1,000 posts | 2026-10-25 |
 | 4 | [AnyAPI](https://datacircle.dev/linkedin-person-post-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-linkedin-profile-posts-full) | top-up from $10, Manual top-up | 65.2 | 79 | $0.05 per 1,000 posts | 2026-10-25 |
-| 5 | [The Swarm](https://datacircle.dev/linkedin-person-post-apis/the-swarm/500-monthly) | $500 monthly | 60.2 | 67 | $1.00 per 1,000 posts | 2026-10-26 |
-| 6 | [API Direct](https://datacircle.dev/linkedin-person-post-apis/api-direct/pay-as-you-go) | pay as you go, Pay per request | 59.9 | 66 | $0.30 per 1,000 posts | 2026-10-23 |
-| 7 | [Bridgly](https://datacircle.dev/linkedin-person-post-apis/bridgly/top-up-from-5) | top-up from $5 | 59.3 | 78 | $2.00 per 1,000 posts | 2026-10-26 |
-| 8 | [Anysite](https://datacircle.dev/linkedin-person-post-apis/anysite/300-monthly) | $300 monthly | 57.4 | 79 | $0.53 per 1,000 posts | 2026-10-25 |
+| 5 | [The Swarm](https://datacircle.dev/linkedin-person-post-apis/the-swarm/500-monthly) | $500 monthly | 60.2 | 66 | $1.00 per 1,000 posts | 2026-10-26 |
+| 6 | [API Direct](https://datacircle.dev/linkedin-person-post-apis/api-direct/pay-as-you-go) | pay as you go, Pay per request | 59.8 | 66 | $0.30 per 1,000 posts | 2026-10-23 |
+| 7 | [Bridgly](https://datacircle.dev/linkedin-person-post-apis/bridgly/top-up-from-5) | top-up from $5 | 59.3 | 77 | $2.00 per 1,000 posts | 2026-10-26 |
+| 8 | [Anysite](https://datacircle.dev/linkedin-person-post-apis/anysite/300-monthly) | $300 monthly | 57.3 | 78 | $0.53 per 1,000 posts | 2026-10-25 |
 | 9 | [Superagnt](https://datacircle.dev/linkedin-person-post-apis/superagnt/top-up-from-10) | top-up from $10 | 52.9 | 83 |  | 2026-11-06 |
 | 10 | [Social Fetch](https://datacircle.dev/linkedin-person-post-apis/social-fetch/14-pack) | $14 pack | 51.4 | 82 |  | 2026-10-28 |
 | 11 | [Up2Data](https://datacircle.dev/linkedin-person-post-apis/up2data/25-pack-10k-post-v1-profiles-activity) | $25 pack, 10K | 51.3 | 50 | $0.20 per 1,000 posts | 2026-10-25 |
-| 12 | [Datamagnet](https://datacircle.dev/linkedin-person-post-apis/datamagnet/top-up-from-5) | top-up from $5 | 48.8 | 71 |  | 2026-10-26 |
-| 13 | [SocialListeningAPI](https://datacircle.dev/linkedin-person-post-apis/sociallisteningapi/20-pack-starter-get-api-v1-linkedin-profile-posts) | $20 pack, Starter | 45.1 | 66 |  | 2026-10-27 |
-| 14 | [RouterGrowth](https://datacircle.dev/linkedin-person-post-apis/routergrowth/499-monthly) | $499 monthly | 41 | 45 | $2.60 per 1,000 posts | 2026-10-25 |
-| 15 | [Bright Data](https://datacircle.dev/linkedin-person-post-apis/bright-data/top-up) | top-up | 31 | 34 | $1.50 per 1,000 posts | 2026-10-26 |
-| 16 | [Vayne](https://datacircle.dev/linkedin-person-post-apis/vayne/49-monthly) | $49 monthly | 30.3 | 37 |  | 2026-10-25 |
-| 17 | [treg](https://datacircle.dev/linkedin-person-post-apis/treg/top-up-from-10) | top-up from $10 | 42.4 | 3 | $0.024 per 1,000 posts | 2026-10-20 |
-| 18 | [Autobound](https://datacircle.dev/linkedin-person-post-apis/autobound/19-pack) | $19 pack | 21.4 | 4 | $20.00 per 1,000 posts | 2026-10-24 |
-| 19 | [ZenRows](https://datacircle.dev/linkedin-person-post-apis/zenrows/top-up-from-5) | top-up from $5 | 20 | 5 |  | 2026-10-27 |
+| 12 | [SnitchFeed](https://datacircle.dev/linkedin-person-post-apis/snitchfeed/10-pack) | $10 pack | 49.7 | 70 |  | 2026-11-23 |
+| 13 | [Datamagnet](https://datacircle.dev/linkedin-person-post-apis/datamagnet/top-up-from-5) | top-up from $5 | 48.7 | 71 |  | 2026-10-26 |
+| 14 | [SocialListeningAPI](https://datacircle.dev/linkedin-person-post-apis/sociallisteningapi/20-pack-starter-get-api-v1-linkedin-profile-posts) | $20 pack, Starter | 45.1 | 66 |  | 2026-10-27 |
+| 15 | [RouterGrowth](https://datacircle.dev/linkedin-person-post-apis/routergrowth/499-monthly) | $499 monthly | 41 | 45 | $2.60 per 1,000 posts | 2026-10-25 |
+| 16 | [Bright Data](https://datacircle.dev/linkedin-person-post-apis/bright-data/top-up) | top-up | 30.9 | 34 | $1.50 per 1,000 posts | 2026-10-26 |
+| 17 | [Vayne](https://datacircle.dev/linkedin-person-post-apis/vayne/49-monthly) | $49 monthly | 30.3 | 37 |  | 2026-10-25 |
+| 18 | [Layrcake](https://datacircle.dev/linkedin-person-post-apis/layrcake/top-up-from-20) | top-up from $20 | 28.6 | 18 | $5.00 per 1,000 posts | 2026-11-23 |
+| 19 | [treg](https://datacircle.dev/linkedin-person-post-apis/treg/top-up-from-10) | top-up from $10 | 42.4 | 3 | $0.024 per 1,000 posts | 2026-10-20 |
+| 20 | [Autobound](https://datacircle.dev/linkedin-person-post-apis/autobound/19-pack) | $19 pack | 21.4 | 4 | $20.00 per 1,000 posts | 2026-10-24 |
+| 21 | [ZenRows](https://datacircle.dev/linkedin-person-post-apis/zenrows/top-up-from-5) | top-up from $5 | 20 | 5 |  | 2026-10-27 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

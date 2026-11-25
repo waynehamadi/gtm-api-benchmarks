@@ -1,6 +1,6 @@
 # Bilibili profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
 AIsa ranks first in our benchmark, with an Overall score of 75.7 out of 100. AIsa scores 62 out of 100 for accuracy. AIsa's plan "$19 monthly, Builder" costs $0.63 per 1,000 profiles. We rank 6 providers. We last tested them on 2026-11-16.
 

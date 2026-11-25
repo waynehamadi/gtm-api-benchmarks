@@ -1,6 +1,6 @@
 # Rent estimate API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
 Zillapi ranks first in our benchmark, with an Overall score of 86.5 out of 100. Zillapi scores 70 out of 100 for accuracy. Zillapi's plan "$5 monthly" costs $5.00 per 1,000 addresses. We rank 4 providers. We last tested them on 2026-11-22.
 
@@ -9,9 +9,9 @@ Every plan below is on our ranking page, [Rent estimate API: best providers in 2
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Zillapi](https://datacircle.dev/rent-estimate-apis/zillapi/5-monthly-monthly-get-v1-properties-zpid-zestimate) | $5 monthly | 86.5 | 70 | $5.00 per 1,000 addresses | 2026-11-19 |
-| 2 | [RentCast](https://datacircle.dev/rent-estimate-apis/rentcast/449-monthly) | $449 monthly | 71.5 | 40 | $17.96 per 1,000 addresses | 2026-11-19 |
-| 3 | [RentEst](https://datacircle.dev/rent-estimate-apis/rentest/29-pack) | $29 pack | 52.4 | 60 | $29.00 per 1,000 addresses | 2026-11-19 |
-| 4 | [Mashvisor](https://datacircle.dev/rent-estimate-apis/mashvisor/249-monthly-professional-get-v1-1-client-property-estimates-pid) | $249 monthly, Professional | 23.9 | 8 | $249.00 per 1,000 addresses | 2026-11-22 |
+| 2 | [RentCast](https://datacircle.dev/rent-estimate-apis/rentcast/449-monthly) | $449 monthly | 72 | 40 | $17.96 per 1,000 addresses | 2026-11-19 |
+| 3 | [RentEst](https://datacircle.dev/rent-estimate-apis/rentest/29-pack) | $29 pack | 52.9 | 60 | $29.00 per 1,000 addresses | 2026-11-19 |
+| 4 | [Mashvisor](https://datacircle.dev/rent-estimate-apis/mashvisor/249-monthly-professional-get-v1-1-client-property-estimates-pid) | $249 monthly, Professional | 23.6 | 8 | $249.00 per 1,000 addresses | 2026-11-22 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

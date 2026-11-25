@@ -1,6 +1,6 @@
 # Job posting details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
 Arbetsförmedlingen ranks first in our benchmark, with an Overall score of 92 out of 100. Arbetsförmedlingen scores 84 out of 100 for accuracy. Arbetsförmedlingen's plan "free, Open data" costs $0.00 per 1,000 jobs. We rank 40 providers. We last tested them on 2026-11-22.
 
@@ -16,7 +16,7 @@ Every plan below is on our ranking page, [Job posting details API: best provider
 | 6 | [AIDevBoard](https://datacircle.dev/job-posting-details-apis/aidevboard/free) | free | 84.5 | 60 | $0.00 per 1,000 jobs | 2026-11-08 |
 | 7 | [JobsByLevel](https://datacircle.dev/job-posting-details-apis/jobsbylevel/free) | free | 83 | 56 | $0.00 per 1,000 jobs | 2026-11-10 |
 | 8 | [Lever](https://datacircle.dev/job-posting-details-apis/lever/free) | free | 82.2 | 63 | $0.00 per 1,000 jobs | 2026-10-27 |
-| 9 | [The Jobs API](https://datacircle.dev/job-posting-details-apis/the-jobs-api/200-monthly) | $200 monthly | 80.2 | 70 |  | 2026-11-08 |
+| 9 | [The Jobs API](https://datacircle.dev/job-posting-details-apis/the-jobs-api/200-monthly) | $200 monthly | 80.3 | 70 |  | 2026-11-08 |
 | 10 | [OfferMagnet](https://datacircle.dev/job-posting-details-apis/offermagnet/free) | free | 78.5 | 47 | $0.00 per 1,000 jobs | 2026-11-10 |
 | 11 | [Bundesagentur für Arbeit](https://datacircle.dev/job-posting-details-apis/bundesagentur-fur-arbeit/free) | free | 78.1 | 65 | $0.00 per 1,000 jobs | 2026-11-08 |
 | 12 | [YubHub](https://datacircle.dev/job-posting-details-apis/yubhub/free) | free | 76.1 | 59 | $0.00 per 1,000 jobs | 2026-11-06 |
@@ -26,13 +26,13 @@ Every plan below is on our ranking page, [Job posting details API: best provider
 | 16 | [VeritaHire](https://datacircle.dev/job-posting-details-apis/veritahire/free-no-key) | free, no key | 72.3 | 49 | $0.00 per 1,000 jobs | 2026-11-08 |
 | 17 | [Gem](https://datacircle.dev/job-posting-details-apis/gem/free) | free | 70.5 | 49 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 18 | [Reed](https://datacircle.dev/job-posting-details-apis/reed/free) | free | 70.3 | 66 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 19 | [Job Opportunities API](https://datacircle.dev/job-posting-details-apis/job-opportunities-api/299-monthly) | €299 monthly | 67.7 | 64 | $0.84 per 1,000 jobs | 2026-11-22 |
+| 19 | [Job Opportunities API](https://datacircle.dev/job-posting-details-apis/job-opportunities-api/299-monthly) | €299 monthly | 67.8 | 64 | $0.84 per 1,000 jobs | 2026-11-22 |
 | 20 | [USAJOBS](https://datacircle.dev/job-posting-details-apis/usajobs/free) | free | 65.4 | 54 | $0.00 per 1,000 jobs | 2026-11-08 |
 | 21 | [ReefAPI](https://datacircle.dev/job-posting-details-apis/reefapi/450-quarterly-enterprise-quarterly-post-ats-jobs-v1-job-detail-job-detail-lever) | $450 quarterly, Enterprise quarterly | 64 | 62 | $0.50 per 1,000 jobs | 2026-10-27 |
-| 22 | [Exende](https://datacircle.dev/job-posting-details-apis/exende/149-monthly) | €149 monthly | 62.8 | 64 | $0.56 per 1,000 jobs | 2026-11-08 |
-| 23 | [Hirebase](https://datacircle.dev/job-posting-details-apis/hirebase/249-monthly-growth-get-v2-jobs-job-id) | $249 monthly, Growth | 58 | 61 | $1.00 per 1,000 jobs | 2026-10-27 |
-| 24 | [Alion](https://datacircle.dev/job-posting-details-apis/alion/29-monthly) | $29 monthly | 54.4 | 67 | $7.25 per 1,000 jobs | 2026-11-10 |
-| 25 | [Jobven](https://datacircle.dev/job-posting-details-apis/jobven/499-monthly) | $499 monthly | 52.1 | 56 | $3.33 per 1,000 jobs | 2026-11-08 |
+| 22 | [Exende](https://datacircle.dev/job-posting-details-apis/exende/149-monthly) | €149 monthly | 62.9 | 64 | $0.56 per 1,000 jobs | 2026-11-08 |
+| 23 | [Hirebase](https://datacircle.dev/job-posting-details-apis/hirebase/249-monthly-growth-get-v2-jobs-job-id) | $249 monthly, Growth | 58.1 | 61 | $1.00 per 1,000 jobs | 2026-10-27 |
+| 24 | [Alion](https://datacircle.dev/job-posting-details-apis/alion/29-monthly) | $29 monthly | 54.1 | 67 | $7.25 per 1,000 jobs | 2026-11-10 |
+| 25 | [Jobven](https://datacircle.dev/job-posting-details-apis/jobven/499-monthly) | $499 monthly | 52 | 56 | $3.33 per 1,000 jobs | 2026-11-08 |
 | 26 | [AnywhereRoles](https://datacircle.dev/job-posting-details-apis/anywhereroles/free) | free | 75.6 | 36 | $0.00 per 1,000 jobs | 2026-11-10 |
 | 27 | [jobContext](https://datacircle.dev/job-posting-details-apis/jobcontext/free) | free | 75.3 | 42 | $0.00 per 1,000 jobs | 2026-11-08 |
 | 28 | [Polymer](https://datacircle.dev/job-posting-details-apis/polymer/free) | free | 69.8 | 42 | $0.00 per 1,000 jobs | 2026-10-28 |
@@ -40,8 +40,8 @@ Every plan below is on our ranking page, [Job posting details API: best provider
 | 30 | [Manatal](https://datacircle.dev/job-posting-details-apis/manatal/free) | free | 64.5 | 27 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 31 | [Litescrape](https://datacircle.dev/job-posting-details-apis/litescrape/top-up-from-10) | top-up from $10 | 63.9 | 37 | $0.15 per 1,000 jobs | 2026-10-27 |
 | 32 | [HireHive](https://datacircle.dev/job-posting-details-apis/hirehive/free) | free | 56.7 | 28 | $0.00 per 1,000 jobs | 2026-10-28 |
-| 33 | [Fantastic.jobs](https://datacircle.dev/job-posting-details-apis/fantastic-jobs/500-monthly-pro-250k-get-v1-active-ats) | $500 monthly, Pro-250k | 45.6 | 41 | $2.00 per 1,000 jobs | 2026-10-27 |
-| 34 | [Xcout](https://datacircle.dev/job-posting-details-apis/xcout/99-monthly-starter) | $99 monthly, Starter | 34.9 | 25 | $9.90 per 1,000 jobs | 2026-11-17 |
+| 33 | [Fantastic.jobs](https://datacircle.dev/job-posting-details-apis/fantastic-jobs/500-monthly-pro-250k-get-v1-active-ats) | $500 monthly, Pro-250k | 45.7 | 41 | $2.00 per 1,000 jobs | 2026-10-27 |
+| 34 | [Xcout](https://datacircle.dev/job-posting-details-apis/xcout/99-monthly-starter) | $99 monthly, Starter | 34.7 | 25 | $9.90 per 1,000 jobs | 2026-11-17 |
 | 35 | [Trakstar Hire](https://datacircle.dev/job-posting-details-apis/trakstar-hire/free) | free | 57.2 | 18 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 36 | [Himalayas](https://datacircle.dev/job-posting-details-apis/himalayas/free-api-key) | free API key | 56.2 | 12 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 37 | [Arihaan](https://datacircle.dev/job-posting-details-apis/arihaan/top-up-from-20-pay-per-job-get-v1-jobs-id) | top-up from $20, Pay per job | 49.4 | 18 | $0.45 per 1,000 jobs | 2026-11-10 |

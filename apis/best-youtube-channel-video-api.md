@@ -1,8 +1,8 @@
 # YouTube channel video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
-ScrapeUnblocker ranks first in our benchmark, with an Overall score of 85.6 out of 100. ScrapeUnblocker scores 93 out of 100 for accuracy. ScrapeUnblocker's plan "pay as you go" costs $0.0056 per 1,000 videos. We rank 52 providers. We last tested them on 2026-11-23.
+ScrapeUnblocker ranks first in our benchmark, with an Overall score of 85.6 out of 100. ScrapeUnblocker scores 93 out of 100 for accuracy. ScrapeUnblocker's plan "pay as you go" costs $0.0056 per 1,000 videos. We rank 57 providers. We last tested them on 2026-11-23.
 
 Every plan below is on our ranking page, [YouTube channel video API: best providers in 2026](https://datacircle.dev/best-youtube-channel-video-api).
 
@@ -41,25 +41,30 @@ Every plan below is on our ranking page, [YouTube channel video API: best provid
 | 31 | [HasData](https://datacircle.dev/youtube-channel-video-apis/hasdata/59-monthly) | $59 monthly | 41.5 | 67 |  | 2026-10-29 |
 | 32 | [TrueScrape](https://datacircle.dev/youtube-channel-video-apis/truescrape/25-pack) | $25 pack | 41.3 | 61 |  | 2026-11-07 |
 | 33 | [Litescrape](https://datacircle.dev/youtube-channel-video-apis/litescrape/top-up-from-10) | top-up from $10 | 39.9 | 58 |  | 2026-10-29 |
-| 34 | [Social Fetch](https://datacircle.dev/youtube-channel-video-apis/social-fetch/14-pack) | $14 pack | 39.1 | 59 |  | 2026-10-29 |
-| 35 | [Browsable](https://datacircle.dev/youtube-channel-video-apis/browsable/19-monthly) | $19 monthly | 39 | 61 |  | 2026-11-07 |
-| 36 | [AxioAPI](https://datacircle.dev/youtube-channel-video-apis/axioapi/2-pack) | $2 pack | 37.3 | 47 |  | 2026-11-23 |
-| 37 | [TranscriptYT](https://datacircle.dev/youtube-channel-video-apis/transcriptyt/3-monthly) | $3 monthly | 63.7 | 30 |  | 2026-11-07 |
-| 38 | [TranscriptAPI.io](https://datacircle.dev/youtube-channel-video-apis/transcriptapi-io/249-monthly) | $249 monthly | 63.6 | 38 | $0.0012 per 1,000 videos | 2026-11-11 |
-| 39 | [Transcript Dock](https://datacircle.dev/youtube-channel-video-apis/transcript-dock/top-up-from-6) | top-up from $6 | 44.9 | 39 | $0.12 per 1,000 videos | 2026-11-08 |
-| 40 | [EasyTranscriber](https://datacircle.dev/youtube-channel-video-apis/easytranscriber/19-99-monthly-scale-get-api-v1-youtube-channel-videos) | $19.99 monthly, Scale | 44.3 | 37 | $0.13 per 1,000 videos | 2026-11-20 |
-| 41 | [YouTubeTranscriptAPI](https://datacircle.dev/youtube-channel-video-apis/youtubetranscriptapi/7-monthly-monthly-get-youtube-channel-latest) | $7 monthly | 34.1 | 43 |  | 2026-11-11 |
-| 42 | [Scraper Api](https://datacircle.dev/youtube-channel-video-apis/scraper-api/49-pack) | $49 pack | 33.9 | 45 |  | 2026-11-07 |
-| 43 | [GetYouTubeTranscript](https://datacircle.dev/youtube-channel-video-apis/getyoutubetranscript/5-monthly) | $5 monthly | 33.7 | 45 |  | 2026-11-08 |
-| 44 | [YouTubeVideoTranscript.io](https://datacircle.dev/youtube-channel-video-apis/youtubevideotranscript-io/9-monthly) | $9 monthly | 33.3 | 45 |  | 2026-11-07 |
-| 45 | [API.SH](https://datacircle.dev/youtube-channel-video-apis/api-sh/top-up-from-15) | top-up from $15 | 33.1 | 41 |  | 2026-11-07 |
-| 46 | [ScriptHaul](https://datacircle.dev/youtube-channel-video-apis/scripthaul/5-pack-3000-credits-get-v1-videos) | $5 pack, 3,000 credits | 33 | 45 |  | 2026-11-23 |
-| 47 | [Parseium](https://datacircle.dev/youtube-channel-video-apis/parseium/49-monthly) | $49 monthly | 32 | 43 |  | 2026-11-11 |
-| 48 | [ShortsIntel](https://datacircle.dev/youtube-channel-video-apis/shortsintel/10-pack-top-up-10-get-creators-platform-handle) | $10 pack, Top-up $10 | 31.2 | 36 |  | 2026-11-08 |
-| 49 | [AnyAPI](https://datacircle.dev/youtube-channel-video-apis/anyapi/top-up-from-10) | top-up from $10 | 30.4 | 33 |  | 2026-10-29 |
-| 50 | [TubeToTranscript](https://datacircle.dev/youtube-channel-video-apis/tubetotranscript/0-99-pack-250-requests-get-channel-latest) | $0.99 pack, 250 Requests | 23.5 | 39 |  | 2026-11-10 |
-| 51 | [BulkTranscripts](https://datacircle.dev/youtube-channel-video-apis/bulktranscripts/4-99-pack-starter-get-api-v1-channel-latest) | $4.99 pack, Starter | 21.3 | 34 |  | 2026-11-08 |
-| 52 | [viral.app](https://datacircle.dev/youtube-channel-video-apis/viral-app/299-monthly) | $299 monthly | 23.2 | 22 |  | 2026-11-07 |
+| 34 | [youtubescraperapi](https://datacircle.dev/youtube-channel-video-apis/youtubescraperapi/top-up) | top-up | 39.5 | 62 |  | 2026-11-23 |
+| 35 | [Social Fetch](https://datacircle.dev/youtube-channel-video-apis/social-fetch/14-pack) | $14 pack | 39.1 | 59 |  | 2026-10-29 |
+| 36 | [Browsable](https://datacircle.dev/youtube-channel-video-apis/browsable/19-monthly) | $19 monthly | 39 | 61 |  | 2026-11-07 |
+| 37 | [Vee3](https://datacircle.dev/youtube-channel-video-apis/vee3/5-monthly) | $5 monthly | 38.1 | 56 |  | 2026-11-23 |
+| 38 | [AxioAPI](https://datacircle.dev/youtube-channel-video-apis/axioapi/2-pack) | $2 pack | 37.3 | 47 |  | 2026-11-23 |
+| 39 | [Shulex VOC](https://datacircle.dev/youtube-channel-video-apis/shulex-voc/38-monthly) | $38 monthly | 36.2 | 53 |  | 2026-11-23 |
+| 40 | [TranscriptYT](https://datacircle.dev/youtube-channel-video-apis/transcriptyt/3-monthly) | $3 monthly | 63.7 | 30 |  | 2026-11-07 |
+| 41 | [TranscriptAPI.io](https://datacircle.dev/youtube-channel-video-apis/transcriptapi-io/249-monthly) | $249 monthly | 63.6 | 38 | $0.0012 per 1,000 videos | 2026-11-11 |
+| 42 | [TranscriptFetch](https://datacircle.dev/youtube-channel-video-apis/transcriptfetch/229-monthly) | $229 monthly | 59.6 | 45 | $0.018 per 1,000 videos | 2026-11-23 |
+| 43 | [YouTubeScribe](https://datacircle.dev/youtube-channel-video-apis/youtubescribe/12-99-monthly-studio-get-youtube-channel-videos) | $12.99 monthly, Studio | 55.5 | 44 | $0.043 per 1,000 videos | 2026-11-23 |
+| 44 | [Transcript Dock](https://datacircle.dev/youtube-channel-video-apis/transcript-dock/top-up-from-6) | top-up from $6 | 44.9 | 39 | $0.12 per 1,000 videos | 2026-11-08 |
+| 45 | [EasyTranscriber](https://datacircle.dev/youtube-channel-video-apis/easytranscriber/19-99-monthly-scale-get-api-v1-youtube-channel-videos) | $19.99 monthly, Scale | 44.3 | 37 | $0.13 per 1,000 videos | 2026-11-20 |
+| 46 | [YouTubeTranscriptAPI](https://datacircle.dev/youtube-channel-video-apis/youtubetranscriptapi/7-monthly-monthly-get-youtube-channel-latest) | $7 monthly | 34.1 | 43 |  | 2026-11-11 |
+| 47 | [Scraper Api](https://datacircle.dev/youtube-channel-video-apis/scraper-api/49-pack) | $49 pack | 33.9 | 45 |  | 2026-11-07 |
+| 48 | [GetYouTubeTranscript](https://datacircle.dev/youtube-channel-video-apis/getyoutubetranscript/5-monthly) | $5 monthly | 33.7 | 45 |  | 2026-11-08 |
+| 49 | [YouTubeVideoTranscript.io](https://datacircle.dev/youtube-channel-video-apis/youtubevideotranscript-io/9-monthly) | $9 monthly | 33.3 | 45 |  | 2026-11-07 |
+| 50 | [API.SH](https://datacircle.dev/youtube-channel-video-apis/api-sh/top-up-from-15) | top-up from $15 | 33.1 | 41 |  | 2026-11-07 |
+| 51 | [ScriptHaul](https://datacircle.dev/youtube-channel-video-apis/scripthaul/5-pack-3000-credits-get-v1-videos) | $5 pack, 3,000 credits | 33 | 45 |  | 2026-11-23 |
+| 52 | [Parseium](https://datacircle.dev/youtube-channel-video-apis/parseium/49-monthly) | $49 monthly | 32 | 43 |  | 2026-11-11 |
+| 53 | [ShortsIntel](https://datacircle.dev/youtube-channel-video-apis/shortsintel/10-pack-top-up-10-get-creators-platform-handle) | $10 pack, Top-up $10 | 31.2 | 36 |  | 2026-11-08 |
+| 54 | [AnyAPI](https://datacircle.dev/youtube-channel-video-apis/anyapi/top-up-from-10) | top-up from $10 | 30.4 | 33 |  | 2026-10-29 |
+| 55 | [TubeToTranscript](https://datacircle.dev/youtube-channel-video-apis/tubetotranscript/0-99-pack-250-requests-get-channel-latest) | $0.99 pack, 250 Requests | 23.5 | 39 |  | 2026-11-10 |
+| 56 | [BulkTranscripts](https://datacircle.dev/youtube-channel-video-apis/bulktranscripts/4-99-pack-starter-get-api-v1-channel-latest) | $4.99 pack, Starter | 21.3 | 34 |  | 2026-11-08 |
+| 57 | [viral.app](https://datacircle.dev/youtube-channel-video-apis/viral-app/299-monthly) | $299 monthly | 23.2 | 22 |  | 2026-11-07 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

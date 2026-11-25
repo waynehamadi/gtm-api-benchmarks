@@ -1,6 +1,6 @@
 # YouTube transcript API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
 TranscriptFetch ranks first in our benchmark, with an Overall score of 74.5 out of 100. TranscriptFetch scores 51 out of 100 for accuracy. TranscriptFetch's plan "$229 monthly, Scale" costs $0.92 per 1,000 videos. We rank 42 providers. We last tested them on 2026-11-23.
 

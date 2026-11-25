@@ -1,22 +1,22 @@
 # Douyin video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
-Scavio ranks first in our benchmark, with an Overall score of 84.5 out of 100. Scavio scores 87 out of 100 for accuracy. Scavio's plan "$500 monthly" costs $1.00 per 1,000 videos. We rank 10 providers. We last tested them on 2026-11-15.
+Scavio ranks first in our benchmark, with an Overall score of 84.6 out of 100. Scavio scores 87 out of 100 for accuracy. Scavio's plan "$500 monthly" costs $1.00 per 1,000 videos. We rank 10 providers. We last tested them on 2026-11-15.
 
 Every plan below is on our ranking page, [Douyin video API: best providers in 2026](https://datacircle.dev/best-douyin-video-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Scavio](https://datacircle.dev/douyin-video-apis/scavio/500-monthly) | $500 monthly | 84.5 | 87 | $1.00 per 1,000 videos | 2026-10-30 |
+| 1 | [Scavio](https://datacircle.dev/douyin-video-apis/scavio/500-monthly) | $500 monthly | 84.6 | 87 | $1.00 per 1,000 videos | 2026-10-30 |
 | 2 | [EveryInfra](https://datacircle.dev/douyin-video-apis/everyinfra/10-pack) | $10 pack | 82.7 | 85 | $0.56 per 1,000 videos | 2026-11-15 |
-| 3 | [FetchLayer](https://datacircle.dev/douyin-video-apis/fetchlayer/500-monthly) | $500 monthly | 79.5 | 61 | $0.50 per 1,000 videos | 2026-11-15 |
-| 4 | [ProLevelMax](https://datacircle.dev/douyin-video-apis/prolevelmax/top-up-pay-per-use-post-v1-run-douyin-video-by-share-link-app) | top-up, Pay per use | 74.7 | 97 | $3.00 per 1,000 videos | 2026-11-15 |
+| 3 | [FetchLayer](https://datacircle.dev/douyin-video-apis/fetchlayer/500-monthly) | $500 monthly | 79.6 | 61 | $0.50 per 1,000 videos | 2026-11-15 |
+| 4 | [ProLevelMax](https://datacircle.dev/douyin-video-apis/prolevelmax/top-up-pay-per-use-post-v1-run-douyin-video-by-share-link-app) | top-up, Pay per use | 75 | 97 | $3.00 per 1,000 videos | 2026-11-15 |
 | 5 | [SocQ](https://datacircle.dev/douyin-video-apis/socq/top-up-from-5) | top-up from $5 | 71.2 | 97 | $0.50 per 1,000 videos | 2026-11-15 |
-| 6 | [AnyAPI](https://datacircle.dev/douyin-video-apis/anyapi/top-up-from-10) | top-up from $10 | 53.9 | 50 | $1.20 per 1,000 videos | 2026-10-30 |
-| 7 | [DataXAPI](https://datacircle.dev/douyin-video-apis/dataxapi/top-up-from-10) | top-up from $10 | 50.1 | 40 | $2.00 per 1,000 videos | 2026-11-15 |
-| 8 | [SocialToAI](https://datacircle.dev/douyin-video-apis/socialtoai/50-pack) | $50 pack | 47.8 | 25 | $5.00 per 1,000 videos | 2026-11-15 |
-| 9 | [RedFox](https://datacircle.dev/douyin-video-apis/redfox/top-up-from-cny-100) | top-up from CNY 100 (about $15) | 27.9 | 3 | $5.98 per 1,000 videos | 2026-11-15 |
+| 6 | [AnyAPI](https://datacircle.dev/douyin-video-apis/anyapi/top-up-from-10) | top-up from $10 | 54 | 50 | $1.20 per 1,000 videos | 2026-10-30 |
+| 7 | [DataXAPI](https://datacircle.dev/douyin-video-apis/dataxapi/top-up-from-10) | top-up from $10 | 50.3 | 40 | $2.00 per 1,000 videos | 2026-11-15 |
+| 8 | [SocialToAI](https://datacircle.dev/douyin-video-apis/socialtoai/50-pack) | $50 pack | 48.1 | 25 | $5.00 per 1,000 videos | 2026-11-15 |
+| 9 | [RedFox](https://datacircle.dev/douyin-video-apis/redfox/top-up-from-cny-100) | top-up from CNY 100 (about $15) | 28.1 | 3 | $5.98 per 1,000 videos | 2026-11-15 |
 | 10 | [treg](https://datacircle.dev/douyin-video-apis/treg/top-up-from-10) | top-up from $10 | 0 | 0 |  | 2026-10-30 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.

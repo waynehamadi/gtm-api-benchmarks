@@ -1,8 +1,8 @@
 # App Store review API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
-EveryInfra ranks first in our benchmark, with an Overall score of 79.5 out of 100. EveryInfra scores 65 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.0028 per 1,000 reviews. We rank 15 providers. We last tested them on 2026-11-16.
+EveryInfra ranks first in our benchmark, with an Overall score of 79.5 out of 100. EveryInfra scores 65 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.0028 per 1,000 reviews. We rank 16 providers. We last tested them on 2026-11-24.
 
 Every plan below is on our ranking page, [App Store review API: best providers in 2026](https://datacircle.dev/best-app-store-review-api).
 
@@ -15,14 +15,15 @@ Every plan below is on our ranking page, [App Store review API: best providers i
 | 5 | [AppSigma](https://datacircle.dev/app-store-review-apis/appsigma/49-99-monthly) | $49.99 monthly | 52.2 | 71 | $0.20 per 1,000 reviews | 2026-10-30 |
 | 6 | [Sonar](https://datacircle.dev/app-store-review-apis/sonar/29-monthly) | $29 monthly | 49.1 | 50 |  | 2026-10-30 |
 | 7 | [DataForSEO](https://datacircle.dev/app-store-review-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-app-data-apple-app-reviews-task-post-setting-apple-app-reviews-tasks-standard-queue) | top-up from $50, Pay as you go | 49 | 57 | $0.03 per 1,000 reviews | 2026-11-07 |
-| 8 | [OpenKrill](https://datacircle.dev/app-store-review-apis/openkrill/5-pack) | $5 pack | 44.5 | 57 |  | 2026-11-16 |
-| 9 | [Pushbuild](https://datacircle.dev/app-store-review-apis/pushbuild/top-up) | top-up | 44.2 | 47 | $0.40 per 1,000 reviews | 2026-11-07 |
-| 10 | [ReplyNodes](https://datacircle.dev/app-store-review-apis/replynodes/19-monthly) | $19 monthly | 43.1 | 65 |  | 2026-11-07 |
-| 11 | [Stophy](https://datacircle.dev/app-store-review-apis/stophy/top-up-from-10) | top-up from $10 | 43 | 57 |  | 2026-11-07 |
-| 12 | [Zembra](https://datacircle.dev/app-store-review-apis/zembra/top-up-from-12) | top-up from $12 | 37.6 | 52 | $1.00 per 1,000 reviews | 2026-10-30 |
-| 13 | [PerceptLayer](https://datacircle.dev/app-store-review-apis/perceptlayer/15-pack) | $15 pack | 36 | 50 |  | 2026-11-07 |
-| 14 | [ASOdesk](https://datacircle.dev/app-store-review-apis/asodesk/99-monthly) | $99 monthly | 35.5 | 44 | $0.50 per 1,000 reviews | 2026-10-30 |
-| 15 | [Appeeky](https://datacircle.dev/app-store-review-apis/appeeky/149-monthly) | $149 monthly | 41.1 | 23 | $0.006 per 1,000 reviews | 2026-10-30 |
+| 8 | [Trends MCP](https://datacircle.dev/app-store-review-apis/trends-mcp/199-monthly) | $199 monthly | 48 | 62 | $0.40 per 1,000 reviews | 2026-11-24 |
+| 9 | [OpenKrill](https://datacircle.dev/app-store-review-apis/openkrill/5-pack) | $5 pack | 44.5 | 57 |  | 2026-11-16 |
+| 10 | [Pushbuild](https://datacircle.dev/app-store-review-apis/pushbuild/top-up) | top-up | 44.2 | 47 | $0.40 per 1,000 reviews | 2026-11-07 |
+| 11 | [ReplyNodes](https://datacircle.dev/app-store-review-apis/replynodes/19-monthly) | $19 monthly | 43.1 | 65 |  | 2026-11-07 |
+| 12 | [Stophy](https://datacircle.dev/app-store-review-apis/stophy/top-up-from-10) | top-up from $10 | 43 | 57 |  | 2026-11-07 |
+| 13 | [Zembra](https://datacircle.dev/app-store-review-apis/zembra/top-up-from-12) | top-up from $12 | 37.6 | 52 | $1.00 per 1,000 reviews | 2026-10-30 |
+| 14 | [PerceptLayer](https://datacircle.dev/app-store-review-apis/perceptlayer/15-pack) | $15 pack | 36 | 50 |  | 2026-11-07 |
+| 15 | [ASOdesk](https://datacircle.dev/app-store-review-apis/asodesk/99-monthly) | $99 monthly | 35.5 | 44 | $0.50 per 1,000 reviews | 2026-10-30 |
+| 16 | [Appeeky](https://datacircle.dev/app-store-review-apis/appeeky/149-monthly) | $149 monthly | 41 | 23 | $0.006 per 1,000 reviews | 2026-10-30 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

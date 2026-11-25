@@ -1,6 +1,6 @@
 # News API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
 Alpaca ranks first in our benchmark, with an Overall score of 90.3 out of 100. Alpaca scores 82 out of 100 for accuracy. We rank 121 providers. We last tested them on 2026-11-22.
 
@@ -11,12 +11,12 @@ Every plan below is on our ranking page, [News API: best providers in 2026](http
 | 1 | [Alpaca](https://datacircle.dev/news-apis/alpaca/99-monthly) | $99 monthly | 90.3 | 82 |  | 2026-11-16 |
 | 2 | [Scrappa](https://datacircle.dev/news-apis/scrappa/25-pack) | $25 pack, Basic | 81.7 | 92 | $0.29 per 1,000 searches | 2026-10-29 |
 | 3 | [B77](https://datacircle.dev/news-apis/b77/free) | free | 79.2 | 92 | $0.00 per 1,000 searches | 2026-11-14 |
-| 4 | [SignalShelf](https://datacircle.dev/news-apis/signalshelf/499-pack) | $499 pack | 77.6 | 92 | $0.50 per 1,000 searches | 2026-11-11 |
+| 4 | [SignalShelf](https://datacircle.dev/news-apis/signalshelf/499-pack) | $499 pack | 77.5 | 92 | $0.50 per 1,000 searches | 2026-11-11 |
 | 5 | [AlphAI](https://datacircle.dev/news-apis/alphai/9-99-monthly-pro-get-api-news) | $9.99 monthly, Pro | 76.8 | 91 | $0.0033 per 1,000 searches | 2026-11-14 |
 | 6 | [Hydrafetch](https://datacircle.dev/news-apis/hydrafetch/99-monthly) | $99 monthly, Ship | 76.1 | 91 | $0.50 per 1,000 searches | 2026-11-10 |
 | 7 | [SerpScraper.dev](https://datacircle.dev/news-apis/serpscraper-dev/39-monthly) | $39 monthly | 75.2 | 63 | $0.13 per 1,000 searches | 2026-11-05 |
 | 8 | [ReefAPI](https://datacircle.dev/news-apis/reefapi/450-quarterly-enterprise-quarterly-post-news-article-v1-news-search) | $450 quarterly, Enterprise quarterly | 75 | 91 | $0.50 per 1,000 searches | 2026-10-31 |
-| 9 | [CrustAPI](https://datacircle.dev/news-apis/crustapi/top-up-from-149) | top-up from $149 | 73.8 | 92 | $0.76 per 1,000 searches | 2026-11-07 |
+| 9 | [CrustAPI](https://datacircle.dev/news-apis/crustapi/top-up-from-149) | top-up from $149 | 73.7 | 92 | $0.76 per 1,000 searches | 2026-11-07 |
 | 10 | [ScrapeUnblocker](https://datacircle.dev/news-apis/scrapeunblocker/29-monthly) | €29 monthly | 73 | 92 | $0.96 per 1,000 searches | 2026-10-29 |
 | 11 | [PerceptLayer](https://datacircle.dev/news-apis/perceptlayer/399-pack) | $399 pack | 72.5 | 90 | $0.80 per 1,000 searches | 2026-11-03 |
 | 12 | [Pipeworx](https://datacircle.dev/news-apis/pipeworx/99-monthly-99-month-post-bing-news-mcp) | $99 monthly | 71.6 | 91 | $1.00 per 1,000 searches | 2026-11-16 |
@@ -68,7 +68,7 @@ Every plan below is on our ranking page, [News API: best providers in 2026](http
 | 58 | [NewsAPI.org](https://datacircle.dev/news-apis/newsapi-org/449-monthly-business-get-v2-everything) | $449 monthly, Business | 56.2 | 91 | $1.80 per 1,000 searches | 2026-10-29 |
 | 59 | [API Direct](https://datacircle.dev/news-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-news-articles) | pay as you go, Pay per request | 56.1 | 92 | $8.00 per 1,000 searches | 2026-11-04 |
 | 60 | [Exa](https://datacircle.dev/news-apis/exa/top-up-from-5-developer-pay-as-you-go-post-search-search-lite-news) | top-up from $5, Developer (pay as you go) | 55.8 | 86 | $4.00 per 1,000 searches | 2026-10-29 |
-| 61 | [World News API](https://datacircle.dev/news-apis/world-news-api/39-monthly) | $39 monthly | 55.7 | 88 | $2.60 per 1,000 searches | 2026-10-29 |
+| 61 | [World News API](https://datacircle.dev/news-apis/world-news-api/39-monthly) | $39 monthly | 55.6 | 88 | $2.60 per 1,000 searches | 2026-10-29 |
 | 62 | [Currents API](https://datacircle.dev/news-apis/currents-api/150-monthly-professional-monthly-get-v2-search) | $150 monthly, Professional | 55.5 | 77 | $0.50 per 1,000 searches | 2026-11-15 |
 | 63 | [BRONTIR](https://datacircle.dev/news-apis/brontir/125-monthly) | €125 monthly | 55.4 | 92 | $1.96 per 1,000 searches | 2026-11-09 |
 | 64 | [Bulkgrid](https://datacircle.dev/news-apis/bulkgrid/79-monthly) | $79 monthly | 55 | 86 | $1.58 per 1,000 searches | 2026-11-20 |
@@ -76,31 +76,31 @@ Every plan below is on our ranking page, [News API: best providers in 2026](http
 | 66 | [Pullbay](https://datacircle.dev/news-apis/pullbay/9-monthly-hobby-get-google-news-search) | $9 monthly, Hobby | 54.8 | 89 | $5.00 per 1,000 searches | 2026-11-05 |
 | 67 | [Clair](https://datacircle.dev/news-apis/clair/30-monthly) | $30 monthly | 53.5 | 93 | $10.00 per 1,000 searches | 2026-11-05 |
 | 68 | [OpenWeb Ninja](https://datacircle.dev/news-apis/openweb-ninja/75-monthly-ultra-get-search-100000-requests-a-month) | $75 monthly, Ultra, 100,000 requests a month | 53.4 | 92 | $0.75 per 1,000 searches | 2026-11-21 |
-| 69 | [YepAPI](https://datacircle.dev/news-apis/yepapi/top-up) | top-up | 53.2 | 88 | $10.00 per 1,000 searches | 2026-11-05 |
-| 70 | [Autom](https://datacircle.dev/news-apis/autom/375-pack) | $375 pack | 53.2 | 71 | $0.75 per 1,000 searches | 2026-10-29 |
-| 71 | [NewsData.io](https://datacircle.dev/news-apis/newsdata-io/349-99-monthly-professional-get-1-latest) | $349.99 monthly, Professional | 53.1 | 89 | $7.00 per 1,000 searches | 2026-10-29 |
+| 69 | [Autom](https://datacircle.dev/news-apis/autom/375-pack) | $375 pack | 53.2 | 71 | $0.75 per 1,000 searches | 2026-10-29 |
+| 70 | [NewsData.io](https://datacircle.dev/news-apis/newsdata-io/349-99-monthly-professional-get-1-latest) | $349.99 monthly, Professional | 53.1 | 89 | $7.00 per 1,000 searches | 2026-10-29 |
+| 71 | [YepAPI](https://datacircle.dev/news-apis/yepapi/top-up) | top-up | 53.1 | 88 | $10.00 per 1,000 searches | 2026-11-05 |
 | 72 | [AllNewsAPI](https://datacircle.dev/news-apis/allnewsapi/9-monthly) | $9 monthly | 52.5 | 60 | $0.06 per 1,000 searches | 2026-10-29 |
-| 73 | [Mekong Trade Intel](https://datacircle.dev/news-apis/mekong-trade-intel/pay-as-you-go) | pay as you go | 52.4 | 91 | $1.00 per 1,000 searches | 2026-11-09 |
+| 73 | [Mekong Trade Intel](https://datacircle.dev/news-apis/mekong-trade-intel/pay-as-you-go) | pay as you go | 52.3 | 91 | $1.00 per 1,000 searches | 2026-11-09 |
 | 74 | [ValueSERP](https://datacircle.dev/news-apis/valueserp/240-monthly) | $240 monthly | 52 | 76 | $1.20 per 1,000 searches | 2026-10-29 |
 | 75 | [Pushbuild](https://datacircle.dev/news-apis/pushbuild/top-up) | top-up | 51.9 | 93 |  | 2026-11-05 |
-| 76 | [Trawlia](https://datacircle.dev/news-apis/trawlia/49-monthly-scale-post-v1-search-search-basic-news) | $49 monthly, Scale | 51.9 | 90 | $6.13 per 1,000 searches | 2026-11-05 |
+| 76 | [Trawlia](https://datacircle.dev/news-apis/trawlia/49-monthly-scale-post-v1-search-search-basic-news) | $49 monthly, Scale | 51.8 | 90 | $6.13 per 1,000 searches | 2026-11-05 |
 | 77 | [Webz.io](https://datacircle.dev/news-apis/webz-io/top-up-scale-post-api-news-context) | top-up, Scale | 51.6 | 71 | $5.00 per 1,000 searches | 2026-11-03 |
 | 78 | [Twelve Data](https://datacircle.dev/news-apis/twelve-data/149-monthly-venture-610-api-credits-a-minute) | $149 monthly, Venture, 610 API credits a minute | 51.5 | 78 |  | 2026-11-09 |
 | 79 | [x402serps](https://datacircle.dev/news-apis/x402serps/5-pack) | $5 pack | 51.3 | 75 | $3.64 per 1,000 searches | 2026-11-05 |
 | 80 | [NewsAPI.ai (Event Registry)](https://datacircle.dev/news-apis/newsapi-ai-event-registry/400-monthly) | $400 monthly | 50.9 | 90 | $8.00 per 1,000 searches | 2026-10-29 |
-| 81 | [Syften](https://datacircle.dev/news-apis/syften/119-95-monthly) | $119.95 monthly | 50.9 | 81 | $12.00 per 1,000 searches | 2026-11-05 |
+| 81 | [Syften](https://datacircle.dev/news-apis/syften/119-95-monthly) | $119.95 monthly | 50.8 | 81 | $12.00 per 1,000 searches | 2026-11-05 |
 | 82 | [ByCrawl](https://datacircle.dev/news-apis/bycrawl/29-monthly) | $29 monthly | 50.4 | 85 | $11.60 per 1,000 searches | 2026-11-07 |
 | 83 | [NewsMesh](https://datacircle.dev/news-apis/newsmesh/199-monthly) | $199 monthly | 50.4 | 68 | $0.80 per 1,000 searches | 2026-10-29 |
 | 84 | [SearchCans](https://datacircle.dev/news-apis/searchcans/18-pack) | $18 pack | 50.4 | 60 | $0.90 per 1,000 searches | 2026-10-29 |
 | 85 | [Scrapa](https://datacircle.dev/news-apis/scrapa/99-monthly) | $99 monthly, Scale | 50.1 | 67 | $0.99 per 1,000 searches | 2026-11-07 |
-| 86 | [Trends MCP](https://datacircle.dev/news-apis/trends-mcp/49-monthly) | $49 monthly | 49.8 | 74 | $9.80 per 1,000 searches | 2026-11-11 |
+| 86 | [Trends MCP](https://datacircle.dev/news-apis/trends-mcp/49-monthly) | $49 monthly | 49.7 | 74 | $9.80 per 1,000 searches | 2026-11-11 |
 | 87 | [Nimble](https://datacircle.dev/news-apis/nimble/pay-as-you-go-post-v2-serp) | pay as you go | 49.2 | 92 | $3.00 per 1,000 searches | 2026-10-29 |
 | 88 | [JustSerpAPI](https://datacircle.dev/news-apis/justserpapi/5-monthly) | $5 monthly | 48.9 | 87 |  | 2026-11-05 |
 | 89 | [Scale SERP](https://datacircle.dev/news-apis/scale-serp/199-monthly) | $199 monthly | 48.5 | 76 | $3.98 per 1,000 searches | 2026-10-29 |
 | 90 | [lobstr.io](https://datacircle.dev/news-apis/lobstr-io/20-monthly) | $20 monthly | 48.4 | 85 | $200.00 per 1,000 searches | 2026-10-29 |
 | 91 | [typesearch](https://datacircle.dev/news-apis/typesearch/top-up-from-20-pay-as-you-go-post-v1-search-search-the-index-normal-mode) | top-up from $20, Pay as you go | 47.5 | 67 | $2.20 per 1,000 searches | 2026-11-11 |
 | 92 | [wpnews](https://datacircle.dev/news-apis/wpnews/29-monthly) | €29 monthly | 44.9 | 75 |  | 2026-11-22 |
-| 93 | [SerpWow](https://datacircle.dev/news-apis/serpwow/499-monthly-bigdata-get-search-google-news) | $499 monthly, BigData | 44.9 | 74 | $9.98 per 1,000 searches | 2026-10-29 |
+| 93 | [SerpWow](https://datacircle.dev/news-apis/serpwow/499-monthly-bigdata-get-search-google-news) | $499 monthly, BigData | 44.8 | 74 | $9.98 per 1,000 searches | 2026-10-29 |
 | 94 | [Novada](https://datacircle.dev/news-apis/novada/20-monthly-20-post-request) | $20 monthly | 44.1 | 48 | $1.20 per 1,000 searches | 2026-10-31 |
 | 95 | [ScraperAPI](https://datacircle.dev/news-apis/scraperapi/299-monthly-business-get-structured-google-news) | $299 monthly, Business | 43.8 | 59 | $2.49 per 1,000 searches | 2026-10-29 |
 | 96 | [Synorb](https://datacircle.dev/news-apis/synorb/5-pack) | $5 pack | 37.9 | 54 |  | 2026-11-16 |

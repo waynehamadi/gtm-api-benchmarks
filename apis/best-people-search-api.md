@@ -1,6 +1,6 @@
 # People lookup API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
 GetProspect ranks first in our benchmark, with an Overall score of 90.1 out of 100. GetProspect scores 93 out of 100 for accuracy. GetProspect's plan "$49 monthly, Starter" costs $0 extra per 1,000 people. The $49 monthly price covers any number of people. We rank 61 providers. We last tested them on 2026-11-17.
 
@@ -14,7 +14,7 @@ Every plan below is on our ranking page, [People lookup API: best providers in 2
 | 4 | [LeadOcean](https://datacircle.dev/people-search-apis/leadocean/497-monthly-agency-get-v1-companies-domain-people) | $497 monthly, Agency | 78.4 | 62 | $0.02 per 1,000 people | 2026-11-17 |
 | 5 | [Loopster](https://datacircle.dev/people-search-apis/loopster/449-monthly) | $449 monthly | 77.2 | 68 | $0.006 per 1,000 people | 2026-11-16 |
 | 6 | [MillionPhones](https://datacircle.dev/people-search-apis/millionphones/300-monthly-pro-40000-credits-mo-get-search-people) | $300 monthly, Pro 40,000 credits/mo | 76.8 | 77 | $0.75 per 1,000 people | 2026-11-16 |
-| 7 | [GetLeads](https://datacircle.dev/people-search-apis/getleads/497-monthly-unlimited-post-api-v1-contacts-search) | $497 monthly, Unlimited | 76.2 | 62 | $0.083 per 1,000 people | 2026-11-16 |
+| 7 | [GetLeads](https://datacircle.dev/people-search-apis/getleads/497-monthly-unlimited-post-api-v1-contacts-search) | $497 monthly, Unlimited | 76 | 62 | $0.083 per 1,000 people | 2026-11-16 |
 | 8 | [graph8](https://datacircle.dev/people-search-apis/graph8/99-monthly) | $99 monthly | 74.7 | 79 |  | 2026-11-16 |
 | 9 | [NeuralVerge](https://datacircle.dev/people-search-apis/neuralverge/50-monthly-base-post-functions-v1-run-company-employees) | $50 monthly, Base | 72.3 | 88 | $2.00 per 1,000 people | 2026-11-16 |
 | 10 | [LeadMagic](https://datacircle.dev/people-search-apis/leadmagic/499-monthly-professional-post-v1-people-employee-finder) | $499 monthly, Professional | 72.2 | 80 | $0.50 per 1,000 people | 2026-11-16 |

@@ -1,6 +1,6 @@
 # Company funding API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
 gBizINFO ranks first in our benchmark, with an Overall score of 78.7 out of 100. gBizINFO scores 72 out of 100 for accuracy. gBizINFO's plan "free" costs $0.00 per 1,000 companies. We rank 30 providers. We last tested them on 2026-11-22.
 

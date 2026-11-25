@@ -1,6 +1,6 @@
 # Company job count API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
 Up2Data ranks first in our benchmark, with an Overall score of 74.4 out of 100. Up2Data scores 90 out of 100 for accuracy. Up2Data's plan "$200 pack, 100K" costs $2.00 per 1,000 companies. We rank 2 providers. We last tested them on 2026-10-25.
 
@@ -9,7 +9,7 @@ Every plan below is on our ranking page, [Company job count API: best providers 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Up2Data](https://datacircle.dev/company-job-count-apis/up2data/200-pack-100k-post-v1-companies-jobs-count) | $200 pack, 100K | 74.4 | 90 | $2.00 per 1,000 companies | 2026-10-25 |
-| 2 | [HarvestAPI](https://datacircle.dev/company-job-count-apis/harvestapi/280-pack) | $280 pack | 30 | 15 | $57.90 per 1,000 companies | 2026-10-25 |
+| 2 | [HarvestAPI](https://datacircle.dev/company-job-count-apis/harvestapi/280-pack) | $280 pack | 29.7 | 15 | $57.90 per 1,000 companies | 2026-10-25 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

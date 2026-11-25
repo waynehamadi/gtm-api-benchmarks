@@ -1,8 +1,8 @@
 # Google AI Overview scraper API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
-Litescrape ranks first in our benchmark, with an Overall score of 86.4 out of 100. Litescrape scores 70 out of 100 for accuracy. Litescrape's plan "top-up from $10, Usage-based" costs $0.15 per 1,000 answers. We rank 11 providers. We last tested them on 2026-11-20.
+Litescrape ranks first in our benchmark, with an Overall score of 86.4 out of 100. Litescrape scores 70 out of 100 for accuracy. Litescrape's plan "top-up from $10, Usage-based" costs $0.15 per 1,000 answers. We rank 12 providers. We last tested them on 2026-11-23.
 
 Every plan below is on our ranking page, [Google AI Overview scraper API: best providers in 2026](https://datacircle.dev/best-google-ai-overview-scraper-api).
 
@@ -10,15 +10,16 @@ Every plan below is on our ranking page, [Google AI Overview scraper API: best p
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Litescrape](https://datacircle.dev/google-ai-overview-scraper-apis/litescrape/top-up-from-10-usage-based-get-api-google-ai-overview) | top-up from $10, Usage-based | 86.4 | 70 | $0.15 per 1,000 answers | 2026-11-03 |
 | 2 | [PrismCrawl](https://datacircle.dev/google-ai-overview-scraper-apis/prismcrawl/10-pack) | $10 pack | 61.6 | 65 | $0.27 per 1,000 answers | 2026-11-06 |
-| 3 | [AnyAPI](https://datacircle.dev/google-ai-overview-scraper-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-google-ai-overview) | top-up from $10, Manual top-up | 60.1 | 77 | $1.80 per 1,000 answers | 2026-11-03 |
+| 3 | [AnyAPI](https://datacircle.dev/google-ai-overview-scraper-apis/anyapi/top-up-from-10-manual-top-up-post-v1-run-google-ai-overview) | top-up from $10, Manual top-up | 60.2 | 77 | $1.80 per 1,000 answers | 2026-11-03 |
 | 4 | [OpenWeb Ninja](https://datacircle.dev/google-ai-overview-scraper-apis/openweb-ninja/150-monthly) | $150 monthly, Mega | 59.2 | 77 | $0.75 per 1,000 answers | 2026-11-18 |
-| 5 | [Peec AI](https://datacircle.dev/google-ai-overview-scraper-apis/peec-ai/245-monthly-pro-get-chats-chat-id-content) | $245 monthly, Pro | 57 | 88 |  | 2026-11-20 |
-| 6 | [Otterly.ai](https://datacircle.dev/google-ai-overview-scraper-apis/otterly-ai/189-monthly) | $189 monthly | 46 | 72 | $94.50 per 1,000 answers | 2026-11-03 |
+| 5 | [Peec AI](https://datacircle.dev/google-ai-overview-scraper-apis/peec-ai/245-monthly-pro-get-chats-chat-id-content) | $245 monthly, Pro | 57 | 88 |  |  |
+| 6 | [Otterly.ai](https://datacircle.dev/google-ai-overview-scraper-apis/otterly-ai/189-monthly) | $189 monthly | 45.9 | 72 | $94.50 per 1,000 answers | 2026-11-03 |
 | 7 | [Omnia](https://datacircle.dev/google-ai-overview-scraper-apis/omnia/79-monthly-growth-25-prompts-get-api-v1-ai-answers-ai-answer) | €79 monthly, Growth (25 prompts) | 43.7 | 73 |  | 2026-11-03 |
 | 8 | [Sellm](https://datacircle.dev/google-ai-overview-scraper-apis/sellm/89-monthly-essential-post-async-analysis) | $89 monthly, Essential | 43.2 | 82 |  | 2026-11-06 |
 | 9 | [Frase](https://datacircle.dev/google-ai-overview-scraper-apis/frase/49-monthly) | $49 monthly | 42.6 | 46 |  | 2026-11-15 |
-| 10 | [API.SH](https://datacircle.dev/google-ai-overview-scraper-apis/api-sh/top-up-from-15) | top-up from $15 | 0 | 0 | $6.00 per 1,000 answers | 2026-11-06 |
-| 11 | [Omkar Cloud](https://datacircle.dev/google-ai-overview-scraper-apis/omkar-cloud/16-monthly) | $16 monthly | 0 | 0 | $3.20 per 1,000 answers | 2026-11-06 |
+| 10 | [ZeroRank AI](https://datacircle.dev/google-ai-overview-scraper-apis/zerorank-ai/199-monthly-growth-get-chats-id) | $199 monthly, Growth | 41.7 | 62 |  | 2026-11-23 |
+| 11 | [API.SH](https://datacircle.dev/google-ai-overview-scraper-apis/api-sh/top-up-from-15) | top-up from $15 | 0 | 0 | $6.00 per 1,000 answers | 2026-11-06 |
+| 12 | [Omkar Cloud](https://datacircle.dev/google-ai-overview-scraper-apis/omkar-cloud/16-monthly) | $16 monthly | 0 | 0 | $3.20 per 1,000 answers | 2026-11-06 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

@@ -1,6 +1,6 @@
 # App Store API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,485 providers of 167 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,562 providers of 168 kinds of API.
 
 Apple ranks first in our benchmark, with an Overall score of 82.5 out of 100. Apple scores 64 out of 100 for accuracy. Apple's plan "free" costs $0.00 per 1,000 apps. We rank 21 providers. We last tested them on 2026-11-17.
 
