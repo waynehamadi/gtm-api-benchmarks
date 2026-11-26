@@ -1,22 +1,22 @@
 # Company funding API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
 
-gBizINFO ranks first in our benchmark, with an Overall score of 78.7 out of 100. gBizINFO scores 72 out of 100 for accuracy. gBizINFO's plan "free" costs $0.00 per 1,000 companies. We rank 30 providers. We last tested them on 2026-11-22.
+gBizINFO ranks first in our benchmark, with an Overall score of 78.7 out of 100. gBizINFO scores 72 out of 100 for accuracy. gBizINFO's plan "free" costs $0.00 per 1,000 companies. We rank 30 providers. We last tested them on 2026-11-25.
 
 Every plan below is on our ranking page, [Company funding API: best providers in 2026](https://datacircle.dev/best-company-funding-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [gBizINFO](https://datacircle.dev/company-funding-apis/gbizinfo/free) | free | 78.7 | 72 | $0.00 per 1,000 companies | 2026-11-07 |
-| 2 | [Venture Atlas](https://datacircle.dev/company-funding-apis/venture-atlas/free) | free | 69.5 | 49 | $0.00 per 1,000 companies | 2026-11-11 |
+| 2 | [Venture Atlas](https://datacircle.dev/company-funding-apis/venture-atlas/free) | free | 73.5 | 52 | $0.00 per 1,000 companies | 2026-11-25 |
 | 3 | [Edgrapi](https://datacircle.dev/company-funding-apis/edgrapi/99-monthly) | $99 monthly | 67 | 46 | $1.32 per 1,000 companies | 2026-11-09 |
 | 4 | [The Swarm](https://datacircle.dev/company-funding-apis/the-swarm/500-monthly) | $500 monthly | 59.7 | 46 | $10.00 per 1,000 companies | 2026-10-20 |
 | 5 | [Skrapp](https://datacircle.dev/company-funding-apis/skrapp/349-monthly-enterprise-50k-get-api-v3-companies-enrich) | $349 monthly, Enterprise 50K | 55.1 | 40 | $13.96 per 1,000 companies | 2026-10-25 |
 | 6 | [Bradshaw Data](https://datacircle.dev/company-funding-apis/bradshaw-data/100-monthly) | £100 (about $133) monthly | 51.5 | 52 | $13.34 per 1,000 companies | 2026-11-11 |
 | 7 | [Ysaere](https://datacircle.dev/company-funding-apis/ysaere/pay-as-you-go) | pay as you go | 51.2 | 67 | $20.00 per 1,000 companies | 2026-11-22 |
-| 8 | [Recent Funding](https://datacircle.dev/company-funding-apis/recent-funding/150-monthly) | $150 monthly | 42.4 | 50 | $30.00 per 1,000 companies | 2026-11-11 |
-| 9 | [aVenture](https://datacircle.dev/company-funding-apis/aventure/49-monthly) | $49 monthly | 38 | 47 |  | 2026-11-11 |
+| 8 | [Recent Funding](https://datacircle.dev/company-funding-apis/recent-funding/150-monthly) | $150 monthly | 40.6 | 45 | $30.00 per 1,000 companies | 2026-11-11 |
+| 9 | [aVenture](https://datacircle.dev/company-funding-apis/aventure/49-monthly) | $49 monthly | 37.6 | 46 |  | 2026-11-11 |
 | 10 | [DataSignals Lab](https://datacircle.dev/company-funding-apis/datasignals-lab/95-monthly) | $95 monthly | 67.7 | 27 | $0.63 per 1,000 companies | 2026-11-08 |
 | 11 | [Fliar BI](https://datacircle.dev/company-funding-apis/fliar-bi/top-up-from-5) | top-up from $5 | 54.5 | 26 | $10.00 per 1,000 companies | 2026-11-15 |
 | 12 | [Signalbase](https://datacircle.dev/company-funding-apis/signalbase/99-monthly-pro-post-csv-enrichment) | €99 monthly, Pro | 45.1 | 34 | $0.056 per 1,000 companies | 2026-10-31 |

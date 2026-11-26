@@ -1,6 +1,6 @@
 # Google AI Mode scraper API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
 
 Serpbit ranks first in our benchmark, with an Overall score of 64.9 out of 100. Serpbit scores 37 out of 100 for accuracy. Serpbit's plan "$350 monthly" costs $0.88 per 1,000 answers. We rank 24 providers. We last tested them on 2026-11-24.
 

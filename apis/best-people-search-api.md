@@ -1,6 +1,6 @@
 # People lookup API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
 
 GetProspect ranks first in our benchmark, with an Overall score of 90.1 out of 100. GetProspect scores 93 out of 100 for accuracy. GetProspect's plan "$49 monthly, Starter" costs $0 extra per 1,000 people. The $49 monthly price covers any number of people. We rank 61 providers. We last tested them on 2026-11-17.
 
@@ -40,7 +40,7 @@ Every plan below is on our ranking page, [People lookup API: best providers in 2
 | 30 | [Databar](https://datacircle.dev/people-search-apis/databar/99-monthly-build-post-v1-enrichments-enrichment-id-run-search-people-at-company) | $99 monthly, Build | 43.2 | 81 |  | 2026-11-16 |
 | 31 | [Diffbot](https://datacircle.dev/people-search-apis/diffbot/299-monthly) | $299 monthly | 41.9 | 54 | $29.90 per 1,000 people | 2026-10-24 |
 | 32 | [People Data Labs](https://datacircle.dev/people-search-apis/people-data-labs/98-monthly) | $98 monthly | 41.5 | 70 | $280.00 per 1,000 people | 2026-10-20 |
-| 33 | [Dealfront](https://datacircle.dev/people-search-apis/dealfront/113-monthly) | €113 monthly | 36.1 | 55 |  | 2026-11-16 |
+| 33 | [Leadfeeder](https://datacircle.dev/people-search-apis/leadfeeder/113-monthly) | €113 monthly | 36.1 | 55 |  | 2026-11-16 |
 | 34 | [LeadFuze](https://datacircle.dev/people-search-apis/leadfuze/250-monthly-starter-post-leads-database-search) | $250 monthly, Starter | 65.8 | 33 |  | 2026-11-05 |
 | 35 | [Companies House](https://datacircle.dev/people-search-apis/companies-house/free-get-company-company-number-officers) | free | 64.8 | 28 | $0.00 per 1,000 people | 2026-10-30 |
 | 36 | [Renidly](https://datacircle.dev/people-search-apis/renidly/290-pack) | $290 pack | 59.4 | 39 | $2.90 per 1,000 people | 2026-10-19 |

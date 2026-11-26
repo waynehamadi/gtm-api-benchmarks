@@ -1,6 +1,6 @@
 # Company job openings API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
 
 freehire ranks first in our benchmark, with an Overall score of 72.1 out of 100. freehire scores 60 out of 100 for accuracy. We rank 45 providers. We last tested them on 2026-11-21.
 
@@ -14,10 +14,10 @@ Every plan below is on our ranking page, [Company job openings API: best provide
 | 4 | [ReefAPI](https://datacircle.dev/company-open-job-apis/reefapi/15-monthly-pro-monthly-post-linkedin-jobs-v1-jobs-by-company) | $15 monthly, Pro monthly | 64.4 | 55 | $0.0015 per 1,000 jobs | 2026-10-27 |
 | 5 | [Pushbuild](https://datacircle.dev/company-open-job-apis/pushbuild/top-up) | top-up | 52.6 | 56 | $0.40 per 1,000 jobs | 2026-11-07 |
 | 6 | [BlitzAPI](https://datacircle.dev/company-open-job-apis/blitzapi/499-monthly) | $499 monthly | 52.6 | 47 | $0.10 per 1,000 jobs | 2026-10-28 |
-| 7 | [Bosco Labs](https://datacircle.dev/company-open-job-apis/bosco-labs/10-pack) | $10 pack | 52.4 | 69 | $1.00 per 1,000 jobs | 2026-11-15 |
-| 8 | [JobPostingsAPI](https://datacircle.dev/company-open-job-apis/jobpostingsapi/199-monthly) | $199 monthly | 52.4 | 53 | $0.20 per 1,000 jobs | 2026-11-15 |
+| 7 | [JobPostingsAPI](https://datacircle.dev/company-open-job-apis/jobpostingsapi/199-monthly) | $199 monthly | 52.4 | 53 | $0.20 per 1,000 jobs | 2026-11-15 |
+| 8 | [Bosco Labs](https://datacircle.dev/company-open-job-apis/bosco-labs/200-pack) | $200 pack | 52.3 | 69 | $0.83 per 1,000 jobs | 2026-11-15 |
 | 9 | [Fantastic.jobs](https://datacircle.dev/company-open-job-apis/fantastic-jobs/500-monthly-pro-250k-get-v1-active-ats) | $500 monthly, Pro-250k | 50 | 71 | $2.00 per 1,000 jobs | 2026-10-27 |
-| 10 | [Hirebase](https://datacircle.dev/company-open-job-apis/hirebase/249-monthly) | $249 monthly | 48.9 | 69 | $1.00 per 1,000 jobs | 2026-11-17 |
+| 10 | [Hirebase](https://datacircle.dev/company-open-job-apis/hirebase/249-monthly) | $249 monthly | 48.7 | 69 | $1.00 per 1,000 jobs | 2026-11-17 |
 | 11 | [Social Fetch](https://datacircle.dev/company-open-job-apis/social-fetch/29-monthly) | $29 monthly | 47.7 | 61 | $0.097 per 1,000 jobs | 2026-10-28 |
 | 12 | [RouterGrowth](https://datacircle.dev/company-open-job-apis/routergrowth/499-monthly) | $499 monthly | 45.3 | 65 | $1.30 per 1,000 jobs | 2026-10-25 |
 | 13 | [Superagnt](https://datacircle.dev/company-open-job-apis/superagnt/top-up-from-10) | top-up from $10 | 40.1 | 61 |  | 2026-11-07 |
@@ -37,7 +37,7 @@ Every plan below is on our ranking page, [Company job openings API: best provide
 | 27 | [OpenWeb Ninja](https://datacircle.dev/company-open-job-apis/openweb-ninja/150-monthly) | $150 monthly | 35.4 | 37 | $0.075 per 1,000 jobs | 2026-11-20 |
 | 28 | [Agent Toolworks](https://datacircle.dev/company-open-job-apis/agent-toolworks/10-pack) | $10 pack | 35.1 | 45 |  | 2026-11-21 |
 | 29 | [Reqbeat](https://datacircle.dev/company-open-job-apis/reqbeat/79-monthly) | €79 monthly | 33.5 | 28 |  | 2026-11-07 |
-| 30 | [Xcout](https://datacircle.dev/company-open-job-apis/xcout/99-monthly-starter) | $99 monthly, Starter | 31.7 | 29 | $0.99 per 1,000 jobs | 2026-11-16 |
+| 30 | [Xcout](https://datacircle.dev/company-open-job-apis/xcout/399-monthly) | $399 monthly | 31.7 | 29 | $0.80 per 1,000 jobs | 2026-11-16 |
 | 31 | [Mantiks](https://datacircle.dev/company-open-job-apis/mantiks/190-monthly-growth-get-company-jobs) | €190 monthly, Growth | 24.9 | 29 |  | 2026-10-29 |
 | 32 | [Teamtailor](https://datacircle.dev/company-open-job-apis/teamtailor/free) | free | 53.5 | 18 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 33 | [Pinpoint](https://datacircle.dev/company-open-job-apis/pinpoint/free) | free | 52.6 | 14 | $0.00 per 1,000 jobs | 2026-10-28 |

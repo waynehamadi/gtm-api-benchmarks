@@ -1,6 +1,6 @@
 # Reverse email lookup API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
 
 GetProspect ranks first in our benchmark, with an Overall score of 85.6 out of 100. GetProspect scores 94 out of 100 for accuracy. GetProspect's plan "$399 monthly, Growth 50k" costs $7.98 per 1,000 people. We rank 45 providers. We last tested them on 2026-11-24.
 

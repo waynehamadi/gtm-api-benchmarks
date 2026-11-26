@@ -1,6 +1,6 @@
 # Reverse image search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,565 providers of 168 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
 
 Copyseeker ranks first in our benchmark, with an Overall score of 56.1 out of 100. Copyseeker scores 89 out of 100 for accuracy. Copyseeker's plan "$9 monthly" costs $9.00 per 1,000 searches. We rank 6 providers. We last tested them on 2026-11-22.
 
