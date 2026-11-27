@@ -1,6 +1,6 @@
 # Bing Copilot scraper API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
 
 Datafuel.ai ranks first in our benchmark, with an Overall score of 78.8 out of 100. Datafuel.ai scores 94 out of 100 for accuracy. Datafuel.ai's plan "$499 monthly" costs $4.16 per 1,000 answers. We rank 8 providers. We last tested them on 2026-11-23.
 

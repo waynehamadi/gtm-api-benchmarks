@@ -1,6 +1,6 @@
 # Kuaishou user video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
 
 Finewisdom ranks first in our benchmark, with an Overall score of 49.9 out of 100. Finewisdom scores 84 out of 100 for accuracy. We rank 3 providers. We last tested them on 2026-11-26.
 

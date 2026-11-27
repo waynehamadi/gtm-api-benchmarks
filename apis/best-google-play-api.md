@@ -1,6 +1,6 @@
 # Google Play API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
 
 AppSkyline ranks first in our benchmark, with an Overall score of 78.5 out of 100. AppSkyline scores 83 out of 100 for accuracy. AppSkyline's plan "free" costs $0.00 per 1,000 apps. We rank 13 providers. We last tested them on 2026-11-17.
 
@@ -9,18 +9,18 @@ Every plan below is on our ranking page, [Google Play API: best providers in 202
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [AppSkyline](https://datacircle.dev/google-play-apis/appskyline/free) | free | 78.5 | 83 | $0.00 per 1,000 apps | 2026-11-14 |
-| 2 | [Stophy](https://datacircle.dev/google-play-apis/stophy/top-up-from-500) | top-up from $500 | 75.8 | 78 | $1.20 per 1,000 apps | 2026-11-08 |
-| 3 | [Scrappa](https://datacircle.dev/google-play-apis/scrappa/10-pack) | $10 pack | 75.2 | 66 | $0.30 per 1,000 apps | 2026-11-08 |
+| 2 | [Stophy](https://datacircle.dev/google-play-apis/stophy/top-up-from-500) | top-up from $500 | 75.5 | 78 | $1.20 per 1,000 apps | 2026-11-08 |
+| 3 | [Scrappa](https://datacircle.dev/google-play-apis/scrappa/10-pack) | $10 pack | 75.1 | 66 | $0.30 per 1,000 apps | 2026-11-08 |
 | 4 | [apiapk](https://datacircle.dev/google-play-apis/apiapk/29-monthly-starter-get-app) | $29 monthly, Starter | 70 | 78 | $0.19 per 1,000 apps | 2026-11-08 |
-| 5 | [ScraperCompany](https://datacircle.dev/google-play-apis/scrapercompany/399-monthly) | $399 monthly | 62.3 | 80 | $1.60 per 1,000 apps | 2026-11-16 |
-| 6 | [ASORadar](https://datacircle.dev/google-play-apis/asoradar/top-up-developer) | top-up, Developer | 58 | 76 | $1.00 per 1,000 apps | 2026-11-17 |
-| 7 | [AppstoreSpy](https://datacircle.dev/google-play-apis/appstorespy/199-monthly-business-get-play-apps-id) | $199 monthly, Business | 54 | 57 | $1.99 per 1,000 apps | 2026-11-08 |
-| 8 | [DataForSEO](https://datacircle.dev/google-play-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-app-data-google-app-info-task-post-setting-google-app-info-tasks-standard-queue) | top-up from $50, Pay as you go | 53.9 | 65 | $0.60 per 1,000 apps | 2026-10-30 |
+| 5 | [ScraperCompany](https://datacircle.dev/google-play-apis/scrapercompany/399-monthly) | $299 monthly | 66 | 80 | $1.20 per 1,000 apps | 2026-11-16 |
+| 6 | [ASORadar](https://datacircle.dev/google-play-apis/asoradar/top-up-developer) | top-up, Developer | 57.9 | 76 | $1.00 per 1,000 apps | 2026-11-17 |
+| 7 | [DataForSEO](https://datacircle.dev/google-play-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-app-data-google-app-info-task-post-setting-google-app-info-tasks-standard-queue) | top-up from $50, Pay as you go | 53.9 | 65 | $0.60 per 1,000 apps | 2026-10-30 |
+| 8 | [AppstoreSpy](https://datacircle.dev/google-play-apis/appstorespy/199-monthly-business-get-play-apps-id) | $199 monthly, Business | 53.8 | 57 | $1.99 per 1,000 apps | 2026-11-08 |
 | 9 | [Zembra](https://datacircle.dev/google-play-apis/zembra/top-up-from-12) | top-up from $12 | 51.7 | 89 | $50.00 per 1,000 apps | 2026-10-30 |
 | 10 | [AsoBeast](https://datacircle.dev/google-play-apis/asobeast/10-monthly) | $10 monthly | 56.4 | 26 |  | 2026-11-16 |
-| 11 | [Sonar](https://datacircle.dev/google-play-apis/sonar/29-monthly) | $29 monthly | 44.5 | 34 | $0.97 per 1,000 apps | 2026-10-30 |
-| 12 | [BRONTIR](https://datacircle.dev/google-play-apis/brontir/125-monthly) | €125 monthly | 41 | 43 |  | 2026-11-08 |
-| 13 | [ASOMobile](https://datacircle.dev/google-play-apis/asomobile/299-monthly) | $299 monthly | 19 | 13 |  | 2026-11-13 |
+| 11 | [Sonar](https://datacircle.dev/google-play-apis/sonar/29-monthly) | $29 monthly | 44.4 | 34 | $0.97 per 1,000 apps | 2026-10-30 |
+| 12 | [BRONTIR](https://datacircle.dev/google-play-apis/brontir/125-monthly) | €125 monthly | 40.9 | 43 |  | 2026-11-08 |
+| 13 | [ASOMobile](https://datacircle.dev/google-play-apis/asomobile/299-monthly) | $299 monthly | 18.9 | 13 |  | 2026-11-13 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

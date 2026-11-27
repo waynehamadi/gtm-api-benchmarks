@@ -1,6 +1,6 @@
 # Weibo profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
 
 TikHub ranks first in our benchmark, with an Overall score of 74.3 out of 100. TikHub scores 94 out of 100 for accuracy. TikHub's plan "top-up from $5.55, Pay-as-you-go" costs $1.11 per 1,000 profiles. We rank 5 providers. We last tested them on 2026-11-26.
 

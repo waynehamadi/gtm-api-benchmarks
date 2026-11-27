@@ -1,6 +1,6 @@
 # LinkedIn Ad Library API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
 
 Stophy ranks first in our benchmark, with an Overall score of 71.3 out of 100. Stophy scores 47 out of 100 for accuracy. Stophy's plan "top-up from $500" costs $0.05 per 1,000 ads. We rank 9 providers. We last tested them on 2026-11-16.
 

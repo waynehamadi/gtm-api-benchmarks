@@ -1,6 +1,6 @@
 # Website contacts API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
 
 Places Data API ranks first in our benchmark, with an Overall score of 80.3 out of 100. Places Data API scores 77 out of 100 for accuracy. Places Data API's plan "$499 monthly" costs $0.80 per 1,000 domains. We rank 11 providers. We last tested them on 2026-11-26.
 

@@ -1,6 +1,6 @@
 # Rank tracking API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
 
 Searlo ranks first in our benchmark, with an Overall score of 49.8 out of 100. Searlo scores 39 out of 100 for accuracy. Searlo's plan "$199.99 pack, Pro" costs $6.67 per 1,000 checks. We rank 2 providers. We last tested them on 2026-11-24.
 

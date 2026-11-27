@@ -1,6 +1,6 @@
 # Similar job postings API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
 
 ReefAPI ranks first in our benchmark, with an Overall score of 76.5 out of 100. ReefAPI scores 73 out of 100 for accuracy. ReefAPI's plan "$450 quarterly" costs $0.02 per 1,000 jobs. We rank 3 providers. We last tested them on 2026-11-02.
 

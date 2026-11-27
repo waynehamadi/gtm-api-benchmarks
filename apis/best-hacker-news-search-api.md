@@ -1,6 +1,6 @@
 # Hacker News search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
 
 Algolia ranks first in our benchmark, with an Overall score of 90.9 out of 100. Algolia scores 100 out of 100 for accuracy. Algolia's plan "free" costs $0.00 per 1,000 searches. We rank 9 providers. We last tested them on 2026-11-24.
 
@@ -9,11 +9,11 @@ Every plan below is on our ranking page, [Hacker News search API: best providers
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Algolia](https://datacircle.dev/hacker-news-search-apis/algolia/free-get-api-v1-search) | free | 90.9 | 100 | $0.00 per 1,000 searches | 2026-11-03 |
-| 2 | [ScrapeAtlas](https://datacircle.dev/hacker-news-search-apis/scrapeatlas/249-pack) | $249 pack | 77.8 | 99 | $1.25 per 1,000 searches | 2026-11-16 |
-| 3 | [Scrappa](https://datacircle.dev/hacker-news-search-apis/scrappa/10-pack) | $10 pack | 69.8 | 100 | $0.30 per 1,000 searches | 2026-11-07 |
-| 4 | [Social Fetch](https://datacircle.dev/hacker-news-search-apis/social-fetch/29-monthly) | $29 monthly | 67.1 | 99 | $1.61 per 1,000 searches | 2026-11-08 |
-| 5 | [AnyAPI](https://datacircle.dev/hacker-news-search-apis/anyapi/top-up-from-10) | top-up from $10 | 64.9 | 89 | $1.50 per 1,000 searches | 2026-11-01 |
-| 6 | [SandBase](https://datacircle.dev/hacker-news-search-apis/sandbase/top-up) | top-up | 63.3 | 88 | $1.50 per 1,000 searches | 2026-11-24 |
+| 2 | [ScrapeAtlas](https://datacircle.dev/hacker-news-search-apis/scrapeatlas/249-pack) | $249 pack | 78.2 | 99 | $1.25 per 1,000 searches | 2026-11-16 |
+| 3 | [Scrappa](https://datacircle.dev/hacker-news-search-apis/scrappa/10-pack) | $10 pack | 70 | 100 | $0.30 per 1,000 searches | 2026-11-07 |
+| 4 | [Social Fetch](https://datacircle.dev/hacker-news-search-apis/social-fetch/225-monthly) | $225 monthly | 67.1 | 99 | $1.50 per 1,000 searches | 2026-11-08 |
+| 5 | [AnyAPI](https://datacircle.dev/hacker-news-search-apis/anyapi/top-up-from-10) | top-up from $10 | 65.1 | 89 | $1.50 per 1,000 searches | 2026-11-01 |
+| 6 | [SandBase](https://datacircle.dev/hacker-news-search-apis/sandbase/top-up) | top-up | 63.5 | 88 | $1.50 per 1,000 searches | 2026-11-24 |
 | 7 | [Buska](https://datacircle.dev/hacker-news-search-apis/buska/50-pack) | $50 pack | 0 | 0 | $50.00 per 1,000 searches | 2026-11-08 |
 | 8 | [CommunityTracker](https://datacircle.dev/hacker-news-search-apis/communitytracker/4-99-pack) | $4.99 pack | 0 | 0 |  | 2026-11-18 |
 | 9 | [Octolens](https://datacircle.dev/hacker-news-search-apis/octolens/199-monthly) | $199 monthly | 0 | 0 |  | 2026-11-08 |

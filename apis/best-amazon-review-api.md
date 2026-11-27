@@ -1,6 +1,6 @@
 # Amazon review API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
 
 SocialTap ranks first in our benchmark, with an Overall score of 73.1 out of 100. SocialTap scores 52 out of 100 for accuracy. SocialTap's plan "$225 monthly" costs $0.056 per 1,000 reviews. We rank 8 providers. We last tested them on 2026-11-25.
 

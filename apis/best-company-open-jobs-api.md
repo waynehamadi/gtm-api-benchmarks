@@ -1,6 +1,6 @@
 # Company job openings API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
 
 freehire ranks first in our benchmark, with an Overall score of 72.1 out of 100. freehire scores 60 out of 100 for accuracy. We rank 45 providers. We last tested them on 2026-11-21.
 
@@ -21,7 +21,7 @@ Every plan below is on our ranking page, [Company job openings API: best provide
 | 11 | [Social Fetch](https://datacircle.dev/company-open-job-apis/social-fetch/29-monthly) | $29 monthly | 47.7 | 61 | $0.097 per 1,000 jobs | 2026-10-28 |
 | 12 | [RouterGrowth](https://datacircle.dev/company-open-job-apis/routergrowth/499-monthly) | $499 monthly | 45.3 | 65 | $1.30 per 1,000 jobs | 2026-10-25 |
 | 13 | [Superagnt](https://datacircle.dev/company-open-job-apis/superagnt/top-up-from-10) | top-up from $10 | 40.1 | 61 |  | 2026-11-07 |
-| 14 | [ScraperCompany](https://datacircle.dev/company-open-job-apis/scrapercompany/15-pack) | $15 pack | 37.5 | 58 |  | 2026-11-16 |
+| 14 | [ScraperCompany](https://datacircle.dev/company-open-job-apis/scrapercompany/20-pack) | $20 pack | 37.3 | 58 |  | 2026-11-16 |
 | 15 | [Sentrion](https://datacircle.dev/company-open-job-apis/sentrion/80-monthly-5000-credits-month-post-api-v1-company-jobs-search) | $80 monthly, 5,000 credits / month | 33.5 | 48 | $16.00 per 1,000 jobs | 2026-11-16 |
 | 16 | [GetLeads](https://datacircle.dev/company-open-job-apis/getleads/97-pack-10000-credits-post-api-mcp-enrich-company-jobs) | $97 pack, 10,000 credits | 29.5 | 49 |  | 2026-11-14 |
 | 17 | [AIDevBoard](https://datacircle.dev/company-open-job-apis/aidevboard/free) | free | 77.4 | 40 | $0.00 per 1,000 jobs | 2026-11-07 |

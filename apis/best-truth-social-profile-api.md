@@ -1,6 +1,6 @@
 # Truth Social profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,592 providers of 171 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 94.8 out of 100. Scrappa scores 100 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 profiles. We rank 10 providers. We last tested them on 2026-11-16.
 
