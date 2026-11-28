@@ -1,6 +1,6 @@
 # Phone validation API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Trestle ranks first in our benchmark, with an Overall score of 61.1 out of 100. Trestle scores 93 out of 100 for accuracy. Trestle's plan "top-up from $10, Self-Serve, pay as you go" costs $15.00 per 1,000 numbers. We rank 76 providers. We last tested them on 2026-11-27.
 
@@ -37,7 +37,7 @@ Every plan below is on our ranking page, [Phone validation API: best providers i
 | 27 | [QuietPass](https://datacircle.dev/validate-phone-apis/quietpass/5-pack-5-top-up-post-v1-phone-lookup-run-a-lookup-without-a-separate-quote-full) | $5 pack, $5 top-up | 24 | 24 | $50.00 per 1,000 numbers | 2026-11-22 |
 | 28 | [LabsMobile](https://datacircle.dev/validate-phone-apis/labsmobile/top-up-from-9) | top-up from €9 | 16.3 | 19 |  | 2026-11-19 |
 | 29 | [AgentPhone](https://datacircle.dev/validate-phone-apis/agentphone/top-up) | top-up | 0 | 0 | $9.00 per 1,000 numbers | 2026-11-06 |
-| 30 | [Antideo](https://datacircle.dev/validate-phone-apis/antideo/5-monthly-50-requests-hour-get-phone-phone-number) | $5 monthly, 50 requests/hour | 0 | 0 |  | 2026-10-29 |
+| 30 | [Antideo](https://datacircle.dev/validate-phone-apis/antideo/5-monthly-50-requests-hour-get-phone-phone-number) | $5 monthly, 50 requests/hour | 0 | 0 | $0.14 per 1,000 numbers when you call at the rate limit all month | 2026-10-29 |
 | 31 | [API Ninjas](https://datacircle.dev/validate-phone-apis/api-ninjas/59-monthly-developer-get-v1-phonelookup) | $59 monthly, Developer | 0 | 0 | $0.59 per 1,000 numbers | 2026-10-30 |
 | 32 | [APICK](https://datacircle.dev/validate-phone-apis/apick/top-up-from-55000) | top-up from ₩55,000 (about $41) | 0 | 0 | $30.03 per 1,000 numbers | 2026-11-10 |
 | 33 | [APIFreaks](https://datacircle.dev/validate-phone-apis/apifreaks/10-monthly-monthly-80000-credits-post-phone-validation-bulk) | $10 monthly, Monthly 80,000 credits | 0 | 0 | $0.25 per 1,000 numbers | 2026-11-05 |

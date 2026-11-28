@@ -1,14 +1,14 @@
 # News API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
-Alpaca ranks first in our benchmark, with an Overall score of 90.3 out of 100. Alpaca scores 82 out of 100 for accuracy. We rank 121 providers. We last tested them on 2026-11-25.
+Alpaca ranks first in our benchmark, with an Overall score of 90.3 out of 100. Alpaca scores 82 out of 100 for accuracy. Alpaca's plan "$99 monthly" costs $0.00023 per 1,000 searches when you call at the rate limit all month. We rank 121 providers. We last tested them on 2026-11-25.
 
 Every plan below is on our ranking page, [News API: best providers in 2026](https://datacircle.dev/best-news-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Alpaca](https://datacircle.dev/news-apis/alpaca/99-monthly) | $99 monthly | 90.3 | 82 |  | 2026-11-16 |
+| 1 | [Alpaca](https://datacircle.dev/news-apis/alpaca/99-monthly) | $99 monthly | 90.3 | 82 | $0.00023 per 1,000 searches when you call at the rate limit all month | 2026-11-16 |
 | 2 | [Scrappa](https://datacircle.dev/news-apis/scrappa/25-pack) | $25 pack, Basic | 81.2 | 92 | $0.29 per 1,000 searches | 2026-10-29 |
 | 3 | [B77](https://datacircle.dev/news-apis/b77/free) | free | 79.2 | 92 | $0.00 per 1,000 searches | 2026-11-14 |
 | 4 | [SignalShelf](https://datacircle.dev/news-apis/signalshelf/499-pack) | $499 pack | 77.1 | 92 | $0.50 per 1,000 searches | 2026-11-11 |

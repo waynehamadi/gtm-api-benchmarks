@@ -1,6 +1,6 @@
 # Google Ads Transparency API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 88.7 out of 100. Scrappa scores 99 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.003 per 1,000 ads. We rank 9 providers. We last tested them on 2026-11-09.
 

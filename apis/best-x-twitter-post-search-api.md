@@ -1,6 +1,6 @@
 # X (Twitter) post search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 TwitterAPI.io ranks first in our benchmark, with an Overall score of 66.5 out of 100. TwitterAPI.io scores 98 out of 100 for accuracy. TwitterAPI.io's plan "$10 pack" costs $0.15 per 1,000 posts. We rank 3 providers. We last tested them on 2026-11-20.
 

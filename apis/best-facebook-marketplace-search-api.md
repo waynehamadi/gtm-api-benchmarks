@@ -1,6 +1,6 @@
 # Facebook Marketplace search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 ReefAPI ranks first in our benchmark, with an Overall score of 64.5 out of 100. ReefAPI scores 64 out of 100 for accuracy. ReefAPI's plan "$450 quarterly" costs $1.50 per 1,000 searches. We rank 9 providers. We last tested them on 2026-11-17.
 

@@ -1,6 +1,6 @@
 # IP geolocation API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Apixies ranks first in our benchmark, with an Overall score of 89.6 out of 100. Apixies scores 72 out of 100 for accuracy. Apixies's plan "free, Sandbox (no account)" costs $0.00 per 1,000 IP addresses. We rank 106 providers. We last tested them on 2026-11-26.
 

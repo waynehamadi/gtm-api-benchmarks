@@ -1,6 +1,6 @@
 # YouTube channel video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 ScrapeUnblocker ranks first in our benchmark, with an Overall score of 85.7 out of 100. ScrapeUnblocker scores 93 out of 100 for accuracy. ScrapeUnblocker's plan "pay as you go" costs $0.0056 per 1,000 videos. We rank 58 providers. We last tested them on 2026-11-26.
 
@@ -21,7 +21,7 @@ Every plan below is on our ranking page, [YouTube channel video API: best provid
 | 11 | [VideoData API](https://datacircle.dev/youtube-channel-video-apis/videodata-api/199-monthly-business-scale-get-v1-youtube-channel-videos) | $199 monthly, Business / Scale | 64.2 | 60 | $0.04 per 1,000 videos | 2026-11-17 |
 | 12 | [YTAPI](https://datacircle.dev/youtube-channel-video-apis/ytapi/79-pack-value-get-v1-channels-id-videos) | $79 pack, Value | 63.2 | 50 | $0.053 per 1,000 videos | 2026-11-08 |
 | 13 | [Omkar Cloud](https://datacircle.dev/youtube-channel-video-apis/omkar-cloud/48-monthly) | $48 monthly | 62.1 | 67 | $0.016 per 1,000 videos | 2026-11-07 |
-| 14 | [TranscriptAPI](https://datacircle.dev/youtube-channel-video-apis/transcriptapi/5-monthly-monthly-get-youtube-channel-latest) | $5 monthly | 61.7 | 47 |  | 2026-11-11 |
+| 14 | [TranscriptAPI](https://datacircle.dev/youtube-channel-video-apis/transcriptapi/5-monthly-monthly-get-youtube-channel-latest) | $5 monthly | 61.7 | 47 | $0.000039 per 1,000 videos when you call at the rate limit all month | 2026-11-11 |
 | 15 | [Captapi](https://datacircle.dev/youtube-channel-video-apis/captapi/9-monthly) | $9 monthly | 61.1 | 59 | $0.045 per 1,000 videos | 2026-10-29 |
 | 16 | [Degenscan](https://datacircle.dev/youtube-channel-video-apis/degenscan/199-monthly) | $199 monthly | 59.4 | 75 | $0.02 per 1,000 videos | 2026-11-10 |
 | 17 | [Zapi](https://datacircle.dev/youtube-channel-video-apis/zapi/rp129000-monthly) | Rp129,000 (about $7) monthly | 59.4 | 56 | $0.0012 per 1,000 videos | 2026-11-11 |
@@ -48,7 +48,7 @@ Every plan below is on our ranking page, [YouTube channel video API: best provid
 | 38 | [Vee3](https://datacircle.dev/youtube-channel-video-apis/vee3/5-monthly) | $5 monthly | 38.1 | 56 |  | 2026-11-23 |
 | 39 | [AxioAPI](https://datacircle.dev/youtube-channel-video-apis/axioapi/2-pack) | $2 pack | 37.3 | 47 |  | 2026-11-23 |
 | 40 | [Shulex VOC](https://datacircle.dev/youtube-channel-video-apis/shulex-voc/38-monthly) | $38 monthly | 36.2 | 53 |  | 2026-11-23 |
-| 41 | [TranscriptYT](https://datacircle.dev/youtube-channel-video-apis/transcriptyt/3-monthly) | $3 monthly | 63.7 | 30 |  | 2026-11-07 |
+| 41 | [TranscriptYT](https://datacircle.dev/youtube-channel-video-apis/transcriptyt/3-monthly) | $3 monthly | 63.7 | 30 | $0.00000069 per 1,000 videos when you call at the rate limit all month | 2026-11-07 |
 | 42 | [TranscriptAPI.io](https://datacircle.dev/youtube-channel-video-apis/transcriptapi-io/249-monthly) | $249 monthly | 63.6 | 38 | $0.0012 per 1,000 videos | 2026-11-11 |
 | 43 | [TranscriptFetch](https://datacircle.dev/youtube-channel-video-apis/transcriptfetch/229-monthly) | $229 monthly | 59.8 | 45 | $0.018 per 1,000 videos | 2026-11-23 |
 | 44 | [YouTubeScribe](https://datacircle.dev/youtube-channel-video-apis/youtubescribe/12-99-monthly-studio-get-youtube-channel-videos) | $12.99 monthly, Studio | 55.8 | 44 | $0.043 per 1,000 videos | 2026-11-23 |

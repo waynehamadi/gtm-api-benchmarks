@@ -1,14 +1,14 @@
 # eBay search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
-ebaysoldlistingsAPI ranks first in our benchmark, with an Overall score of 65.2 out of 100. ebaysoldlistingsAPI scores 21 out of 100 for accuracy. We rank 16 providers. We last tested them on 2026-11-24.
+ebaysoldlistingsAPI ranks first in our benchmark, with an Overall score of 65.2 out of 100. ebaysoldlistingsAPI scores 21 out of 100 for accuracy. ebaysoldlistingsAPI's plan "$299 monthly, Unlimited" costs $0.058 per 1,000 searches when you call at the rate limit all month. We rank 16 providers. We last tested them on 2026-11-24.
 
 Every plan below is on our ranking page, [eBay search API: best providers in 2026](https://datacircle.dev/best-ebay-search-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [ebaysoldlistingsAPI](https://datacircle.dev/ebay-search-apis/ebaysoldlistingsapi/299-monthly-unlimited-get-scrape) | $299 monthly, Unlimited | 65.2 | 21 |  | 2026-11-11 |
+| 1 | [ebaysoldlistingsAPI](https://datacircle.dev/ebay-search-apis/ebaysoldlistingsapi/299-monthly-unlimited-get-scrape) | $299 monthly, Unlimited | 65.2 | 21 | $0.058 per 1,000 searches when you call at the rate limit all month | 2026-11-11 |
 | 2 | [ReefAPI](https://datacircle.dev/ebay-search-apis/reefapi/450-quarterly) | $450 quarterly | 57.1 | 27 | $0.50 per 1,000 searches | 2026-11-11 |
 | 3 | [Spidra](https://datacircle.dev/ebay-search-apis/spidra/249-monthly-pro-post-scrape) | $249 monthly, Pro | 45.4 | 39 | $1.99 per 1,000 searches | 2026-11-03 |
 | 4 | [CompSniper](https://datacircle.dev/ebay-search-apis/compsniper/179-monthly) | $179 monthly | 44.3 | 23 | $1.19 per 1,000 searches | 2026-11-11 |

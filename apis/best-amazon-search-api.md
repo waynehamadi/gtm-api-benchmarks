@@ -1,6 +1,6 @@
 # Amazon search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Logimu ranks first in our benchmark, with an Overall score of 71 out of 100. Logimu scores 57 out of 100 for accuracy. Logimu's plan "$250 monthly, Standard" costs $0.25 per 1,000 searches. We rank 43 providers. We last tested them on 2026-11-26.
 

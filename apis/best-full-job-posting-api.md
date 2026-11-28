@@ -1,14 +1,14 @@
 # Full job posting API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
-freehire ranks first in our benchmark, with an Overall score of 87.4 out of 100. freehire scores 90 out of 100 for accuracy. We rank 51 providers. We last tested them on 2026-11-16.
+freehire ranks first in our benchmark, with an Overall score of 87.4 out of 100. freehire scores 90 out of 100 for accuracy. freehire's plan "$29 monthly, API" costs $0.0000056 per 1,000 jobs when you call at the rate limit all month. We rank 51 providers. We last tested them on 2026-11-16.
 
 Every plan below is on our ranking page, [Full job posting API: best providers in 2026](https://datacircle.dev/best-full-job-posting-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [freehire](https://datacircle.dev/job-posting-apis/freehire/29-monthly-api-get-jobs-search) | $29 monthly, API | 87.4 | 90 |  | 2026-10-28 |
+| 1 | [freehire](https://datacircle.dev/job-posting-apis/freehire/29-monthly-api-get-jobs-search) | $29 monthly, API | 87.4 | 90 | $0.0000056 per 1,000 jobs when you call at the rate limit all month | 2026-10-28 |
 | 2 | [Vibeworker](https://datacircle.dev/job-posting-apis/vibeworker/19-monthly) | $19 monthly | 85.4 | 88 | $0 extra per 1,000. The $19 monthly price covers any number of jobs | 2026-11-11 |
 | 3 | [Headcount Labs](https://datacircle.dev/job-posting-apis/headcount-labs/pay-as-you-go-first-100000-every-month-post-v1-jobs-search) | pay as you go, First 100,000 every month | 83.4 | 80 | $0.00 per 1,000 jobs | 2026-11-10 |
 | 4 | [Himalayas](https://datacircle.dev/job-posting-apis/himalayas/free-api-key-get-jobs-api-search) | free API key | 82.2 | 88 | $0.00 per 1,000 jobs | 2026-10-28 |

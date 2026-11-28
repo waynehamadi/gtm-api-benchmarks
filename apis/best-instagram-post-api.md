@@ -1,8 +1,8 @@
 # Instagram post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
-herascrape ranks first in our benchmark, with an Overall score of 82 out of 100. herascrape scores 82 out of 100 for accuracy. herascrape's plan "top-up from $5, Prepaid balance" costs $0.033 per 1,000 posts. We rank 46 providers. We last tested them on 2026-11-25.
+herascrape ranks first in our benchmark, with an Overall score of 82 out of 100. herascrape scores 82 out of 100 for accuracy. herascrape's plan "top-up from $5, Prepaid balance" costs $0.033 per 1,000 posts. We rank 46 providers. We last tested them on 2026-11-27.
 
 Every plan below is on our ranking page, [Instagram post API: best providers in 2026](https://datacircle.dev/best-instagram-post-api).
 
@@ -48,7 +48,7 @@ Every plan below is on our ranking page, [Instagram post API: best providers in 
 | 38 | [FastSocial](https://datacircle.dev/instagram-post-apis/fastsocial/19-pack-credit-pack-20000-credits-get-v1-posts) | $19 pack, Credit pack: 20,000 credits | 45.8 | 39 | $0.079 per 1,000 posts | 2026-11-08 |
 | 39 | [Parseium](https://datacircle.dev/instagram-post-apis/parseium/49-monthly) | $49 monthly | 44.8 | 24 | $0.0065 per 1,000 posts | 2026-11-10 |
 | 40 | [ScraperCompany](https://datacircle.dev/instagram-post-apis/scrapercompany/399-monthly) | $299 monthly | 44.1 | 26 | $0.15 per 1,000 posts | 2026-11-16 |
-| 41 | [SteadyAPI](https://datacircle.dev/instagram-post-apis/steadyapi/299-99-monthly) | $299.99 monthly | 40.9 | 22 | $0.02 per 1,000 posts | 2026-11-10 |
+| 41 | [SteadyAPI](https://datacircle.dev/instagram-post-apis/steadyapi/299-99-monthly) | $299.99 monthly | 40.9 | 22 | $0.02 per 1,000 posts | 2026-11-27 |
 | 42 | [SocialAPIs](https://datacircle.dev/instagram-post-apis/socialapis/4-99-monthly) | $4.99 monthly | 32.4 | 34 |  | 2026-11-23 |
 | 43 | [API.SH](https://datacircle.dev/instagram-post-apis/api-sh/top-up-from-15) | top-up from $15 | 32.1 | 30 |  | 2026-11-08 |
 | 44 | [Socify](https://datacircle.dev/instagram-post-apis/socify/top-up) | top-up | 30.4 | 32 |  | 2026-11-09 |

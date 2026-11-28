@@ -1,6 +1,6 @@
 # Google Play search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 69.5 out of 100. Scrappa scores 42 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.30 per 1,000 searches. We rank 18 providers. We last tested them on 2026-11-26.
 
@@ -16,7 +16,7 @@ Every plan below is on our ranking page, [Google Play search API: best providers
 | 6 | [ScraperCompany](https://datacircle.dev/google-play-search-apis/scrapercompany/399-monthly) | $299 monthly | 55.5 | 44 | $1.20 per 1,000 searches | 2026-11-19 |
 | 7 | [ScrapeUnblocker](https://datacircle.dev/google-play-search-apis/scrapeunblocker/pay-as-you-go) | pay as you go | 50.6 | 50 | $1.13 per 1,000 searches | 2026-11-26 |
 | 8 | [AppSkyline](https://datacircle.dev/google-play-search-apis/appskyline/free) | free | 63.6 | 33 | $0.00 per 1,000 searches | 2026-11-14 |
-| 9 | [AsoBeast](https://datacircle.dev/google-play-search-apis/asobeast/10-monthly) | $10 monthly | 61.2 | 21 |  | 2026-11-08 |
+| 9 | [AsoBeast](https://datacircle.dev/google-play-search-apis/asobeast/10-monthly) | $10 monthly | 61.2 | 21 | $0.23 per 1,000 searches when you call at the rate limit all month | 2026-11-08 |
 | 10 | [apiapk](https://datacircle.dev/google-play-search-apis/apiapk/29-monthly) | $29 monthly | 47.3 | 25 | $0.39 per 1,000 searches | 2026-11-08 |
 | 11 | [AppstoreSpy](https://datacircle.dev/google-play-search-apis/appstorespy/199-monthly-business-get-play-apps) | $199 monthly, Business | 42.9 | 26 | $1.99 per 1,000 searches | 2026-11-10 |
 | 12 | [ChocoData](https://datacircle.dev/google-play-search-apis/chocodata/100-monthly-custom-100-get-api-v1-googleplay-search) | $100 monthly, Custom $100 | 41.6 | 22 | $0.50 per 1,000 searches | 2026-11-24 |

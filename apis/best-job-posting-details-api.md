@@ -1,6 +1,6 @@
 # Job posting details API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Arbetsförmedlingen ranks first in our benchmark, with an Overall score of 92 out of 100. Arbetsförmedlingen scores 84 out of 100 for accuracy. Arbetsförmedlingen's plan "free, Open data" costs $0.00 per 1,000 jobs. We rank 40 providers. We last tested them on 2026-11-22.
 
@@ -16,13 +16,13 @@ Every plan below is on our ranking page, [Job posting details API: best provider
 | 6 | [AIDevBoard](https://datacircle.dev/job-posting-details-apis/aidevboard/free) | free | 84.5 | 60 | $0.00 per 1,000 jobs | 2026-11-08 |
 | 7 | [JobsByLevel](https://datacircle.dev/job-posting-details-apis/jobsbylevel/free) | free | 83 | 56 | $0.00 per 1,000 jobs | 2026-11-10 |
 | 8 | [Lever](https://datacircle.dev/job-posting-details-apis/lever/free) | free | 82.2 | 63 | $0.00 per 1,000 jobs | 2026-10-27 |
-| 9 | [The Jobs API](https://datacircle.dev/job-posting-details-apis/the-jobs-api/200-monthly) | $200 monthly | 80.3 | 70 |  | 2026-11-08 |
+| 9 | [The Jobs API](https://datacircle.dev/job-posting-details-apis/the-jobs-api/200-monthly) | $200 monthly | 80.3 | 70 | $0.00077 per 1,000 jobs when you call at the rate limit all month | 2026-11-08 |
 | 10 | [OfferMagnet](https://datacircle.dev/job-posting-details-apis/offermagnet/free) | free | 78.5 | 47 | $0.00 per 1,000 jobs | 2026-11-10 |
 | 11 | [Bundesagentur für Arbeit](https://datacircle.dev/job-posting-details-apis/bundesagentur-fur-arbeit/free) | free | 78.1 | 65 | $0.00 per 1,000 jobs | 2026-11-08 |
 | 12 | [YubHub](https://datacircle.dev/job-posting-details-apis/yubhub/free) | free | 76.1 | 59 | $0.00 per 1,000 jobs | 2026-11-06 |
 | 13 | [Recruitee](https://datacircle.dev/job-posting-details-apis/recruitee/free) | free | 75.5 | 43 | $0.00 per 1,000 jobs | 2026-10-27 |
 | 14 | [Jobo](https://datacircle.dev/job-posting-details-apis/jobo/top-up-from-5) | top-up from $5 | 74.3 | 63 | $0 extra per 1,000. The plan's price covers any number of jobs | 2026-11-10 |
-| 15 | [freehire](https://datacircle.dev/job-posting-details-apis/freehire/29-monthly) | $29 monthly | 73.2 | 47 |  | 2026-10-28 |
+| 15 | [freehire](https://datacircle.dev/job-posting-details-apis/freehire/29-monthly) | $29 monthly | 73.2 | 47 | $0.00056 per 1,000 jobs when you call at the rate limit all month | 2026-10-28 |
 | 16 | [VeritaHire](https://datacircle.dev/job-posting-details-apis/veritahire/free-no-key) | free, no key | 72.3 | 49 | $0.00 per 1,000 jobs | 2026-11-08 |
 | 17 | [Gem](https://datacircle.dev/job-posting-details-apis/gem/free) | free | 70.5 | 49 | $0.00 per 1,000 jobs | 2026-10-28 |
 | 18 | [Reed](https://datacircle.dev/job-posting-details-apis/reed/free) | free | 70.3 | 66 | $0.00 per 1,000 jobs | 2026-10-28 |

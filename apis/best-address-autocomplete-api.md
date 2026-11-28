@@ -1,6 +1,6 @@
 # Address autocomplete API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 PostGrid ranks first in our benchmark, with an Overall score of 87.2 out of 100. PostGrid scores 77 out of 100 for accuracy. PostGrid's plan "$84 monthly, International Essential" costs $0 extra per 1,000 searches. The $84 monthly price covers any number of searches. We rank 36 providers. We last tested them on 2026-11-24.
 
@@ -9,7 +9,7 @@ Every plan below is on our ranking page, [Address autocomplete API: best provide
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [PostGrid](https://datacircle.dev/address-autocomplete-apis/postgrid/84-monthly-international-essential-get-v1-intl-addver-completions) | $84 monthly, International Essential | 87.2 | 77 | $0 extra per 1,000. The $84 monthly price covers any number of searches | 2026-11-13 |
-| 2 | [OpenGeocoding](https://datacircle.dev/address-autocomplete-apis/opengeocoding/29-monthly-starter-post-v1-autocomplete) | $29 monthly, Starter | 85.4 | 78 |  | 2026-11-16 |
+| 2 | [OpenGeocoding](https://datacircle.dev/address-autocomplete-apis/opengeocoding/29-monthly-starter-post-v1-autocomplete) | $29 monthly, Starter | 85.4 | 78 | $0.0022 per 1,000 searches when you call at the rate limit all month | 2026-11-16 |
 | 3 | [LocationIQ](https://datacircle.dev/address-autocomplete-apis/locationiq/500-monthly) | $500 monthly | 78.3 | 66 | $0.067 per 1,000 searches | 2026-11-08 |
 | 4 | [companydata.dk](https://datacircle.dev/address-autocomplete-apis/companydata-dk/free-no-key) | free, No key | 76.8 | 61 | $0.00 per 1,000 searches | 2026-11-14 |
 | 5 | [HERE](https://datacircle.dev/address-autocomplete-apis/here/pay-as-you-go-base-plan-0-to-30000-requests-a-month) | pay as you go, Base plan, 0 to 30,000 requests a month | 72.3 | 49 | $0.00 per 1,000 searches | 2026-11-09 |

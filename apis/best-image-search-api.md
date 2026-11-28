@@ -1,6 +1,6 @@
 # Image search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Kakao ranks first in our benchmark, with an Overall score of 94.3 out of 100. Kakao scores 94 out of 100 for accuracy. Kakao's plan "free" costs $0.00 per 1,000 searches. We rank 37 providers. We last tested them on 2026-11-24.
 

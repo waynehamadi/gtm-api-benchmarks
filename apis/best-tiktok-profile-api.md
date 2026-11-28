@@ -1,6 +1,6 @@
 # TikTok profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Tapline ranks first in our benchmark, with an Overall score of 85.4 out of 100. Tapline scores 91 out of 100 for accuracy. Tapline's plan "$199 monthly" costs $0.20 per 1,000 profiles. We rank 58 providers. We last tested them on 2026-11-25.
 

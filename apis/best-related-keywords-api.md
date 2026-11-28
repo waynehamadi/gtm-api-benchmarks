@@ -1,6 +1,6 @@
 # Related keywords API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 DataForSEO ranks first in our benchmark, with an Overall score of 60.8 out of 100. DataForSEO scores 87 out of 100 for accuracy. DataForSEO's plan "top-up from $50, Pay as you go" costs $0.12 per 1,000 keywords. We rank 21 providers. We last tested them on 2026-11-27.
 
@@ -9,8 +9,8 @@ Every plan below is on our ranking page, [Related keywords API: best providers i
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [DataForSEO](https://datacircle.dev/related-keywords-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-dataforseo-labs-google-keyword-ideas-live) | top-up from $50, Pay as you go | 60.8 | 87 | $0.12 per 1,000 keywords | 2026-10-29 |
-| 2 | [Mangools](https://datacircle.dev/related-keywords-apis/mangools/15-monthly) | $15 monthly | 52.6 | 51 |  | 2026-10-29 |
-| 3 | [D50](https://datacircle.dev/related-keywords-apis/d50/99-monthly) | $99 monthly | 35 | 49 |  | 2026-11-27 |
+| 2 | [Mangools](https://datacircle.dev/related-keywords-apis/mangools/15-monthly) | $15 monthly | 52.6 | 51 | $0.0001 per 1,000 keywords when you use all 500 calls a day, each returning 10,000 keywords | 2026-10-29 |
+| 3 | [D50](https://datacircle.dev/related-keywords-apis/d50/99-monthly) | $99 monthly | 36.7 | 49 |  | 2026-11-27 |
 | 4 | [Answer Socrates](https://datacircle.dev/related-keywords-apis/answer-socrates/69-monthly-aurelius-get-api-v1-keywords) | $69 monthly, Aurelius | 44.5 | 35 | $0.022 per 1,000 keywords | 2026-11-17 |
 | 5 | [Seonio](https://datacircle.dev/related-keywords-apis/seonio/30-monthly) | $30 monthly | 40.9 | 33 | $0.16 per 1,000 keywords | 2026-11-08 |
 | 6 | [SE Ranking](https://datacircle.dev/related-keywords-apis/se-ranking/29-monthly-add-on-monthly-billing-get-v1-keywords-similar) | $29 monthly, Add-on, monthly billing | 39.4 | 22 | $1.93 per 1,000 keywords | 2026-10-29 |

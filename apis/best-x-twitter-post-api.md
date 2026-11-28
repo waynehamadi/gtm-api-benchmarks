@@ -1,6 +1,6 @@
 # X (Twitter) post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 EveryInfra ranks first in our benchmark, with an Overall score of 66.8 out of 100. EveryInfra scores 35 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.0028 per 1,000 posts. We rank 59 providers. We last tested them on 2026-11-25.
 
@@ -66,7 +66,7 @@ Every plan below is on our ranking page, [X (Twitter) post API: best providers i
 | 56 | [Stophy](https://datacircle.dev/x-post-apis/stophy/top-up-from-10) | top-up from $10 | 22.2 | 5 |  | 2026-11-07 |
 | 57 | [Xcatcher](https://datacircle.dev/x-post-apis/xcatcher/top-up-account-points-post-api-v1-tasks-create-crawl-task) | top-up, Account points | 10.1 | 3 | $10.00 per 1,000 posts | 2026-11-07 |
 | 58 | [Moni](https://datacircle.dev/x-post-apis/moni/120-monthly) | $120 monthly | 0 | 0 |  | 2026-11-08 |
-| 59 | [ViralHunt](https://datacircle.dev/x-post-apis/viralhunt/29-monthly) | $29 monthly | 0 | 0 |  | 2026-11-22 |
+| 59 | [ViralHunt](https://datacircle.dev/x-post-apis/viralhunt/29-monthly) | $29 monthly | 0 | 0 | $0.004 per 1,000 posts when you call at the rate limit all month | 2026-11-22 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

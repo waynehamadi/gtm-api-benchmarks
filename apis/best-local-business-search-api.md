@@ -1,6 +1,6 @@
 # Local business search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Longdo Map ranks first in our benchmark, with an Overall score of 49.8 out of 100. Longdo Map scores 60 out of 100 for accuracy. Longdo Map's plan "฿13,750 (about $411) monthly, Basic" costs $0.034 per 1,000 places. We rank 99 providers. We last tested them on 2026-11-26.
 
@@ -15,7 +15,7 @@ Every plan below is on our ranking page, [Local business search API: best provid
 | 5 | [Livescraper](https://datacircle.dev/local-business-search-apis/livescraper/top-up) | top-up | 36.2 | 35 | $2.00 per 1,000 places | 2026-11-25 |
 | 6 | [OutreachPilot](https://datacircle.dev/local-business-search-apis/outreachpilot/199-monthly) | $199 monthly | 36 | 63 | $199.00 per 1,000 places | 2026-11-15 |
 | 7 | [YepAPI](https://datacircle.dev/local-business-search-apis/yepapi/top-up) | top-up | 33.6 | 33 | $3.50 per 1,000 places | 2026-11-16 |
-| 8 | [LocationIQ](https://datacircle.dev/local-business-search-apis/locationiq/100-monthly) | $100 monthly | 64.4 | 18 |  | 2026-11-05 |
+| 8 | [LocationIQ](https://datacircle.dev/local-business-search-apis/locationiq/100-monthly) | $100 monthly | 64.4 | 18 | $0.0027 per 1,000 places when you use all 25,000 calls a day, each returning 50 places | 2026-11-05 |
 | 9 | [HERE](https://datacircle.dev/local-business-search-apis/here/pay-as-you-go-base-plan-0-to-5000-requests-a-month) | pay as you go, Base plan, 0 to 5,000 requests a month | 63.4 | 24 | $0.00 per 1,000 places | 2026-11-07 |
 | 10 | [SphereScout](https://datacircle.dev/local-business-search-apis/spherescout/49-monthly-starter-get-api-companies) | $49 monthly, Starter | 58.5 | 20 | $0 extra per 1,000. The $49 monthly price covers any number of places | 2026-11-11 |
 | 11 | [Crawio](https://datacircle.dev/local-business-search-apis/crawio/99-monthly) | $99 monthly | 51.9 | 27 | $0.017 per 1,000 places | 2026-11-26 |

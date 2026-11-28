@@ -1,6 +1,6 @@
 # IP reputation API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 CheckIP.me ranks first in our benchmark, with an Overall score of 89.2 out of 100. CheckIP.me scores 95 out of 100 for accuracy. CheckIP.me's plan "free" costs $0.00 per 1,000 IP addresses. We rank 43 providers. We last tested them on 2026-11-27.
 

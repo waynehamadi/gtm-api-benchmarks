@@ -1,6 +1,6 @@
 # Twitch profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Twitch ranks first in our benchmark, with an Overall score of 81.3 out of 100. Twitch scores 74 out of 100 for accuracy. Twitch's plan "free" costs $0.00 per 1,000 profiles. We rank 13 providers. We last tested them on 2026-11-27.
 

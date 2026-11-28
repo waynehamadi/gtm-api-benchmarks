@@ -1,6 +1,6 @@
 # SERP API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 SearchApi ranks first in our benchmark, with an Overall score of 52.5 out of 100. SearchApi scores 74 out of 100 for accuracy. SearchApi's plan "$500 monthly, Scale Plan" costs $2.00 per 1,000 searches. We rank 102 providers. We last tested them on 2026-11-22.
 
@@ -23,7 +23,7 @@ Every plan below is on our ranking page, [SERP API: best providers in 2026](http
 | 13 | [FineData](https://datacircle.dev/serp-apis/finedata/399-monthly) | $399 monthly | 49.3 | 31 | $0.80 per 1,000 searches | 2026-10-28 |
 | 14 | [SearchCans](https://datacircle.dev/serp-apis/searchcans/99-pack-starter-post-api-v1-search-google-search-api) | $99 pack, Starter | 43.4 | 35 | $0.75 per 1,000 searches | 2026-10-28 |
 | 15 | [SERPHouse](https://datacircle.dev/serp-apis/serphouse/49-99-monthly-regular-post-google-web) | $49.99 monthly, Regular | 42.2 | 33 | $0.62 per 1,000 searches | 2026-10-27 |
-| 16 | [AnswerLine](https://datacircle.dev/serp-apis/answerline/top-up-from-1-starter-post-v1-monitor-google-track-google-search-results) | top-up from $1, Starter | 39.2 | 32 | $1.03 per 1,000 searches | 2026-10-28 |
+| 16 | [AnswerLine](https://datacircle.dev/serp-apis/answerline/top-up-from-1-starter-post-v1-monitor-google-track-google-search-results) | top-up from $1, Starter | 39.1 | 32 | $1.03 per 1,000 searches | 2026-10-28 |
 | 17 | [Serply](https://datacircle.dev/serp-apis/serply/375-pack-pro-pack-get-v1-search) | $375 pack, Pro Pack | 37.7 | 19 | $0.75 per 1,000 searches | 2026-10-27 |
 | 18 | [Mangools](https://datacircle.dev/serp-apis/mangools/15-monthly) | $15 monthly | 37.4 | 26 | $1.00 per 1,000 searches | 2026-10-29 |
 | 19 | [CrawlerData](https://datacircle.dev/serp-apis/crawlerdata/375-pack-standard-post-v1-jobs-google-search) | $375 pack, Standard | 37.1 | 25 | $0.75 per 1,000 searches | 2026-10-28 |
@@ -67,7 +67,7 @@ Every plan below is on our ranking page, [SERP API: best providers in 2026](http
 | 57 | [SteadyAPI](https://datacircle.dev/serp-apis/steadyapi/299-99-monthly) | $299.99 monthly | 32.5 | 9 | $0.60 per 1,000 searches | 2026-11-10 |
 | 58 | [MapleSerp](https://datacircle.dev/serp-apis/mapleserp/340-monthly-standard-get-api-serp-search-google-search) | $340 monthly | 31.6 | 14 | $0.68 per 1,000 searches | 2026-10-28 |
 | 59 | [GloryCloud](https://datacircle.dev/serp-apis/glorycloud/300-monthly-300k-advanced-post-api-serp-google-search) | $300 monthly | 31.6 | 10 | $1.00 per 1,000 searches | 2026-11-03 |
-| 60 | [OpenSERP](https://datacircle.dev/serp-apis/openserp/top-up-credits-get-v1-google-search) | top-up, Credits | 31.2 | 16 | $7.83 per 1,000 searches | 2026-10-28 |
+| 60 | [OpenSERP](https://datacircle.dev/serp-apis/openserp/top-up-credits-get-v1-google-search) | top-up, Credits | 31.1 | 16 | $7.83 per 1,000 searches | 2026-10-28 |
 | 61 | [API Direct](https://datacircle.dev/serp-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-web-search-web-search) | pay as you go, Pay per request | 29.3 | 13 | $4.00 per 1,000 searches | 2026-10-28 |
 | 62 | [Pullbay](https://datacircle.dev/serp-apis/pullbay/9-monthly-hobby-get-google-search-search) | $9 monthly, Hobby | 29.3 | 13 | $50.00 per 1,000 searches | 2026-11-05 |
 | 63 | [lobstr.io](https://datacircle.dev/serp-apis/lobstr-io/500-monthly) | $500 monthly | 29 | 14 | $5.00 per 1,000 searches | 2026-10-29 |
@@ -76,9 +76,9 @@ Every plan below is on our ranking page, [SERP API: best providers in 2026](http
 | 66 | [Serper.live](https://datacircle.dev/serp-apis/serper-live/top-up-from-5) | top-up from $5 | 26.7 | 18 | $5.00 per 1,000 searches | 2026-10-30 |
 | 67 | [ByCrawl](https://datacircle.dev/serp-apis/bycrawl/9-monthly-lite-get-google-search) | $9 monthly, Lite | 26.6 | 12 | $18.00 per 1,000 searches | 2026-11-07 |
 | 68 | [JustSerpAPI](https://datacircle.dev/serp-apis/justserpapi/400-monthly) | $400 monthly, Plus | 26.3 | 10 | $2.00 per 1,000 searches | 2026-11-06 |
-| 69 | [Serplify](https://datacircle.dev/serp-apis/serplify/top-up-from-25-25-top-up-post-v1-serp-tasks) | top-up from $25 | 25.7 | 18 | $5.00 per 1,000 searches | 2026-11-04 |
-| 70 | [Serpstack](https://datacircle.dev/serp-apis/serpstack/199-99-monthly) | $199.99 monthly | 25.4 | 15 | $4.00 per 1,000 searches | 2026-10-27 |
-| 71 | [Databar](https://datacircle.dev/serp-apis/databar/495-monthly) | $495 monthly | 25.4 | 12 | $9.90 per 1,000 searches | 2026-11-04 |
+| 69 | [Serplify](https://datacircle.dev/serp-apis/serplify/top-up-from-25-25-top-up-post-v1-serp-tasks) | top-up from $25 | 25.6 | 18 | $5.00 per 1,000 searches | 2026-11-04 |
+| 70 | [Serpstack](https://datacircle.dev/serp-apis/serpstack/199-99-monthly) | $199.99 monthly | 25.3 | 15 | $4.00 per 1,000 searches | 2026-10-27 |
+| 71 | [Databar](https://datacircle.dev/serp-apis/databar/495-monthly) | $495 monthly | 25.3 | 12 | $9.90 per 1,000 searches | 2026-11-04 |
 | 72 | [YepAPI](https://datacircle.dev/serp-apis/yepapi/top-up-pay-as-you-go-post-v1-seo-serp) | top-up, Pay as you go | 24.1 | 9 | $10.00 per 1,000 searches | 2026-11-05 |
 | 73 | [BedrockTap](https://datacircle.dev/serp-apis/bedrocktap/29-monthly) | $29 monthly | 23.6 | 8 | $10.50 per 1,000 searches | 2026-11-07 |
 | 74 | [Rankability](https://datacircle.dev/serp-apis/rankability/97-monthly-starter-post-search-intelligence-query-run-a-search-intelligence-query-google-organic) | $97 monthly, Starter | 22.1 | 11 |  | 2026-11-22 |

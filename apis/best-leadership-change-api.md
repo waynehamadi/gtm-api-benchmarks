@@ -1,6 +1,6 @@
 # Leadership change API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 The Swarm ranks first in our benchmark, with an Overall score of 35.5 out of 100. The Swarm scores 19 out of 100 for accuracy. The Swarm's plan "$500 monthly, Premium 1000" costs $10.00 per 1,000 changes. We rank 9 providers. We last tested them on 2026-11-18.
 
@@ -14,7 +14,7 @@ Every plan below is on our ranking page, [Leadership change API: best providers 
 | 4 | [SEC API](https://datacircle.dev/leadership-change-apis/sec-api/55-monthly) | $55 monthly | 26.2 | 7 |  | 2026-11-08 |
 | 5 | [PredictLeads](https://datacircle.dev/leadership-change-apis/predictleads/pay-as-you-go-10001-100000-api-calls-get-companies-company-id-or-domain-news-events) | pay as you go, 10,001-100,000 API Calls | 35.4 | 2 | $0.01 per 1,000 changes | 2026-10-31 |
 | 6 | [Autobound](https://datacircle.dev/leadership-change-apis/autobound/19-pack-starter-post-v1-companies-enrich) | $19 pack, Starter | 28.6 | 1 | $20.00 per 1,000 changes | 2026-10-25 |
-| 7 | [BORME API](https://datacircle.dev/leadership-change-apis/borme-api/19-monthly-basic-resolve-19-mo-get-v1-events) | €19 monthly, Basic (Resolve), €19/mo | 0 | 0 |  | 2026-11-18 |
+| 7 | [BORME API](https://datacircle.dev/leadership-change-apis/borme-api/19-monthly-basic-resolve-19-mo-get-v1-events) | €19 monthly, Basic (Resolve), €19/mo | 0 | 0 | $0.00071 per 1,000 changes when you use all 5,000 calls a day, each returning 200 changes | 2026-11-18 |
 | 8 | [Edgrapi](https://datacircle.dev/leadership-change-apis/edgrapi/7-pack) | $7 pack | 0 | 0 | $0.014 per 1,000 changes | 2026-11-09 |
 | 9 | [Signalbase](https://datacircle.dev/leadership-change-apis/signalbase/99-monthly-pro-post-csv-enrichment) | €99 monthly, Pro | 0 | 0 | $0.056 per 1,000 changes | 2026-11-01 |
 

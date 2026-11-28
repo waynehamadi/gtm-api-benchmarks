@@ -1,6 +1,6 @@
 # X (Twitter) profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 XCROP ranks first in our benchmark, with an Overall score of 74.5 out of 100. XCROP scores 56 out of 100 for accuracy. XCROP's plan "$2.90 pack, Pay as You Go" costs $0.081 per 1,000 profiles. We rank 63 providers. We last tested them on 2026-11-24.
 

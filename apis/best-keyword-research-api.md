@@ -1,6 +1,6 @@
 # Keyword research API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 DataForSEO ranks first in our benchmark, with an Overall score of 54.9 out of 100. DataForSEO scores 39 out of 100 for accuracy. DataForSEO's plan "top-up from $50, Pay as you go" costs $0.12 per 1,000 keywords. We rank 22 providers. We last tested them on 2026-11-27.
 
@@ -23,7 +23,7 @@ Every plan below is on our ranking page, [Keyword research API: best providers i
 | 13 | [Dekadans](https://datacircle.dev/keyword-research-apis/dekadans/6-99-monthly-pro-post-research-get-keyword-metrics) | $6.99 monthly, Pro | 55 | 4 | $0 extra per 1,000. The $6.99 monthly price covers any number of keywords | 2026-11-11 |
 | 14 | [Bing Webmaster Tools](https://datacircle.dev/keyword-research-apis/bing-webmaster-tools/free-get-webmaster-api-svc-json-getkeywordstats) | free | 51.1 | 4 | $0.00 per 1,000 keywords | 2026-10-30 |
 | 15 | [seodata.dev](https://datacircle.dev/keyword-research-apis/seodata-dev/4-99-monthly) | $4.99 monthly | 47.9 | 6 | $0 extra per 1,000. The $4.99 monthly price covers any number of keywords | 2026-11-05 |
-| 16 | [D50](https://datacircle.dev/keyword-research-apis/d50/99-monthly) | $99 monthly | 36.5 | 6 |  | 2026-11-27 |
+| 16 | [D50](https://datacircle.dev/keyword-research-apis/d50/99-monthly) | $99 monthly | 37.4 | 6 |  | 2026-11-27 |
 | 17 | [BedrockTap](https://datacircle.dev/keyword-research-apis/bedrocktap/29-monthly) | $29 monthly | 34.3 | 7 | $6.00 per 1,000 keywords | 2026-11-08 |
 | 18 | [Seonio](https://datacircle.dev/keyword-research-apis/seonio/15-monthly-starter-post-api-v1-keywords-global) | $15 monthly, Starter | 31.6 | 8 | $1.00 per 1,000 keywords | 2026-11-07 |
 | 19 | [JSON SEO](https://datacircle.dev/keyword-research-apis/json-seo/top-up-balance-get-wordstat-frequency) | top-up, Balance | 34.5 | 1 | $0.12 per 1,000 keywords | 2026-11-17 |

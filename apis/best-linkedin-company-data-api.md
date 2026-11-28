@@ -1,6 +1,6 @@
 # LinkedIn company data API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 DataForB2B ranks first in our benchmark, with an Overall score of 85 out of 100. DataForB2B scores 74 out of 100 for accuracy. DataForB2B's plan "$499 monthly" costs $0.10 per 1,000 companies. We rank 97 providers. We last tested them on 2026-11-26.
 
@@ -9,7 +9,7 @@ Every plan below is on our ranking page, [LinkedIn company data API: best provid
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [DataForB2B](https://datacircle.dev/linkedin-company-profile-apis/dataforb2b/499-monthly) | $499 monthly | 85 | 74 | $0.10 per 1,000 companies | 2026-10-27 |
-| 2 | [Reverse Contact](https://datacircle.dev/linkedin-company-profile-apis/reverse-contact/449-monthly) | $449 monthly | 84.9 | 73 |  | 2026-10-26 |
+| 2 | [Reverse Contact](https://datacircle.dev/linkedin-company-profile-apis/reverse-contact/449-monthly) | $449 monthly | 84.9 | 73 | $0.10 per 1,000 companies when you call at the rate limit all month | 2026-10-26 |
 | 3 | [EveryInfra](https://datacircle.dev/linkedin-company-profile-apis/everyinfra/10-pack) | $10 pack | 79.3 | 74 | $0.56 per 1,000 companies | 2026-11-07 |
 | 4 | [BlitzAPI](https://datacircle.dev/linkedin-company-profile-apis/blitzapi/99-monthly) | $99 monthly | 78.5 | 57 | $0.50 per 1,000 companies | 2026-10-23 |
 | 5 | [Tapline](https://datacircle.dev/linkedin-company-profile-apis/tapline/49-monthly) | $49 monthly | 77.8 | 63 | $0.49 per 1,000 companies | 2026-11-16 |
@@ -63,7 +63,7 @@ Every plan below is on our ranking page, [LinkedIn company data API: best provid
 | 53 | [ChocoData](https://datacircle.dev/linkedin-company-profile-apis/chocodata/100-monthly-custom-100-get-api-v1-linkedin-company) | $100 monthly, Custom $100 | 63.3 | 26 | $0.50 per 1,000 companies | 2026-10-26 |
 | 54 | [ScrapeAtlas](https://datacircle.dev/linkedin-company-profile-apis/scrapeatlas/249-pack) | $249 pack | 63.1 | 42 | $1.25 per 1,000 companies | 2026-10-28 |
 | 55 | [LinkedIn Scraper API](https://datacircle.dev/linkedin-company-profile-apis/linkedin-scraper-api/19-monthly) | $19 monthly | 62 | 26 | $0.70 per 1,000 companies | 2026-10-26 |
-| 56 | [Village](https://datacircle.dev/linkedin-company-profile-apis/village/1-monthly-core-post-v2-companies-enrich-enrich-company-cached-only) | $1 monthly, Core | 59.2 | 22 |  | 2026-10-30 |
+| 56 | [Village](https://datacircle.dev/linkedin-company-profile-apis/village/1-monthly-core-post-v2-companies-enrich-enrich-company-cached-only) | $1 monthly, Core | 59.2 | 22 | $0.0000039 per 1,000 companies when you call at the rate limit all month | 2026-10-30 |
 | 57 | [ReefAPI](https://datacircle.dev/linkedin-company-profile-apis/reefapi/450-quarterly) | $450 quarterly | 57.6 | 22 | $1.00 per 1,000 companies | 2026-10-27 |
 | 58 | [Thordata](https://datacircle.dev/linkedin-company-profile-apis/thordata/30-pack) | $30 pack | 55.3 | 40 | $1.00 per 1,000 companies | 2026-11-07 |
 | 59 | [Parseium](https://datacircle.dev/linkedin-company-profile-apis/parseium/49-monthly) | $49 monthly | 51.8 | 40 | $0.33 per 1,000 companies | 2026-11-12 |

@@ -1,6 +1,6 @@
 # Local business reviews API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Tapline ranks first in our benchmark, with an Overall score of 83.1 out of 100. Tapline scores 84 out of 100 for accuracy. Tapline's plan "$199 monthly" costs $0.0066 per 1,000 reviews. We rank 20 providers. We last tested them on 2026-11-25.
 

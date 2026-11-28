@@ -1,6 +1,6 @@
 # Facebook Ad Library API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 79.5 out of 100. Scrappa scores 57 out of 100 for accuracy. Scrappa's plan "$10 pack" costs $0.03 per 1,000 ads. We rank 22 providers. We last tested them on 2026-11-24.
 

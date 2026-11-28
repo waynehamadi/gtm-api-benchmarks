@@ -1,14 +1,14 @@
 # Web scraping API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
-Scrape.land ranks first in our benchmark, with an Overall score of 85.1 out of 100. Scrape.land scores 92 out of 100 for accuracy. We rank 271 providers. We last tested them on 2026-11-26.
+Scrape.land ranks first in our benchmark, with an Overall score of 85.1 out of 100. Scrape.land scores 92 out of 100 for accuracy. Scrape.land's plan "$19 monthly, Pool" costs $0.00073 per 1,000 pages when you call at the rate limit all month. We rank 270 providers. We last tested them on 2026-11-26.
 
 Every plan below is on our ranking page, [Web scraping API: best providers in 2026](https://datacircle.dev/best-web-scraping-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Scrape.land](https://datacircle.dev/web-scraping-apis/scrape-land/19-monthly-pool-post-v1-fetch) | $19 monthly, Pool | 85.1 | 92 |  | 2026-11-13 |
+| 1 | [Scrape.land](https://datacircle.dev/web-scraping-apis/scrape-land/19-monthly-pool-post-v1-fetch) | $19 monthly, Pool | 85.1 | 92 | $0.00073 per 1,000 pages when you call at the rate limit all month | 2026-11-13 |
 | 2 | [FourA](https://datacircle.dev/web-scraping-apis/foura/249-monthly-business-post-api-single-single-request) | $249 monthly, Business | 83 | 86 | $0.055 per 1,000 pages | 2026-11-14 |
 | 3 | [WebScraping.AI](https://datacircle.dev/web-scraping-apis/webscraping-ai/29-monthly-personal-get-html-get-page-html-datacenter-proxy-no-js-rendering) | $29 monthly, Personal | 82.3 | 87 | $0.12 per 1,000 pages | 2026-10-29 |
 | 4 | [Scrappey](https://datacircle.dev/web-scraping-apis/scrappey/top-up-pay-as-you-go-post-api-v1-direct-request) | top-up, Pay As You Go | 82.2 | 87 | $0.11 per 1,000 pages | 2026-10-29 |
@@ -16,7 +16,7 @@ Every plan below is on our ranking page, [Web scraping API: best providers in 20
 | 6 | [AlterLab](https://datacircle.dev/web-scraping-apis/alterlab/top-up-from-10-deposit-10-post-api-v1-scrape-scrape-a-web-page) | top-up from $10, Deposit $10 | 81.3 | 87 | $0.20 per 1,000 pages | 2026-11-01 |
 | 7 | [APIFreaks](https://datacircle.dev/web-scraping-apis/apifreaks/100-monthly-monthly-1500000-credits-post-scraping-web-scraper-api) | $100 monthly, Monthly 1,500,000 credits | 81.2 | 86 | $0.27 per 1,000 pages | 2026-11-25 |
 | 8 | [Geonode](https://datacircle.dev/web-scraping-apis/geonode/100-pack-try-unlimited-100-for-48-hours-post-v1-extract) | $100 pack, Try Unlimited, $100 for 48 hours | 80.6 | 91 | $0.20 per 1,000 pages | 2026-11-03 |
-| 9 | [FineData](https://datacircle.dev/web-scraping-apis/finedata/399-monthly-team-l-post-api-v1-scrape-scrape-url) | $399 monthly, Team L | 80.4 | 87 | $0.08 per 1,000 pages | 2026-11-01 |
+| 9 | [FineData](https://datacircle.dev/web-scraping-apis/finedata/284-monthly-team-m-post-api-v1-scrape-scrape-url) | $284 monthly, Team M | 80.3 | 87 | $0.095 per 1,000 pages | 2026-11-01 |
 | 10 | [Crawl4AI Cloud](https://datacircle.dev/web-scraping-apis/crawl4ai-cloud/10-monthly-starter-post-scrape-scrape-browser-engine) | $10 monthly, Starter | 80.2 | 91 | $0.50 per 1,000 pages | 2026-11-15 |
 | 11 | [Scrappa](https://datacircle.dev/web-scraping-apis/scrappa/10-pack) | $10 pack | 80.2 | 83 | $0.30 per 1,000 pages | 2026-10-29 |
 | 12 | [Hydrafetch](https://datacircle.dev/web-scraping-apis/hydrafetch/99-monthly-ship-post-v1-web-scrape) | $99 monthly, Ship | 79.1 | 92 | $0.50 per 1,000 pages | 2026-11-15 |
@@ -33,9 +33,9 @@ Every plan below is on our ranking page, [Web scraping API: best providers in 20
 | 23 | [Perplexity](https://datacircle.dev/web-scraping-apis/perplexity/top-up) | top-up | 76 | 85 | $1.00 per 1,000 pages | 2026-11-25 |
 | 24 | [API Tool Calls](https://datacircle.dev/web-scraping-apis/api-tool-calls/free) | free | 76 | 58 | $0.00 per 1,000 pages | 2026-11-10 |
 | 25 | [Crawlfox](https://datacircle.dev/web-scraping-apis/crawlfox/498-pack-1000000-credits-post-v1-scrape) | $498 pack, 1,000,000 credits | 75.9 | 85 | $0.50 per 1,000 pages | 2026-11-11 |
-| 26 | [Bulkgrid](https://datacircle.dev/web-scraping-apis/bulkgrid/79-monthly) | $79 monthly | 75.7 | 92 | $0.79 per 1,000 pages | 2026-11-16 |
-| 27 | [URLpipe](https://datacircle.dev/web-scraping-apis/urlpipe/19-monthly-starter-post-html) | $19 monthly, Starter | 75.7 | 92 | $0.95 per 1,000 pages | 2026-11-11 |
-| 28 | [SerpKite](https://datacircle.dev/web-scraping-apis/serpkite/300-pack) | $300 pack | 75.7 | 86 | $0.60 per 1,000 pages | 2026-11-06 |
+| 26 | [URLpipe](https://datacircle.dev/web-scraping-apis/urlpipe/19-monthly-starter-post-html) | $19 monthly, Starter | 75.8 | 92 | $0.95 per 1,000 pages | 2026-11-11 |
+| 27 | [SerpKite](https://datacircle.dev/web-scraping-apis/serpkite/300-pack) | $300 pack | 75.8 | 86 | $0.60 per 1,000 pages | 2026-11-06 |
+| 28 | [Bulkgrid](https://datacircle.dev/web-scraping-apis/bulkgrid/79-monthly) | $79 monthly | 75.7 | 92 | $0.79 per 1,000 pages | 2026-11-16 |
 | 29 | [XCrawl](https://datacircle.dev/web-scraping-apis/xcrawl/499-monthly-scale-post-v1-scrape-scrape-api) | $499 monthly, Scale | 75.5 | 88 | $0.42 per 1,000 pages | 2026-11-06 |
 | 30 | [Clawifi](https://datacircle.dev/web-scraping-apis/clawifi/299-monthly-scale-post-fetch-fetch-url-full) | $299 monthly, Scale | 75.5 | 86 | $0.60 per 1,000 pages | 2026-11-16 |
 | 31 | [Linkup](https://datacircle.dev/web-scraping-apis/linkup/top-up-pay-as-you-go-post-v1-fetch-fetch-standard) | top-up, Pay as you go | 74.9 | 85 | $1.00 per 1,000 pages | 2026-11-06 |
@@ -77,7 +77,7 @@ Every plan below is on our ranking page, [Web scraping API: best providers in 20
 | 67 | [Context.dev](https://datacircle.dev/web-scraping-apis/context-dev/500-monthly-scale-post-v1-web-scrape-scrape-full) | $500 monthly, Scale | 66.7 | 92 | $1.00 per 1,000 pages | 2026-11-01 |
 | 68 | [ScreenshotAPI](https://datacircle.dev/web-scraping-apis/screenshotapi/69-monthly) | $69 monthly | 66.7 | 92 | $1.73 per 1,000 pages | 2026-11-04 |
 | 69 | [Nimble](https://datacircle.dev/web-scraping-apis/nimble/pay-as-you-go) | pay as you go | 66 | 87 | $1.00 per 1,000 pages | 2026-11-01 |
-| 70 | [API Ninjas](https://datacircle.dev/web-scraping-apis/api-ninjas/299-monthly) | $299 monthly | 65.8 | 86 | $0.03 per 1,000 pages | 2026-10-31 |
+| 70 | [API Ninjas](https://datacircle.dev/web-scraping-apis/api-ninjas/299-monthly) | $299 monthly | 65.7 | 86 | $0.03 per 1,000 pages | 2026-10-31 |
 | 71 | [SpecStream](https://datacircle.dev/web-scraping-apis/specstream/top-up-from-10) | top-up from $10 | 65.4 | 58 | $0.80 per 1,000 pages | 2026-11-07 |
 | 72 | [ScrapeNest](https://datacircle.dev/web-scraping-apis/scrapenest/top-up-pay-as-you-go-post-v1-scrape-url-scrape-url) | top-up, Pay-as-you-go | 65.3 | 86 | $0.20 per 1,000 pages | 2026-11-10 |
 | 73 | [Thunderbit](https://datacircle.dev/web-scraping-apis/thunderbit/120-monthly-pro-post-distill-distill-single-page) | $120 monthly, Pro | 65.2 | 72 | $1.00 per 1,000 pages | 2026-10-29 |
@@ -101,7 +101,7 @@ Every plan below is on our ranking page, [Web scraping API: best providers in 20
 | 91 | [Crawio](https://datacircle.dev/web-scraping-apis/crawio/29-monthly) | $29 monthly | 63.7 | 86 | $0.097 per 1,000 pages | 2026-11-25 |
 | 92 | [LurkAPI](https://datacircle.dev/web-scraping-apis/lurkapi/59-pack-growth-get-v1-web-render) | $295 pack, Growth | 63.6 | 91 | $0.59 per 1,000 pages | 2026-11-06 |
 | 93 | [StealthASF](https://datacircle.dev/web-scraping-apis/stealthasf/17-monthly-hobby-post-v1-scrape-plain-request) | $17 monthly, Hobby | 63.6 | 87 | $0.24 per 1,000 pages | 2026-10-29 |
-| 94 | [DataGait](https://datacircle.dev/web-scraping-apis/datagait/5-monthly) | $5 monthly | 63.3 | 60 | $1.00 per 1,000 pages | 2026-11-07 |
+| 94 | [DataGait](https://datacircle.dev/web-scraping-apis/datagait/5-monthly) | $5 monthly | 63.4 | 60 | $1.00 per 1,000 pages | 2026-11-07 |
 | 95 | [AgentQL](https://datacircle.dev/web-scraping-apis/agentql/0-monthly) | $0 monthly | 63.1 | 84 | $0.00 per 1,000 pages | 2026-11-06 |
 | 96 | [APICK](https://datacircle.dev/web-scraping-apis/apick/top-up-from-55000-prepaid-points-post-rest-url-html) | top-up from ₩55,000 (about $41), Prepaid points | 63 | 92 | $3.75 per 1,000 pages | 2026-11-10 |
 | 97 | [Sofya](https://datacircle.dev/web-scraping-apis/sofya/top-up-from-10) | top-up from $10 | 63 | 86 | $2.50 per 1,000 pages | 2026-11-09 |
@@ -139,8 +139,8 @@ Every plan below is on our ranking page, [Web scraping API: best providers in 20
 | 129 | [ScrapeUnblocker](https://datacircle.dev/web-scraping-apis/scrapeunblocker/pay-as-you-go) | pay as you go | 59.5 | 81 | $1.13 per 1,000 pages | 2026-11-26 |
 | 130 | [AndiAI](https://datacircle.dev/web-scraping-apis/andiai/49-monthly) | $49 monthly | 59.5 | 54 | $1.00 per 1,000 pages | 2026-11-07 |
 | 131 | [Lightpanda](https://datacircle.dev/web-scraping-apis/lightpanda/19-monthly) | $19 monthly | 59.3 | 92 |  | 2026-11-07 |
-| 132 | [Spicrawl](https://datacircle.dev/web-scraping-apis/spicrawl/14-monthly-starter-post-v1-scrape-scrape-a-url) | $14 monthly, Starter | 59.2 | 86 | $0.47 per 1,000 pages | 2026-11-18 |
-| 133 | [ToolTrace](https://datacircle.dev/web-scraping-apis/tooltrace/15-pack) | $15 pack | 59.2 | 86 | $1.50 per 1,000 pages | 2026-11-07 |
+| 132 | [ToolTrace](https://datacircle.dev/web-scraping-apis/tooltrace/15-pack) | $15 pack | 59.3 | 86 | $1.50 per 1,000 pages | 2026-11-07 |
+| 133 | [Spicrawl](https://datacircle.dev/web-scraping-apis/spicrawl/14-monthly-starter-post-v1-scrape-scrape-a-url) | $14 monthly, Starter | 59.2 | 86 | $0.47 per 1,000 pages | 2026-11-18 |
 | 134 | [ReplyNodes](https://datacircle.dev/web-scraping-apis/replynodes/99-monthly) | $99 monthly | 59.2 | 74 | $2.97 per 1,000 pages | 2026-11-07 |
 | 135 | [upAPI](https://datacircle.dev/web-scraping-apis/upapi/499-monthly) | $499 monthly | 59.1 | 72 | $0.30 per 1,000 pages | 2026-11-07 |
 | 136 | [Agenty](https://datacircle.dev/web-scraping-apis/agenty/top-up-pay-as-you-go-post-v1-content) | top-up, Pay as you go | 59 | 87 | $5.00 per 1,000 pages | 2026-11-24 |
@@ -165,7 +165,7 @@ Every plan below is on our ranking page, [Web scraping API: best providers in 20
 | 155 | [Zenscrape](https://datacircle.dev/web-scraping-apis/zenscrape/99-99-monthly-medium-get-api-v1-get-web-scraping-api) | $99.99 monthly, Medium | 56.6 | 87 | $0.10 per 1,000 pages | 2026-10-29 |
 | 156 | [ByCrawl](https://datacircle.dev/web-scraping-apis/bycrawl/29-monthly) | $29 monthly | 56.5 | 86 | $5.80 per 1,000 pages | 2026-11-07 |
 | 157 | [Embed.rocks](https://datacircle.dev/web-scraping-apis/embed-rocks/pay-as-you-go) | pay as you go | 56.3 | 86 | $0.50 per 1,000 pages | 2026-11-11 |
-| 158 | [You.com](https://datacircle.dev/web-scraping-apis/you-com/top-up) | top-up | 55.9 | 66 | $1.00 per 1,000 pages | 2026-11-01 |
+| 158 | [You.com](https://datacircle.dev/web-scraping-apis/you-com/top-up) | top-up | 56 | 66 | $1.00 per 1,000 pages | 2026-11-01 |
 | 159 | [Ohita](https://datacircle.dev/web-scraping-apis/ohita/9-monthly) | $9 monthly | 55.9 | 52 | $0.18 per 1,000 pages | 2026-11-25 |
 | 160 | [Axiom.ai (browser automation API)](https://datacircle.dev/web-scraping-apis/axiom-ai-browser-automation-api/250-monthly) | $250 monthly | 55.8 | 91 |  | 2026-11-15 |
 | 161 | [LucidExtractor](https://datacircle.dev/web-scraping-apis/lucidextractor/45-monthly-professional-post-v1-scrape-scrape) | $45 monthly, Professional | 55.8 | 80 | $1.80 per 1,000 pages | 2026-11-14 |
@@ -203,12 +203,12 @@ Every plan below is on our ranking page, [Web scraping API: best providers in 20
 | 193 | [WebSearchAPI.ai](https://datacircle.dev/web-scraping-apis/websearchapi-ai/189-monthly) | $189 monthly | 51.3 | 87 | $3.78 per 1,000 pages | 2026-11-01 |
 | 194 | [Screenshot Scout](https://datacircle.dev/web-scraping-apis/screenshot-scout/319-monthly) | $319 monthly | 51.2 | 91 | $6.38 per 1,000 pages | 2026-11-25 |
 | 195 | [WebExtract](https://datacircle.dev/web-scraping-apis/webextract/50-pack-15000-credits-get-v1-extract) | $50 pack, 15,000 credits | 50.6 | 60 | $3.33 per 1,000 pages | 2026-11-09 |
-| 196 | [Suprsonic](https://datacircle.dev/web-scraping-apis/suprsonic/29-monthly-pro-post-v1-scrape-scrape-standard) | $29 monthly, Pro | 50.4 | 92 | $29.00 per 1,000 pages | 2026-11-15 |
-| 197 | [UpRock](https://datacircle.dev/web-scraping-apis/uprock/20-monthly) | $20 monthly | 50.4 | 92 |  | 2026-11-16 |
+| 196 | [UpRock](https://datacircle.dev/web-scraping-apis/uprock/20-monthly) | $20 monthly | 50.5 | 92 |  | 2026-11-16 |
+| 197 | [Suprsonic](https://datacircle.dev/web-scraping-apis/suprsonic/29-monthly-pro-post-v1-scrape-scrape-standard) | $29 monthly, Pro | 50.4 | 92 | $29.00 per 1,000 pages | 2026-11-15 |
 | 198 | [Rayobyte](https://datacircle.dev/web-scraping-apis/rayobyte/top-up) | top-up | 50.4 | 87 | $1.80 per 1,000 pages | 2026-10-29 |
 | 199 | [rasterly](https://datacircle.dev/web-scraping-apis/rasterly/99-monthly-scale-get-v1-read) | $99 monthly, Scale | 50.3 | 57 | $0.40 per 1,000 pages | 2026-11-07 |
 | 200 | [Simplescraper](https://datacircle.dev/web-scraping-apis/simplescraper/249-monthly) | $249 monthly, Scale | 50 | 86 | $4.98 per 1,000 pages | 2026-11-25 |
-| 201 | [API.SH](https://datacircle.dev/web-scraping-apis/api-sh/50-monthly-monthly-50-get-web-v1-page) | $50 monthly | 49.9 | 55 | $1.00 per 1,000 pages | 2026-11-06 |
+| 201 | [API.SH](https://datacircle.dev/web-scraping-apis/api-sh/50-monthly-monthly-50-get-web-v1-page) | $50 monthly | 50 | 55 | $1.00 per 1,000 pages | 2026-11-06 |
 | 202 | [BrowserForest](https://datacircle.dev/web-scraping-apis/browserforest/249-monthly-business-post-scrape) | $249 monthly, Business | 49.6 | 86 | $4.15 per 1,000 pages | 2026-11-23 |
 | 203 | [AgentKey](https://datacircle.dev/web-scraping-apis/agentkey/12-90-monthly) | $12.90 monthly | 49.5 | 77 | $5.16 per 1,000 pages | 2026-11-13 |
 | 204 | [YepAPI](https://datacircle.dev/web-scraping-apis/yepapi/top-up-pay-as-you-go-post-v1-scrape) | top-up, Pay as you go | 49.5 | 72 | $10.00 per 1,000 pages | 2026-11-16 |
@@ -229,8 +229,8 @@ Every plan below is on our ranking page, [Web scraping API: best providers in 20
 | 219 | [Skyvern](https://datacircle.dev/web-scraping-apis/skyvern/29-monthly) | $29 monthly | 47.3 | 88 |  | 2026-11-26 |
 | 220 | [AgentDiet](https://datacircle.dev/web-scraping-apis/agentdiet/29-monthly) | $29 monthly | 46.4 | 47 | $1.45 per 1,000 pages | 2026-11-24 |
 | 221 | [Rendex](https://datacircle.dev/web-scraping-apis/rendex/179-monthly) | $179 monthly | 46.2 | 60 | $1.79 per 1,000 pages | 2026-11-07 |
-| 222 | [grep.md](https://datacircle.dev/web-scraping-apis/grep-md/60-pack-agent-get-url-convert-url-to-markdown) | $60 pack, Agent | 46.1 | 53 | $0.60 per 1,000 pages | 2026-11-06 |
-| 223 | [PageBolt](https://datacircle.dev/web-scraping-apis/pagebolt/199-monthly) | $199 monthly | 46 | 60 | $1.99 per 1,000 pages | 2026-11-04 |
+| 222 | [PageBolt](https://datacircle.dev/web-scraping-apis/pagebolt/199-monthly) | $199 monthly | 46.1 | 60 | $1.99 per 1,000 pages | 2026-11-04 |
+| 223 | [grep.md](https://datacircle.dev/web-scraping-apis/grep-md/60-pack-agent-get-url-convert-url-to-markdown) | $60 pack, Agent | 46.1 | 53 | $0.60 per 1,000 pages | 2026-11-06 |
 | 224 | [Unstuckapi](https://datacircle.dev/web-scraping-apis/unstuckapi/10-pack) | $10 pack | 45.7 | 50 | $5.00 per 1,000 pages | 2026-11-06 |
 | 225 | [Databar](https://datacircle.dev/web-scraping-apis/databar/495-monthly) | $495 monthly | 45.5 | 77 | $9.90 per 1,000 pages | 2026-11-08 |
 | 226 | [Smooth](https://datacircle.dev/web-scraping-apis/smooth/50-monthly) | $50 monthly | 45.2 | 85 |  | 2026-11-09 |
@@ -245,40 +245,39 @@ Every plan below is on our ranking page, [Web scraping API: best providers in 20
 | 235 | [PulpMiner](https://datacircle.dev/web-scraping-apis/pulpminer/15-pack) | $15 pack | 36.3 | 74 | $20.00 per 1,000 pages | 2026-11-10 |
 | 236 | [Osint](https://datacircle.dev/web-scraping-apis/osint/99-99-pack) | $99.99 pack | 36 | 48 | $10.00 per 1,000 pages | 2026-11-15 |
 | 237 | [fetcher.cloud](https://datacircle.dev/web-scraping-apis/fetcher-cloud/pay-as-you-go-pay-per-call-x402-get-extract) | pay as you go, Pay per call (x402) | 34.1 | 52 | $5.00 per 1,000 pages | 2026-11-06 |
-| 238 | [ManyLives](https://datacircle.dev/web-scraping-apis/manylives/pay-as-you-go-x402-pay-per-call-get-paid-web-read) | pay as you go, x402 pay per call | 32.2 | 47 | $3.00 per 1,000 pages | 2026-11-10 |
-| 239 | [DataFluxor](https://datacircle.dev/web-scraping-apis/datafluxor/199-monthly-scale-post-api-v1-scrape-page) | $199 monthly, Scale | 61.2 | 41 | $0.50 per 1,000 pages | 2026-11-11 |
-| 240 | [Minifetch](https://datacircle.dev/web-scraping-apis/minifetch/top-up-from-2-credit-top-up-get-api-v1-extract-url-content) | top-up from $2, Credit top-up | 59.1 | 45 | $1.00 per 1,000 pages | 2026-11-18 |
-| 241 | [YourAITools](https://datacircle.dev/web-scraping-apis/youraitools/free) | free | 58.5 | 29 | $0.00 per 1,000 pages | 2026-11-09 |
-| 242 | [WebLens](https://datacircle.dev/web-scraping-apis/weblens/free-post-free-fetch) | free | 56.5 | 23 | $0.00 per 1,000 pages | 2026-11-08 |
-| 243 | [Iframely](https://datacircle.dev/web-scraping-apis/iframely/399-monthly-enterprise-get-api-data) | $399 monthly, Enterprise | 55 | 37 | $0.80 per 1,000 pages | 2026-11-18 |
-| 244 | [Critique Labs](https://datacircle.dev/web-scraping-apis/critique-labs/top-up) | top-up | 52.5 | 42 |  | 2026-11-13 |
-| 245 | [Trawlia](https://datacircle.dev/web-scraping-apis/trawlia/49-monthly) | $49 monthly | 52.4 | 39 | $1.23 per 1,000 pages | 2026-11-06 |
-| 246 | [Kimi](https://datacircle.dev/web-scraping-apis/kimi/top-up-from-1) | top-up from $1 | 51.2 | 44 | $2.00 per 1,000 pages | 2026-11-24 |
-| 247 | [ContentAPI](https://datacircle.dev/web-scraping-apis/contentapi/49-monthly-pro-get-web-extract) | $49 monthly, Pro | 48.4 | 40 | $0.49 per 1,000 pages | 2026-11-10 |
-| 248 | [GadgetHumans](https://datacircle.dev/web-scraping-apis/gadgethumans/5-monthly-pro-get-get-url) | $5 monthly, Pro | 48.4 | 28 | $0.017 per 1,000 pages | 2026-11-10 |
-| 249 | [VanMoose](https://datacircle.dev/web-scraping-apis/vanmoose/199-monthly) | $199 monthly | 47.5 | 40 | $0.20 per 1,000 pages | 2026-11-25 |
-| 250 | [SearchPipe](https://datacircle.dev/web-scraping-apis/searchpipe/35-monthly) | $35 monthly | 46.9 | 44 | $3.50 per 1,000 pages | 2026-11-11 |
-| 251 | [MrScraper](https://datacircle.dev/web-scraping-apis/mrscraper/19-monthly-scraper-starter-get) | $19 monthly, Scraper Starter | 44.7 | 43 |  | 2026-10-29 |
-| 252 | [Cloudsway SmartSearch](https://datacircle.dev/web-scraping-apis/cloudsway-smartsearch/top-up) | top-up | 43.3 | 45 | $1.00 per 1,000 pages | 2026-11-24 |
-| 253 | [fourzerotwo](https://datacircle.dev/web-scraping-apis/fourzerotwo/5-pack) | $5 pack | 41.2 | 42 | $3.00 per 1,000 pages | 2026-11-11 |
-| 254 | [Diffbot](https://datacircle.dev/web-scraping-apis/diffbot/299-monthly-startup-get-v3-article) | $299 monthly, Startup | 40.2 | 39 | $1.20 per 1,000 pages | 2026-11-24 |
-| 255 | [Lordevo](https://datacircle.dev/web-scraping-apis/lordevo/pay-as-you-go-x402-pay-per-call-get-api-quick-page-markdown) | pay as you go, x402 pay per call | 39.9 | 35 | $2.00 per 1,000 pages | 2026-11-09 |
-| 256 | [browserfoundry by keirolabs](https://datacircle.dev/web-scraping-apis/browserfoundry-by-keirolabs/99-99-monthly) | $99.99 monthly | 39.2 | 39 | $1.78 per 1,000 pages | 2026-10-31 |
-| 257 | [Cleariflow](https://datacircle.dev/web-scraping-apis/cleariflow/24-monthly-professional-post-v1-scrape) | €24 monthly, Professional | 36.4 | 32 | $0.18 per 1,000 pages | 2026-11-24 |
-| 258 | [DACIX](https://datacircle.dev/web-scraping-apis/dacix/9-pack-starter-pack-post-api-v1-services-crawl) | $9 pack, Starter Pack | 34.9 | 43 | $45.00 per 1,000 pages | 2026-11-11 |
-| 259 | [FireScraper](https://datacircle.dev/web-scraping-apis/firescraper/100-pack) | $100 pack | 34.7 | 37 | $0.67 per 1,000 pages | 2026-11-11 |
-| 260 | [NestDaddy](https://datacircle.dev/web-scraping-apis/nestdaddy/149-monthly) | $149 monthly | 34.4 | 27 | $1.19 per 1,000 pages | 2026-11-15 |
-| 261 | [Ambolt](https://datacircle.dev/web-scraping-apis/ambolt/pay-as-you-go) | pay as you go | 31.2 | 30 | $3.00 per 1,000 pages | 2026-11-08 |
-| 262 | [2s.io](https://datacircle.dev/web-scraping-apis/2s-io/pay-as-you-go-x402-pay-per-call-post-api-search-extract) | pay as you go, x402 pay per call | 29 | 26 | $9.00 per 1,000 pages | 2026-11-09 |
-| 263 | [Restpack](https://datacircle.dev/web-scraping-apis/restpack/499-95-monthly) | $499.95 monthly | 27.3 | 31 | $1.67 per 1,000 pages | 2026-11-11 |
-| 264 | [API League](https://datacircle.dev/web-scraping-apis/api-league/39-monthly) | $39 monthly | 38.5 | 11 | $0.26 per 1,000 pages | 2026-11-03 |
-| 265 | [NewsAPI.ai (Event Registry)](https://datacircle.dev/web-scraping-apis/newsapi-ai-event-registry/400-monthly) | $400 monthly | 31.7 | 3 | $0.40 per 1,000 pages | 2026-10-29 |
-| 266 | [URL Meta](https://datacircle.dev/web-scraping-apis/url-meta/9-monthly) | $9 monthly | 29.2 | 1 | $0.36 per 1,000 pages | 2026-11-07 |
-| 267 | [LinkPreview](https://datacircle.dev/web-scraping-apis/linkpreview/25-monthly) | $25 monthly | 27.6 | 1 |  | 2026-11-07 |
-| 268 | [Peekalink](https://datacircle.dev/web-scraping-apis/peekalink/49-monthly) | $49 monthly | 24.8 | 1 | $0.14 per 1,000 pages | 2026-11-07 |
-| 269 | [World News API](https://datacircle.dev/web-scraping-apis/world-news-api/39-monthly-reporter-get-extract-news-extract-news) | $39 monthly, Reporter | 24.2 | 8 | $5.20 per 1,000 pages | 2026-11-01 |
-| 270 | [Embedly](https://datacircle.dev/web-scraping-apis/embedly/119-monthly-api-get-1-extract) | $119 monthly, API | 19.8 | 6 | $11.90 per 1,000 pages | 2026-11-07 |
-| 271 | [Scrooge Tool Mill](https://datacircle.dev/web-scraping-apis/scrooge-tool-mill/pay-as-you-go-x402-pay-per-call-post-v1-page-meta) | pay as you go, x402 pay per call | 18.1 | 1 | $2.00 per 1,000 pages | 2026-11-10 |
+| 238 | [DataFluxor](https://datacircle.dev/web-scraping-apis/datafluxor/199-monthly-scale-post-api-v1-scrape-page) | $199 monthly, Scale | 61.3 | 41 | $0.50 per 1,000 pages | 2026-11-11 |
+| 239 | [Minifetch](https://datacircle.dev/web-scraping-apis/minifetch/top-up-from-2-credit-top-up-get-api-v1-extract-url-content) | top-up from $2, Credit top-up | 59.1 | 45 | $1.00 per 1,000 pages | 2026-11-18 |
+| 240 | [YourAITools](https://datacircle.dev/web-scraping-apis/youraitools/free) | free | 58.5 | 29 | $0.00 per 1,000 pages | 2026-11-09 |
+| 241 | [WebLens](https://datacircle.dev/web-scraping-apis/weblens/free-post-free-fetch) | free | 56.5 | 23 | $0.00 per 1,000 pages | 2026-11-08 |
+| 242 | [Iframely](https://datacircle.dev/web-scraping-apis/iframely/399-monthly-enterprise-get-api-data) | $399 monthly, Enterprise | 55 | 37 | $0.80 per 1,000 pages | 2026-11-18 |
+| 243 | [Critique Labs](https://datacircle.dev/web-scraping-apis/critique-labs/top-up) | top-up | 52.5 | 42 |  | 2026-11-13 |
+| 244 | [Trawlia](https://datacircle.dev/web-scraping-apis/trawlia/49-monthly) | $49 monthly | 52.4 | 39 | $1.23 per 1,000 pages | 2026-11-06 |
+| 245 | [Kimi](https://datacircle.dev/web-scraping-apis/kimi/top-up-from-1) | top-up from $1 | 51.2 | 44 | $2.00 per 1,000 pages | 2026-11-24 |
+| 246 | [ContentAPI](https://datacircle.dev/web-scraping-apis/contentapi/49-monthly-pro-get-web-extract) | $49 monthly, Pro | 48.4 | 40 | $0.49 per 1,000 pages | 2026-11-10 |
+| 247 | [GadgetHumans](https://datacircle.dev/web-scraping-apis/gadgethumans/5-monthly-pro-get-get-url) | $5 monthly, Pro | 48.4 | 28 | $0.017 per 1,000 pages | 2026-11-10 |
+| 248 | [VanMoose](https://datacircle.dev/web-scraping-apis/vanmoose/199-monthly) | $199 monthly | 47.5 | 40 | $0.20 per 1,000 pages | 2026-11-25 |
+| 249 | [SearchPipe](https://datacircle.dev/web-scraping-apis/searchpipe/35-monthly) | $35 monthly | 46.9 | 44 | $3.50 per 1,000 pages | 2026-11-11 |
+| 250 | [MrScraper](https://datacircle.dev/web-scraping-apis/mrscraper/19-monthly-scraper-starter-get) | $19 monthly, Scraper Starter | 44.7 | 43 |  | 2026-10-29 |
+| 251 | [Cloudsway SmartSearch](https://datacircle.dev/web-scraping-apis/cloudsway-smartsearch/top-up) | top-up | 43.3 | 45 | $1.00 per 1,000 pages | 2026-11-24 |
+| 252 | [fourzerotwo](https://datacircle.dev/web-scraping-apis/fourzerotwo/5-pack) | $5 pack | 41.2 | 42 | $3.00 per 1,000 pages | 2026-11-11 |
+| 253 | [Diffbot](https://datacircle.dev/web-scraping-apis/diffbot/299-monthly-startup-get-v3-article) | $299 monthly, Startup | 40.2 | 39 | $1.20 per 1,000 pages | 2026-11-24 |
+| 254 | [Lordevo](https://datacircle.dev/web-scraping-apis/lordevo/pay-as-you-go-x402-pay-per-call-get-api-quick-page-markdown) | pay as you go, x402 pay per call | 39.9 | 35 | $2.00 per 1,000 pages | 2026-11-09 |
+| 255 | [browserfoundry by keirolabs](https://datacircle.dev/web-scraping-apis/browserfoundry-by-keirolabs/99-99-monthly) | $99.99 monthly | 39.2 | 39 | $1.78 per 1,000 pages | 2026-10-31 |
+| 256 | [Cleariflow](https://datacircle.dev/web-scraping-apis/cleariflow/24-monthly-professional-post-v1-scrape) | €24 monthly, Professional | 36.4 | 32 | $0.18 per 1,000 pages | 2026-11-24 |
+| 257 | [DACIX](https://datacircle.dev/web-scraping-apis/dacix/9-pack-starter-pack-post-api-v1-services-crawl) | $9 pack, Starter Pack | 34.9 | 43 | $45.00 per 1,000 pages | 2026-11-11 |
+| 258 | [FireScraper](https://datacircle.dev/web-scraping-apis/firescraper/100-pack) | $100 pack | 34.8 | 37 | $0.67 per 1,000 pages | 2026-11-11 |
+| 259 | [NestDaddy](https://datacircle.dev/web-scraping-apis/nestdaddy/149-monthly) | $149 monthly | 34.5 | 27 | $1.19 per 1,000 pages | 2026-11-15 |
+| 260 | [Ambolt](https://datacircle.dev/web-scraping-apis/ambolt/pay-as-you-go) | pay as you go | 31.2 | 30 | $3.00 per 1,000 pages | 2026-11-08 |
+| 261 | [2s.io](https://datacircle.dev/web-scraping-apis/2s-io/pay-as-you-go-x402-pay-per-call-post-api-search-extract) | pay as you go, x402 pay per call | 29 | 26 | $9.00 per 1,000 pages | 2026-11-09 |
+| 262 | [Restpack](https://datacircle.dev/web-scraping-apis/restpack/499-95-monthly) | $499.95 monthly | 27.3 | 31 | $1.67 per 1,000 pages | 2026-11-11 |
+| 263 | [API League](https://datacircle.dev/web-scraping-apis/api-league/39-monthly) | $39 monthly | 38.5 | 11 | $0.26 per 1,000 pages | 2026-11-03 |
+| 264 | [NewsAPI.ai (Event Registry)](https://datacircle.dev/web-scraping-apis/newsapi-ai-event-registry/400-monthly) | $400 monthly | 31.7 | 3 | $0.40 per 1,000 pages | 2026-10-29 |
+| 265 | [URL Meta](https://datacircle.dev/web-scraping-apis/url-meta/9-monthly) | $9 monthly | 29.2 | 1 | $0.36 per 1,000 pages | 2026-11-07 |
+| 266 | [LinkPreview](https://datacircle.dev/web-scraping-apis/linkpreview/25-monthly) | $25 monthly | 27.6 | 1 |  | 2026-11-07 |
+| 267 | [Peekalink](https://datacircle.dev/web-scraping-apis/peekalink/49-monthly) | $49 monthly | 24.8 | 1 | $0.14 per 1,000 pages | 2026-11-07 |
+| 268 | [World News API](https://datacircle.dev/web-scraping-apis/world-news-api/39-monthly-reporter-get-extract-news-extract-news) | $39 monthly, Reporter | 24.2 | 8 | $5.20 per 1,000 pages | 2026-11-01 |
+| 269 | [Embedly](https://datacircle.dev/web-scraping-apis/embedly/119-monthly-api-get-1-extract) | $119 monthly, API | 19.8 | 6 | $11.90 per 1,000 pages | 2026-11-07 |
+| 270 | [Scrooge Tool Mill](https://datacircle.dev/web-scraping-apis/scrooge-tool-mill/pay-as-you-go-x402-pay-per-call-post-v1-page-meta) | pay as you go, x402 pay per call | 18.1 | 1 | $2.00 per 1,000 pages | 2026-11-10 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

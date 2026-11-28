@@ -1,6 +1,6 @@
 # Google Trends API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 SerpScraper.dev ranks first in our benchmark, with an Overall score of 94.9 out of 100. SerpScraper.dev scores 97 out of 100 for accuracy. SerpScraper.dev's plan "$499 monthly" costs $0.033 per 1,000 searches. We rank 8 providers. We last tested them on 2026-11-24.
 

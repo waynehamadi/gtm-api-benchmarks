@@ -1,6 +1,6 @@
 # eBay product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Litescrape ranks first in our benchmark, with an Overall score of 78.3 out of 100. Litescrape scores 67 out of 100 for accuracy. Litescrape's plan "top-up from $10, Usage-based" costs $0.15 per 1,000 products. We rank 18 providers. We last tested them on 2026-11-24.
 
@@ -22,7 +22,7 @@ Every plan below is on our ranking page, [eBay product API: best providers in 20
 | 12 | [Scavio](https://datacircle.dev/ebay-product-apis/scavio/500-monthly) | $500 monthly | 41.9 | 27 | $1.00 per 1,000 products | 2026-10-31 |
 | 13 | [Datawebot (ecommerce product data API)](https://datacircle.dev/ebay-product-apis/datawebot-ecommerce-product-data-api/25-pack) | $25 pack | 33.3 | 21 | $0.77 per 1,000 products | 2026-11-06 |
 | 14 | [SoldFetch](https://datacircle.dev/ebay-product-apis/soldfetch/79-monthly) | $79 monthly | 33 | 28 | $1.58 per 1,000 products | 2026-11-06 |
-| 15 | [ebaysoldlistingsAPI](https://datacircle.dev/ebay-product-apis/ebaysoldlistingsapi/299-monthly) | $299 monthly | 64.4 | 15 |  | 2026-11-15 |
+| 15 | [ebaysoldlistingsAPI](https://datacircle.dev/ebay-product-apis/ebaysoldlistingsapi/299-monthly) | $299 monthly | 64.4 | 15 | $0.058 per 1,000 products when you call at the rate limit all month | 2026-11-15 |
 | 16 | [Scrappa](https://datacircle.dev/ebay-product-apis/scrappa/10-pack) | $10 pack | 62.6 | 16 | $0.30 per 1,000 products | 2026-10-31 |
 | 17 | [PrismCrawl](https://datacircle.dev/ebay-product-apis/prismcrawl/10-pack) | $10 pack | 40.7 | 15 | $0.27 per 1,000 products | 2026-10-31 |
 | 18 | [Lianex](https://datacircle.dev/ebay-product-apis/lianex/free) | free | 0 | 0 | $0.00 per 1,000 products | 2026-11-12 |

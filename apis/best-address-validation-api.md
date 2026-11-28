@@ -1,6 +1,6 @@
 # Address validation API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 PostGrid ranks first in our benchmark, with an Overall score of 66.8 out of 100. PostGrid scores 77 out of 100 for accuracy. PostGrid's plan "$45 monthly, Standard Business" costs $4.50 per 1,000 addresses. We rank 10 providers. We last tested them on 2026-11-25.
 

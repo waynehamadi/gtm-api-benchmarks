@@ -1,6 +1,6 @@
 # LinkedIn profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Reverse Contact ranks first in our benchmark, with an Overall score of 77.2 out of 100. Reverse Contact scores 64 out of 100 for accuracy. Reverse Contact's plan "$449 monthly" costs $0.15 per 1,000 profiles. We rank 131 providers. We last tested them on 2026-11-25.
 
@@ -90,7 +90,7 @@ Every plan below is on our ranking page, [LinkedIn profile API: best providers i
 | 80 | [CoreClaw](https://datacircle.dev/linkedin-profile-apis/coreclaw/top-up-from-5) | top-up from $5 | 58.6 | 20 | $0.90 per 1,000 profiles | 2026-11-06 |
 | 81 | [LinkedIn Scraper API](https://datacircle.dev/linkedin-profile-apis/linkedin-scraper-api/19-monthly) | $19 monthly | 57.3 | 16 | $0.70 per 1,000 profiles | 2026-10-26 |
 | 82 | [ScrapeBadger](https://datacircle.dev/linkedin-profile-apis/scrapebadger/49-monthly) | $49 monthly | 57 | 20 | $0.98 per 1,000 profiles | 2026-10-20 |
-| 83 | [Village](https://datacircle.dev/linkedin-profile-apis/village/1-monthly-core-post-v2-people-enrich-enrich-person-cached-only) | $1 monthly, Core | 56.7 | 20 |  | 2026-10-29 |
+| 83 | [Village](https://datacircle.dev/linkedin-profile-apis/village/1-monthly-core-post-v2-people-enrich-enrich-person-cached-only) | $1 monthly, Core | 56.7 | 20 | $0.0000039 per 1,000 profiles when you call at the rate limit all month | 2026-10-29 |
 | 84 | [TrueScrape](https://datacircle.dev/linkedin-profile-apis/truescrape/100-pack) | $100 pack | 56 | 16 | $1.00 per 1,000 profiles | 2026-11-06 |
 | 85 | [ScrapeAtlas](https://datacircle.dev/linkedin-profile-apis/scrapeatlas/249-pack) | $249 pack | 54.3 | 16 | $1.25 per 1,000 profiles | 2026-11-02 |
 | 86 | [CrustAPI](https://datacircle.dev/linkedin-profile-apis/crustapi/top-up-from-10-10-deposit-get-v1-linkedin-people-refresh) | top-up from $10, $10+ deposit | 53.5 | 17 | $1.96 per 1,000 profiles | 2026-11-07 |

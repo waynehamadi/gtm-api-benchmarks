@@ -1,8 +1,8 @@
 # LinkedIn company post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
-Tapline ranks first in our benchmark, with an Overall score of 83.7 out of 100. Tapline scores 80 out of 100 for accuracy. Tapline's plan "$499 monthly" costs $0.013 per 1,000 posts. We rank 31 providers. We last tested them on 2026-11-18.
+Tapline ranks first in our benchmark, with an Overall score of 83.7 out of 100. Tapline scores 80 out of 100 for accuracy. Tapline's plan "$499 monthly" costs $0.013 per 1,000 posts. We rank 32 providers. We last tested them on 2026-11-27.
 
 Every plan below is on our ranking page, [LinkedIn company post API: best providers in 2026](https://datacircle.dev/best-linkedin-company-post-api).
 
@@ -31,14 +31,15 @@ Every plan below is on our ranking page, [LinkedIn company post API: best provid
 | 21 | [BeReach](https://datacircle.dev/linkedin-company-post-apis/bereach/10-pack) | €10 pack | 37.7 | 53 |  | 2026-11-08 |
 | 22 | [Litescrape](https://datacircle.dev/linkedin-company-post-apis/litescrape/top-up-from-10) | top-up from $10 | 73.5 | 29 | $0.0075 per 1,000 posts | 2026-10-27 |
 | 23 | [ScrapeField](https://datacircle.dev/linkedin-company-post-apis/scrapefield/149-pack) | $149 pack | 49.3 | 26 | $0.18 per 1,000 posts | 2026-11-08 |
-| 24 | [ScraperSocial](https://datacircle.dev/linkedin-company-post-apis/scrapersocial/top-up-from-4-50) | top-up from $4.50 | 31.6 | 24 | $4.50 per 1,000 posts | 2026-11-09 |
-| 25 | [FetchGoblin](https://datacircle.dev/linkedin-company-post-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 28.2 | 22 |  | 2026-11-08 |
-| 26 | [Vayne](https://datacircle.dev/linkedin-company-post-apis/vayne/49-monthly) | $49 monthly | 27.4 | 31 |  | 2026-10-25 |
-| 27 | [ScrapeCreators](https://datacircle.dev/linkedin-company-post-apis/scrapecreators/47-pack) | $47 pack | 27 | 22 |  | 2026-10-27 |
-| 28 | [socially](https://datacircle.dev/linkedin-company-post-apis/socially/149-monthly-scale-post-v1-profiles-lookup) | $149 monthly, Scale | 33.8 | 21 | $0.30 per 1,000 posts | 2026-11-15 |
-| 29 | [Autobound](https://datacircle.dev/linkedin-company-post-apis/autobound/19-pack) | $19 pack | 30.6 | 13 | $20.00 per 1,000 posts | 2026-10-24 |
-| 30 | [ScrapeAtlas](https://datacircle.dev/linkedin-company-post-apis/scrapeatlas/19-pack) | $19 pack | 29 | 21 |  | 2026-10-28 |
-| 31 | [ZenRows](https://datacircle.dev/linkedin-company-post-apis/zenrows/top-up-from-5) | top-up from $5 | 26.1 | 18 |  | 2026-10-27 |
+| 24 | [LurkAPI](https://datacircle.dev/linkedin-company-post-apis/lurkapi/39-pack) | $39 pack | 37.7 | 35 |  | 2026-11-27 |
+| 25 | [ScraperSocial](https://datacircle.dev/linkedin-company-post-apis/scrapersocial/top-up-from-4-50) | top-up from $4.50 | 31.6 | 24 | $4.50 per 1,000 posts | 2026-11-09 |
+| 26 | [FetchGoblin](https://datacircle.dev/linkedin-company-post-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 28.2 | 22 |  | 2026-11-08 |
+| 27 | [Vayne](https://datacircle.dev/linkedin-company-post-apis/vayne/49-monthly) | $49 monthly | 27.4 | 31 |  | 2026-10-25 |
+| 28 | [ScrapeCreators](https://datacircle.dev/linkedin-company-post-apis/scrapecreators/47-pack) | $47 pack | 27 | 22 |  | 2026-10-27 |
+| 29 | [socially](https://datacircle.dev/linkedin-company-post-apis/socially/149-monthly-scale-post-v1-profiles-lookup) | $149 monthly, Scale | 33.8 | 21 | $0.30 per 1,000 posts | 2026-11-15 |
+| 30 | [Autobound](https://datacircle.dev/linkedin-company-post-apis/autobound/19-pack) | $19 pack | 30.6 | 13 | $20.00 per 1,000 posts | 2026-10-24 |
+| 31 | [ScrapeAtlas](https://datacircle.dev/linkedin-company-post-apis/scrapeatlas/19-pack) | $19 pack | 29 | 21 |  | 2026-10-28 |
+| 32 | [ZenRows](https://datacircle.dev/linkedin-company-post-apis/zenrows/top-up-from-5) | top-up from $5 | 26.1 | 18 |  | 2026-10-27 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

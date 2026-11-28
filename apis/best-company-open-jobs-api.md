@@ -1,14 +1,14 @@
 # Company job openings API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
-freehire ranks first in our benchmark, with an Overall score of 72.1 out of 100. freehire scores 60 out of 100 for accuracy. We rank 45 providers. We last tested them on 2026-11-21.
+freehire ranks first in our benchmark, with an Overall score of 72.1 out of 100. freehire scores 60 out of 100 for accuracy. freehire's plan "$29 monthly" costs $0.0000056 per 1,000 jobs when you call at the rate limit all month. We rank 45 providers. We last tested them on 2026-11-21.
 
 Every plan below is on our ranking page, [Company job openings API: best providers in 2026](https://datacircle.dev/best-company-open-jobs-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [freehire](https://datacircle.dev/company-open-job-apis/freehire/29-monthly) | $29 monthly | 72.1 | 60 |  | 2026-10-28 |
+| 1 | [freehire](https://datacircle.dev/company-open-job-apis/freehire/29-monthly) | $29 monthly | 72.1 | 60 | $0.0000056 per 1,000 jobs when you call at the rate limit all month | 2026-10-28 |
 | 2 | [ScrapeUnblocker](https://datacircle.dev/company-open-job-apis/scrapeunblocker/pay-as-you-go-pay-as-you-go-post-jobs-career-site-scrape-company-career-sites-greenhouse-lever-ashby-workday-and-more-greenhouse) | pay as you go | 66.1 | 91 | $0.00056 per 1,000 jobs | 2026-11-17 |
 | 3 | [JobDataAPI](https://datacircle.dev/company-open-job-apis/jobdataapi/free) | free | 65.2 | 49 | $0.00 per 1,000 jobs | 2026-11-07 |
 | 4 | [ReefAPI](https://datacircle.dev/company-open-job-apis/reefapi/15-monthly-pro-monthly-post-linkedin-jobs-v1-jobs-by-company) | $15 monthly, Pro monthly | 64.4 | 55 | $0.0015 per 1,000 jobs | 2026-10-27 |

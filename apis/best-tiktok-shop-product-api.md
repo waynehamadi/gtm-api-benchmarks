@@ -1,6 +1,6 @@
 # TikTok Shop product API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 SocialTap ranks first in our benchmark, with an Overall score of 79.7 out of 100. SocialTap scores 80 out of 100 for accuracy. SocialTap's plan "$225 monthly" costs $1.13 per 1,000 products. We rank 12 providers. We last tested them on 2026-11-23.
 

@@ -1,6 +1,6 @@
 # Job postings API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 JobsByLevel ranks first in our benchmark, with an Overall score of 90.7 out of 100. JobsByLevel scores 77 out of 100 for accuracy. JobsByLevel's plan "free" costs $0.00 per 1,000 jobs. We rank 72 providers. We last tested them on 2026-11-16.
 
@@ -10,7 +10,7 @@ Every plan below is on our ranking page, [Job postings API: best providers in 20
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [JobsByLevel](https://datacircle.dev/job-posting-apis/jobsbylevel/free) | free | 90.7 | 77 | $0.00 per 1,000 jobs | 2026-11-10 |
 | 2 | [Rezifi](https://datacircle.dev/job-posting-apis/rezifi/free) | free | 88.5 | 86 | $0.00 per 1,000 jobs | 2026-11-10 |
-| 3 | [freehire](https://datacircle.dev/job-posting-apis/freehire/29-monthly-api-get-jobs-search) | $29 monthly, API | 87.4 | 90 |  | 2026-10-28 |
+| 3 | [freehire](https://datacircle.dev/job-posting-apis/freehire/29-monthly-api-get-jobs-search) | $29 monthly, API | 87.4 | 90 | $0.0000056 per 1,000 jobs when you call at the rate limit all month | 2026-10-28 |
 | 4 | [OfferMagnet](https://datacircle.dev/job-posting-apis/offermagnet/free) | free | 86 | 80 | $0.00 per 1,000 jobs | 2026-11-10 |
 | 5 | [Vibeworker](https://datacircle.dev/job-posting-apis/vibeworker/19-monthly) | $19 monthly | 85.4 | 88 | $0 extra per 1,000. The $19 monthly price covers any number of jobs | 2026-11-11 |
 | 6 | [Resume Booster](https://datacircle.dev/job-posting-apis/resume-booster/free-key-post-agent-mcp) | free key | 83.7 | 80 | $0.00 per 1,000 jobs | 2026-11-11 |

@@ -1,6 +1,6 @@
 # App Store review API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 EveryInfra ranks first in our benchmark, with an Overall score of 79.5 out of 100. EveryInfra scores 65 out of 100 for accuracy. EveryInfra's plan "$10 pack" costs $0.0028 per 1,000 reviews. We rank 19 providers. We last tested them on 2026-11-26.
 
@@ -16,7 +16,7 @@ Every plan below is on our ranking page, [App Store review API: best providers i
 | 6 | [SandBase](https://datacircle.dev/app-store-review-apis/sandbase/top-up) | top-up | 57.9 | 65 | $0.006 per 1,000 reviews | 2026-11-24 |
 | 7 | [ASORadar](https://datacircle.dev/app-store-review-apis/asoradar/top-up-developer) | top-up, Developer | 57.9 | 57 | $0.001 per 1,000 reviews | 2026-11-26 |
 | 8 | [AppSigma](https://datacircle.dev/app-store-review-apis/appsigma/49-99-monthly) | $49.99 monthly | 52 | 71 | $0.20 per 1,000 reviews | 2026-10-30 |
-| 9 | [Sonar](https://datacircle.dev/app-store-review-apis/sonar/29-monthly) | $29 monthly | 48.7 | 50 |  | 2026-10-30 |
+| 9 | [Sonar](https://datacircle.dev/app-store-review-apis/sonar/29-monthly) | $29 monthly | 48.7 | 50 | $0.019 per 1,000 reviews when you use all 1,000 calls a day, each returning 50 reviews | 2026-10-30 |
 | 10 | [DataForSEO](https://datacircle.dev/app-store-review-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-app-data-apple-app-reviews-task-post-setting-apple-app-reviews-tasks-standard-queue) | top-up from $50, Pay as you go | 48.4 | 57 | $0.03 per 1,000 reviews | 2026-11-07 |
 | 11 | [Trends MCP](https://datacircle.dev/app-store-review-apis/trends-mcp/199-monthly) | $199 monthly | 47.6 | 62 | $0.40 per 1,000 reviews | 2026-11-24 |
 | 12 | [OpenKrill](https://datacircle.dev/app-store-review-apis/openkrill/5-pack) | $5 pack | 44.5 | 57 |  | 2026-11-16 |

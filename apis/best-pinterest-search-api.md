@@ -1,6 +1,6 @@
 # Pinterest search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 ScrapeAtlas ranks first in our benchmark, with an Overall score of 84.8 out of 100. ScrapeAtlas scores 100 out of 100 for accuracy. ScrapeAtlas's plan "$249 pack" costs $1.25 per 1,000 searches. We rank 14 providers. We last tested them on 2026-11-25.
 

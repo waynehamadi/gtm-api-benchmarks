@@ -1,6 +1,6 @@
 # Weibo post API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Scavio ranks first in our benchmark, with an Overall score of 91.7 out of 100. Scavio scores 99 out of 100 for accuracy. Scavio's plan "$500 monthly" costs $1.00 per 1,000 posts. We rank 8 providers. We last tested them on 2026-11-26.
 

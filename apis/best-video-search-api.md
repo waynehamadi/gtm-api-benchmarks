@@ -1,6 +1,6 @@
 # Video search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Scrappa ranks first in our benchmark, with an Overall score of 87.7 out of 100. Scrappa scores 95 out of 100 for accuracy. Scrappa's plan "$25 pack" costs $0.29 per 1,000 searches. We rank 55 providers. We last tested them on 2026-11-24.
 
@@ -9,7 +9,7 @@ Every plan below is on our ranking page, [Video search API: best providers in 20
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Scrappa](https://datacircle.dev/video-search-apis/scrappa/25-pack) | $25 pack | 87.7 | 95 | $0.29 per 1,000 searches | 2026-11-06 |
-| 2 | [TranscriptYT](https://datacircle.dev/video-search-apis/transcriptyt/3-monthly) | $3 monthly | 84.6 | 86 |  | 2026-11-07 |
+| 2 | [TranscriptYT](https://datacircle.dev/video-search-apis/transcriptyt/3-monthly) | $3 monthly | 84.6 | 86 | $0.00035 per 1,000 searches when you call at the rate limit all month | 2026-11-07 |
 | 3 | [SerpScraper.dev](https://datacircle.dev/video-search-apis/serpscraper-dev/79-monthly) | $79 monthly | 83.4 | 70 | $0.099 per 1,000 searches | 2026-11-06 |
 | 4 | [Crawlora](https://datacircle.dev/video-search-apis/crawlora/499-monthly-enterprise-get-duckduckgo-video) | $499 monthly, Enterprise | 82.1 | 98 | $0.30 per 1,000 searches | 2026-11-07 |
 | 5 | [ReefAPI](https://datacircle.dev/video-search-apis/reefapi/450-quarterly) | $450 quarterly | 78.5 | 95 | $0.50 per 1,000 searches | 2026-11-15 |

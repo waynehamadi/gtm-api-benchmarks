@@ -1,8 +1,8 @@
 # Snapchat profile API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
-TrueScrape ranks first in our benchmark, with an Overall score of 88.9 out of 100. TrueScrape scores 99 out of 100 for accuracy. TrueScrape's plan "$500 pack" costs $0.80 per 1,000 profiles. We rank 11 providers. We last tested them on 2026-11-26.
+TrueScrape ranks first in our benchmark, with an Overall score of 88.9 out of 100. TrueScrape scores 99 out of 100 for accuracy. TrueScrape's plan "$500 pack" costs $0.80 per 1,000 profiles. We rank 12 providers. We last tested them on 2026-11-27.
 
 Every plan below is on our ranking page, [Snapchat profile API: best providers in 2026](https://datacircle.dev/best-snapchat-profile-api).
 
@@ -15,10 +15,11 @@ Every plan below is on our ranking page, [Snapchat profile API: best providers i
 | 5 | [Omkar Cloud](https://datacircle.dev/snapchat-profile-apis/omkar-cloud/48-monthly) | $48 monthly | 75.5 | 92 | $0.48 per 1,000 profiles | 2026-11-09 |
 | 6 | [ScrapeCreators](https://datacircle.dev/snapchat-profile-apis/scrapecreators/497-pack) | $497 pack | 68.4 | 100 | $0.99 per 1,000 profiles | 2026-10-30 |
 | 7 | [FetchGoblin](https://datacircle.dev/snapchat-profile-apis/fetchgoblin/top-up-from-5) | top-up from $5 | 66.2 | 100 | $1.49 per 1,000 profiles | 2026-11-09 |
-| 8 | [Bright Data](https://datacircle.dev/snapchat-profile-apis/bright-data/top-up) | top-up | 52.3 | 77 | $1.50 per 1,000 profiles | 2026-10-30 |
-| 9 | [AnyAPI](https://datacircle.dev/snapchat-profile-apis/anyapi/top-up-from-10) | top-up from $10 | 47.3 | 35 | $1.10 per 1,000 profiles | 2026-10-30 |
-| 10 | [viral.app](https://datacircle.dev/snapchat-profile-apis/viral-app/299-monthly) | $299 monthly | 26.9 | 30 |  | 2026-11-09 |
-| 11 | [ImbueData](https://datacircle.dev/snapchat-profile-apis/imbuedata/199-pack) | $199 pack | 28.4 | 17 |  | 2026-11-26 |
+| 8 | [LurkAPI](https://datacircle.dev/snapchat-profile-apis/lurkapi/39-pack) | $39 pack | 60.4 | 54 | $0.93 per 1,000 profiles | 2026-11-27 |
+| 9 | [Bright Data](https://datacircle.dev/snapchat-profile-apis/bright-data/top-up) | top-up | 52.3 | 77 | $1.50 per 1,000 profiles | 2026-10-30 |
+| 10 | [AnyAPI](https://datacircle.dev/snapchat-profile-apis/anyapi/top-up-from-10) | top-up from $10 | 47.3 | 35 | $1.10 per 1,000 profiles | 2026-10-30 |
+| 11 | [viral.app](https://datacircle.dev/snapchat-profile-apis/viral-app/299-monthly) | $299 monthly | 26.9 | 30 |  | 2026-11-09 |
+| 12 | [ImbueData](https://datacircle.dev/snapchat-profile-apis/imbuedata/199-pack) | $199 pack | 28.4 | 17 |  | 2026-11-26 |
 
 A script scores each answer, with no model and no person judging, the same way for every provider of this API. We score each plan on five parts and scale the total to 100: price 40, accuracy 40, cost to get started 10, bundled calls 10 and performance 10. We list the top group first, the plans that get at least half as many answers right as the most accurate one, then the other plans, each group by Overall score.
 

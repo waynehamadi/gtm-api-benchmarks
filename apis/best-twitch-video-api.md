@@ -1,14 +1,14 @@
 # Twitch video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
-Scrappa ranks first in our benchmark, with an Overall score of 79.4 out of 100. Scrappa scores 75 out of 100 for accuracy. Scrappa's plan "$500 pack" costs $0.0048 per 1,000 videos. We rank 10 providers. We last tested them on 2026-11-09.
+Scrappa ranks first in our benchmark, with an Overall score of 87.5 out of 100. Scrappa scores 100 out of 100 for accuracy. Scrappa's plan "$500 pack" costs $0.0048 per 1,000 videos. We rank 10 providers. We last tested them on 2026-11-27.
 
 Every plan below is on our ranking page, [Twitch video API: best providers in 2026](https://datacircle.dev/best-twitch-video-api).
 
 | Rank | Provider | Plan | Overall score | Accuracy | Price | Last tested |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Scrappa](https://datacircle.dev/twitch-video-apis/scrappa/500-pack) | $500 pack | 79.4 | 75 | $0.0048 per 1,000 videos | 2026-11-04 |
+| 1 | [Scrappa](https://datacircle.dev/twitch-video-apis/scrappa/500-pack) | $500 pack | 87.5 | 100 | $0.0048 per 1,000 videos | 2026-11-27 |
 | 2 | [Omkar Cloud](https://datacircle.dev/twitch-video-apis/omkar-cloud/48-monthly) | $48 monthly | 73.3 | 85 | $0.0048 per 1,000 videos | 2026-11-09 |
 | 3 | [ReefAPI](https://datacircle.dev/twitch-video-apis/reefapi/450-quarterly) | $450 quarterly | 70 | 55 | $0.005 per 1,000 videos | 2026-10-30 |
 | 4 | [ScrapeAtlas](https://datacircle.dev/twitch-video-apis/scrapeatlas/249-pack) | $249 pack | 69.6 | 76 | $0.013 per 1,000 videos | 2026-11-09 |

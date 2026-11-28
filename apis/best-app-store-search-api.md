@@ -1,6 +1,6 @@
 # App Store search API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Apple ranks first in our benchmark, with an Overall score of 79 out of 100. Apple scores 77 out of 100 for accuracy. Apple's plan "free" costs $0.00 per 1,000 searches. We rank 20 providers. We last tested them on 2026-11-17.
 
@@ -23,7 +23,7 @@ Every plan below is on our ranking page, [App Store search API: best providers i
 | 13 | [DataForSEO](https://datacircle.dev/app-store-search-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-app-data-apple-app-searches-task-post-setting-apple-app-searches-tasks-standard-queue) | top-up from $50, Pay as you go | 35.7 | 23 | $1.20 per 1,000 searches | 2026-10-30 |
 | 14 | [AppGoat](https://datacircle.dev/app-store-search-apis/appgoat/147-monthly-studio-get-v1-keywords) | $147 monthly, Studio | 32.8 | 21 | $1.96 per 1,000 searches | 2026-11-11 |
 | 15 | [Dekadans](https://datacircle.dev/app-store-search-apis/dekadans/6-99-monthly) | $6.99 monthly | 62.3 | 15 | $0 extra per 1,000. The $6.99 monthly price covers any number of searches | 2026-11-11 |
-| 16 | [AsoBeast](https://datacircle.dev/app-store-search-apis/asobeast/10-monthly) | $10 monthly | 58.8 | 17 |  | 2026-11-08 |
+| 16 | [AsoBeast](https://datacircle.dev/app-store-search-apis/asobeast/10-monthly) | $10 monthly | 58.8 | 17 | $0.23 per 1,000 searches when you call at the rate limit all month | 2026-11-08 |
 | 17 | [BRONTIR](https://datacircle.dev/app-store-search-apis/brontir/350-monthly) | €350 monthly | 28.7 | 18 | $1.91 per 1,000 searches | 2026-11-08 |
 | 18 | [GeckoAPI](https://datacircle.dev/app-store-search-apis/geckoapi/r-126-90-monthly) | R$126.90 (about $25) monthly | 26.4 | 18 | $12.48 per 1,000 searches | 2026-11-08 |
 | 19 | [AppGoblin](https://datacircle.dev/app-store-search-apis/appgoblin/399-monthly) | $399 monthly | 33.7 | 4 | $0.13 per 1,000 searches | 2026-11-11 |

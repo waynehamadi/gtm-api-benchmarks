@@ -1,6 +1,6 @@
 # Property records API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Realie ranks first in our benchmark, with an Overall score of 67.7 out of 100. Realie scores 43 out of 100 for accuracy. Realie's plan "$350 monthly, Tier 3" costs $11.67 per 1,000 addresses. We rank 7 providers. We last tested them on 2026-11-24.
 

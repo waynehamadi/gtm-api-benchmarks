@@ -1,6 +1,6 @@
 # TikTok video API: best providers in 2026
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,596 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
 
 Litescrape ranks first in our benchmark, with an Overall score of 80.5 out of 100. Litescrape scores 70 out of 100 for accuracy. Litescrape's plan "top-up from $10" costs $0.0043 per 1,000 videos. We rank 51 providers. We last tested them on 2026-11-23.
 
@@ -14,14 +14,14 @@ Every plan below is on our ranking page, [TikTok video API: best providers in 20
 | 4 | [ShortVidAPI](https://datacircle.dev/tiktok-video-apis/shortvidapi/199-monthly) | $199 monthly | 70.6 | 71 | $0.08 per 1,000 videos | 2026-11-05 |
 | 5 | [KonbiniAPI](https://datacircle.dev/tiktok-video-apis/konbiniapi/499-monthly) | $499 monthly | 70 | 62 | $0.032 per 1,000 videos | 2026-11-06 |
 | 6 | [EveryInfra](https://datacircle.dev/tiktok-video-apis/everyinfra/10-pack) | $10 pack | 68.5 | 46 | $0.011 per 1,000 videos | 2026-11-07 |
-| 7 | [TikAPI](https://datacircle.dev/tiktok-video-apis/tikapi/189-monthly) | $189 monthly | 63.6 | 71 |  | 2026-11-16 |
+| 7 | [TikAPI](https://datacircle.dev/tiktok-video-apis/tikapi/189-monthly) | $189 monthly | 63.6 | 71 | $0.021 per 1,000 videos when you use all 10,000 calls a day, each returning 30 videos | 2026-11-16 |
 | 8 | [Captapi](https://datacircle.dev/tiktok-video-apis/captapi/9-monthly) | $9 monthly | 62.8 | 47 | $0.045 per 1,000 videos | 2026-10-29 |
 | 9 | [Omkar Cloud](https://datacircle.dev/tiktok-video-apis/omkar-cloud/16-monthly) | $16 monthly | 62 | 75 | $0.023 per 1,000 videos | 2026-11-06 |
 | 10 | [API.SH](https://datacircle.dev/tiktok-video-apis/api-sh/50-monthly) | $50 monthly | 61.4 | 76 | $0.029 per 1,000 videos | 2026-11-06 |
 | 11 | [TikWM API](https://datacircle.dev/tiktok-video-apis/tikwm-api/18-monthly) | $18 monthly | 59.8 | 53 | $0.001 per 1,000 videos | 2026-11-23 |
 | 12 | [Refetcher](https://datacircle.dev/tiktok-video-apis/refetcher/top-up) | top-up | 59 | 54 | $0.075 per 1,000 videos | 2026-11-03 |
 | 13 | [TikLiveAPI](https://datacircle.dev/tiktok-video-apis/tikliveapi/9-90-pack) | $9.90 pack | 56.3 | 53 | $0.0028 per 1,000 videos | 2026-11-23 |
-| 14 | [EnsembleData](https://datacircle.dev/tiktok-video-apis/ensembledata/200-monthly-bronze-get-tt-user-posts-from-secuid) | $200 monthly, Bronze | 56.1 | 82 |  | 2026-10-29 |
+| 14 | [EnsembleData](https://datacircle.dev/tiktok-video-apis/ensembledata/200-monthly-bronze-get-tt-user-posts-from-secuid) | $200 monthly, Bronze | 56.1 | 82 | $0.13 per 1,000 videos when you use all 5,000 calls a day, each returning 10 videos | 2026-10-29 |
 | 15 | [Zapi](https://datacircle.dev/tiktok-video-apis/zapi/rp129000-monthly) | Rp129,000 (about $7) monthly | 54.9 | 49 | $0.001 per 1,000 videos | 2026-11-06 |
 | 16 | [Vee3](https://datacircle.dev/tiktok-video-apis/vee3/100-monthly) | $100 monthly | 54.3 | 53 | $0.025 per 1,000 videos | 2026-11-12 |
 | 17 | [API Direct](https://datacircle.dev/tiktok-video-apis/api-direct/pay-as-you-go-pay-per-request-get-v1-tiktok-user-videos-tiktok-user-videos) | pay as you go, Pay per request | 51.6 | 53 | $0.20 per 1,000 videos | 2026-11-06 |
